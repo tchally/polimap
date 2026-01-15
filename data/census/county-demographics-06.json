@@ -1,0 +1,1568 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "06",
+    "name": "Alameda County, California",
+    "population": 1651949,
+    "medianAge": 38.7,
+    "race": {
+      "white": 32,
+      "black": 9.9,
+      "asian": 32.2,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.7,
+      "other": 12.9,
+      "twoOrMore": 11.3,
+      "hispanic": 23.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 15.9,
+      "someCollege": 15.3,
+      "associates": 6.3,
+      "bachelors": 28.7,
+      "graduate": 22.8
+    },
+    "medianIncome": 126240,
+    "meanIncome": 171948
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "06",
+    "name": "Alpine County, California",
+    "population": 1695,
+    "medianAge": 41.1,
+    "race": {
+      "white": 63.5,
+      "black": 0,
+      "asian": 0.5,
+      "nativeAmerican": 27,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 7.7,
+      "hispanic": 14.7
+    },
+    "education": {
+      "lessThanHighSchool": 3.7,
+      "highSchool": 18.5,
+      "someCollege": 24.7,
+      "associates": 11,
+      "bachelors": 22.4,
+      "graduate": 19.7
+    },
+    "medianIncome": 110781,
+    "meanIncome": 162949
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "06",
+    "name": "Amador County, California",
+    "population": 41029,
+    "medianAge": 49.9,
+    "race": {
+      "white": 77.8,
+      "black": 2,
+      "asian": 1.4,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.1,
+      "other": 5.3,
+      "twoOrMore": 12.3,
+      "hispanic": 15.5
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 26.5,
+      "someCollege": 29.7,
+      "associates": 12.4,
+      "bachelors": 15.5,
+      "graduate": 7
+    },
+    "medianIncome": 81526,
+    "meanIncome": 104990
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "06",
+    "name": "Butte County, California",
+    "population": 209470,
+    "medianAge": 36.3,
+    "race": {
+      "white": 72.6,
+      "black": 1.8,
+      "asian": 5.4,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.3,
+      "other": 6.6,
+      "twoOrMore": 12.1,
+      "hispanic": 19.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 22.3,
+      "someCollege": 25.5,
+      "associates": 10.8,
+      "bachelors": 20.7,
+      "graduate": 11
+    },
+    "medianIncome": 68574,
+    "meanIncome": 96124
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "06",
+    "name": "Calaveras County, California",
+    "population": 45995,
+    "medianAge": 52,
+    "race": {
+      "white": 80.8,
+      "black": 1.2,
+      "asian": 2.3,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.1,
+      "other": 3,
+      "twoOrMore": 11.2,
+      "hispanic": 13.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 31.9,
+      "someCollege": 28.5,
+      "associates": 10.7,
+      "bachelors": 14.7,
+      "graduate": 7.5
+    },
+    "medianIncome": 79877,
+    "meanIncome": 103128
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "06",
+    "name": "Colusa County, California",
+    "population": 21895,
+    "medianAge": 35.7,
+    "race": {
+      "white": 51.2,
+      "black": 1.4,
+      "asian": 0.7,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.1,
+      "other": 25.4,
+      "twoOrMore": 19.9,
+      "hispanic": 62.3
+    },
+    "education": {
+      "lessThanHighSchool": 26.8,
+      "highSchool": 29.6,
+      "someCollege": 19.5,
+      "associates": 9.6,
+      "bachelors": 11.3,
+      "graduate": 3.2
+    },
+    "medianIncome": 75149,
+    "meanIncome": 93585
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "06",
+    "name": "Contra Costa County, California",
+    "population": 1161458,
+    "medianAge": 40.3,
+    "race": {
+      "white": 43.5,
+      "black": 8.5,
+      "asian": 18.5,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.5,
+      "other": 13.7,
+      "twoOrMore": 14.5,
+      "hispanic": 27.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 17.7,
+      "someCollege": 19,
+      "associates": 8,
+      "bachelors": 27.4,
+      "graduate": 17.5
+    },
+    "medianIncome": 125727,
+    "meanIncome": 172107
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "06",
+    "name": "Del Norte County, California",
+    "population": 27293,
+    "medianAge": 40.8,
+    "race": {
+      "white": 67.1,
+      "black": 2.9,
+      "asian": 3.1,
+      "nativeAmerican": 7,
+      "pacificIslander": 0.4,
+      "other": 8.3,
+      "twoOrMore": 11.1,
+      "hispanic": 19.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.5,
+      "highSchool": 25.6,
+      "someCollege": 28.9,
+      "associates": 10.1,
+      "bachelors": 12.8,
+      "graduate": 8.2
+    },
+    "medianIncome": 66780,
+    "meanIncome": 86246
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "06",
+    "name": "El Dorado County, California",
+    "population": 192299,
+    "medianAge": 46.1,
+    "race": {
+      "white": 79.9,
+      "black": 0.9,
+      "asian": 5.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 4.1,
+      "twoOrMore": 9.2,
+      "hispanic": 14.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 20.7,
+      "someCollege": 24.5,
+      "associates": 10.8,
+      "bachelors": 25.7,
+      "graduate": 13.1
+    },
+    "medianIncome": 106190,
+    "meanIncome": 145804
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "06",
+    "name": "Fresno County, California",
+    "population": 1012152,
+    "medianAge": 33.2,
+    "race": {
+      "white": 41.8,
+      "black": 4.4,
+      "asian": 11,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.2,
+      "other": 20.3,
+      "twoOrMore": 20.9,
+      "hispanic": 54.1
+    },
+    "education": {
+      "lessThanHighSchool": 21.4,
+      "highSchool": 23,
+      "someCollege": 22.6,
+      "associates": 9.2,
+      "bachelors": 15.7,
+      "graduate": 8.2
+    },
+    "medianIncome": 71434,
+    "meanIncome": 97005
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "06",
+    "name": "Glenn County, California",
+    "population": 28623,
+    "medianAge": 35.9,
+    "race": {
+      "white": 59.8,
+      "black": 0.6,
+      "asian": 2.7,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.1,
+      "other": 20.9,
+      "twoOrMore": 14.5,
+      "hispanic": 44.1
+    },
+    "education": {
+      "lessThanHighSchool": 19.7,
+      "highSchool": 31.4,
+      "someCollege": 22.9,
+      "associates": 9.5,
+      "bachelors": 12.4,
+      "graduate": 4.1
+    },
+    "medianIncome": 70487,
+    "meanIncome": 86148
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "06",
+    "name": "Humboldt County, California",
+    "population": 135418,
+    "medianAge": 39.6,
+    "race": {
+      "white": 73.6,
+      "black": 1.3,
+      "asian": 3.1,
+      "nativeAmerican": 3.8,
+      "pacificIslander": 0.3,
+      "other": 5.8,
+      "twoOrMore": 12.1,
+      "hispanic": 13.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 23.2,
+      "someCollege": 26.5,
+      "associates": 9.7,
+      "bachelors": 20.9,
+      "graduate": 11.2
+    },
+    "medianIncome": 61135,
+    "meanIncome": 86742
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "06",
+    "name": "Imperial County, California",
+    "population": 179319,
+    "medianAge": 33,
+    "race": {
+      "white": 30.4,
+      "black": 2.5,
+      "asian": 1.5,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 37.8,
+      "twoOrMore": 26.2,
+      "hispanic": 85.6
+    },
+    "education": {
+      "lessThanHighSchool": 28.2,
+      "highSchool": 25.9,
+      "someCollege": 22.1,
+      "associates": 7.8,
+      "bachelors": 11.5,
+      "graduate": 4.6
+    },
+    "medianIncome": 56393,
+    "meanIncome": 77390
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "06",
+    "name": "Inyo County, California",
+    "population": 18803,
+    "medianAge": 45.6,
+    "race": {
+      "white": 64.6,
+      "black": 1,
+      "asian": 1.8,
+      "nativeAmerican": 10.4,
+      "pacificIslander": 0.9,
+      "other": 6.7,
+      "twoOrMore": 14.6,
+      "hispanic": 23.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 27.4,
+      "someCollege": 25.8,
+      "associates": 7.7,
+      "bachelors": 19.9,
+      "graduate": 12
+    },
+    "medianIncome": 72432,
+    "meanIncome": 93044
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "06",
+    "name": "Kern County, California",
+    "population": 910433,
+    "medianAge": 32.4,
+    "race": {
+      "white": 49.2,
+      "black": 5.2,
+      "asian": 5.1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.2,
+      "other": 17.9,
+      "twoOrMore": 21.3,
+      "hispanic": 55.7
+    },
+    "education": {
+      "lessThanHighSchool": 22.9,
+      "highSchool": 27.7,
+      "someCollege": 23.1,
+      "associates": 7.8,
+      "bachelors": 12.3,
+      "graduate": 6.2
+    },
+    "medianIncome": 67660,
+    "meanIncome": 91401
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "06",
+    "name": "Kings County, California",
+    "population": 152830,
+    "medianAge": 32.3,
+    "race": {
+      "white": 46,
+      "black": 6.4,
+      "asian": 3.5,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.3,
+      "other": 21.6,
+      "twoOrMore": 20.3,
+      "hispanic": 57.5
+    },
+    "education": {
+      "lessThanHighSchool": 25.8,
+      "highSchool": 28.1,
+      "someCollege": 22.7,
+      "associates": 9.5,
+      "bachelors": 9.4,
+      "graduate": 4.5
+    },
+    "medianIncome": 68750,
+    "meanIncome": 86268
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "06",
+    "name": "Lake County, California",
+    "population": 68139,
+    "medianAge": 44.2,
+    "race": {
+      "white": 69.2,
+      "black": 2.2,
+      "asian": 1.1,
+      "nativeAmerican": 2.8,
+      "pacificIslander": 0.3,
+      "other": 12.7,
+      "twoOrMore": 11.7,
+      "hispanic": 23.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 28.8,
+      "someCollege": 28.5,
+      "associates": 12,
+      "bachelors": 11.7,
+      "graduate": 6
+    },
+    "medianIncome": 58738,
+    "meanIncome": 86272
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "06",
+    "name": "Lassen County, California",
+    "population": 31177,
+    "medianAge": 37.8,
+    "race": {
+      "white": 68.9,
+      "black": 8.3,
+      "asian": 1.7,
+      "nativeAmerican": 2.7,
+      "pacificIslander": 0.9,
+      "other": 3.5,
+      "twoOrMore": 14,
+      "hispanic": 22.5
+    },
+    "education": {
+      "lessThanHighSchool": 20.9,
+      "highSchool": 30.3,
+      "someCollege": 25.5,
+      "associates": 10.2,
+      "bachelors": 9.9,
+      "graduate": 3.3
+    },
+    "medianIncome": 64395,
+    "meanIncome": 81066
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "06",
+    "name": "Los Angeles County, California",
+    "population": 9848406,
+    "medianAge": 37.9,
+    "race": {
+      "white": 35.4,
+      "black": 7.8,
+      "asian": 15,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0.2,
+      "other": 23.6,
+      "twoOrMore": 16.7,
+      "hispanic": 48.3
+    },
+    "education": {
+      "lessThanHighSchool": 19.3,
+      "highSchool": 20.3,
+      "someCollege": 17.9,
+      "associates": 7,
+      "bachelors": 22.8,
+      "graduate": 12.7
+    },
+    "medianIncome": 87760,
+    "meanIncome": 125539
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "06",
+    "name": "Madera County, California",
+    "population": 158790,
+    "medianAge": 34.6,
+    "race": {
+      "white": 44.1,
+      "black": 2.6,
+      "asian": 2.5,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.1,
+      "other": 30.3,
+      "twoOrMore": 18.4,
+      "hispanic": 60.4
+    },
+    "education": {
+      "lessThanHighSchool": 27,
+      "highSchool": 23.9,
+      "someCollege": 24,
+      "associates": 8,
+      "bachelors": 11.6,
+      "graduate": 5.5
+    },
+    "medianIncome": 75496,
+    "meanIncome": 99476
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "06",
+    "name": "Marin County, California",
+    "population": 258765,
+    "medianAge": 47.3,
+    "race": {
+      "white": 70.4,
+      "black": 2.3,
+      "asian": 6.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 9.6,
+      "twoOrMore": 10.7,
+      "hispanic": 19
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 10.8,
+      "someCollege": 15.5,
+      "associates": 6,
+      "bachelors": 33.2,
+      "graduate": 27.2
+    },
+    "medianIncome": 142785,
+    "meanIncome": 224140
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "06",
+    "name": "Mariposa County, California",
+    "population": 17060,
+    "medianAge": 51.6,
+    "race": {
+      "white": 79.7,
+      "black": 1.3,
+      "asian": 1.6,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 10,
+      "hispanic": 13.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 21.2,
+      "someCollege": 28.5,
+      "associates": 9.9,
+      "bachelors": 19.3,
+      "graduate": 11.6
+    },
+    "medianIncome": 65378,
+    "meanIncome": 86394
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "06",
+    "name": "Mendocino County, California",
+    "population": 90709,
+    "medianAge": 43.9,
+    "race": {
+      "white": 68.3,
+      "black": 0.9,
+      "asian": 2.2,
+      "nativeAmerican": 3.5,
+      "pacificIslander": 0.1,
+      "other": 8.1,
+      "twoOrMore": 16.8,
+      "hispanic": 26.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 26.1,
+      "someCollege": 25.9,
+      "associates": 9.2,
+      "bachelors": 15.1,
+      "graduate": 9.8
+    },
+    "medianIncome": 64688,
+    "meanIncome": 91472
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "06",
+    "name": "Merced County, California",
+    "population": 285597,
+    "medianAge": 31.8,
+    "race": {
+      "white": 36,
+      "black": 2.9,
+      "asian": 7.1,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.3,
+      "other": 39.9,
+      "twoOrMore": 12.3,
+      "hispanic": 62.7
+    },
+    "education": {
+      "lessThanHighSchool": 28.1,
+      "highSchool": 28.7,
+      "someCollege": 20.9,
+      "associates": 7.5,
+      "bachelors": 10.4,
+      "graduate": 4.4
+    },
+    "medianIncome": 65044,
+    "meanIncome": 87129
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "06",
+    "name": "Modoc County, California",
+    "population": 8646,
+    "medianAge": 49,
+    "race": {
+      "white": 80.7,
+      "black": 0.8,
+      "asian": 1.2,
+      "nativeAmerican": 2.5,
+      "pacificIslander": 0,
+      "other": 5.7,
+      "twoOrMore": 9.2,
+      "hispanic": 15.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 27.5,
+      "someCollege": 27.7,
+      "associates": 9.7,
+      "bachelors": 16,
+      "graduate": 7
+    },
+    "medianIncome": 56648,
+    "meanIncome": 74476
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "06",
+    "name": "Mono County, California",
+    "population": 13169,
+    "medianAge": 40.3,
+    "race": {
+      "white": 74.1,
+      "black": 0.1,
+      "asian": 2.2,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 6,
+      "twoOrMore": 16,
+      "hispanic": 26.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 17.6,
+      "someCollege": 29.2,
+      "associates": 8.4,
+      "bachelors": 18.8,
+      "graduate": 15.5
+    },
+    "medianIncome": 86953,
+    "meanIncome": 115814
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "06",
+    "name": "Monterey County, California",
+    "population": 435834,
+    "medianAge": 35.3,
+    "race": {
+      "white": 36.5,
+      "black": 2.2,
+      "asian": 5.8,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.5,
+      "other": 40.7,
+      "twoOrMore": 13.5,
+      "hispanic": 61
+    },
+    "education": {
+      "lessThanHighSchool": 26.7,
+      "highSchool": 20.6,
+      "someCollege": 16.8,
+      "associates": 8,
+      "bachelors": 16.5,
+      "graduate": 11.4
+    },
+    "medianIncome": 94486,
+    "meanIncome": 128334
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "06",
+    "name": "Napa County, California",
+    "population": 136070,
+    "medianAge": 42.8,
+    "race": {
+      "white": 60.1,
+      "black": 1.9,
+      "asian": 8,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.3,
+      "other": 14.8,
+      "twoOrMore": 14,
+      "hispanic": 35.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 17.5,
+      "someCollege": 20.3,
+      "associates": 8.5,
+      "bachelors": 24.4,
+      "graduate": 14.1
+    },
+    "medianIncome": 108970,
+    "meanIncome": 154011
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "06",
+    "name": "Nevada County, California",
+    "population": 102452,
+    "medianAge": 50.3,
+    "race": {
+      "white": 85.7,
+      "black": 0.3,
+      "asian": 1.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 9.3,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 20.5,
+      "someCollege": 24.7,
+      "associates": 10.4,
+      "bachelors": 25,
+      "graduate": 14.5
+    },
+    "medianIncome": 84905,
+    "meanIncome": 117745
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "06",
+    "name": "Orange County, California",
+    "population": 3164063,
+    "medianAge": 39.1,
+    "race": {
+      "white": 46.4,
+      "black": 1.6,
+      "asian": 21.9,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.3,
+      "other": 14.1,
+      "twoOrMore": 14.9,
+      "hispanic": 34.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 17.2,
+      "someCollege": 18.7,
+      "associates": 7.7,
+      "bachelors": 27.3,
+      "graduate": 16.1
+    },
+    "medianIncome": 113702,
+    "meanIncome": 152475
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "06",
+    "name": "Placer County, California",
+    "population": 412435,
+    "medianAge": 42.4,
+    "race": {
+      "white": 72.5,
+      "black": 1.7,
+      "asian": 9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 4,
+      "twoOrMore": 12.2,
+      "hispanic": 15.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 17.2,
+      "someCollege": 23.4,
+      "associates": 11.5,
+      "bachelors": 27.7,
+      "graduate": 15.2
+    },
+    "medianIncome": 114678,
+    "meanIncome": 147894
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "06",
+    "name": "Plumas County, California",
+    "population": 19607,
+    "medianAge": 52.1,
+    "race": {
+      "white": 87.1,
+      "black": 1.4,
+      "asian": 0.9,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0.3,
+      "other": 1.1,
+      "twoOrMore": 7.6,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 28.4,
+      "someCollege": 33.6,
+      "associates": 11.6,
+      "bachelors": 13.4,
+      "graduate": 7.1
+    },
+    "medianIncome": 64946,
+    "meanIncome": 93296
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "06",
+    "name": "Riverside County, California",
+    "population": 2449909,
+    "medianAge": 36.7,
+    "race": {
+      "white": 42.2,
+      "black": 6.5,
+      "asian": 7,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.3,
+      "other": 24.3,
+      "twoOrMore": 18.5,
+      "hispanic": 50.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 26.3,
+      "someCollege": 23.4,
+      "associates": 8.5,
+      "bachelors": 16,
+      "graduate": 9.1
+    },
+    "medianIncome": 89672,
+    "meanIncome": 115609
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "06",
+    "name": "Sacramento County, California",
+    "population": 1584047,
+    "medianAge": 37.2,
+    "race": {
+      "white": 47.2,
+      "black": 9.5,
+      "asian": 17.5,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 1.1,
+      "other": 10.3,
+      "twoOrMore": 13.5,
+      "hispanic": 24
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 21.9,
+      "someCollege": 23.5,
+      "associates": 9.6,
+      "bachelors": 21.4,
+      "graduate": 11.9
+    },
+    "medianIncome": 88724,
+    "meanIncome": 114458
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "06",
+    "name": "San Benito County, California",
+    "population": 66056,
+    "medianAge": 35.9,
+    "race": {
+      "white": 45.1,
+      "black": 1,
+      "asian": 3.5,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.2,
+      "other": 15.6,
+      "twoOrMore": 32.6,
+      "hispanic": 61.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 26.3,
+      "someCollege": 24,
+      "associates": 10.6,
+      "bachelors": 16.1,
+      "graduate": 6.3
+    },
+    "medianIncome": 108289,
+    "meanIncome": 138189
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "06",
+    "name": "San Bernardino County, California",
+    "population": 2187816,
+    "medianAge": 34.4,
+    "race": {
+      "white": 39.1,
+      "black": 8,
+      "asian": 8.1,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0.3,
+      "other": 24.5,
+      "twoOrMore": 18.6,
+      "hispanic": 54.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.9,
+      "highSchool": 27.8,
+      "someCollege": 22.9,
+      "associates": 8.4,
+      "bachelors": 14.7,
+      "graduate": 8.2
+    },
+    "medianIncome": 82184,
+    "meanIncome": 105546
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "06",
+    "name": "San Diego County, California",
+    "population": 3282782,
+    "medianAge": 37.1,
+    "race": {
+      "white": 53,
+      "black": 4.7,
+      "asian": 12.2,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.4,
+      "other": 10.6,
+      "twoOrMore": 18.1,
+      "hispanic": 34.3
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 17.9,
+      "someCollege": 20.6,
+      "associates": 8.3,
+      "bachelors": 25.6,
+      "graduate": 16.5
+    },
+    "medianIncome": 102285,
+    "meanIncome": 136236
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "06",
+    "name": "San Francisco County, California",
+    "population": 836321,
+    "medianAge": 39.7,
+    "race": {
+      "white": 40.5,
+      "black": 5.1,
+      "asian": 35,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.4,
+      "other": 7.7,
+      "twoOrMore": 10.7,
+      "hispanic": 15.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 11.3,
+      "someCollege": 12,
+      "associates": 5.3,
+      "bachelors": 35.1,
+      "graduate": 25.1
+    },
+    "medianIncome": 141446,
+    "meanIncome": 204625
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "06",
+    "name": "San Joaquin County, California",
+    "population": 787416,
+    "medianAge": 35.2,
+    "race": {
+      "white": 37.1,
+      "black": 7,
+      "asian": 17.9,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.6,
+      "other": 16.5,
+      "twoOrMore": 19.8,
+      "hispanic": 42.2
+    },
+    "education": {
+      "lessThanHighSchool": 19.6,
+      "highSchool": 27.8,
+      "someCollege": 22,
+      "associates": 9.1,
+      "bachelors": 14.6,
+      "graduate": 7
+    },
+    "medianIncome": 88531,
+    "meanIncome": 114559
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "06",
+    "name": "San Luis Obispo County, California",
+    "population": 281486,
+    "medianAge": 40.2,
+    "race": {
+      "white": 72.4,
+      "black": 1.1,
+      "asian": 3.7,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.2,
+      "other": 6.7,
+      "twoOrMore": 15,
+      "hispanic": 24.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 18.2,
+      "someCollege": 24.1,
+      "associates": 10.3,
+      "bachelors": 24.3,
+      "graduate": 14.9
+    },
+    "medianIncome": 93398,
+    "meanIncome": 126122
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "06",
+    "name": "San Mateo County, California",
+    "population": 745100,
+    "medianAge": 40.6,
+    "race": {
+      "white": 40.7,
+      "black": 2.2,
+      "asian": 30.8,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 1.1,
+      "other": 11.6,
+      "twoOrMore": 12.5,
+      "hispanic": 24.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 14.8,
+      "someCollege": 15.4,
+      "associates": 7,
+      "bachelors": 29.2,
+      "graduate": 23.9
+    },
+    "medianIncome": 156000,
+    "meanIncome": 226660
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "06",
+    "name": "Santa Barbara County, California",
+    "population": 443975,
+    "medianAge": 34.5,
+    "race": {
+      "white": 54.3,
+      "black": 1.7,
+      "asian": 5.3,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0.1,
+      "other": 13.6,
+      "twoOrMore": 23.2,
+      "hispanic": 47.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.9,
+      "highSchool": 16.9,
+      "someCollege": 20.9,
+      "associates": 8.5,
+      "bachelors": 21.6,
+      "graduate": 14.2
+    },
+    "medianIncome": 95977,
+    "meanIncome": 137063
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "06",
+    "name": "Santa Clara County, California",
+    "population": 1903297,
+    "medianAge": 37.9,
+    "race": {
+      "white": 33.2,
+      "black": 2.4,
+      "asian": 39.5,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.4,
+      "other": 10.6,
+      "twoOrMore": 13.2,
+      "hispanic": 25.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 13.5,
+      "someCollege": 13.6,
+      "associates": 6.4,
+      "bachelors": 28.2,
+      "graduate": 27.7
+    },
+    "medianIncome": 159674,
+    "meanIncome": 219664
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "06",
+    "name": "Santa Cruz County, California",
+    "population": 266021,
+    "medianAge": 39.6,
+    "race": {
+      "white": 62.8,
+      "black": 1,
+      "asian": 4.7,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.2,
+      "other": 16.6,
+      "twoOrMore": 13.7,
+      "hispanic": 35
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 15.2,
+      "someCollege": 21.2,
+      "associates": 8.5,
+      "bachelors": 25.3,
+      "graduate": 18.3
+    },
+    "medianIncome": 109266,
+    "meanIncome": 153085
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "06",
+    "name": "Shasta County, California",
+    "population": 181554,
+    "medianAge": 41.7,
+    "race": {
+      "white": 80.2,
+      "black": 0.9,
+      "asian": 3.4,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0.2,
+      "other": 2.7,
+      "twoOrMore": 10.9,
+      "hispanic": 11.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 26.4,
+      "someCollege": 30.6,
+      "associates": 11.9,
+      "bachelors": 15.9,
+      "graduate": 7.4
+    },
+    "medianIncome": 71931,
+    "meanIncome": 96355
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "06",
+    "name": "Sierra County, California",
+    "population": 2731,
+    "medianAge": 56,
+    "race": {
+      "white": 90.4,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 3.3,
+      "hispanic": 9.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 33.9,
+      "someCollege": 28.4,
+      "associates": 4.7,
+      "bachelors": 14.9,
+      "graduate": 9.5
+    },
+    "medianIncome": 60000,
+    "meanIncome": 89329
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "06",
+    "name": "Siskiyou County, California",
+    "population": 43834,
+    "medianAge": 47.4,
+    "race": {
+      "white": 79.4,
+      "black": 1.7,
+      "asian": 1.6,
+      "nativeAmerican": 3.2,
+      "pacificIslander": 0.4,
+      "other": 2.5,
+      "twoOrMore": 11.2,
+      "hispanic": 13.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 26,
+      "someCollege": 29,
+      "associates": 13,
+      "bachelors": 15.8,
+      "graduate": 7.3
+    },
+    "medianIncome": 55499,
+    "meanIncome": 76699
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "06",
+    "name": "Solano County, California",
+    "population": 450824,
+    "medianAge": 39.1,
+    "race": {
+      "white": 42.7,
+      "black": 12.9,
+      "asian": 15.9,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 1,
+      "other": 12.3,
+      "twoOrMore": 14.5,
+      "hispanic": 29
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 24.3,
+      "someCollege": 25.8,
+      "associates": 10.5,
+      "bachelors": 19.4,
+      "graduate": 9
+    },
+    "medianIncome": 99994,
+    "meanIncome": 124288
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "06",
+    "name": "Sonoma County, California",
+    "population": 485642,
+    "medianAge": 42.7,
+    "race": {
+      "white": 64.5,
+      "black": 1.6,
+      "asian": 4.4,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0.4,
+      "other": 14.1,
+      "twoOrMore": 13.7,
+      "hispanic": 29.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 18.6,
+      "someCollege": 23,
+      "associates": 9.4,
+      "bachelors": 23.5,
+      "graduate": 14.3
+    },
+    "medianIncome": 102840,
+    "meanIncome": 138572
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "06",
+    "name": "Stanislaus County, California",
+    "population": 552250,
+    "medianAge": 34.8,
+    "race": {
+      "white": 50.1,
+      "black": 2.8,
+      "asian": 6,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.6,
+      "other": 14.9,
+      "twoOrMore": 24.4,
+      "hispanic": 49.2
+    },
+    "education": {
+      "lessThanHighSchool": 19.9,
+      "highSchool": 29.3,
+      "someCollege": 23.6,
+      "associates": 8,
+      "bachelors": 13.1,
+      "graduate": 6
+    },
+    "medianIncome": 79661,
+    "meanIncome": 102442
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "06",
+    "name": "Sutter County, California",
+    "population": 98971,
+    "medianAge": 36.4,
+    "race": {
+      "white": 50.3,
+      "black": 1.7,
+      "asian": 17.5,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.4,
+      "other": 12.7,
+      "twoOrMore": 15.8,
+      "hispanic": 32.4
+    },
+    "education": {
+      "lessThanHighSchool": 21.2,
+      "highSchool": 24.7,
+      "someCollege": 24.3,
+      "associates": 9.6,
+      "bachelors": 13.6,
+      "graduate": 6.6
+    },
+    "medianIncome": 75450,
+    "meanIncome": 101655
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "06",
+    "name": "Tehama County, California",
+    "population": 65520,
+    "medianAge": 40.1,
+    "race": {
+      "white": 69.3,
+      "black": 0.9,
+      "asian": 1.8,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.1,
+      "other": 10.3,
+      "twoOrMore": 15.7,
+      "hispanic": 28.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 28.8,
+      "someCollege": 28.1,
+      "associates": 10.6,
+      "bachelors": 13.2,
+      "graduate": 5.6
+    },
+    "medianIncome": 61834,
+    "meanIncome": 92809
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "06",
+    "name": "Trinity County, California",
+    "population": 15886,
+    "medianAge": 54.8,
+    "race": {
+      "white": 80.5,
+      "black": 0.9,
+      "asian": 2.4,
+      "nativeAmerican": 2.2,
+      "pacificIslander": 0.5,
+      "other": 5.3,
+      "twoOrMore": 8.2,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 40.4,
+      "someCollege": 28,
+      "associates": 8.3,
+      "bachelors": 9.5,
+      "graduate": 8.6
+    },
+    "medianIncome": 53498,
+    "meanIncome": 80934
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "06",
+    "name": "Tulare County, California",
+    "population": 475774,
+    "medianAge": 31.9,
+    "race": {
+      "white": 42.6,
+      "black": 1.5,
+      "asian": 3.5,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.2,
+      "other": 29.3,
+      "twoOrMore": 21.3,
+      "hispanic": 66.1
+    },
+    "education": {
+      "lessThanHighSchool": 25.6,
+      "highSchool": 27,
+      "someCollege": 22.3,
+      "associates": 9.2,
+      "bachelors": 10.1,
+      "graduate": 5.7
+    },
+    "medianIncome": 69489,
+    "meanIncome": 90157
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "06",
+    "name": "Tuolumne County, California",
+    "population": 54873,
+    "medianAge": 48.8,
+    "race": {
+      "white": 82.6,
+      "black": 1.7,
+      "asian": 1.3,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0.5,
+      "other": 3.4,
+      "twoOrMore": 8.7,
+      "hispanic": 13.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 25.1,
+      "someCollege": 34.3,
+      "associates": 10.2,
+      "bachelors": 16,
+      "graduate": 7.9
+    },
+    "medianIncome": 72259,
+    "meanIncome": 97299
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "06",
+    "name": "Ventura County, California",
+    "population": 838259,
+    "medianAge": 39.4,
+    "race": {
+      "white": 58.6,
+      "black": 1.8,
+      "asian": 7.2,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.2,
+      "other": 9.8,
+      "twoOrMore": 20.9,
+      "hispanic": 43.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 19.5,
+      "someCollege": 20.4,
+      "associates": 9.8,
+      "bachelors": 22.2,
+      "graduate": 13.5
+    },
+    "medianIncome": 107327,
+    "meanIncome": 141716
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "06",
+    "name": "Yolo County, California",
+    "population": 217782,
+    "medianAge": 32.3,
+    "race": {
+      "white": 54.8,
+      "black": 2.7,
+      "asian": 14.9,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.4,
+      "other": 10.1,
+      "twoOrMore": 16.1,
+      "hispanic": 33.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 17.5,
+      "someCollege": 19.5,
+      "associates": 7.3,
+      "bachelors": 22.9,
+      "graduate": 21.2
+    },
+    "medianIncome": 88818,
+    "meanIncome": 122086
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "06",
+    "name": "Yuba County, California",
+    "population": 83079,
+    "medianAge": 33.9,
+    "race": {
+      "white": 60.5,
+      "black": 3.7,
+      "asian": 7.7,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.3,
+      "other": 9,
+      "twoOrMore": 17.3,
+      "hispanic": 30
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 27.1,
+      "someCollege": 28.7,
+      "associates": 11,
+      "bachelors": 11.9,
+      "graduate": 6
+    },
+    "medianIncome": 73313,
+    "meanIncome": 93604
+  }
+]

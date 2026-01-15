@@ -1,0 +1,1676 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "36",
+    "name": "Albany County, New York",
+    "population": 315374,
+    "medianAge": 38.3,
+    "race": {
+      "white": 70.8,
+      "black": 12.3,
+      "asian": 7.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2.5,
+      "twoOrMore": 7,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 21.6,
+      "someCollege": 14.7,
+      "associates": 11.7,
+      "bachelors": 23.3,
+      "graduate": 21.8
+    },
+    "medianIncome": 83149,
+    "meanIncome": 107762
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "36",
+    "name": "Allegany County, New York",
+    "population": 47027,
+    "medianAge": 38.9,
+    "race": {
+      "white": 93.8,
+      "black": 1.7,
+      "asian": 1.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 2.1,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 35,
+      "someCollege": 17.5,
+      "associates": 14.5,
+      "bachelors": 12.7,
+      "graduate": 11.8
+    },
+    "medianIncome": 61233,
+    "meanIncome": 78176
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "36",
+    "name": "Bronx County, New York",
+    "population": 1419250,
+    "medianAge": 35.6,
+    "race": {
+      "white": 15.8,
+      "black": 34.1,
+      "asian": 4.1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.1,
+      "other": 31.8,
+      "twoOrMore": 12.9,
+      "hispanic": 54.9
+    },
+    "education": {
+      "lessThanHighSchool": 24.7,
+      "highSchool": 28.4,
+      "someCollege": 16.9,
+      "associates": 8,
+      "bachelors": 13.9,
+      "graduate": 8.1
+    },
+    "medianIncome": 49036,
+    "meanIncome": 71165
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "36",
+    "name": "Broome County, New York",
+    "population": 197738,
+    "medianAge": 39.4,
+    "race": {
+      "white": 81.4,
+      "black": 5.5,
+      "asian": 5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 6,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 29.6,
+      "someCollege": 17.5,
+      "associates": 13.4,
+      "bachelors": 16.4,
+      "graduate": 14.1
+    },
+    "medianIncome": 61059,
+    "meanIncome": 84379
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "36",
+    "name": "Cattaraugus County, New York",
+    "population": 76479,
+    "medianAge": 42.5,
+    "race": {
+      "white": 89.4,
+      "black": 1.5,
+      "asian": 0.7,
+      "nativeAmerican": 2.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.9,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 40.1,
+      "someCollege": 16.3,
+      "associates": 12.1,
+      "bachelors": 11.4,
+      "graduate": 9.2
+    },
+    "medianIncome": 58248,
+    "meanIncome": 73744
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "36",
+    "name": "Cayuga County, New York",
+    "population": 75464,
+    "medianAge": 43.7,
+    "race": {
+      "white": 88.5,
+      "black": 3.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.9,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 31.1,
+      "someCollege": 18.6,
+      "associates": 15.4,
+      "bachelors": 13.5,
+      "graduate": 10.4
+    },
+    "medianIncome": 66583,
+    "meanIncome": 86559
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "36",
+    "name": "Chautauqua County, New York",
+    "population": 126329,
+    "medianAge": 42.7,
+    "race": {
+      "white": 87.3,
+      "black": 2.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 3.6,
+      "twoOrMore": 5.4,
+      "hispanic": 9.3
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 33,
+      "someCollege": 17.1,
+      "associates": 14.8,
+      "bachelors": 13.8,
+      "graduate": 11.3
+    },
+    "medianIncome": 56507,
+    "meanIncome": 74065
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "36",
+    "name": "Chemung County, New York",
+    "population": 82805,
+    "medianAge": 41.9,
+    "race": {
+      "white": 85.8,
+      "black": 5.9,
+      "asian": 1.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.5,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 32.9,
+      "someCollege": 17.5,
+      "associates": 13.6,
+      "bachelors": 15,
+      "graduate": 11.9
+    },
+    "medianIncome": 63469,
+    "meanIncome": 83801
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "36",
+    "name": "Chenango County, New York",
+    "population": 46685,
+    "medianAge": 44.9,
+    "race": {
+      "white": 93.7,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 3.6,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 41.3,
+      "someCollege": 16.1,
+      "associates": 12.2,
+      "bachelors": 10.5,
+      "graduate": 8.7
+    },
+    "medianIncome": 62093,
+    "meanIncome": 78012
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "36",
+    "name": "Clinton County, New York",
+    "population": 78961,
+    "medianAge": 41.5,
+    "race": {
+      "white": 90,
+      "black": 3.1,
+      "asian": 1.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3.7,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 32.5,
+      "someCollege": 17,
+      "associates": 11.9,
+      "bachelors": 15.3,
+      "graduate": 11.5
+    },
+    "medianIncome": 69208,
+    "meanIncome": 89583
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "36",
+    "name": "Columbia County, New York",
+    "population": 61245,
+    "medianAge": 49.5,
+    "race": {
+      "white": 84.8,
+      "black": 3.2,
+      "asian": 2.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.7,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 28,
+      "someCollege": 13.1,
+      "associates": 12.3,
+      "bachelors": 18.6,
+      "graduate": 19.4
+    },
+    "medianIncome": 83619,
+    "meanIncome": 122423
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "36",
+    "name": "Cortland County, New York",
+    "population": 46401,
+    "medianAge": 36.5,
+    "race": {
+      "white": 90.5,
+      "black": 2.1,
+      "asian": 1.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.7,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 31.7,
+      "someCollege": 18.1,
+      "associates": 12.8,
+      "bachelors": 14.8,
+      "graduate": 13.5
+    },
+    "medianIncome": 67527,
+    "meanIncome": 82947
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "36",
+    "name": "Delaware County, New York",
+    "population": 44551,
+    "medianAge": 48.8,
+    "race": {
+      "white": 90.7,
+      "black": 1.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.3,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 37.1,
+      "someCollege": 15,
+      "associates": 11.6,
+      "bachelors": 14.6,
+      "graduate": 12.1
+    },
+    "medianIncome": 60226,
+    "meanIncome": 81142
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "36",
+    "name": "Dutchess County, New York",
+    "population": 297144,
+    "medianAge": 42.6,
+    "race": {
+      "white": 70.8,
+      "black": 9.9,
+      "asian": 3.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 9.8,
+      "hispanic": 14.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 25.1,
+      "someCollege": 16.9,
+      "associates": 10.1,
+      "bachelors": 21,
+      "graduate": 18.7
+    },
+    "medianIncome": 97273,
+    "meanIncome": 130755
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "36",
+    "name": "Erie County, New York",
+    "population": 950044,
+    "medianAge": 40.3,
+    "race": {
+      "white": 74.6,
+      "black": 12.7,
+      "asian": 4.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 5.2,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 25.8,
+      "someCollege": 17.7,
+      "associates": 11.9,
+      "bachelors": 20.5,
+      "graduate": 16.5
+    },
+    "medianIncome": 71175,
+    "meanIncome": 95092
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "36",
+    "name": "Essex County, New York",
+    "population": 37077,
+    "medianAge": 49.5,
+    "race": {
+      "white": 92.9,
+      "black": 2.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 33.1,
+      "someCollege": 15.7,
+      "associates": 11.4,
+      "bachelors": 16.9,
+      "graduate": 14.4
+    },
+    "medianIncome": 70215,
+    "meanIncome": 92245
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "36",
+    "name": "Franklin County, New York",
+    "population": 47066,
+    "medianAge": 41.8,
+    "race": {
+      "white": 84.3,
+      "black": 3.4,
+      "asian": 0.7,
+      "nativeAmerican": 6.9,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 2.7,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 33.9,
+      "someCollege": 15.7,
+      "associates": 14,
+      "bachelors": 13.1,
+      "graduate": 10.7
+    },
+    "medianIncome": 63747,
+    "meanIncome": 78937
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "36",
+    "name": "Fulton County, New York",
+    "population": 52787,
+    "medianAge": 44.1,
+    "race": {
+      "white": 89.9,
+      "black": 1.5,
+      "asian": 0.9,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 1.5,
+      "twoOrMore": 6.2,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 35.9,
+      "someCollege": 16.3,
+      "associates": 15.2,
+      "bachelors": 13.4,
+      "graduate": 7.8
+    },
+    "medianIncome": 62615,
+    "meanIncome": 80448
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "36",
+    "name": "Genesee County, New York",
+    "population": 57943,
+    "medianAge": 42.4,
+    "race": {
+      "white": 89.7,
+      "black": 1.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 6.3,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 36.7,
+      "someCollege": 17.5,
+      "associates": 14.7,
+      "bachelors": 13.7,
+      "graduate": 9.9
+    },
+    "medianIncome": 72055,
+    "meanIncome": 86260
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "36",
+    "name": "Greene County, New York",
+    "population": 47554,
+    "medianAge": 47.4,
+    "race": {
+      "white": 85.4,
+      "black": 4.4,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6.7,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 32.7,
+      "someCollege": 16.2,
+      "associates": 11,
+      "bachelors": 17.1,
+      "graduate": 11.8
+    },
+    "medianIncome": 74011,
+    "meanIncome": 99219
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "36",
+    "name": "Hamilton County, New York",
+    "population": 5102,
+    "medianAge": 57.2,
+    "race": {
+      "white": 92,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.6,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 31,
+      "someCollege": 15.9,
+      "associates": 15.6,
+      "bachelors": 14.2,
+      "graduate": 12.7
+    },
+    "medianIncome": 68950,
+    "meanIncome": 90814
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "36",
+    "name": "Herkimer County, New York",
+    "population": 59932,
+    "medianAge": 44.6,
+    "race": {
+      "white": 92.7,
+      "black": 1,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 0.9,
+      "twoOrMore": 4.6,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 34,
+      "someCollege": 18.7,
+      "associates": 16.3,
+      "bachelors": 13.1,
+      "graduate": 9.5
+    },
+    "medianIncome": 68858,
+    "meanIncome": 84205
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "36",
+    "name": "Jefferson County, New York",
+    "population": 116130,
+    "medianAge": 33.2,
+    "race": {
+      "white": 83.3,
+      "black": 5,
+      "asian": 1.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 2.2,
+      "twoOrMore": 7,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 32.1,
+      "someCollege": 21,
+      "associates": 12.6,
+      "bachelors": 15.2,
+      "graduate": 10.5
+    },
+    "medianIncome": 64978,
+    "meanIncome": 84530
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "36",
+    "name": "Kings County, New York",
+    "population": 2646306,
+    "medianAge": 36.3,
+    "race": {
+      "white": 39.3,
+      "black": 29,
+      "asian": 12,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 10.2,
+      "twoOrMore": 8.8,
+      "hispanic": 18.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 24.1,
+      "someCollege": 12.3,
+      "associates": 6.4,
+      "bachelors": 24.6,
+      "graduate": 16.8
+    },
+    "medianIncome": 78548,
+    "meanIncome": 120169
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "36",
+    "name": "Lewis County, New York",
+    "population": 26618,
+    "medianAge": 42,
+    "race": {
+      "white": 94.3,
+      "black": 0.9,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.6,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 42.8,
+      "someCollege": 15.9,
+      "associates": 13.3,
+      "bachelors": 11.1,
+      "graduate": 8.3
+    },
+    "medianIncome": 68329,
+    "meanIncome": 79621
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "36",
+    "name": "Livingston County, New York",
+    "population": 61588,
+    "medianAge": 41.4,
+    "race": {
+      "white": 90.3,
+      "black": 1.9,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 4.9,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 31.3,
+      "someCollege": 17.3,
+      "associates": 13.3,
+      "bachelors": 16.7,
+      "graduate": 13.8
+    },
+    "medianIncome": 72464,
+    "meanIncome": 93306
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "36",
+    "name": "Madison County, New York",
+    "population": 67572,
+    "medianAge": 42.6,
+    "race": {
+      "white": 91.4,
+      "black": 1.6,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.7,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 33.8,
+      "someCollege": 16.6,
+      "associates": 14.9,
+      "bachelors": 14.8,
+      "graduate": 13.2
+    },
+    "medianIncome": 73141,
+    "meanIncome": 96461
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "36",
+    "name": "Monroe County, New York",
+    "population": 754068,
+    "medianAge": 39.5,
+    "race": {
+      "white": 71.2,
+      "black": 14.6,
+      "asian": 3.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 3.3,
+      "twoOrMore": 6.9,
+      "hispanic": 9.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 22.9,
+      "someCollege": 15.8,
+      "associates": 11.9,
+      "bachelors": 22.8,
+      "graduate": 18.4
+    },
+    "medianIncome": 74409,
+    "meanIncome": 100724
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "36",
+    "name": "Montgomery County, New York",
+    "population": 49461,
+    "medianAge": 40.1,
+    "race": {
+      "white": 83,
+      "black": 3.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 6,
+      "twoOrMore": 6.9,
+      "hispanic": 15.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 35.4,
+      "someCollege": 18.7,
+      "associates": 13.9,
+      "bachelors": 11.4,
+      "graduate": 9.2
+    },
+    "medianIncome": 62923,
+    "meanIncome": 79106
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "36",
+    "name": "Nassau County, New York",
+    "population": 1388138,
+    "medianAge": 41.8,
+    "race": {
+      "white": 59.4,
+      "black": 11.4,
+      "asian": 11.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 8.5,
+      "twoOrMore": 9,
+      "hispanic": 18.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 21,
+      "someCollege": 14.3,
+      "associates": 8.1,
+      "bachelors": 26.5,
+      "graduate": 22.2
+    },
+    "medianIncome": 143408,
+    "meanIncome": 187735
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "36",
+    "name": "New York County, New York",
+    "population": 1627788,
+    "medianAge": 38.9,
+    "race": {
+      "white": 50.4,
+      "black": 14,
+      "asian": 12.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 12,
+      "twoOrMore": 10.6,
+      "hispanic": 24.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 11.8,
+      "someCollege": 9.9,
+      "associates": 3.5,
+      "bachelors": 33,
+      "graduate": 31
+    },
+    "medianIncome": 104553,
+    "meanIncome": 192391
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "36",
+    "name": "Niagara County, New York",
+    "population": 211341,
+    "medianAge": 43.2,
+    "race": {
+      "white": 83.9,
+      "black": 6.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6.4,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 32.4,
+      "someCollege": 18.3,
+      "associates": 14.1,
+      "bachelors": 16.1,
+      "graduate": 11.1
+    },
+    "medianIncome": 67809,
+    "meanIncome": 87095
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "36",
+    "name": "Oneida County, New York",
+    "population": 229645,
+    "medianAge": 40.8,
+    "race": {
+      "white": 81.5,
+      "black": 5.6,
+      "asian": 4.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.5,
+      "twoOrMore": 6.1,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 30.1,
+      "someCollege": 18.5,
+      "associates": 12.6,
+      "bachelors": 15.9,
+      "graduate": 11.8
+    },
+    "medianIncome": 68819,
+    "meanIncome": 89145
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "36",
+    "name": "Onondaga County, New York",
+    "population": 471611,
+    "medianAge": 39.5,
+    "race": {
+      "white": 75.9,
+      "black": 10.8,
+      "asian": 4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 1.8,
+      "twoOrMore": 6.9,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 24.4,
+      "someCollege": 16.6,
+      "associates": 12.6,
+      "bachelors": 21.1,
+      "graduate": 17
+    },
+    "medianIncome": 74740,
+    "meanIncome": 99134
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "36",
+    "name": "Ontario County, New York",
+    "population": 112405,
+    "medianAge": 43.9,
+    "race": {
+      "white": 89.5,
+      "black": 2.3,
+      "asian": 1.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.2,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 25.9,
+      "someCollege": 16.7,
+      "associates": 13.5,
+      "bachelors": 20.1,
+      "graduate": 17.1
+    },
+    "medianIncome": 79814,
+    "meanIncome": 104658
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "36",
+    "name": "Orange County, New York",
+    "population": 403840,
+    "medianAge": 36.9,
+    "race": {
+      "white": 64.3,
+      "black": 11.4,
+      "asian": 2.8,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 9.4,
+      "twoOrMore": 10.9,
+      "hispanic": 23.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 28,
+      "someCollege": 19.1,
+      "associates": 10.3,
+      "bachelors": 18.2,
+      "graduate": 14.1
+    },
+    "medianIncome": 96497,
+    "meanIncome": 121539
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "36",
+    "name": "Orleans County, New York",
+    "population": 39686,
+    "medianAge": 43.6,
+    "race": {
+      "white": 87.5,
+      "black": 4.6,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.5,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 41.1,
+      "someCollege": 18,
+      "associates": 10.1,
+      "bachelors": 10.8,
+      "graduate": 6.7
+    },
+    "medianIncome": 63838,
+    "meanIncome": 82918
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "36",
+    "name": "Oswego County, New York",
+    "population": 117945,
+    "medianAge": 40.6,
+    "race": {
+      "white": 92.8,
+      "black": 1.1,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 4.1,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 36.7,
+      "someCollege": 18.1,
+      "associates": 13.3,
+      "bachelors": 13.4,
+      "graduate": 8.5
+    },
+    "medianIncome": 68461,
+    "meanIncome": 88158
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "36",
+    "name": "Otsego County, New York",
+    "population": 59738,
+    "medianAge": 40.4,
+    "race": {
+      "white": 90.1,
+      "black": 2.4,
+      "asian": 1.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 4.5,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 30.7,
+      "someCollege": 16.3,
+      "associates": 11.2,
+      "bachelors": 18.6,
+      "graduate": 15.3
+    },
+    "medianIncome": 67086,
+    "meanIncome": 90189
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "36",
+    "name": "Putnam County, New York",
+    "population": 97988,
+    "medianAge": 44.2,
+    "race": {
+      "white": 77.2,
+      "black": 3.4,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 9.3,
+      "twoOrMore": 7.7,
+      "hispanic": 19.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 24.8,
+      "someCollege": 16.5,
+      "associates": 8.4,
+      "bachelors": 24.2,
+      "graduate": 19.3
+    },
+    "medianIncome": 127405,
+    "meanIncome": 150924
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "36",
+    "name": "Queens County, New York",
+    "population": 2330124,
+    "medianAge": 40.4,
+    "race": {
+      "white": 28.3,
+      "black": 17.4,
+      "asian": 26,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 16.2,
+      "twoOrMore": 11.2,
+      "hispanic": 27.9
+    },
+    "education": {
+      "lessThanHighSchool": 17.3,
+      "highSchool": 25.6,
+      "someCollege": 14.1,
+      "associates": 7.8,
+      "bachelors": 21.5,
+      "graduate": 13.7
+    },
+    "medianIncome": 84961,
+    "meanIncome": 113673
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "36",
+    "name": "Rensselaer County, New York",
+    "population": 160341,
+    "medianAge": 40.2,
+    "race": {
+      "white": 81.4,
+      "black": 6.8,
+      "asian": 3.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 6.4,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 25.5,
+      "someCollege": 16.5,
+      "associates": 13.5,
+      "bachelors": 21.5,
+      "graduate": 15.8
+    },
+    "medianIncome": 86663,
+    "meanIncome": 106010
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "36",
+    "name": "Richmond County, New York",
+    "population": 492734,
+    "medianAge": 40.4,
+    "race": {
+      "white": 62.8,
+      "black": 9.9,
+      "asian": 12.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.3,
+      "twoOrMore": 9.2,
+      "hispanic": 19.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 29.4,
+      "someCollege": 16,
+      "associates": 7.4,
+      "bachelors": 21.4,
+      "graduate": 14.3
+    },
+    "medianIncome": 98290,
+    "meanIncome": 125764
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "36",
+    "name": "Rockland County, New York",
+    "population": 338936,
+    "medianAge": 35.1,
+    "race": {
+      "white": 64.2,
+      "black": 11,
+      "asian": 5.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 10,
+      "twoOrMore": 8.4,
+      "hispanic": 20
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 21.6,
+      "someCollege": 16.2,
+      "associates": 7.8,
+      "bachelors": 23.2,
+      "graduate": 18.9
+    },
+    "medianIncome": 110631,
+    "meanIncome": 147764
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "36",
+    "name": "St. Lawrence County, New York",
+    "population": 107796,
+    "medianAge": 39,
+    "race": {
+      "white": 92.1,
+      "black": 2,
+      "asian": 1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.7,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 33.8,
+      "someCollege": 17.5,
+      "associates": 13.2,
+      "bachelors": 12.7,
+      "graduate": 12
+    },
+    "medianIncome": 61900,
+    "meanIncome": 78890
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "36",
+    "name": "Saratoga County, New York",
+    "population": 237075,
+    "medianAge": 43.4,
+    "race": {
+      "white": 89.3,
+      "black": 1.6,
+      "asian": 2.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 4.8,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 24.4,
+      "someCollege": 14.9,
+      "associates": 11.2,
+      "bachelors": 24.4,
+      "graduate": 19.4
+    },
+    "medianIncome": 99653,
+    "meanIncome": 128469
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "36",
+    "name": "Schenectady County, New York",
+    "population": 159603,
+    "medianAge": 39.6,
+    "race": {
+      "white": 70.2,
+      "black": 10.8,
+      "asian": 4.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 9.4,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 26.3,
+      "someCollege": 17.7,
+      "associates": 12.8,
+      "bachelors": 19.4,
+      "graduate": 15.7
+    },
+    "medianIncome": 76989,
+    "meanIncome": 99121
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "36",
+    "name": "Schoharie County, New York",
+    "population": 29979,
+    "medianAge": 45.7,
+    "race": {
+      "white": 90.1,
+      "black": 1.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.8,
+      "twoOrMore": 5.3,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 34.6,
+      "someCollege": 18,
+      "associates": 14.4,
+      "bachelors": 13.5,
+      "graduate": 11.5
+    },
+    "medianIncome": 71188,
+    "meanIncome": 90121
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "36",
+    "name": "Schuyler County, New York",
+    "population": 17749,
+    "medianAge": 47.4,
+    "race": {
+      "white": 93.5,
+      "black": 1.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 33.4,
+      "someCollege": 18.7,
+      "associates": 13.3,
+      "bachelors": 11.9,
+      "graduate": 13.5
+    },
+    "medianIncome": 65625,
+    "meanIncome": 83763
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "36",
+    "name": "Seneca County, New York",
+    "population": 33125,
+    "medianAge": 42.8,
+    "race": {
+      "white": 89.4,
+      "black": 3.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.5,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 32.2,
+      "someCollege": 15.7,
+      "associates": 12.6,
+      "bachelors": 15,
+      "graduate": 9.1
+    },
+    "medianIncome": 66007,
+    "meanIncome": 86730
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "36",
+    "name": "Steuben County, New York",
+    "population": 93034,
+    "medianAge": 43.1,
+    "race": {
+      "white": 92.3,
+      "black": 1.7,
+      "asian": 1.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.6,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 34.9,
+      "someCollege": 16.6,
+      "associates": 14.3,
+      "bachelors": 13.1,
+      "graduate": 12.9
+    },
+    "medianIncome": 64740,
+    "meanIncome": 86589
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "36",
+    "name": "Suffolk County, New York",
+    "population": 1525680,
+    "medianAge": 41.7,
+    "race": {
+      "white": 68.9,
+      "black": 7.4,
+      "asian": 4.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 8.8,
+      "twoOrMore": 10.1,
+      "hispanic": 22.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 24.8,
+      "someCollege": 16.2,
+      "associates": 9.6,
+      "bachelors": 21.5,
+      "graduate": 18.4
+    },
+    "medianIncome": 128329,
+    "meanIncome": 163151
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "36",
+    "name": "Sullivan County, New York",
+    "population": 79147,
+    "medianAge": 41.7,
+    "race": {
+      "white": 71.6,
+      "black": 8.7,
+      "asian": 2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 7.2,
+      "twoOrMore": 10,
+      "hispanic": 18.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 29.8,
+      "someCollege": 17.9,
+      "associates": 10.3,
+      "bachelors": 17,
+      "graduate": 12.7
+    },
+    "medianIncome": 69826,
+    "meanIncome": 101841
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "36",
+    "name": "Tioga County, New York",
+    "population": 48106,
+    "medianAge": 44.8,
+    "race": {
+      "white": 93.6,
+      "black": 1.1,
+      "asian": 1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 2.8,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 35.9,
+      "someCollege": 15.5,
+      "associates": 15,
+      "bachelors": 15.2,
+      "graduate": 10.4
+    },
+    "medianIncome": 71791,
+    "meanIncome": 95984
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "36",
+    "name": "Tompkins County, New York",
+    "population": 102879,
+    "medianAge": 32.8,
+    "race": {
+      "white": 76.8,
+      "black": 4,
+      "asian": 9.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.8,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 16.3,
+      "someCollege": 12.5,
+      "associates": 7.8,
+      "bachelors": 25.2,
+      "graduate": 34.1
+    },
+    "medianIncome": 73012,
+    "meanIncome": 102676
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "36",
+    "name": "Ulster County, New York",
+    "population": 182109,
+    "medianAge": 44.2,
+    "race": {
+      "white": 76.4,
+      "black": 6.1,
+      "asian": 2.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 10.3,
+      "hispanic": 11.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 28,
+      "someCollege": 17.1,
+      "associates": 9.6,
+      "bachelors": 20.2,
+      "graduate": 16.9
+    },
+    "medianIncome": 81804,
+    "meanIncome": 112552
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "36",
+    "name": "Warren County, New York",
+    "population": 65560,
+    "medianAge": 46.8,
+    "race": {
+      "white": 93.3,
+      "black": 1.3,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.1,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 28,
+      "someCollege": 16.8,
+      "associates": 12.5,
+      "bachelors": 18.7,
+      "graduate": 15.9
+    },
+    "medianIncome": 78239,
+    "meanIncome": 101211
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "36",
+    "name": "Washington County, New York",
+    "population": 60883,
+    "medianAge": 45,
+    "race": {
+      "white": 90.6,
+      "black": 2.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 4.2,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 39.9,
+      "someCollege": 17.6,
+      "associates": 11.6,
+      "bachelors": 12.5,
+      "graduate": 8.7
+    },
+    "medianIncome": 72342,
+    "meanIncome": 86922
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "36",
+    "name": "Wayne County, New York",
+    "population": 91128,
+    "medianAge": 43.6,
+    "race": {
+      "white": 88.8,
+      "black": 2.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 5.6,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 31.2,
+      "someCollege": 20.7,
+      "associates": 13.6,
+      "bachelors": 15.8,
+      "graduate": 9.7
+    },
+    "medianIncome": 73914,
+    "meanIncome": 89774
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "36",
+    "name": "Westchester County, New York",
+    "population": 996888,
+    "medianAge": 41.5,
+    "race": {
+      "white": 54.7,
+      "black": 14,
+      "asian": 6.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 13.3,
+      "twoOrMore": 11.3,
+      "hispanic": 27
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 17.9,
+      "someCollege": 12.6,
+      "associates": 6.4,
+      "bachelors": 26,
+      "graduate": 26.5
+    },
+    "medianIncome": 118411,
+    "meanIncome": 187481
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "36",
+    "name": "Wyoming County, New York",
+    "population": 39980,
+    "medianAge": 43.1,
+    "race": {
+      "white": 89.7,
+      "black": 3.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 2.8,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 38.1,
+      "someCollege": 16.7,
+      "associates": 13.7,
+      "bachelors": 11.2,
+      "graduate": 7
+    },
+    "medianIncome": 68913,
+    "meanIncome": 84287
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "36",
+    "name": "Yates County, New York",
+    "population": 24637,
+    "medianAge": 41.6,
+    "race": {
+      "white": 95.3,
+      "black": 0.7,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.5,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 35,
+      "someCollege": 14.4,
+      "associates": 10,
+      "bachelors": 14.5,
+      "graduate": 10.5
+    },
+    "medianIncome": 67521,
+    "meanIncome": 89265
+  }
+]

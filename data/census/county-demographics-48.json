@@ -1,0 +1,6860 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "48",
+    "name": "Anderson County, Texas",
+    "population": 57825,
+    "medianAge": 39.5,
+    "race": {
+      "white": 60.2,
+      "black": 18.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.1,
+      "other": 3.3,
+      "twoOrMore": 16.2,
+      "hispanic": 19.3
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 38,
+      "someCollege": 23.7,
+      "associates": 9.7,
+      "bachelors": 10.4,
+      "graduate": 4.1
+    },
+    "medianIncome": 58846,
+    "meanIncome": 77422
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "48",
+    "name": "Andrews County, Texas",
+    "population": 18518,
+    "medianAge": 33.1,
+    "race": {
+      "white": 59.6,
+      "black": 1.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 14.2,
+      "twoOrMore": 23.7,
+      "hispanic": 56.8
+    },
+    "education": {
+      "lessThanHighSchool": 23.1,
+      "highSchool": 32.2,
+      "someCollege": 17.9,
+      "associates": 6.8,
+      "bachelors": 15.8,
+      "graduate": 4.2
+    },
+    "medianIncome": 76902,
+    "meanIncome": 102475
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "48",
+    "name": "Angelina County, Texas",
+    "population": 86791,
+    "medianAge": 37.8,
+    "race": {
+      "white": 67.1,
+      "black": 12.2,
+      "asian": 0.9,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 15.4,
+      "hispanic": 23.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 34.1,
+      "someCollege": 23.9,
+      "associates": 8.9,
+      "bachelors": 11.2,
+      "graduate": 6.8
+    },
+    "medianIncome": 58847,
+    "meanIncome": 75570
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "48",
+    "name": "Aransas County, Texas",
+    "population": 24449,
+    "medianAge": 51,
+    "race": {
+      "white": 80.7,
+      "black": 1.1,
+      "asian": 1.1,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 3.6,
+      "twoOrMore": 12.2,
+      "hispanic": 26.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 32,
+      "someCollege": 24.4,
+      "associates": 7.4,
+      "bachelors": 19.8,
+      "graduate": 7.8
+    },
+    "medianIncome": 61754,
+    "meanIncome": 87292
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "48",
+    "name": "Archer County, Texas",
+    "population": 8734,
+    "medianAge": 43.1,
+    "race": {
+      "white": 91.1,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.6,
+      "hispanic": 9
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 36.8,
+      "someCollege": 20.3,
+      "associates": 8.7,
+      "bachelors": 17.7,
+      "graduate": 7.5
+    },
+    "medianIncome": 71958,
+    "meanIncome": 98442
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "48",
+    "name": "Armstrong County, Texas",
+    "population": 1883,
+    "medianAge": 43,
+    "race": {
+      "white": 92.6,
+      "black": 0.5,
+      "asian": 1.2,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 4.7,
+      "hispanic": 9.6
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 34.4,
+      "someCollege": 24.8,
+      "associates": 13.4,
+      "bachelors": 12.7,
+      "graduate": 8.7
+    },
+    "medianIncome": 68462,
+    "meanIncome": 83081
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "48",
+    "name": "Atascosa County, Texas",
+    "population": 50058,
+    "medianAge": 36.1,
+    "race": {
+      "white": 54.5,
+      "black": 1.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 15.9,
+      "twoOrMore": 27.6,
+      "hispanic": 64.7
+    },
+    "education": {
+      "lessThanHighSchool": 19.1,
+      "highSchool": 38.7,
+      "someCollege": 21.2,
+      "associates": 5.7,
+      "bachelors": 11.9,
+      "graduate": 3.4
+    },
+    "medianIncome": 69413,
+    "meanIncome": 83533
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "48",
+    "name": "Austin County, Texas",
+    "population": 30712,
+    "medianAge": 41.6,
+    "race": {
+      "white": 70.8,
+      "black": 9.3,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 13.1,
+      "twoOrMore": 5.7,
+      "hispanic": 27.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 34.2,
+      "someCollege": 23.1,
+      "associates": 7.8,
+      "bachelors": 17.2,
+      "graduate": 6.2
+    },
+    "medianIncome": 75994,
+    "meanIncome": 96058
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "48",
+    "name": "Bailey County, Texas",
+    "population": 7044,
+    "medianAge": 35.1,
+    "race": {
+      "white": 71,
+      "black": 0.9,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 13,
+      "twoOrMore": 14.4,
+      "hispanic": 64.6
+    },
+    "education": {
+      "lessThanHighSchool": 28.1,
+      "highSchool": 28.6,
+      "someCollege": 22.1,
+      "associates": 4.4,
+      "bachelors": 12.2,
+      "graduate": 4.5
+    },
+    "medianIncome": 70625,
+    "meanIncome": 79645
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "48",
+    "name": "Bandera County, Texas",
+    "population": 21589,
+    "medianAge": 53.4,
+    "race": {
+      "white": 79.1,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 3.6,
+      "twoOrMore": 15,
+      "hispanic": 20.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 30.2,
+      "someCollege": 25.5,
+      "associates": 10.7,
+      "bachelors": 16.1,
+      "graduate": 9.4
+    },
+    "medianIncome": 69703,
+    "meanIncome": 91805
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "48",
+    "name": "Bastrop County, Texas",
+    "population": 102370,
+    "medianAge": 37.5,
+    "race": {
+      "white": 56.6,
+      "black": 5.7,
+      "asian": 0.7,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 13.2,
+      "twoOrMore": 22.4,
+      "hispanic": 44
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 29.8,
+      "someCollege": 22.4,
+      "associates": 6.3,
+      "bachelors": 14.8,
+      "graduate": 8.5
+    },
+    "medianIncome": 82730,
+    "meanIncome": 98377
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "48",
+    "name": "Baylor County, Texas",
+    "population": 3464,
+    "medianAge": 47.5,
+    "race": {
+      "white": 80.9,
+      "black": 0.8,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 1.4,
+      "other": 6.4,
+      "twoOrMore": 10.4,
+      "hispanic": 13.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 30.8,
+      "someCollege": 15.8,
+      "associates": 7.6,
+      "bachelors": 22.4,
+      "graduate": 6
+    },
+    "medianIncome": 42313,
+    "meanIncome": 61655
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "48",
+    "name": "Bee County, Texas",
+    "population": 31000,
+    "medianAge": 35.8,
+    "race": {
+      "white": 57.3,
+      "black": 6.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 7.7,
+      "twoOrMore": 27.6,
+      "hispanic": 61.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 36.9,
+      "someCollege": 24.3,
+      "associates": 8.9,
+      "bachelors": 7.8,
+      "graduate": 3.6
+    },
+    "medianIncome": 56075,
+    "meanIncome": 71739
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "48",
+    "name": "Bell County, Texas",
+    "population": 379811,
+    "medianAge": 32.1,
+    "race": {
+      "white": 52.1,
+      "black": 23.3,
+      "asian": 2.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.7,
+      "other": 6.3,
+      "twoOrMore": 14.1,
+      "hispanic": 25.8
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 26.1,
+      "someCollege": 27.3,
+      "associates": 10.5,
+      "bachelors": 18,
+      "graduate": 9.2
+    },
+    "medianIncome": 66051,
+    "meanIncome": 87878
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "48",
+    "name": "Bexar County, Texas",
+    "population": 2037344,
+    "medianAge": 34.6,
+    "race": {
+      "white": 49.4,
+      "black": 7.9,
+      "asian": 3.2,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.2,
+      "other": 10.1,
+      "twoOrMore": 28.1,
+      "hispanic": 59.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 24.5,
+      "someCollege": 21.8,
+      "associates": 8.7,
+      "bachelors": 19.5,
+      "graduate": 12.1
+    },
+    "medianIncome": 70571,
+    "meanIncome": 95613
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "48",
+    "name": "Blanco County, Texas",
+    "population": 12008,
+    "medianAge": 50.3,
+    "race": {
+      "white": 80.7,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.7,
+      "twoOrMore": 12,
+      "hispanic": 18.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 25.8,
+      "someCollege": 23.1,
+      "associates": 9.2,
+      "bachelors": 26.6,
+      "graduate": 7.8
+    },
+    "medianIncome": 87564,
+    "meanIncome": 110438
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "48",
+    "name": "Borden County, Texas",
+    "population": 723,
+    "medianAge": 30,
+    "race": {
+      "white": 85.2,
+      "black": 1.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 12.2,
+      "hispanic": 15.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 30.9,
+      "someCollege": 20.8,
+      "associates": 7.6,
+      "bachelors": 25.3,
+      "graduate": 10.1
+    },
+    "medianIncome": 64250,
+    "meanIncome": 107695
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "48",
+    "name": "Bosque County, Texas",
+    "population": 18546,
+    "medianAge": 46.3,
+    "race": {
+      "white": 79.4,
+      "black": 1.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.8,
+      "twoOrMore": 13.8,
+      "hispanic": 18.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 30.9,
+      "someCollege": 27.1,
+      "associates": 9.5,
+      "bachelors": 13.8,
+      "graduate": 7
+    },
+    "medianIncome": 69339,
+    "meanIncome": 88401
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "48",
+    "name": "Bowie County, Texas",
+    "population": 92321,
+    "medianAge": 38.4,
+    "race": {
+      "white": 65.7,
+      "black": 24.9,
+      "asian": 1.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 2.4,
+      "twoOrMore": 5.2,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 36,
+      "someCollege": 24,
+      "associates": 7.9,
+      "bachelors": 13.6,
+      "graduate": 8.5
+    },
+    "medianIncome": 59295,
+    "meanIncome": 81415
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "48",
+    "name": "Brazoria County, Texas",
+    "population": 381650,
+    "medianAge": 36.5,
+    "race": {
+      "white": 53.5,
+      "black": 15.8,
+      "asian": 7.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 17.4,
+      "hispanic": 31.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 24.8,
+      "someCollege": 23.1,
+      "associates": 9.2,
+      "bachelors": 20.1,
+      "graduate": 12
+    },
+    "medianIncome": 95155,
+    "meanIncome": 120034
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "48",
+    "name": "Brazos County, Texas",
+    "population": 237980,
+    "medianAge": 26.8,
+    "race": {
+      "white": 66.4,
+      "black": 10.8,
+      "asian": 5.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 4.6,
+      "twoOrMore": 11.8,
+      "hispanic": 27.1
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 21.4,
+      "someCollege": 18.2,
+      "associates": 6.8,
+      "bachelors": 23.6,
+      "graduate": 18.9
+    },
+    "medianIncome": 58388,
+    "meanIncome": 88284
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "48",
+    "name": "Brewster County, Texas",
+    "population": 9464,
+    "medianAge": 42.2,
+    "race": {
+      "white": 75.4,
+      "black": 0.3,
+      "asian": 1.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 7.5,
+      "twoOrMore": 15.1,
+      "hispanic": 42.1
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 17,
+      "someCollege": 23,
+      "associates": 4.7,
+      "bachelors": 26.7,
+      "graduate": 18.5
+    },
+    "medianIncome": 52612,
+    "meanIncome": 72031
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "48",
+    "name": "Briscoe County, Texas",
+    "population": 1223,
+    "medianAge": 50.8,
+    "race": {
+      "white": 84.5,
+      "black": 5.4,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 6.5,
+      "hispanic": 26.2
+    },
+    "education": {
+      "lessThanHighSchool": 19.5,
+      "highSchool": 28.8,
+      "someCollege": 22.2,
+      "associates": 10.4,
+      "bachelors": 14.2,
+      "graduate": 4.8
+    },
+    "medianIncome": 41188,
+    "meanIncome": 69058
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "48",
+    "name": "Brooks County, Texas",
+    "population": 6987,
+    "medianAge": 38.1,
+    "race": {
+      "white": 51.8,
+      "black": 0.8,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 9.8,
+      "twoOrMore": 37.4,
+      "hispanic": 90
+    },
+    "education": {
+      "lessThanHighSchool": 32.6,
+      "highSchool": 31.6,
+      "someCollege": 20.8,
+      "associates": 0.5,
+      "bachelors": 12.2,
+      "graduate": 2.2
+    },
+    "medianIncome": 31310,
+    "meanIncome": 53032
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "48",
+    "name": "Brown County, Texas",
+    "population": 38294,
+    "medianAge": 41.4,
+    "race": {
+      "white": 78.1,
+      "black": 3.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 14.4,
+      "hispanic": 22.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 35.5,
+      "someCollege": 25.4,
+      "associates": 6.9,
+      "bachelors": 14.3,
+      "graduate": 5.7
+    },
+    "medianIncome": 55305,
+    "meanIncome": 77845
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "48",
+    "name": "Burleson County, Texas",
+    "population": 18327,
+    "medianAge": 44.3,
+    "race": {
+      "white": 72,
+      "black": 11.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 11.2,
+      "hispanic": 21.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 34.3,
+      "someCollege": 21.9,
+      "associates": 5.9,
+      "bachelors": 16.2,
+      "graduate": 6.9
+    },
+    "medianIncome": 72888,
+    "meanIncome": 95502
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "48",
+    "name": "Burnet County, Texas",
+    "population": 51064,
+    "medianAge": 44.9,
+    "race": {
+      "white": 81.5,
+      "black": 1.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 5,
+      "twoOrMore": 10.6,
+      "hispanic": 23.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 30.3,
+      "someCollege": 23.2,
+      "associates": 7,
+      "bachelors": 19.4,
+      "graduate": 9.2
+    },
+    "medianIncome": 77158,
+    "meanIncome": 108845
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "48",
+    "name": "Caldwell County, Texas",
+    "population": 47184,
+    "medianAge": 38.2,
+    "race": {
+      "white": 57.8,
+      "black": 4.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 9.3,
+      "twoOrMore": 27.3,
+      "hispanic": 56.3
+    },
+    "education": {
+      "lessThanHighSchool": 19.7,
+      "highSchool": 38.4,
+      "someCollege": 21,
+      "associates": 4.4,
+      "bachelors": 12,
+      "graduate": 4.5
+    },
+    "medianIncome": 68503,
+    "meanIncome": 87208
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "48",
+    "name": "Calhoun County, Texas",
+    "population": 19921,
+    "medianAge": 39.9,
+    "race": {
+      "white": 65.8,
+      "black": 2.5,
+      "asian": 5.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 6.9,
+      "twoOrMore": 19.4,
+      "hispanic": 49.3
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 31.5,
+      "someCollege": 22.4,
+      "associates": 11.6,
+      "bachelors": 10.7,
+      "graduate": 6.2
+    },
+    "medianIncome": 71870,
+    "meanIncome": 89985
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "48",
+    "name": "Callahan County, Texas",
+    "population": 14017,
+    "medianAge": 43.8,
+    "race": {
+      "white": 85.6,
+      "black": 1.7,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 1.9,
+      "twoOrMore": 10,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 36.6,
+      "someCollege": 24.5,
+      "associates": 8.1,
+      "bachelors": 17.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 68455,
+    "meanIncome": 81976
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "48",
+    "name": "Cameron County, Texas",
+    "population": 423192,
+    "medianAge": 32.4,
+    "race": {
+      "white": 50,
+      "black": 0.6,
+      "asian": 0.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 8.5,
+      "twoOrMore": 39.7,
+      "hispanic": 89.3
+    },
+    "education": {
+      "lessThanHighSchool": 28.4,
+      "highSchool": 26.1,
+      "someCollege": 17.5,
+      "associates": 7.5,
+      "bachelors": 13.9,
+      "graduate": 6.6
+    },
+    "medianIncome": 51334,
+    "meanIncome": 70034
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "48",
+    "name": "Camp County, Texas",
+    "population": 12652,
+    "medianAge": 38.7,
+    "race": {
+      "white": 60.3,
+      "black": 14.6,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 8.9,
+      "twoOrMore": 15,
+      "hispanic": 26.7
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 35.3,
+      "someCollege": 22.3,
+      "associates": 6.8,
+      "bachelors": 14.5,
+      "graduate": 5.2
+    },
+    "medianIncome": 55061,
+    "meanIncome": 77431
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "48",
+    "name": "Carson County, Texas",
+    "population": 5802,
+    "medianAge": 42.3,
+    "race": {
+      "white": 91,
+      "black": 0.6,
+      "asian": 0.1,
+      "nativeAmerican": 2.2,
+      "pacificIslander": 0.8,
+      "other": 1.9,
+      "twoOrMore": 3.4,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 32.1,
+      "someCollege": 26.5,
+      "associates": 9.1,
+      "bachelors": 16.9,
+      "graduate": 9
+    },
+    "medianIncome": 84583,
+    "meanIncome": 102684
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "48",
+    "name": "Cass County, Texas",
+    "population": 28582,
+    "medianAge": 43.8,
+    "race": {
+      "white": 76.7,
+      "black": 16.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.5,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 41.3,
+      "someCollege": 21.4,
+      "associates": 6.9,
+      "bachelors": 12,
+      "graduate": 5.6
+    },
+    "medianIncome": 54328,
+    "meanIncome": 71132
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "48",
+    "name": "Castro County, Texas",
+    "population": 7328,
+    "medianAge": 34.9,
+    "race": {
+      "white": 54,
+      "black": 1.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 8.2,
+      "twoOrMore": 34.7,
+      "hispanic": 65.3
+    },
+    "education": {
+      "lessThanHighSchool": 23.7,
+      "highSchool": 31.1,
+      "someCollege": 17.8,
+      "associates": 6.4,
+      "bachelors": 17.8,
+      "graduate": 3.2
+    },
+    "medianIncome": 63485,
+    "meanIncome": 81404
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "48",
+    "name": "Chambers County, Texas",
+    "population": 49178,
+    "medianAge": 35.3,
+    "race": {
+      "white": 72.5,
+      "black": 7.3,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 8.3,
+      "twoOrMore": 10.3,
+      "hispanic": 25.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 26.6,
+      "someCollege": 29.2,
+      "associates": 10.7,
+      "bachelors": 17.3,
+      "graduate": 5.6
+    },
+    "medianIncome": 108114,
+    "meanIncome": 118778
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "48",
+    "name": "Cherokee County, Texas",
+    "population": 51143,
+    "medianAge": 38.2,
+    "race": {
+      "white": 67.2,
+      "black": 13.1,
+      "asian": 0.6,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 13.2,
+      "hispanic": 23.7
+    },
+    "education": {
+      "lessThanHighSchool": 19.3,
+      "highSchool": 33.3,
+      "someCollege": 21.8,
+      "associates": 7.2,
+      "bachelors": 12,
+      "graduate": 6.5
+    },
+    "medianIncome": 59830,
+    "meanIncome": 79137
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "48",
+    "name": "Childress County, Texas",
+    "population": 6772,
+    "medianAge": 33.6,
+    "race": {
+      "white": 61.1,
+      "black": 6.7,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 13.5,
+      "twoOrMore": 18.5,
+      "hispanic": 34
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 37.6,
+      "someCollege": 29.6,
+      "associates": 5.2,
+      "bachelors": 8.2,
+      "graduate": 3.2
+    },
+    "medianIncome": 60333,
+    "meanIncome": 79090
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "48",
+    "name": "Clay County, Texas",
+    "population": 10402,
+    "medianAge": 47.8,
+    "race": {
+      "white": 91,
+      "black": 1.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 6,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 36.3,
+      "someCollege": 26.3,
+      "associates": 6.3,
+      "bachelors": 16.6,
+      "graduate": 7.2
+    },
+    "medianIncome": 77355,
+    "meanIncome": 88709
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "48",
+    "name": "Cochran County, Texas",
+    "population": 2520,
+    "medianAge": 38.7,
+    "race": {
+      "white": 47.8,
+      "black": 7.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 8.3,
+      "twoOrMore": 36.2,
+      "hispanic": 59.6
+    },
+    "education": {
+      "lessThanHighSchool": 28.3,
+      "highSchool": 34.7,
+      "someCollege": 18.5,
+      "associates": 7.8,
+      "bachelors": 7.5,
+      "graduate": 3.3
+    },
+    "medianIncome": 42137,
+    "meanIncome": 60297
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "48",
+    "name": "Coke County, Texas",
+    "population": 3315,
+    "medianAge": 47.2,
+    "race": {
+      "white": 85.2,
+      "black": 1.7,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 9.2,
+      "hispanic": 20.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 34.9,
+      "someCollege": 24.4,
+      "associates": 7.4,
+      "bachelors": 14.2,
+      "graduate": 6.9
+    },
+    "medianIncome": 46431,
+    "meanIncome": 65666
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "48",
+    "name": "Coleman County, Texas",
+    "population": 7765,
+    "medianAge": 48.5,
+    "race": {
+      "white": 79.3,
+      "black": 3.9,
+      "asian": 0.9,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 9.7,
+      "hispanic": 16.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 33.4,
+      "someCollege": 31,
+      "associates": 6.3,
+      "bachelors": 14,
+      "graduate": 3.9
+    },
+    "medianIncome": 52364,
+    "meanIncome": 75407
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "48",
+    "name": "Collin County, Texas",
+    "population": 1116601,
+    "medianAge": 37.3,
+    "race": {
+      "white": 57,
+      "black": 10.7,
+      "asian": 17.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.5,
+      "twoOrMore": 10.6,
+      "hispanic": 16
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 14.4,
+      "someCollege": 17.6,
+      "associates": 7.6,
+      "bachelors": 33.8,
+      "graduate": 21.1
+    },
+    "medianIncome": 117588,
+    "meanIncome": 150558
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "48",
+    "name": "Collingsworth County, Texas",
+    "population": 2733,
+    "medianAge": 38.1,
+    "race": {
+      "white": 57.4,
+      "black": 7.9,
+      "asian": 0,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.8,
+      "other": 9.3,
+      "twoOrMore": 22.9,
+      "hispanic": 32.6
+    },
+    "education": {
+      "lessThanHighSchool": 24.6,
+      "highSchool": 20.5,
+      "someCollege": 19.7,
+      "associates": 9.1,
+      "bachelors": 18.7,
+      "graduate": 7.4
+    },
+    "medianIncome": 60165,
+    "meanIncome": 76830
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "48",
+    "name": "Colorado County, Texas",
+    "population": 20736,
+    "medianAge": 43.8,
+    "race": {
+      "white": 66.1,
+      "black": 13,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 12,
+      "twoOrMore": 7.7,
+      "hispanic": 30
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 37.8,
+      "someCollege": 20,
+      "associates": 6.7,
+      "bachelors": 16.1,
+      "graduate": 7.9
+    },
+    "medianIncome": 68554,
+    "meanIncome": 98115
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "48",
+    "name": "Comal County, Texas",
+    "population": 174552,
+    "medianAge": 42,
+    "race": {
+      "white": 74.7,
+      "black": 2.5,
+      "asian": 1.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 15.9,
+      "hispanic": 27.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 21.7,
+      "someCollege": 22.2,
+      "associates": 8,
+      "bachelors": 27.4,
+      "graduate": 14.8
+    },
+    "medianIncome": 99015,
+    "meanIncome": 132390
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "48",
+    "name": "Comanche County, Texas",
+    "population": 13786,
+    "medianAge": 43.7,
+    "race": {
+      "white": 73.8,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 22.4,
+      "hispanic": 29
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 32.6,
+      "someCollege": 22.7,
+      "associates": 9.3,
+      "bachelors": 13.7,
+      "graduate": 6.3
+    },
+    "medianIncome": 59946,
+    "meanIncome": 79496
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "48",
+    "name": "Concho County, Texas",
+    "population": 3301,
+    "medianAge": 45.3,
+    "race": {
+      "white": 77.7,
+      "black": 3.7,
+      "asian": 1.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 15.1,
+      "hispanic": 31
+    },
+    "education": {
+      "lessThanHighSchool": 20.5,
+      "highSchool": 43.2,
+      "someCollege": 19.1,
+      "associates": 4,
+      "bachelors": 8.8,
+      "graduate": 4.3
+    },
+    "medianIncome": 59632,
+    "meanIncome": 71323
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "48",
+    "name": "Cooke County, Texas",
+    "population": 42473,
+    "medianAge": 40.3,
+    "race": {
+      "white": 78.9,
+      "black": 3.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 12.4,
+      "hispanic": 20.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 31.2,
+      "someCollege": 24.5,
+      "associates": 9.1,
+      "bachelors": 15.7,
+      "graduate": 7.9
+    },
+    "medianIncome": 72472,
+    "meanIncome": 99881
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "48",
+    "name": "Coryell County, Texas",
+    "population": 83772,
+    "medianAge": 32.4,
+    "race": {
+      "white": 61.8,
+      "black": 13.9,
+      "asian": 2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.7,
+      "other": 3.6,
+      "twoOrMore": 17.4,
+      "hispanic": 20.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 30.2,
+      "someCollege": 31.1,
+      "associates": 10.7,
+      "bachelors": 12.5,
+      "graduate": 6.1
+    },
+    "medianIncome": 68904,
+    "meanIncome": 84950
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "48",
+    "name": "Cottle County, Texas",
+    "population": 1302,
+    "medianAge": 44.3,
+    "race": {
+      "white": 65.7,
+      "black": 4.9,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 25.3,
+      "hispanic": 26
+    },
+    "education": {
+      "lessThanHighSchool": 20.4,
+      "highSchool": 24.8,
+      "someCollege": 27.6,
+      "associates": 5.4,
+      "bachelors": 15.6,
+      "graduate": 6.2
+    },
+    "medianIncome": 58819,
+    "meanIncome": 77808
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "48",
+    "name": "Crane County, Texas",
+    "population": 4623,
+    "medianAge": 36.7,
+    "race": {
+      "white": 39.3,
+      "black": 2.6,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 40.5,
+      "twoOrMore": 14.8,
+      "hispanic": 68.4
+    },
+    "education": {
+      "lessThanHighSchool": 24.4,
+      "highSchool": 41,
+      "someCollege": 17.2,
+      "associates": 3,
+      "bachelors": 10.1,
+      "graduate": 4.2
+    },
+    "medianIncome": 59915,
+    "meanIncome": 80750
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "48",
+    "name": "Crockett County, Texas",
+    "population": 2881,
+    "medianAge": 42.9,
+    "race": {
+      "white": 37.1,
+      "black": 0.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 47,
+      "twoOrMore": 15.2,
+      "hispanic": 62.3
+    },
+    "education": {
+      "lessThanHighSchool": 34.2,
+      "highSchool": 25.5,
+      "someCollege": 27.3,
+      "associates": 2,
+      "bachelors": 6.8,
+      "graduate": 4.2
+    },
+    "medianIncome": 81739,
+    "meanIncome": 97081
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "48",
+    "name": "Crosby County, Texas",
+    "population": 5072,
+    "medianAge": 39.3,
+    "race": {
+      "white": 69.3,
+      "black": 2.6,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 13,
+      "twoOrMore": 13.7,
+      "hispanic": 55.8
+    },
+    "education": {
+      "lessThanHighSchool": 21.6,
+      "highSchool": 38.2,
+      "someCollege": 19.9,
+      "associates": 6.2,
+      "bachelors": 11.3,
+      "graduate": 2.8
+    },
+    "medianIncome": 52197,
+    "meanIncome": 79476
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "48",
+    "name": "Culberson County, Texas",
+    "population": 2181,
+    "medianAge": 48.1,
+    "race": {
+      "white": 46.2,
+      "black": 0.2,
+      "asian": 1.1,
+      "nativeAmerican": 2.8,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 44.7,
+      "hispanic": 87.1
+    },
+    "education": {
+      "lessThanHighSchool": 26.7,
+      "highSchool": 47.6,
+      "someCollege": 9.3,
+      "associates": 0.1,
+      "bachelors": 15.4,
+      "graduate": 0.9
+    },
+    "medianIncome": 42672,
+    "meanIncome": 53258
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "48",
+    "name": "Dallam County, Texas",
+    "population": 7180,
+    "medianAge": 30.4,
+    "race": {
+      "white": 62.3,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 14.3,
+      "twoOrMore": 21.4,
+      "hispanic": 52.7
+    },
+    "education": {
+      "lessThanHighSchool": 19.3,
+      "highSchool": 45.7,
+      "someCollege": 15,
+      "associates": 4.3,
+      "bachelors": 13.6,
+      "graduate": 2.1
+    },
+    "medianIncome": 72332,
+    "meanIncome": 82731
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "48",
+    "name": "Dallas County, Texas",
+    "population": 2603816,
+    "medianAge": 34,
+    "race": {
+      "white": 40.8,
+      "black": 22.5,
+      "asian": 6.8,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 11.8,
+      "twoOrMore": 17.3,
+      "hispanic": 40.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.3,
+      "highSchool": 22.5,
+      "someCollege": 18.1,
+      "associates": 6.3,
+      "bachelors": 21.4,
+      "graduate": 13.4
+    },
+    "medianIncome": 74149,
+    "meanIncome": 109165
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "48",
+    "name": "Dawson County, Texas",
+    "population": 12311,
+    "medianAge": 34.6,
+    "race": {
+      "white": 54.6,
+      "black": 7.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 14.5,
+      "twoOrMore": 23.2,
+      "hispanic": 55.4
+    },
+    "education": {
+      "lessThanHighSchool": 27.7,
+      "highSchool": 35.1,
+      "someCollege": 16.9,
+      "associates": 5.8,
+      "bachelors": 12,
+      "graduate": 2.5
+    },
+    "medianIncome": 55789,
+    "meanIncome": 73403
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "48",
+    "name": "Deaf Smith County, Texas",
+    "population": 18487,
+    "medianAge": 31.4,
+    "race": {
+      "white": 52.8,
+      "black": 1.9,
+      "asian": 0,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 12,
+      "twoOrMore": 31.9,
+      "hispanic": 75.7
+    },
+    "education": {
+      "lessThanHighSchool": 28.6,
+      "highSchool": 41,
+      "someCollege": 15.2,
+      "associates": 3.4,
+      "bachelors": 8.2,
+      "graduate": 3.6
+    },
+    "medianIncome": 54114,
+    "meanIncome": 71959
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "48",
+    "name": "Delta County, Texas",
+    "population": 5345,
+    "medianAge": 40.7,
+    "race": {
+      "white": 80.7,
+      "black": 8.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 9,
+      "hispanic": 8.7
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 36.3,
+      "someCollege": 24.5,
+      "associates": 9.6,
+      "bachelors": 14.6,
+      "graduate": 5
+    },
+    "medianIncome": 62855,
+    "meanIncome": 79499
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "48",
+    "name": "Denton County, Texas",
+    "population": 945644,
+    "medianAge": 36.8,
+    "race": {
+      "white": 60.6,
+      "black": 10.7,
+      "asian": 10.3,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 4.4,
+      "twoOrMore": 13.1,
+      "hispanic": 20.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 16.8,
+      "someCollege": 20.2,
+      "associates": 8,
+      "bachelors": 31.8,
+      "graduate": 16.6
+    },
+    "medianIncome": 108185,
+    "meanIncome": 141539
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "48",
+    "name": "DeWitt County, Texas",
+    "population": 19853,
+    "medianAge": 41.8,
+    "race": {
+      "white": 61,
+      "black": 7.4,
+      "asian": 0.5,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 19.3,
+      "twoOrMore": 10.8,
+      "hispanic": 35.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 40.8,
+      "someCollege": 20.6,
+      "associates": 8.2,
+      "bachelors": 10.9,
+      "graduate": 4.9
+    },
+    "medianIncome": 64014,
+    "meanIncome": 86159
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "48",
+    "name": "Dickens County, Texas",
+    "population": 1641,
+    "medianAge": 45.7,
+    "race": {
+      "white": 78.1,
+      "black": 1.5,
+      "asian": 0.1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.2,
+      "other": 13.5,
+      "twoOrMore": 5.5,
+      "hispanic": 34
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 35.6,
+      "someCollege": 22.7,
+      "associates": 7.5,
+      "bachelors": 13.8,
+      "graduate": 5.3
+    },
+    "medianIncome": 50417,
+    "meanIncome": 74248
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "48",
+    "name": "Dimmit County, Texas",
+    "population": 8507,
+    "medianAge": 36.3,
+    "race": {
+      "white": 30.5,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 10,
+      "twoOrMore": 57.5,
+      "hispanic": 87
+    },
+    "education": {
+      "lessThanHighSchool": 25.6,
+      "highSchool": 36.1,
+      "someCollege": 22.7,
+      "associates": 4.5,
+      "bachelors": 5.5,
+      "graduate": 5.6
+    },
+    "medianIncome": 33409,
+    "meanIncome": 56336
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "48",
+    "name": "Donley County, Texas",
+    "population": 3276,
+    "medianAge": 45.4,
+    "race": {
+      "white": 87.2,
+      "black": 5.4,
+      "asian": 2.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 2.7,
+      "hispanic": 12.2
+    },
+    "education": {
+      "lessThanHighSchool": 16.5,
+      "highSchool": 32.7,
+      "someCollege": 26,
+      "associates": 8.7,
+      "bachelors": 10.9,
+      "graduate": 5.2
+    },
+    "medianIncome": 56648,
+    "meanIncome": 69217
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "48",
+    "name": "Duval County, Texas",
+    "population": 9824,
+    "medianAge": 35.9,
+    "race": {
+      "white": 67.8,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 28.3,
+      "hispanic": 81.8
+    },
+    "education": {
+      "lessThanHighSchool": 26.4,
+      "highSchool": 34.9,
+      "someCollege": 25.5,
+      "associates": 6.2,
+      "bachelors": 4.3,
+      "graduate": 2.7
+    },
+    "medianIncome": 50081,
+    "meanIncome": 60248
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "48",
+    "name": "Eastland County, Texas",
+    "population": 17846,
+    "medianAge": 42.6,
+    "race": {
+      "white": 82.5,
+      "black": 2.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 13,
+      "hispanic": 16.9
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 33.3,
+      "someCollege": 22.5,
+      "associates": 7,
+      "bachelors": 15.1,
+      "graduate": 7.1
+    },
+    "medianIncome": 51741,
+    "meanIncome": 76423
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "48",
+    "name": "Ector County, Texas",
+    "population": 163206,
+    "medianAge": 31.3,
+    "race": {
+      "white": 53.3,
+      "black": 5.1,
+      "asian": 1.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 19.1,
+      "twoOrMore": 20.5,
+      "hispanic": 62.3
+    },
+    "education": {
+      "lessThanHighSchool": 22.4,
+      "highSchool": 30.5,
+      "someCollege": 22.4,
+      "associates": 8.1,
+      "bachelors": 11.5,
+      "graduate": 5.2
+    },
+    "medianIncome": 71031,
+    "meanIncome": 92177
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "48",
+    "name": "Edwards County, Texas",
+    "population": 1392,
+    "medianAge": 39.6,
+    "race": {
+      "white": 85.6,
+      "black": 1.6,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 8.6,
+      "twoOrMore": 4.1,
+      "hispanic": 43.8
+    },
+    "education": {
+      "lessThanHighSchool": 21.6,
+      "highSchool": 22.7,
+      "someCollege": 24.6,
+      "associates": 5.2,
+      "bachelors": 21.9,
+      "graduate": 4
+    },
+    "medianIncome": 38500,
+    "meanIncome": 51921
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "48",
+    "name": "Ellis County, Texas",
+    "population": 203927,
+    "medianAge": 36.3,
+    "race": {
+      "white": 64.4,
+      "black": 13.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.2,
+      "other": 7.5,
+      "twoOrMore": 13.2,
+      "hispanic": 27.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 27,
+      "someCollege": 23.7,
+      "associates": 8.4,
+      "bachelors": 19,
+      "graduate": 9.6
+    },
+    "medianIncome": 95898,
+    "meanIncome": 113936
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "48",
+    "name": "El Paso County, Texas",
+    "population": 866275,
+    "medianAge": 33.3,
+    "race": {
+      "white": 39.2,
+      "black": 3.3,
+      "asian": 1.3,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.2,
+      "other": 16.3,
+      "twoOrMore": 38.9,
+      "hispanic": 82.7
+    },
+    "education": {
+      "lessThanHighSchool": 19.4,
+      "highSchool": 24.9,
+      "someCollege": 21.2,
+      "associates": 9.2,
+      "bachelors": 17.1,
+      "graduate": 8.3
+    },
+    "medianIncome": 58859,
+    "meanIncome": 77793
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "48",
+    "name": "Erath County, Texas",
+    "population": 43244,
+    "medianAge": 31.9,
+    "race": {
+      "white": 80.2,
+      "black": 1.4,
+      "asian": 1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.3,
+      "other": 7.6,
+      "twoOrMore": 8.8,
+      "hispanic": 22
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 26.3,
+      "someCollege": 19.8,
+      "associates": 8.5,
+      "bachelors": 21.5,
+      "graduate": 11
+    },
+    "medianIncome": 65351,
+    "meanIncome": 86705
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "48",
+    "name": "Falls County, Texas",
+    "population": 17063,
+    "medianAge": 41.5,
+    "race": {
+      "white": 57.9,
+      "black": 20.2,
+      "asian": 5.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 12.3,
+      "hispanic": 24.4
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 32.8,
+      "someCollege": 30.5,
+      "associates": 6.7,
+      "bachelors": 9.8,
+      "graduate": 5.2
+    },
+    "medianIncome": 55372,
+    "meanIncome": 73085
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "48",
+    "name": "Fannin County, Texas",
+    "population": 36525,
+    "medianAge": 40.7,
+    "race": {
+      "white": 82.4,
+      "black": 6.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 7.1,
+      "hispanic": 12.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 35.6,
+      "someCollege": 24.7,
+      "associates": 6.4,
+      "bachelors": 13.5,
+      "graduate": 6.7
+    },
+    "medianIncome": 68377,
+    "meanIncome": 94746
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "48",
+    "name": "Fayette County, Texas",
+    "population": 24783,
+    "medianAge": 48.6,
+    "race": {
+      "white": 79.2,
+      "black": 6,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 5.2,
+      "twoOrMore": 8.8,
+      "hispanic": 21.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 36.5,
+      "someCollege": 18.7,
+      "associates": 7.9,
+      "bachelors": 19.8,
+      "graduate": 7.3
+    },
+    "medianIncome": 76541,
+    "meanIncome": 102640
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "48",
+    "name": "Fisher County, Texas",
+    "population": 3661,
+    "medianAge": 42.6,
+    "race": {
+      "white": 76.8,
+      "black": 3.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 14.6,
+      "hispanic": 26.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 36.5,
+      "someCollege": 24.9,
+      "associates": 10.7,
+      "bachelors": 12.2,
+      "graduate": 6
+    },
+    "medianIncome": 64700,
+    "meanIncome": 80053
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "48",
+    "name": "Floyd County, Texas",
+    "population": 5294,
+    "medianAge": 38.5,
+    "race": {
+      "white": 69.6,
+      "black": 2.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 15.2,
+      "twoOrMore": 12.1,
+      "hispanic": 57.6
+    },
+    "education": {
+      "lessThanHighSchool": 25.4,
+      "highSchool": 29.8,
+      "someCollege": 19.6,
+      "associates": 8.5,
+      "bachelors": 13.2,
+      "graduate": 3.5
+    },
+    "medianIncome": 55461,
+    "meanIncome": 83028
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "48",
+    "name": "Foard County, Texas",
+    "population": 1079,
+    "medianAge": 45.7,
+    "race": {
+      "white": 72.9,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 22,
+      "hispanic": 10.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.8,
+      "highSchool": 29.4,
+      "someCollege": 28.1,
+      "associates": 9.3,
+      "bachelors": 10.8,
+      "graduate": 3.7
+    },
+    "medianIncome": 42212,
+    "meanIncome": 67922
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "48",
+    "name": "Fort Bend County, Texas",
+    "population": 859721,
+    "medianAge": 37.1,
+    "race": {
+      "white": 37,
+      "black": 20.5,
+      "asian": 21.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 6.4,
+      "twoOrMore": 13.8,
+      "hispanic": 24.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 17.6,
+      "someCollege": 17.7,
+      "associates": 7.4,
+      "bachelors": 29.5,
+      "graduate": 19.8
+    },
+    "medianIncome": 113409,
+    "meanIncome": 142109
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "48",
+    "name": "Franklin County, Texas",
+    "population": 10522,
+    "medianAge": 43.5,
+    "race": {
+      "white": 78.7,
+      "black": 5.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 12.5,
+      "hispanic": 14.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 27.1,
+      "someCollege": 27.1,
+      "associates": 7.4,
+      "bachelors": 19.3,
+      "graduate": 10
+    },
+    "medianIncome": 66800,
+    "meanIncome": 100219
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "48",
+    "name": "Freestone County, Texas",
+    "population": 19813,
+    "medianAge": 41.8,
+    "race": {
+      "white": 67.9,
+      "black": 14.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 14.9,
+      "hispanic": 16.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 35.3,
+      "someCollege": 24.9,
+      "associates": 10.6,
+      "bachelors": 11.3,
+      "graduate": 4.6
+    },
+    "medianIncome": 58460,
+    "meanIncome": 79090
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "48",
+    "name": "Frio County, Texas",
+    "population": 18019,
+    "medianAge": 31.8,
+    "race": {
+      "white": 46.6,
+      "black": 4.5,
+      "asian": 2.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 15.5,
+      "twoOrMore": 31.1,
+      "hispanic": 77.6
+    },
+    "education": {
+      "lessThanHighSchool": 29.4,
+      "highSchool": 40.7,
+      "someCollege": 14.9,
+      "associates": 3.6,
+      "bachelors": 7.1,
+      "graduate": 4.3
+    },
+    "medianIncome": 60098,
+    "meanIncome": 69774
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "48",
+    "name": "Gaines County, Texas",
+    "population": 21904,
+    "medianAge": 29.3,
+    "race": {
+      "white": 76.8,
+      "black": 2.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 5.2,
+      "twoOrMore": 15.5,
+      "hispanic": 39.8
+    },
+    "education": {
+      "lessThanHighSchool": 41.7,
+      "highSchool": 30.7,
+      "someCollege": 14,
+      "associates": 5.6,
+      "bachelors": 6.7,
+      "graduate": 1.4
+    },
+    "medianIncome": 76605,
+    "meanIncome": 93729
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "48",
+    "name": "Galveston County, Texas",
+    "population": 354721,
+    "medianAge": 38.5,
+    "race": {
+      "white": 64.5,
+      "black": 12.4,
+      "asian": 3.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 15.1,
+      "hispanic": 25.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 23.1,
+      "someCollege": 23,
+      "associates": 9.4,
+      "bachelors": 22.9,
+      "graduate": 11.4
+    },
+    "medianIncome": 85348,
+    "meanIncome": 112903
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "48",
+    "name": "Garza County, Texas",
+    "population": 5435,
+    "medianAge": 38.4,
+    "race": {
+      "white": 61.1,
+      "black": 10.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 10.3,
+      "twoOrMore": 17.2,
+      "hispanic": 50
+    },
+    "education": {
+      "lessThanHighSchool": 31.9,
+      "highSchool": 33,
+      "someCollege": 22.3,
+      "associates": 2.1,
+      "bachelors": 7.3,
+      "graduate": 3.4
+    },
+    "medianIncome": 50545,
+    "meanIncome": 68426
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "48",
+    "name": "Gillespie County, Texas",
+    "population": 27202,
+    "medianAge": 50.5,
+    "race": {
+      "white": 84.9,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.3,
+      "other": 4.7,
+      "twoOrMore": 8.8,
+      "hispanic": 22.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 24.7,
+      "someCollege": 21.3,
+      "associates": 8,
+      "bachelors": 22.3,
+      "graduate": 13.1
+    },
+    "medianIncome": 67799,
+    "meanIncome": 101721
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "48",
+    "name": "Glasscock County, Texas",
+    "population": 1070,
+    "medianAge": 40.6,
+    "race": {
+      "white": 68.1,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 28.6,
+      "hispanic": 27.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 14.4,
+      "someCollege": 29.5,
+      "associates": 3.8,
+      "bachelors": 32.7,
+      "graduate": 7.2
+    },
+    "medianIncome": 106806,
+    "meanIncome": 129098
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "48",
+    "name": "Goliad County, Texas",
+    "population": 7096,
+    "medianAge": 44.8,
+    "race": {
+      "white": 75.2,
+      "black": 5.1,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 16.3,
+      "hispanic": 32.2
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 29.9,
+      "someCollege": 22,
+      "associates": 13.2,
+      "bachelors": 13.2,
+      "graduate": 5.8
+    },
+    "medianIncome": 59556,
+    "meanIncome": 97209
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "48",
+    "name": "Gonzales County, Texas",
+    "population": 19764,
+    "medianAge": 38.8,
+    "race": {
+      "white": 64.9,
+      "black": 6.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.5,
+      "other": 7.9,
+      "twoOrMore": 19.7,
+      "hispanic": 50.8
+    },
+    "education": {
+      "lessThanHighSchool": 23,
+      "highSchool": 39.1,
+      "someCollege": 18.3,
+      "associates": 7,
+      "bachelors": 9,
+      "graduate": 3.6
+    },
+    "medianIncome": 59355,
+    "meanIncome": 80607
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "48",
+    "name": "Gray County, Texas",
+    "population": 21131,
+    "medianAge": 36.8,
+    "race": {
+      "white": 77.9,
+      "black": 4.6,
+      "asian": 1.1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.2,
+      "other": 8.5,
+      "twoOrMore": 6.5,
+      "hispanic": 30.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 36.1,
+      "someCollege": 24.2,
+      "associates": 9,
+      "bachelors": 12.1,
+      "graduate": 3.3
+    },
+    "medianIncome": 56082,
+    "meanIncome": 80830
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "48",
+    "name": "Grayson County, Texas",
+    "population": 139988,
+    "medianAge": 39.4,
+    "race": {
+      "white": 78.9,
+      "black": 5.4,
+      "asian": 1.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 3.3,
+      "twoOrMore": 10.5,
+      "hispanic": 15.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 31.1,
+      "someCollege": 25,
+      "associates": 10.7,
+      "bachelors": 16,
+      "graduate": 7.7
+    },
+    "medianIncome": 70455,
+    "meanIncome": 94814
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "48",
+    "name": "Gregg County, Texas",
+    "population": 124860,
+    "medianAge": 35.9,
+    "race": {
+      "white": 60.9,
+      "black": 19.6,
+      "asian": 1.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 15.8,
+      "hispanic": 19.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 28.3,
+      "someCollege": 26.7,
+      "associates": 9.4,
+      "bachelors": 15.3,
+      "graduate": 7.1
+    },
+    "medianIncome": 64809,
+    "meanIncome": 88513
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "48",
+    "name": "Grimes County, Texas",
+    "population": 30385,
+    "medianAge": 40.5,
+    "race": {
+      "white": 63.5,
+      "black": 11.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 8.9,
+      "twoOrMore": 14.9,
+      "hispanic": 25.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 30.8,
+      "someCollege": 23.2,
+      "associates": 8.5,
+      "bachelors": 12.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 67080,
+    "meanIncome": 93263
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "48",
+    "name": "Guadalupe County, Texas",
+    "population": 178368,
+    "medianAge": 37.5,
+    "race": {
+      "white": 60.6,
+      "black": 8,
+      "asian": 1.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 7.5,
+      "twoOrMore": 21.8,
+      "hispanic": 38.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 28.6,
+      "someCollege": 20.5,
+      "associates": 9.3,
+      "bachelors": 20.4,
+      "graduate": 10.5
+    },
+    "medianIncome": 93776,
+    "meanIncome": 110416
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "48",
+    "name": "Hale County, Texas",
+    "population": 32247,
+    "medianAge": 34.1,
+    "race": {
+      "white": 62.9,
+      "black": 4.1,
+      "asian": 0.6,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0.1,
+      "other": 12.7,
+      "twoOrMore": 17.9,
+      "hispanic": 60.8
+    },
+    "education": {
+      "lessThanHighSchool": 24.9,
+      "highSchool": 33.3,
+      "someCollege": 19.3,
+      "associates": 6.9,
+      "bachelors": 9.6,
+      "graduate": 6
+    },
+    "medianIncome": 52788,
+    "meanIncome": 67864
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "48",
+    "name": "Hall County, Texas",
+    "population": 2827,
+    "medianAge": 44.9,
+    "race": {
+      "white": 62.7,
+      "black": 5,
+      "asian": 0.4,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 14.5,
+      "twoOrMore": 16.3,
+      "hispanic": 34.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 34.6,
+      "someCollege": 21.2,
+      "associates": 9.7,
+      "bachelors": 12.9,
+      "graduate": 4.9
+    },
+    "medianIncome": 46728,
+    "meanIncome": 62557
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "48",
+    "name": "Hamilton County, Texas",
+    "population": 8320,
+    "medianAge": 43.8,
+    "race": {
+      "white": 86.8,
+      "black": 1.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 9.4,
+      "hispanic": 13.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 35.5,
+      "someCollege": 20.4,
+      "associates": 8.2,
+      "bachelors": 18.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 55339,
+    "meanIncome": 88821
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "48",
+    "name": "Hansford County, Texas",
+    "population": 5182,
+    "medianAge": 35.9,
+    "race": {
+      "white": 71.2,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 22.9,
+      "hispanic": 49.7
+    },
+    "education": {
+      "lessThanHighSchool": 25.4,
+      "highSchool": 21.7,
+      "someCollege": 16.2,
+      "associates": 6.4,
+      "bachelors": 23.3,
+      "graduate": 7.1
+    },
+    "medianIncome": 68299,
+    "meanIncome": 92246
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "48",
+    "name": "Hardeman County, Texas",
+    "population": 3529,
+    "medianAge": 44.3,
+    "race": {
+      "white": 77.8,
+      "black": 3.4,
+      "asian": 1.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 12.9,
+      "hispanic": 26.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 34,
+      "someCollege": 27.6,
+      "associates": 9,
+      "bachelors": 12.3,
+      "graduate": 2.8
+    },
+    "medianIncome": 61179,
+    "meanIncome": 72735
+  },
+  {
+    "countyFips": "199",
+    "stateFips": "48",
+    "name": "Hardin County, Texas",
+    "population": 57126,
+    "medianAge": 39.3,
+    "race": {
+      "white": 85.5,
+      "black": 6.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 6.3,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 37.3,
+      "someCollege": 23.1,
+      "associates": 8.7,
+      "bachelors": 15.8,
+      "graduate": 5
+    },
+    "medianIncome": 72532,
+    "meanIncome": 94057
+  },
+  {
+    "countyFips": "201",
+    "stateFips": "48",
+    "name": "Harris County, Texas",
+    "population": 4758579,
+    "medianAge": 34.4,
+    "race": {
+      "white": 40.1,
+      "black": 19.1,
+      "asian": 7.2,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 13.1,
+      "twoOrMore": 19.5,
+      "hispanic": 43.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 22.7,
+      "someCollege": 18.8,
+      "associates": 7.2,
+      "bachelors": 21,
+      "graduate": 12.8
+    },
+    "medianIncome": 73104,
+    "meanIncome": 108784
+  },
+  {
+    "countyFips": "203",
+    "stateFips": "48",
+    "name": "Harrison County, Texas",
+    "population": 69584,
+    "medianAge": 38.9,
+    "race": {
+      "white": 65.1,
+      "black": 20.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 8.3,
+      "hispanic": 14.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 32.5,
+      "someCollege": 25,
+      "associates": 9.2,
+      "bachelors": 15.3,
+      "graduate": 7.2
+    },
+    "medianIncome": 66040,
+    "meanIncome": 83262
+  },
+  {
+    "countyFips": "205",
+    "stateFips": "48",
+    "name": "Hartley County, Texas",
+    "population": 5307,
+    "medianAge": 39.5,
+    "race": {
+      "white": 68.6,
+      "black": 6.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.2,
+      "other": 4,
+      "twoOrMore": 19.4,
+      "hispanic": 30.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 34.9,
+      "someCollege": 19.1,
+      "associates": 6.1,
+      "bachelors": 14.4,
+      "graduate": 8.7
+    },
+    "medianIncome": 82122,
+    "meanIncome": 101180
+  },
+  {
+    "countyFips": "207",
+    "stateFips": "48",
+    "name": "Haskell County, Texas",
+    "population": 5390,
+    "medianAge": 44.3,
+    "race": {
+      "white": 78.3,
+      "black": 6.1,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 7.5,
+      "twoOrMore": 7.8,
+      "hispanic": 26
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 35,
+      "someCollege": 21,
+      "associates": 4.8,
+      "bachelors": 13.4,
+      "graduate": 9.1
+    },
+    "medianIncome": 54044,
+    "meanIncome": 91500
+  },
+  {
+    "countyFips": "209",
+    "stateFips": "48",
+    "name": "Hays County, Texas",
+    "population": 256429,
+    "medianAge": 33.9,
+    "race": {
+      "white": 66.5,
+      "black": 4.1,
+      "asian": 1.9,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 6.2,
+      "twoOrMore": 20.4,
+      "hispanic": 39.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 21.2,
+      "someCollege": 21.4,
+      "associates": 7,
+      "bachelors": 27.1,
+      "graduate": 14.8
+    },
+    "medianIncome": 85827,
+    "meanIncome": 112348
+  },
+  {
+    "countyFips": "211",
+    "stateFips": "48",
+    "name": "Hemphill County, Texas",
+    "population": 3311,
+    "medianAge": 41.3,
+    "race": {
+      "white": 74.7,
+      "black": 2.1,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 12.4,
+      "twoOrMore": 10.4,
+      "hispanic": 33.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 32.9,
+      "someCollege": 17.4,
+      "associates": 9.8,
+      "bachelors": 20.8,
+      "graduate": 3.7
+    },
+    "medianIncome": 72052,
+    "meanIncome": 111954
+  },
+  {
+    "countyFips": "213",
+    "stateFips": "48",
+    "name": "Henderson County, Texas",
+    "population": 83658,
+    "medianAge": 43.8,
+    "race": {
+      "white": 80.5,
+      "black": 5.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 10.9,
+      "hispanic": 14.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 33.6,
+      "someCollege": 24.5,
+      "associates": 9.2,
+      "bachelors": 13.3,
+      "graduate": 6.9
+    },
+    "medianIncome": 63955,
+    "meanIncome": 85410
+  },
+  {
+    "countyFips": "215",
+    "stateFips": "48",
+    "name": "Hidalgo County, Texas",
+    "population": 880921,
+    "medianAge": 30.3,
+    "race": {
+      "white": 39.5,
+      "black": 0.7,
+      "asian": 1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 10.8,
+      "twoOrMore": 47.6,
+      "hispanic": 91.9
+    },
+    "education": {
+      "lessThanHighSchool": 30.7,
+      "highSchool": 25.2,
+      "someCollege": 18.3,
+      "associates": 5.6,
+      "bachelors": 13.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 52281,
+    "meanIncome": 71722
+  },
+  {
+    "countyFips": "217",
+    "stateFips": "48",
+    "name": "Hill County, Texas",
+    "population": 36664,
+    "medianAge": 40.8,
+    "race": {
+      "white": 78.1,
+      "black": 6.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 8,
+      "twoOrMore": 6.3,
+      "hispanic": 22.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 34.2,
+      "someCollege": 23.7,
+      "associates": 10.6,
+      "bachelors": 12.1,
+      "graduate": 6.4
+    },
+    "medianIncome": 63147,
+    "meanIncome": 80154
+  },
+  {
+    "countyFips": "219",
+    "stateFips": "48",
+    "name": "Hockley County, Texas",
+    "population": 21455,
+    "medianAge": 35.8,
+    "race": {
+      "white": 63.1,
+      "black": 3.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 7.3,
+      "twoOrMore": 25.4,
+      "hispanic": 49.6
+    },
+    "education": {
+      "lessThanHighSchool": 20.1,
+      "highSchool": 28.5,
+      "someCollege": 23.9,
+      "associates": 9.3,
+      "bachelors": 12.7,
+      "graduate": 5.6
+    },
+    "medianIncome": 54810,
+    "meanIncome": 77012
+  },
+  {
+    "countyFips": "221",
+    "stateFips": "48",
+    "name": "Hood County, Texas",
+    "population": 64198,
+    "medianAge": 46.3,
+    "race": {
+      "white": 85.9,
+      "black": 1.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 9.1,
+      "hispanic": 13.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 27.9,
+      "someCollege": 24.6,
+      "associates": 7.3,
+      "bachelors": 22.6,
+      "graduate": 9.8
+    },
+    "medianIncome": 86802,
+    "meanIncome": 112569
+  },
+  {
+    "countyFips": "223",
+    "stateFips": "48",
+    "name": "Hopkins County, Texas",
+    "population": 37351,
+    "medianAge": 39.6,
+    "race": {
+      "white": 80.4,
+      "black": 7.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 4.1,
+      "twoOrMore": 7,
+      "hispanic": 18.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 34,
+      "someCollege": 23,
+      "associates": 7.6,
+      "bachelors": 13.5,
+      "graduate": 6.5
+    },
+    "medianIncome": 64725,
+    "meanIncome": 86649
+  },
+  {
+    "countyFips": "225",
+    "stateFips": "48",
+    "name": "Houston County, Texas",
+    "population": 22042,
+    "medianAge": 44,
+    "race": {
+      "white": 63.1,
+      "black": 22.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 9.5,
+      "hispanic": 14
+    },
+    "education": {
+      "lessThanHighSchool": 17.3,
+      "highSchool": 37.8,
+      "someCollege": 22.4,
+      "associates": 7,
+      "bachelors": 10.8,
+      "graduate": 4.7
+    },
+    "medianIncome": 54563,
+    "meanIncome": 75378
+  },
+  {
+    "countyFips": "227",
+    "stateFips": "48",
+    "name": "Howard County, Texas",
+    "population": 33127,
+    "medianAge": 37,
+    "race": {
+      "white": 69.4,
+      "black": 5.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 7.5,
+      "twoOrMore": 15.8,
+      "hispanic": 46.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.8,
+      "highSchool": 33.2,
+      "someCollege": 24.1,
+      "associates": 8.6,
+      "bachelors": 10.5,
+      "graduate": 4.9
+    },
+    "medianIncome": 71457,
+    "meanIncome": 91958
+  },
+  {
+    "countyFips": "229",
+    "stateFips": "48",
+    "name": "Hudspeth County, Texas",
+    "population": 3331,
+    "medianAge": 33.2,
+    "race": {
+      "white": 36.6,
+      "black": 0.8,
+      "asian": 0,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 9,
+      "twoOrMore": 52.5,
+      "hispanic": 65.5
+    },
+    "education": {
+      "lessThanHighSchool": 40.1,
+      "highSchool": 25,
+      "someCollege": 16.9,
+      "associates": 5.7,
+      "bachelors": 10.8,
+      "graduate": 1.6
+    },
+    "medianIncome": 39336,
+    "meanIncome": 57117
+  },
+  {
+    "countyFips": "231",
+    "stateFips": "48",
+    "name": "Hunt County, Texas",
+    "population": 104917,
+    "medianAge": 37.2,
+    "race": {
+      "white": 73.2,
+      "black": 8,
+      "asian": 1.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 7.4,
+      "twoOrMore": 9.5,
+      "hispanic": 20.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 33.6,
+      "someCollege": 23.8,
+      "associates": 7,
+      "bachelors": 14.4,
+      "graduate": 7.5
+    },
+    "medianIncome": 70112,
+    "meanIncome": 88486
+  },
+  {
+    "countyFips": "233",
+    "stateFips": "48",
+    "name": "Hutchinson County, Texas",
+    "population": 20413,
+    "medianAge": 38.1,
+    "race": {
+      "white": 74,
+      "black": 2.4,
+      "asian": 0.7,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0.2,
+      "other": 5.5,
+      "twoOrMore": 15.4,
+      "hispanic": 24.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 32,
+      "someCollege": 28.8,
+      "associates": 9,
+      "bachelors": 12,
+      "graduate": 4
+    },
+    "medianIncome": 65470,
+    "meanIncome": 84741
+  },
+  {
+    "countyFips": "235",
+    "stateFips": "48",
+    "name": "Irion County, Texas",
+    "population": 1432,
+    "medianAge": 50.5,
+    "race": {
+      "white": 69.3,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 24.2,
+      "twoOrMore": 6.1,
+      "hispanic": 29.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 26,
+      "someCollege": 32.6,
+      "associates": 8.5,
+      "bachelors": 19.2,
+      "graduate": 2.9
+    },
+    "medianIncome": 58125,
+    "meanIncome": 78001
+  },
+  {
+    "countyFips": "237",
+    "stateFips": "48",
+    "name": "Jack County, Texas",
+    "population": 8623,
+    "medianAge": 41.3,
+    "race": {
+      "white": 87.1,
+      "black": 3.5,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 6,
+      "hispanic": 18.4
+    },
+    "education": {
+      "lessThanHighSchool": 19.8,
+      "highSchool": 33.1,
+      "someCollege": 24.6,
+      "associates": 7,
+      "bachelors": 11.2,
+      "graduate": 4.3
+    },
+    "medianIncome": 65693,
+    "meanIncome": 87701
+  },
+  {
+    "countyFips": "239",
+    "stateFips": "48",
+    "name": "Jackson County, Texas",
+    "population": 15081,
+    "medianAge": 42.1,
+    "race": {
+      "white": 72.5,
+      "black": 5.9,
+      "asian": 2.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 7.5,
+      "twoOrMore": 11.9,
+      "hispanic": 32.8
+    },
+    "education": {
+      "lessThanHighSchool": 17,
+      "highSchool": 36.8,
+      "someCollege": 21.6,
+      "associates": 8.7,
+      "bachelors": 12.1,
+      "graduate": 3.8
+    },
+    "medianIncome": 61752,
+    "meanIncome": 84901
+  },
+  {
+    "countyFips": "241",
+    "stateFips": "48",
+    "name": "Jasper County, Texas",
+    "population": 32807,
+    "medianAge": 42.5,
+    "race": {
+      "white": 74.9,
+      "black": 15.4,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 6.1,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 46.1,
+      "someCollege": 22.4,
+      "associates": 7.3,
+      "bachelors": 8.6,
+      "graduate": 4
+    },
+    "medianIncome": 49919,
+    "meanIncome": 74872
+  },
+  {
+    "countyFips": "243",
+    "stateFips": "48",
+    "name": "Jeff Davis County, Texas",
+    "population": 1740,
+    "medianAge": 58.7,
+    "race": {
+      "white": 72.1,
+      "black": 0.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 23.9,
+      "hispanic": 31
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 13.6,
+      "someCollege": 36,
+      "associates": 6.6,
+      "bachelors": 18.9,
+      "graduate": 11.5
+    },
+    "medianIncome": 32625,
+    "meanIncome": 73186
+  },
+  {
+    "countyFips": "245",
+    "stateFips": "48",
+    "name": "Jefferson County, Texas",
+    "population": 253939,
+    "medianAge": 37.1,
+    "race": {
+      "white": 44.1,
+      "black": 33.1,
+      "asian": 3.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 6.6,
+      "twoOrMore": 11.9,
+      "hispanic": 23.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 32.4,
+      "someCollege": 23.1,
+      "associates": 10,
+      "bachelors": 13.3,
+      "graduate": 6.2
+    },
+    "medianIncome": 59934,
+    "meanIncome": 84558
+  },
+  {
+    "countyFips": "247",
+    "stateFips": "48",
+    "name": "Jim Hogg County, Texas",
+    "population": 4797,
+    "medianAge": 25,
+    "race": {
+      "white": 55.5,
+      "black": 0.5,
+      "asian": 1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 40,
+      "hispanic": 78.3
+    },
+    "education": {
+      "lessThanHighSchool": 21.2,
+      "highSchool": 40.9,
+      "someCollege": 17.5,
+      "associates": 1.4,
+      "bachelors": 13.8,
+      "graduate": 5.2
+    },
+    "medianIncome": 42230,
+    "meanIncome": 60903
+  },
+  {
+    "countyFips": "249",
+    "stateFips": "48",
+    "name": "Jim Wells County, Texas",
+    "population": 38863,
+    "medianAge": 35.5,
+    "race": {
+      "white": 78.4,
+      "black": 0.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 4.4,
+      "twoOrMore": 15.2,
+      "hispanic": 79.4
+    },
+    "education": {
+      "lessThanHighSchool": 20.8,
+      "highSchool": 37.3,
+      "someCollege": 20.8,
+      "associates": 6,
+      "bachelors": 11.3,
+      "graduate": 3.8
+    },
+    "medianIncome": 47492,
+    "meanIncome": 70198
+  },
+  {
+    "countyFips": "251",
+    "stateFips": "48",
+    "name": "Johnson County, Texas",
+    "population": 188820,
+    "medianAge": 37.2,
+    "race": {
+      "white": 75.9,
+      "black": 4.9,
+      "asian": 1.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 5.2,
+      "twoOrMore": 12.3,
+      "hispanic": 24.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 34,
+      "someCollege": 22,
+      "associates": 7.4,
+      "bachelors": 16.4,
+      "graduate": 7.1
+    },
+    "medianIncome": 81826,
+    "meanIncome": 99310
+  },
+  {
+    "countyFips": "253",
+    "stateFips": "48",
+    "name": "Jones County, Texas",
+    "population": 19968,
+    "medianAge": 39,
+    "race": {
+      "white": 65.7,
+      "black": 10.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 9.1,
+      "twoOrMore": 13.6,
+      "hispanic": 28.4
+    },
+    "education": {
+      "lessThanHighSchool": 18.9,
+      "highSchool": 38.6,
+      "someCollege": 21.6,
+      "associates": 9.6,
+      "bachelors": 8.7,
+      "graduate": 2.5
+    },
+    "medianIncome": 63472,
+    "meanIncome": 77333
+  },
+  {
+    "countyFips": "255",
+    "stateFips": "48",
+    "name": "Karnes County, Texas",
+    "population": 14819,
+    "medianAge": 37.1,
+    "race": {
+      "white": 59,
+      "black": 7.2,
+      "asian": 1.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 7.8,
+      "twoOrMore": 23.9,
+      "hispanic": 53.1
+    },
+    "education": {
+      "lessThanHighSchool": 22.8,
+      "highSchool": 36.8,
+      "someCollege": 16.7,
+      "associates": 7.7,
+      "bachelors": 10.5,
+      "graduate": 5.5
+    },
+    "medianIncome": 59103,
+    "meanIncome": 88349
+  },
+  {
+    "countyFips": "257",
+    "stateFips": "48",
+    "name": "Kaufman County, Texas",
+    "population": 160718,
+    "medianAge": 34.2,
+    "race": {
+      "white": 60,
+      "black": 16.8,
+      "asian": 1.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 15.4,
+      "hispanic": 26.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 29,
+      "someCollege": 22.9,
+      "associates": 9.1,
+      "bachelors": 18.2,
+      "graduate": 7.1
+    },
+    "medianIncome": 88606,
+    "meanIncome": 104547
+  },
+  {
+    "countyFips": "259",
+    "stateFips": "48",
+    "name": "Kendall County, Texas",
+    "population": 46971,
+    "medianAge": 43.1,
+    "race": {
+      "white": 77.8,
+      "black": 0.9,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 6,
+      "twoOrMore": 14.1,
+      "hispanic": 23.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 16.6,
+      "someCollege": 20.4,
+      "associates": 7.5,
+      "bachelors": 31.6,
+      "graduate": 17.6
+    },
+    "medianIncome": 110498,
+    "meanIncome": 155655
+  },
+  {
+    "countyFips": "261",
+    "stateFips": "48",
+    "name": "Kenedy County, Texas",
+    "population": 52,
+    "medianAge": 65.5,
+    "race": {
+      "white": 19.2,
+      "black": 0,
+      "asian": 1.9,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 76.9,
+      "hispanic": 90.4
+    },
+    "education": {
+      "lessThanHighSchool": 53.2,
+      "highSchool": 19.1,
+      "someCollege": 17,
+      "associates": 0,
+      "bachelors": 8.5,
+      "graduate": 2.1
+    },
+    "medianIncome": -666666666,
+    "meanIncome": 74447
+  },
+  {
+    "countyFips": "263",
+    "stateFips": "48",
+    "name": "Kent County, Texas",
+    "population": 727,
+    "medianAge": 57.6,
+    "race": {
+      "white": 87.3,
+      "black": 0.8,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 9.4,
+      "hispanic": 11.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 25.1,
+      "someCollege": 27.3,
+      "associates": 10.6,
+      "bachelors": 14.3,
+      "graduate": 12.6
+    },
+    "medianIncome": 71420,
+    "meanIncome": 86324
+  },
+  {
+    "countyFips": "265",
+    "stateFips": "48",
+    "name": "Kerr County, Texas",
+    "population": 53166,
+    "medianAge": 48.6,
+    "race": {
+      "white": 77.3,
+      "black": 1.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 6.4,
+      "twoOrMore": 13.2,
+      "hispanic": 26.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 29.1,
+      "someCollege": 21.5,
+      "associates": 8.5,
+      "bachelors": 19.5,
+      "graduate": 11.7
+    },
+    "medianIncome": 67927,
+    "meanIncome": 94608
+  },
+  {
+    "countyFips": "267",
+    "stateFips": "48",
+    "name": "Kimble County, Texas",
+    "population": 4355,
+    "medianAge": 50.3,
+    "race": {
+      "white": 79,
+      "black": 2.3,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 14.3,
+      "hispanic": 25.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 29.3,
+      "someCollege": 22.5,
+      "associates": 5.7,
+      "bachelors": 16.7,
+      "graduate": 9
+    },
+    "medianIncome": 65703,
+    "meanIncome": 86848
+  },
+  {
+    "countyFips": "269",
+    "stateFips": "48",
+    "name": "King County, Texas",
+    "population": 189,
+    "medianAge": 49.1,
+    "race": {
+      "white": 81,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 18,
+      "hispanic": 25.9
+    },
+    "education": {
+      "lessThanHighSchool": 20.1,
+      "highSchool": 25.3,
+      "someCollege": 18.2,
+      "associates": 0,
+      "bachelors": 31.8,
+      "graduate": 4.5
+    },
+    "medianIncome": 70192,
+    "meanIncome": 73751
+  },
+  {
+    "countyFips": "271",
+    "stateFips": "48",
+    "name": "Kinney County, Texas",
+    "population": 3140,
+    "medianAge": 50.4,
+    "race": {
+      "white": 71.9,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 2.9,
+      "pacificIslander": 0,
+      "other": 7.3,
+      "twoOrMore": 17.7,
+      "hispanic": 53.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 24.9,
+      "someCollege": 34,
+      "associates": 10.3,
+      "bachelors": 10.5,
+      "graduate": 9
+    },
+    "medianIncome": 66341,
+    "meanIncome": 71116
+  },
+  {
+    "countyFips": "273",
+    "stateFips": "48",
+    "name": "Kleberg County, Texas",
+    "population": 30629,
+    "medianAge": 29.3,
+    "race": {
+      "white": 53.4,
+      "black": 3.4,
+      "asian": 1.3,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 5.2,
+      "twoOrMore": 35.6,
+      "hispanic": 71.3
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 32.8,
+      "someCollege": 21.3,
+      "associates": 5.9,
+      "bachelors": 15,
+      "graduate": 8.7
+    },
+    "medianIncome": 57612,
+    "meanIncome": 71503
+  },
+  {
+    "countyFips": "275",
+    "stateFips": "48",
+    "name": "Knox County, Texas",
+    "population": 3322,
+    "medianAge": 40.5,
+    "race": {
+      "white": 71.5,
+      "black": 4,
+      "asian": 1.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 6.7,
+      "twoOrMore": 15.8,
+      "hispanic": 33.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 37,
+      "someCollege": 26.1,
+      "associates": 6.5,
+      "bachelors": 11,
+      "graduate": 4.6
+    },
+    "medianIncome": 56304,
+    "meanIncome": 71418
+  },
+  {
+    "countyFips": "277",
+    "stateFips": "48",
+    "name": "Lamar County, Texas",
+    "population": 50421,
+    "medianAge": 40,
+    "race": {
+      "white": 77.1,
+      "black": 12.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.2,
+      "other": 1.8,
+      "twoOrMore": 6.8,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 33.8,
+      "someCollege": 23.5,
+      "associates": 10.1,
+      "bachelors": 13.8,
+      "graduate": 6.8
+    },
+    "medianIncome": 61122,
+    "meanIncome": 78269
+  },
+  {
+    "countyFips": "279",
+    "stateFips": "48",
+    "name": "Lamb County, Texas",
+    "population": 12919,
+    "medianAge": 36.6,
+    "race": {
+      "white": 71.3,
+      "black": 3,
+      "asian": 0.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.3,
+      "other": 4.7,
+      "twoOrMore": 19.4,
+      "hispanic": 57.6
+    },
+    "education": {
+      "lessThanHighSchool": 22.6,
+      "highSchool": 34.1,
+      "someCollege": 19.8,
+      "associates": 9.2,
+      "bachelors": 9.9,
+      "graduate": 4.3
+    },
+    "medianIncome": 56997,
+    "meanIncome": 71174
+  },
+  {
+    "countyFips": "281",
+    "stateFips": "48",
+    "name": "Lampasas County, Texas",
+    "population": 22267,
+    "medianAge": 43.9,
+    "race": {
+      "white": 77.3,
+      "black": 4.1,
+      "asian": 1.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 13.6,
+      "hispanic": 20.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 29.8,
+      "someCollege": 29,
+      "associates": 9.9,
+      "bachelors": 15.1,
+      "graduate": 6.5
+    },
+    "medianIncome": 76919,
+    "meanIncome": 94987
+  },
+  {
+    "countyFips": "283",
+    "stateFips": "48",
+    "name": "La Salle County, Texas",
+    "population": 6946,
+    "medianAge": 38.8,
+    "race": {
+      "white": 42.7,
+      "black": 3.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 16.2,
+      "twoOrMore": 36.7,
+      "hispanic": 81
+    },
+    "education": {
+      "lessThanHighSchool": 36.1,
+      "highSchool": 42.2,
+      "someCollege": 11.4,
+      "associates": 2.2,
+      "bachelors": 3.9,
+      "graduate": 4.2
+    },
+    "medianIncome": 55469,
+    "meanIncome": 63560
+  },
+  {
+    "countyFips": "285",
+    "stateFips": "48",
+    "name": "Lavaca County, Texas",
+    "population": 20479,
+    "medianAge": 43.1,
+    "race": {
+      "white": 75.6,
+      "black": 4,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 10.5,
+      "twoOrMore": 9.3,
+      "hispanic": 19.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 37.6,
+      "someCollege": 20.7,
+      "associates": 7.9,
+      "bachelors": 14.9,
+      "graduate": 6
+    },
+    "medianIncome": 61768,
+    "meanIncome": 85705
+  },
+  {
+    "countyFips": "287",
+    "stateFips": "48",
+    "name": "Lee County, Texas",
+    "population": 17758,
+    "medianAge": 41.4,
+    "race": {
+      "white": 74.3,
+      "black": 10.4,
+      "asian": 0.1,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 10.2,
+      "hispanic": 26.2
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 37.9,
+      "someCollege": 19.3,
+      "associates": 7.3,
+      "bachelors": 14,
+      "graduate": 4.7
+    },
+    "medianIncome": 66000,
+    "meanIncome": 79410
+  },
+  {
+    "countyFips": "289",
+    "stateFips": "48",
+    "name": "Leon County, Texas",
+    "population": 16067,
+    "medianAge": 44.3,
+    "race": {
+      "white": 80,
+      "black": 7.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 6.2,
+      "hispanic": 16.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 38.3,
+      "someCollege": 24.7,
+      "associates": 6.3,
+      "bachelors": 10.8,
+      "graduate": 6.2
+    },
+    "medianIncome": 59975,
+    "meanIncome": 78251
+  },
+  {
+    "countyFips": "291",
+    "stateFips": "48",
+    "name": "Liberty County, Texas",
+    "population": 97993,
+    "medianAge": 33.3,
+    "race": {
+      "white": 63,
+      "black": 8.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 14.2,
+      "twoOrMore": 13.3,
+      "hispanic": 36.9
+    },
+    "education": {
+      "lessThanHighSchool": 21.9,
+      "highSchool": 38.2,
+      "someCollege": 21.3,
+      "associates": 7.4,
+      "bachelors": 8.2,
+      "graduate": 3.1
+    },
+    "medianIncome": 64773,
+    "meanIncome": 84108
+  },
+  {
+    "countyFips": "293",
+    "stateFips": "48",
+    "name": "Limestone County, Texas",
+    "population": 22185,
+    "medianAge": 42,
+    "race": {
+      "white": 61.1,
+      "black": 17.2,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 18.6,
+      "hispanic": 23.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 31.4,
+      "someCollege": 24.8,
+      "associates": 10.3,
+      "bachelors": 13.5,
+      "graduate": 5.6
+    },
+    "medianIncome": 58109,
+    "meanIncome": 72269
+  },
+  {
+    "countyFips": "295",
+    "stateFips": "48",
+    "name": "Lipscomb County, Texas",
+    "population": 2964,
+    "medianAge": 37.4,
+    "race": {
+      "white": 70.1,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.5,
+      "other": 15.8,
+      "twoOrMore": 12.8,
+      "hispanic": 36.9
+    },
+    "education": {
+      "lessThanHighSchool": 16.5,
+      "highSchool": 28.4,
+      "someCollege": 21.4,
+      "associates": 8.3,
+      "bachelors": 20.1,
+      "graduate": 5.3
+    },
+    "medianIncome": 71442,
+    "meanIncome": 91227
+  },
+  {
+    "countyFips": "297",
+    "stateFips": "48",
+    "name": "Live Oak County, Texas",
+    "population": 11444,
+    "medianAge": 38.6,
+    "race": {
+      "white": 77,
+      "black": 2.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.5,
+      "other": 3.3,
+      "twoOrMore": 16.1,
+      "hispanic": 42.1
+    },
+    "education": {
+      "lessThanHighSchool": 23.1,
+      "highSchool": 29.4,
+      "someCollege": 25.6,
+      "associates": 8.1,
+      "bachelors": 8.8,
+      "graduate": 5
+    },
+    "medianIncome": 53869,
+    "meanIncome": 76267
+  },
+  {
+    "countyFips": "299",
+    "stateFips": "48",
+    "name": "Llano County, Texas",
+    "population": 22011,
+    "medianAge": 57.5,
+    "race": {
+      "white": 87.8,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 8,
+      "hispanic": 12.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 27.5,
+      "someCollege": 24.5,
+      "associates": 6.9,
+      "bachelors": 22.9,
+      "graduate": 10.1
+    },
+    "medianIncome": 65636,
+    "meanIncome": 112454
+  },
+  {
+    "countyFips": "301",
+    "stateFips": "48",
+    "name": "Loving County, Texas",
+    "population": 54,
+    "medianAge": 68.9,
+    "race": {
+      "white": 90.7,
+      "black": 0,
+      "asian": 9.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 0,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 21.2,
+      "someCollege": 19.2,
+      "associates": 53.8,
+      "bachelors": 0,
+      "graduate": 0
+    },
+    "medianIncome": 51087,
+    "meanIncome": 122464
+  },
+  {
+    "countyFips": "303",
+    "stateFips": "48",
+    "name": "Lubbock County, Texas",
+    "population": 314633,
+    "medianAge": 31.7,
+    "race": {
+      "white": 66.8,
+      "black": 7.4,
+      "asian": 2.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 7.2,
+      "twoOrMore": 15.6,
+      "hispanic": 35.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 25.5,
+      "someCollege": 22.4,
+      "associates": 7.5,
+      "bachelors": 20.1,
+      "graduate": 13.2
+    },
+    "medianIncome": 63367,
+    "meanIncome": 88862
+  },
+  {
+    "countyFips": "305",
+    "stateFips": "48",
+    "name": "Lynn County, Texas",
+    "population": 5667,
+    "medianAge": 37.2,
+    "race": {
+      "white": 64.7,
+      "black": 1.6,
+      "asian": 0.5,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.1,
+      "other": 8.3,
+      "twoOrMore": 23.7,
+      "hispanic": 41.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 27.9,
+      "someCollege": 22.2,
+      "associates": 8.4,
+      "bachelors": 15.6,
+      "graduate": 8.7
+    },
+    "medianIncome": 57411,
+    "meanIncome": 86918
+  },
+  {
+    "countyFips": "307",
+    "stateFips": "48",
+    "name": "McCulloch County, Texas",
+    "population": 7565,
+    "medianAge": 47.1,
+    "race": {
+      "white": 74.8,
+      "black": 0.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 19.4,
+      "hispanic": 30.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 33,
+      "someCollege": 23.5,
+      "associates": 6.7,
+      "bachelors": 13.4,
+      "graduate": 6.2
+    },
+    "medianIncome": 51919,
+    "meanIncome": 70413
+  },
+  {
+    "countyFips": "309",
+    "stateFips": "48",
+    "name": "McLennan County, Texas",
+    "population": 263608,
+    "medianAge": 34,
+    "race": {
+      "white": 63.7,
+      "black": 14.1,
+      "asian": 1.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 16.4,
+      "hispanic": 26.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 27.3,
+      "someCollege": 22.7,
+      "associates": 10.3,
+      "bachelors": 16.8,
+      "graduate": 11
+    },
+    "medianIncome": 63888,
+    "meanIncome": 88079
+  },
+  {
+    "countyFips": "311",
+    "stateFips": "48",
+    "name": "McMullen County, Texas",
+    "population": 623,
+    "medianAge": 32.6,
+    "race": {
+      "white": 61.6,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 32.1,
+      "hispanic": 54.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 44.1,
+      "someCollege": 22.6,
+      "associates": 6.8,
+      "bachelors": 13.8,
+      "graduate": 1.1
+    },
+    "medianIncome": 45833,
+    "meanIncome": 71042
+  },
+  {
+    "countyFips": "313",
+    "stateFips": "48",
+    "name": "Madison County, Texas",
+    "population": 13574,
+    "medianAge": 35.8,
+    "race": {
+      "white": 62.2,
+      "black": 15.7,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 7.2,
+      "twoOrMore": 13.7,
+      "hispanic": 25.9
+    },
+    "education": {
+      "lessThanHighSchool": 19.8,
+      "highSchool": 38.5,
+      "someCollege": 21.8,
+      "associates": 5.3,
+      "bachelors": 11.1,
+      "graduate": 3.4
+    },
+    "medianIncome": 67128,
+    "meanIncome": 81177
+  },
+  {
+    "countyFips": "315",
+    "stateFips": "48",
+    "name": "Marion County, Texas",
+    "population": 9631,
+    "medianAge": 50.6,
+    "race": {
+      "white": 71.4,
+      "black": 21.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.2,
+      "other": 1.2,
+      "twoOrMore": 4.2,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 36.5,
+      "someCollege": 26.4,
+      "associates": 7.7,
+      "bachelors": 13.5,
+      "graduate": 2.5
+    },
+    "medianIncome": 47447,
+    "meanIncome": 64983
+  },
+  {
+    "countyFips": "317",
+    "stateFips": "48",
+    "name": "Martin County, Texas",
+    "population": 5230,
+    "medianAge": 37.2,
+    "race": {
+      "white": 76.5,
+      "black": 1.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 9.5,
+      "twoOrMore": 12.8,
+      "hispanic": 45.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 41.7,
+      "someCollege": 18.9,
+      "associates": 5.4,
+      "bachelors": 12,
+      "graduate": 5.8
+    },
+    "medianIncome": 77083,
+    "meanIncome": 116270
+  },
+  {
+    "countyFips": "319",
+    "stateFips": "48",
+    "name": "Mason County, Texas",
+    "population": 3951,
+    "medianAge": 46.5,
+    "race": {
+      "white": 84.6,
+      "black": 0.1,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 6.9,
+      "twoOrMore": 7.7,
+      "hispanic": 20.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 20.9,
+      "someCollege": 19.1,
+      "associates": 4.2,
+      "bachelors": 26,
+      "graduate": 14.1
+    },
+    "medianIncome": 68750,
+    "meanIncome": 86998
+  },
+  {
+    "countyFips": "321",
+    "stateFips": "48",
+    "name": "Matagorda County, Texas",
+    "population": 36274,
+    "medianAge": 37.5,
+    "race": {
+      "white": 55.9,
+      "black": 10.5,
+      "asian": 1.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 17.1,
+      "twoOrMore": 14.3,
+      "hispanic": 43.2
+    },
+    "education": {
+      "lessThanHighSchool": 17.3,
+      "highSchool": 28.8,
+      "someCollege": 23.4,
+      "associates": 7.7,
+      "bachelors": 15.5,
+      "graduate": 7.3
+    },
+    "medianIncome": 55174,
+    "meanIncome": 73895
+  },
+  {
+    "countyFips": "323",
+    "stateFips": "48",
+    "name": "Maverick County, Texas",
+    "population": 57770,
+    "medianAge": 30.2,
+    "race": {
+      "white": 34.7,
+      "black": 0.2,
+      "asian": 0.5,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.1,
+      "other": 9.3,
+      "twoOrMore": 53.6,
+      "hispanic": 94.9
+    },
+    "education": {
+      "lessThanHighSchool": 32.3,
+      "highSchool": 28.4,
+      "someCollege": 17.5,
+      "associates": 6.6,
+      "bachelors": 11.4,
+      "graduate": 3.9
+    },
+    "medianIncome": 51270,
+    "meanIncome": 66676
+  },
+  {
+    "countyFips": "325",
+    "stateFips": "48",
+    "name": "Medina County, Texas",
+    "population": 52419,
+    "medianAge": 39.6,
+    "race": {
+      "white": 65.1,
+      "black": 2.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 8,
+      "twoOrMore": 22.7,
+      "hispanic": 51.1
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 32.6,
+      "someCollege": 23,
+      "associates": 8.2,
+      "bachelors": 14.1,
+      "graduate": 8.1
+    },
+    "medianIncome": 73462,
+    "meanIncome": 93117
+  },
+  {
+    "countyFips": "327",
+    "stateFips": "48",
+    "name": "Menard County, Texas",
+    "population": 1964,
+    "medianAge": 58,
+    "race": {
+      "white": 81.2,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 13.7,
+      "hispanic": 28
+    },
+    "education": {
+      "lessThanHighSchool": 23.2,
+      "highSchool": 25,
+      "someCollege": 22.4,
+      "associates": 6.5,
+      "bachelors": 16,
+      "graduate": 6.9
+    },
+    "medianIncome": 48191,
+    "meanIncome": 70099
+  },
+  {
+    "countyFips": "329",
+    "stateFips": "48",
+    "name": "Midland County, Texas",
+    "population": 171496,
+    "medianAge": 32.6,
+    "race": {
+      "white": 59.9,
+      "black": 7.2,
+      "asian": 2.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 12.9,
+      "twoOrMore": 17.3,
+      "hispanic": 44.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 23.5,
+      "someCollege": 23.5,
+      "associates": 8.3,
+      "bachelors": 21.2,
+      "graduate": 9.8
+    },
+    "medianIncome": 93984,
+    "meanIncome": 126452
+  },
+  {
+    "countyFips": "331",
+    "stateFips": "48",
+    "name": "Milam County, Texas",
+    "population": 25268,
+    "medianAge": 41.6,
+    "race": {
+      "white": 73.4,
+      "black": 9.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 5.9,
+      "twoOrMore": 10.6,
+      "hispanic": 25.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 40,
+      "someCollege": 20.4,
+      "associates": 6.9,
+      "bachelors": 13.1,
+      "graduate": 6.4
+    },
+    "medianIncome": 59076,
+    "meanIncome": 83189
+  },
+  {
+    "countyFips": "333",
+    "stateFips": "48",
+    "name": "Mills County, Texas",
+    "population": 4499,
+    "medianAge": 52.2,
+    "race": {
+      "white": 81.1,
+      "black": 0.6,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 14.5,
+      "hispanic": 18.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 30.2,
+      "someCollege": 24.5,
+      "associates": 6.7,
+      "bachelors": 17.9,
+      "graduate": 10.2
+    },
+    "medianIncome": 64494,
+    "meanIncome": 84978
+  },
+  {
+    "countyFips": "335",
+    "stateFips": "48",
+    "name": "Mitchell County, Texas",
+    "population": 8989,
+    "medianAge": 36.9,
+    "race": {
+      "white": 64.3,
+      "black": 5.9,
+      "asian": 1.5,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 6.9,
+      "twoOrMore": 20.3,
+      "hispanic": 38.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 37.7,
+      "someCollege": 26.6,
+      "associates": 5,
+      "bachelors": 8.4,
+      "graduate": 5.5
+    },
+    "medianIncome": 56033,
+    "meanIncome": 85561
+  },
+  {
+    "countyFips": "337",
+    "stateFips": "48",
+    "name": "Montague County, Texas",
+    "population": 20599,
+    "medianAge": 44,
+    "race": {
+      "white": 91.3,
+      "black": 0,
+      "asian": 0.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 5,
+      "hispanic": 12
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 37.8,
+      "someCollege": 23.6,
+      "associates": 7.7,
+      "bachelors": 13.1,
+      "graduate": 4.8
+    },
+    "medianIncome": 62818,
+    "meanIncome": 77671
+  },
+  {
+    "countyFips": "339",
+    "stateFips": "48",
+    "name": "Montgomery County, Texas",
+    "population": 654722,
+    "medianAge": 37.2,
+    "race": {
+      "white": 71.3,
+      "black": 6,
+      "asian": 3.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 4.5,
+      "twoOrMore": 14.4,
+      "hispanic": 27.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 23.3,
+      "someCollege": 21.1,
+      "associates": 7.8,
+      "bachelors": 24.6,
+      "graduate": 13.3
+    },
+    "medianIncome": 97266,
+    "meanIncome": 133981
+  },
+  {
+    "countyFips": "341",
+    "stateFips": "48",
+    "name": "Moore County, Texas",
+    "population": 21234,
+    "medianAge": 30.6,
+    "race": {
+      "white": 61.3,
+      "black": 4.7,
+      "asian": 2.4,
+      "nativeAmerican": 2,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 25,
+      "hispanic": 60
+    },
+    "education": {
+      "lessThanHighSchool": 29.8,
+      "highSchool": 34.9,
+      "someCollege": 16,
+      "associates": 7.3,
+      "bachelors": 9,
+      "graduate": 3
+    },
+    "medianIncome": 61325,
+    "meanIncome": 79523
+  },
+  {
+    "countyFips": "343",
+    "stateFips": "48",
+    "name": "Morris County, Texas",
+    "population": 12014,
+    "medianAge": 42.4,
+    "race": {
+      "white": 65.4,
+      "black": 18.6,
+      "asian": 1,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 8.6,
+      "hispanic": 10.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 35.9,
+      "someCollege": 26.8,
+      "associates": 8.8,
+      "bachelors": 10.5,
+      "graduate": 5
+    },
+    "medianIncome": 55082,
+    "meanIncome": 66173
+  },
+  {
+    "countyFips": "345",
+    "stateFips": "48",
+    "name": "Motley County, Texas",
+    "population": 1267,
+    "medianAge": 51.4,
+    "race": {
+      "white": 84.8,
+      "black": 2.6,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 10.9,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 35.4,
+      "someCollege": 23,
+      "associates": 5.4,
+      "bachelors": 16.9,
+      "graduate": 5.1
+    },
+    "medianIncome": 62857,
+    "meanIncome": 71578
+  },
+  {
+    "countyFips": "347",
+    "stateFips": "48",
+    "name": "Nacogdoches County, Texas",
+    "population": 64897,
+    "medianAge": 31.8,
+    "race": {
+      "white": 65.8,
+      "black": 17.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 11,
+      "hispanic": 21.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 29.1,
+      "someCollege": 24.1,
+      "associates": 5.4,
+      "bachelors": 16.2,
+      "graduate": 10.4
+    },
+    "medianIncome": 51528,
+    "meanIncome": 74527
+  },
+  {
+    "countyFips": "349",
+    "stateFips": "48",
+    "name": "Navarro County, Texas",
+    "population": 53735,
+    "medianAge": 37.4,
+    "race": {
+      "white": 61.2,
+      "black": 10.9,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.9,
+      "other": 9.6,
+      "twoOrMore": 16.1,
+      "hispanic": 31.3
+    },
+    "education": {
+      "lessThanHighSchool": 20.6,
+      "highSchool": 29.1,
+      "someCollege": 24.3,
+      "associates": 8.9,
+      "bachelors": 11.9,
+      "graduate": 5.2
+    },
+    "medianIncome": 59310,
+    "meanIncome": 79388
+  },
+  {
+    "countyFips": "351",
+    "stateFips": "48",
+    "name": "Newton County, Texas",
+    "population": 12193,
+    "medianAge": 45.8,
+    "race": {
+      "white": 75.3,
+      "black": 17.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 0.4,
+      "twoOrMore": 4.8,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 49.6,
+      "someCollege": 21.4,
+      "associates": 7.2,
+      "bachelors": 4.4,
+      "graduate": 1.8
+    },
+    "medianIncome": 41044,
+    "meanIncome": 58670
+  },
+  {
+    "countyFips": "353",
+    "stateFips": "48",
+    "name": "Nolan County, Texas",
+    "population": 14565,
+    "medianAge": 36.5,
+    "race": {
+      "white": 68.9,
+      "black": 4.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 8.1,
+      "twoOrMore": 17.9,
+      "hispanic": 37
+    },
+    "education": {
+      "lessThanHighSchool": 16.5,
+      "highSchool": 36.4,
+      "someCollege": 24,
+      "associates": 9.4,
+      "bachelors": 8.6,
+      "graduate": 5.1
+    },
+    "medianIncome": 50160,
+    "meanIncome": 73488
+  },
+  {
+    "countyFips": "355",
+    "stateFips": "48",
+    "name": "Nueces County, Texas",
+    "population": 352829,
+    "medianAge": 36.8,
+    "race": {
+      "white": 54.8,
+      "black": 4,
+      "asian": 2.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 33,
+      "hispanic": 62.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 29.2,
+      "someCollege": 23.2,
+      "associates": 9.1,
+      "bachelors": 15.3,
+      "graduate": 8.4
+    },
+    "medianIncome": 66021,
+    "meanIncome": 88191
+  },
+  {
+    "countyFips": "357",
+    "stateFips": "48",
+    "name": "Ochiltree County, Texas",
+    "population": 9852,
+    "medianAge": 33.3,
+    "race": {
+      "white": 69,
+      "black": 0,
+      "asian": 0.3,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 16.5,
+      "twoOrMore": 13.3,
+      "hispanic": 55.7
+    },
+    "education": {
+      "lessThanHighSchool": 19.1,
+      "highSchool": 36.7,
+      "someCollege": 18.6,
+      "associates": 6.6,
+      "bachelors": 12.7,
+      "graduate": 6.3
+    },
+    "medianIncome": 64988,
+    "meanIncome": 84014
+  },
+  {
+    "countyFips": "359",
+    "stateFips": "48",
+    "name": "Oldham County, Texas",
+    "population": 2097,
+    "medianAge": 32.5,
+    "race": {
+      "white": 81.8,
+      "black": 7.4,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 9.2,
+      "hispanic": 24.5
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 24.1,
+      "someCollege": 26.5,
+      "associates": 12,
+      "bachelors": 18.4,
+      "graduate": 6.9
+    },
+    "medianIncome": 76402,
+    "meanIncome": 101922
+  },
+  {
+    "countyFips": "361",
+    "stateFips": "48",
+    "name": "Orange County, Texas",
+    "population": 84993,
+    "medianAge": 37.9,
+    "race": {
+      "white": 80.8,
+      "black": 8.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.8,
+      "twoOrMore": 7.8,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 36.7,
+      "someCollege": 25.1,
+      "associates": 11.3,
+      "bachelors": 13.1,
+      "graduate": 4.7
+    },
+    "medianIncome": 73372,
+    "meanIncome": 95090
+  },
+  {
+    "countyFips": "363",
+    "stateFips": "48",
+    "name": "Palo Pinto County, Texas",
+    "population": 28920,
+    "medianAge": 41.1,
+    "race": {
+      "white": 82.2,
+      "black": 2.5,
+      "asian": 1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 8.2,
+      "hispanic": 20.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 35.8,
+      "someCollege": 23.9,
+      "associates": 7.8,
+      "bachelors": 12.4,
+      "graduate": 6.2
+    },
+    "medianIncome": 64972,
+    "meanIncome": 83595
+  },
+  {
+    "countyFips": "365",
+    "stateFips": "48",
+    "name": "Panola County, Texas",
+    "population": 22624,
+    "medianAge": 40.5,
+    "race": {
+      "white": 74.2,
+      "black": 11.4,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 12.5,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 30.6,
+      "someCollege": 26.7,
+      "associates": 9.8,
+      "bachelors": 12.5,
+      "graduate": 5.4
+    },
+    "medianIncome": 62593,
+    "meanIncome": 88542
+  },
+  {
+    "countyFips": "367",
+    "stateFips": "48",
+    "name": "Parker County, Texas",
+    "population": 158079,
+    "medianAge": 39.3,
+    "race": {
+      "white": 84.9,
+      "black": 1.4,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 10.3,
+      "hispanic": 14.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 26,
+      "someCollege": 23.3,
+      "associates": 9.7,
+      "bachelors": 20.9,
+      "graduate": 10.7
+    },
+    "medianIncome": 102099,
+    "meanIncome": 127321
+  },
+  {
+    "countyFips": "369",
+    "stateFips": "48",
+    "name": "Parmer County, Texas",
+    "population": 9752,
+    "medianAge": 36.2,
+    "race": {
+      "white": 67,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 6.1,
+      "twoOrMore": 25.4,
+      "hispanic": 66.1
+    },
+    "education": {
+      "lessThanHighSchool": 27.3,
+      "highSchool": 28.1,
+      "someCollege": 18.1,
+      "associates": 9.8,
+      "bachelors": 12.5,
+      "graduate": 4.2
+    },
+    "medianIncome": 68164,
+    "meanIncome": 87645
+  },
+  {
+    "countyFips": "371",
+    "stateFips": "48",
+    "name": "Pecos County, Texas",
+    "population": 14983,
+    "medianAge": 37.3,
+    "race": {
+      "white": 58.5,
+      "black": 4.3,
+      "asian": 2.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 12.6,
+      "twoOrMore": 21.9,
+      "hispanic": 71.2
+    },
+    "education": {
+      "lessThanHighSchool": 20.9,
+      "highSchool": 39.4,
+      "someCollege": 21.2,
+      "associates": 5.1,
+      "bachelors": 8,
+      "graduate": 5.4
+    },
+    "medianIncome": 67689,
+    "meanIncome": 89131
+  },
+  {
+    "countyFips": "373",
+    "stateFips": "48",
+    "name": "Polk County, Texas",
+    "population": 51780,
+    "medianAge": 43.9,
+    "race": {
+      "white": 77.1,
+      "black": 7.9,
+      "asian": 0.6,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 10.8,
+      "hispanic": 15.1
+    },
+    "education": {
+      "lessThanHighSchool": 18.2,
+      "highSchool": 38.6,
+      "someCollege": 24.1,
+      "associates": 5.7,
+      "bachelors": 9.1,
+      "graduate": 4.3
+    },
+    "medianIncome": 59066,
+    "meanIncome": 74300
+  },
+  {
+    "countyFips": "375",
+    "stateFips": "48",
+    "name": "Potter County, Texas",
+    "population": 116634,
+    "medianAge": 35.1,
+    "race": {
+      "white": 61.9,
+      "black": 10.6,
+      "asian": 5.1,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 5.6,
+      "twoOrMore": 16.2,
+      "hispanic": 38.8
+    },
+    "education": {
+      "lessThanHighSchool": 22.6,
+      "highSchool": 30.7,
+      "someCollege": 21.4,
+      "associates": 8,
+      "bachelors": 12,
+      "graduate": 5.4
+    },
+    "medianIncome": 50448,
+    "meanIncome": 72783
+  },
+  {
+    "countyFips": "377",
+    "stateFips": "48",
+    "name": "Presidio County, Texas",
+    "population": 6043,
+    "medianAge": 42,
+    "race": {
+      "white": 36.9,
+      "black": 1.1,
+      "asian": 0,
+      "nativeAmerican": 2.5,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 57.5,
+      "hispanic": 76.5
+    },
+    "education": {
+      "lessThanHighSchool": 33.9,
+      "highSchool": 21.9,
+      "someCollege": 18.5,
+      "associates": 5.4,
+      "bachelors": 12.2,
+      "graduate": 8
+    },
+    "medianIncome": 29014,
+    "meanIncome": 52927
+  },
+  {
+    "countyFips": "379",
+    "stateFips": "48",
+    "name": "Rains County, Texas",
+    "population": 12505,
+    "medianAge": 46.2,
+    "race": {
+      "white": 87.2,
+      "black": 2.9,
+      "asian": 0.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 7.3,
+      "hispanic": 9.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 31.8,
+      "someCollege": 27.3,
+      "associates": 5.6,
+      "bachelors": 19.2,
+      "graduate": 6
+    },
+    "medianIncome": 64874,
+    "meanIncome": 98847
+  },
+  {
+    "countyFips": "381",
+    "stateFips": "48",
+    "name": "Randall County, Texas",
+    "population": 143791,
+    "medianAge": 36.8,
+    "race": {
+      "white": 77.8,
+      "black": 3.6,
+      "asian": 1.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 11.9,
+      "hispanic": 23.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 23.8,
+      "someCollege": 27,
+      "associates": 10.7,
+      "bachelors": 21.2,
+      "graduate": 10.8
+    },
+    "medianIncome": 80905,
+    "meanIncome": 104696
+  },
+  {
+    "countyFips": "383",
+    "stateFips": "48",
+    "name": "Reagan County, Texas",
+    "population": 3259,
+    "medianAge": 29.4,
+    "race": {
+      "white": 38.1,
+      "black": 5.4,
+      "asian": 2,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 29.3,
+      "twoOrMore": 23.7,
+      "hispanic": 67.1
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 49.9,
+      "someCollege": 15.3,
+      "associates": 6.8,
+      "bachelors": 10.7,
+      "graduate": 6.4
+    },
+    "medianIncome": 70288,
+    "meanIncome": 84980
+  },
+  {
+    "countyFips": "385",
+    "stateFips": "48",
+    "name": "Real County, Texas",
+    "population": 2821,
+    "medianAge": 56.5,
+    "race": {
+      "white": 94.6,
+      "black": 1.4,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 1.3,
+      "hispanic": 23.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 41.3,
+      "someCollege": 20.8,
+      "associates": 5.6,
+      "bachelors": 15.1,
+      "graduate": 4.1
+    },
+    "medianIncome": 45417,
+    "meanIncome": 69770
+  },
+  {
+    "countyFips": "387",
+    "stateFips": "48",
+    "name": "Red River County, Texas",
+    "population": 11621,
+    "medianAge": 49.1,
+    "race": {
+      "white": 77.1,
+      "black": 16.4,
+      "asian": 0.4,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 2.7,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 40.1,
+      "someCollege": 23.7,
+      "associates": 7.6,
+      "bachelors": 10.2,
+      "graduate": 5.5
+    },
+    "medianIncome": 46912,
+    "meanIncome": 62897
+  },
+  {
+    "countyFips": "389",
+    "stateFips": "48",
+    "name": "Reeves County, Texas",
+    "population": 13219,
+    "medianAge": 34.4,
+    "race": {
+      "white": 41.7,
+      "black": 1.5,
+      "asian": 0.4,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 33.2,
+      "twoOrMore": 22,
+      "hispanic": 84.8
+    },
+    "education": {
+      "lessThanHighSchool": 28.7,
+      "highSchool": 40.1,
+      "someCollege": 18.8,
+      "associates": 5.5,
+      "bachelors": 5.6,
+      "graduate": 1.2
+    },
+    "medianIncome": 56056,
+    "meanIncome": 70309
+  },
+  {
+    "countyFips": "391",
+    "stateFips": "48",
+    "name": "Refugio County, Texas",
+    "population": 6693,
+    "medianAge": 43.9,
+    "race": {
+      "white": 61.9,
+      "black": 7.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 25.4,
+      "hispanic": 50.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 37.2,
+      "someCollege": 24.8,
+      "associates": 6.9,
+      "bachelors": 10.6,
+      "graduate": 3.2
+    },
+    "medianIncome": 58016,
+    "meanIncome": 67832
+  },
+  {
+    "countyFips": "393",
+    "stateFips": "48",
+    "name": "Roberts County, Texas",
+    "population": 785,
+    "medianAge": 39.4,
+    "race": {
+      "white": 95.2,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.6,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 2.5,
+      "highSchool": 38.7,
+      "someCollege": 27,
+      "associates": 9.8,
+      "bachelors": 17.2,
+      "graduate": 4.8
+    },
+    "medianIncome": 66118,
+    "meanIncome": 80866
+  },
+  {
+    "countyFips": "395",
+    "stateFips": "48",
+    "name": "Robertson County, Texas",
+    "population": 16973,
+    "medianAge": 40.9,
+    "race": {
+      "white": 63.5,
+      "black": 20.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 12.6,
+      "hispanic": 21.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 37.5,
+      "someCollege": 20,
+      "associates": 8.1,
+      "bachelors": 13.4,
+      "graduate": 5.7
+    },
+    "medianIncome": 66250,
+    "meanIncome": 79904
+  },
+  {
+    "countyFips": "397",
+    "stateFips": "48",
+    "name": "Rockwall County, Texas",
+    "population": 116931,
+    "medianAge": 37.6,
+    "race": {
+      "white": 71.2,
+      "black": 8.5,
+      "asian": 3.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 4.9,
+      "twoOrMore": 11.2,
+      "hispanic": 20.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 18.9,
+      "someCollege": 21.8,
+      "associates": 9.5,
+      "bachelors": 27.9,
+      "graduate": 16
+    },
+    "medianIncome": 124917,
+    "meanIncome": 158752
+  },
+  {
+    "countyFips": "399",
+    "stateFips": "48",
+    "name": "Runnels County, Texas",
+    "population": 9880,
+    "medianAge": 41.8,
+    "race": {
+      "white": 69.7,
+      "black": 3,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 6,
+      "twoOrMore": 21,
+      "hispanic": 34.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 36.8,
+      "someCollege": 22.9,
+      "associates": 7.4,
+      "bachelors": 12.9,
+      "graduate": 6.2
+    },
+    "medianIncome": 63490,
+    "meanIncome": 78798
+  },
+  {
+    "countyFips": "401",
+    "stateFips": "48",
+    "name": "Rusk County, Texas",
+    "population": 52613,
+    "medianAge": 38.8,
+    "race": {
+      "white": 67.6,
+      "black": 13.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 16.2,
+      "hispanic": 18.7
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 32.8,
+      "someCollege": 24.7,
+      "associates": 9.4,
+      "bachelors": 11.5,
+      "graduate": 6.3
+    },
+    "medianIncome": 67506,
+    "meanIncome": 92968
+  },
+  {
+    "countyFips": "403",
+    "stateFips": "48",
+    "name": "Sabine County, Texas",
+    "population": 9998,
+    "medianAge": 54.3,
+    "race": {
+      "white": 86.6,
+      "black": 4.6,
+      "asian": 2,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.4,
+      "other": 1,
+      "twoOrMore": 4.5,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 37.8,
+      "someCollege": 22.6,
+      "associates": 9.1,
+      "bachelors": 11,
+      "graduate": 6.8
+    },
+    "medianIncome": 59924,
+    "meanIncome": 84919
+  },
+  {
+    "countyFips": "405",
+    "stateFips": "48",
+    "name": "San Augustine County, Texas",
+    "population": 7889,
+    "medianAge": 48.8,
+    "race": {
+      "white": 70.7,
+      "black": 22.1,
+      "asian": 0,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 1.7,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 18.3,
+      "highSchool": 44.1,
+      "someCollege": 21.6,
+      "associates": 4.4,
+      "bachelors": 7.1,
+      "graduate": 4.4
+    },
+    "medianIncome": 46338,
+    "meanIncome": 64927
+  },
+  {
+    "countyFips": "407",
+    "stateFips": "48",
+    "name": "San Jacinto County, Texas",
+    "population": 27983,
+    "medianAge": 45,
+    "race": {
+      "white": 73.2,
+      "black": 8.5,
+      "asian": 0.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 12.4,
+      "hispanic": 18.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 40.6,
+      "someCollege": 21.9,
+      "associates": 6.1,
+      "bachelors": 9.4,
+      "graduate": 6.4
+    },
+    "medianIncome": 59526,
+    "meanIncome": 81516
+  },
+  {
+    "countyFips": "409",
+    "stateFips": "48",
+    "name": "San Patricio County, Texas",
+    "population": 69519,
+    "medianAge": 37.1,
+    "race": {
+      "white": 64.3,
+      "black": 1.6,
+      "asian": 1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 5.5,
+      "twoOrMore": 27,
+      "hispanic": 56.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 34.8,
+      "someCollege": 24.3,
+      "associates": 7.5,
+      "bachelors": 11.7,
+      "graduate": 5.6
+    },
+    "medianIncome": 67512,
+    "meanIncome": 87501
+  },
+  {
+    "countyFips": "411",
+    "stateFips": "48",
+    "name": "San Saba County, Texas",
+    "population": 5802,
+    "medianAge": 40.1,
+    "race": {
+      "white": 77.6,
+      "black": 2.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 4.9,
+      "twoOrMore": 14.3,
+      "hispanic": 30.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 37.6,
+      "someCollege": 22,
+      "associates": 3.2,
+      "bachelors": 15.1,
+      "graduate": 6.6
+    },
+    "medianIncome": 54855,
+    "meanIncome": 73917
+  },
+  {
+    "countyFips": "413",
+    "stateFips": "48",
+    "name": "Schleicher County, Texas",
+    "population": 2426,
+    "medianAge": 39.8,
+    "race": {
+      "white": 59.4,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.4,
+      "other": 29.5,
+      "twoOrMore": 10,
+      "hispanic": 52.8
+    },
+    "education": {
+      "lessThanHighSchool": 19,
+      "highSchool": 26.8,
+      "someCollege": 26.1,
+      "associates": 3.9,
+      "bachelors": 21.7,
+      "graduate": 2.5
+    },
+    "medianIncome": 90141,
+    "meanIncome": 86955
+  },
+  {
+    "countyFips": "415",
+    "stateFips": "48",
+    "name": "Scurry County, Texas",
+    "population": 16633,
+    "medianAge": 36.4,
+    "race": {
+      "white": 68.9,
+      "black": 2.7,
+      "asian": 0.6,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 13.1,
+      "twoOrMore": 13.3,
+      "hispanic": 42.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 31.7,
+      "someCollege": 24.9,
+      "associates": 10.7,
+      "bachelors": 13.4,
+      "graduate": 4.4
+    },
+    "medianIncome": 62689,
+    "meanIncome": 85314
+  },
+  {
+    "countyFips": "417",
+    "stateFips": "48",
+    "name": "Shackelford County, Texas",
+    "population": 3169,
+    "medianAge": 43.9,
+    "race": {
+      "white": 86.8,
+      "black": 1.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 7.4,
+      "hispanic": 12.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 25.2,
+      "someCollege": 25.6,
+      "associates": 7,
+      "bachelors": 27.9,
+      "graduate": 6.7
+    },
+    "medianIncome": 64659,
+    "meanIncome": 80358
+  },
+  {
+    "countyFips": "419",
+    "stateFips": "48",
+    "name": "Shelby County, Texas",
+    "population": 24108,
+    "medianAge": 40,
+    "race": {
+      "white": 67.1,
+      "black": 15.6,
+      "asian": 0.1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.9,
+      "other": 6.7,
+      "twoOrMore": 8.4,
+      "hispanic": 19.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 37.5,
+      "someCollege": 24.9,
+      "associates": 6.3,
+      "bachelors": 10.3,
+      "graduate": 3.5
+    },
+    "medianIncome": 50436,
+    "meanIncome": 74633
+  },
+  {
+    "countyFips": "421",
+    "stateFips": "48",
+    "name": "Sherman County, Texas",
+    "population": 2434,
+    "medianAge": 36.5,
+    "race": {
+      "white": 68.5,
+      "black": 0.2,
+      "asian": 1.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 9.1,
+      "twoOrMore": 21,
+      "hispanic": 47.2
+    },
+    "education": {
+      "lessThanHighSchool": 22,
+      "highSchool": 25.1,
+      "someCollege": 22.2,
+      "associates": 5.1,
+      "bachelors": 16.2,
+      "graduate": 9.4
+    },
+    "medianIncome": 74167,
+    "meanIncome": 147760
+  },
+  {
+    "countyFips": "423",
+    "stateFips": "48",
+    "name": "Smith County, Texas",
+    "population": 238014,
+    "medianAge": 37.4,
+    "race": {
+      "white": 69,
+      "black": 16.7,
+      "asian": 1.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.5,
+      "twoOrMore": 8.7,
+      "hispanic": 20.6
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 24.9,
+      "someCollege": 24.9,
+      "associates": 10.5,
+      "bachelors": 18.3,
+      "graduate": 9.5
+    },
+    "medianIncome": 71923,
+    "meanIncome": 96148
+  },
+  {
+    "countyFips": "425",
+    "stateFips": "48",
+    "name": "Somervell County, Texas",
+    "population": 9510,
+    "medianAge": 44,
+    "race": {
+      "white": 83.5,
+      "black": 1.9,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 10.9,
+      "hispanic": 18.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 32.7,
+      "someCollege": 25.7,
+      "associates": 8,
+      "bachelors": 18.5,
+      "graduate": 6.5
+    },
+    "medianIncome": 83382,
+    "meanIncome": 101081
+  },
+  {
+    "countyFips": "427",
+    "stateFips": "48",
+    "name": "Starr County, Texas",
+    "population": 65809,
+    "medianAge": 29.1,
+    "race": {
+      "white": 44.2,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 11.3,
+      "twoOrMore": 43.9,
+      "hispanic": 97.3
+    },
+    "education": {
+      "lessThanHighSchool": 39.9,
+      "highSchool": 25.1,
+      "someCollege": 17.1,
+      "associates": 4.6,
+      "bachelors": 9,
+      "graduate": 4.3
+    },
+    "medianIncome": 38182,
+    "meanIncome": 58105
+  },
+  {
+    "countyFips": "429",
+    "stateFips": "48",
+    "name": "Stephens County, Texas",
+    "population": 9278,
+    "medianAge": 41.6,
+    "race": {
+      "white": 79.3,
+      "black": 3.2,
+      "asian": 1,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 11.6,
+      "hispanic": 24.9
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 31.8,
+      "someCollege": 23.8,
+      "associates": 9.5,
+      "bachelors": 13,
+      "graduate": 5.2
+    },
+    "medianIncome": 54695,
+    "meanIncome": 73664
+  },
+  {
+    "countyFips": "431",
+    "stateFips": "48",
+    "name": "Sterling County, Texas",
+    "population": 1389,
+    "medianAge": 31.4,
+    "race": {
+      "white": 81.7,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 8.4,
+      "twoOrMore": 9.4,
+      "hispanic": 32.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 38.5,
+      "someCollege": 17.7,
+      "associates": 7.2,
+      "bachelors": 16.4,
+      "graduate": 8.1
+    },
+    "medianIncome": 78750,
+    "meanIncome": 112935
+  },
+  {
+    "countyFips": "433",
+    "stateFips": "48",
+    "name": "Stonewall County, Texas",
+    "population": 1244,
+    "medianAge": 46.5,
+    "race": {
+      "white": 92.2,
+      "black": 0.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 6.1,
+      "hispanic": 22.7
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 41.6,
+      "someCollege": 24.3,
+      "associates": 4.6,
+      "bachelors": 7.1,
+      "graduate": 7.1
+    },
+    "medianIncome": 61250,
+    "meanIncome": 113326
+  },
+  {
+    "countyFips": "435",
+    "stateFips": "48",
+    "name": "Sutton County, Texas",
+    "population": 3306,
+    "medianAge": 34.9,
+    "race": {
+      "white": 49.2,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.3,
+      "other": 40.3,
+      "twoOrMore": 9.1,
+      "hispanic": 65.4
+    },
+    "education": {
+      "lessThanHighSchool": 19.3,
+      "highSchool": 39.6,
+      "someCollege": 22.7,
+      "associates": 3,
+      "bachelors": 7.6,
+      "graduate": 7.9
+    },
+    "medianIncome": 75000,
+    "meanIncome": 79457
+  },
+  {
+    "countyFips": "437",
+    "stateFips": "48",
+    "name": "Swisher County, Texas",
+    "population": 6981,
+    "medianAge": 36.5,
+    "race": {
+      "white": 69.1,
+      "black": 8,
+      "asian": 1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.3,
+      "other": 5.4,
+      "twoOrMore": 15.5,
+      "hispanic": 45.8
+    },
+    "education": {
+      "lessThanHighSchool": 19.7,
+      "highSchool": 41.8,
+      "someCollege": 12.9,
+      "associates": 5.5,
+      "bachelors": 15.7,
+      "graduate": 4.5
+    },
+    "medianIncome": 39031,
+    "meanIncome": 60217
+  },
+  {
+    "countyFips": "439",
+    "stateFips": "48",
+    "name": "Tarrant County, Texas",
+    "population": 2135743,
+    "medianAge": 35.1,
+    "race": {
+      "white": 52.1,
+      "black": 17.5,
+      "asian": 5.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 8.5,
+      "twoOrMore": 15.2,
+      "hispanic": 29.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 23.6,
+      "someCollege": 21,
+      "associates": 7.9,
+      "bachelors": 22.7,
+      "graduate": 11.9
+    },
+    "medianIncome": 81905,
+    "meanIncome": 112126
+  },
+  {
+    "countyFips": "441",
+    "stateFips": "48",
+    "name": "Taylor County, Texas",
+    "population": 144259,
+    "medianAge": 33,
+    "race": {
+      "white": 70.5,
+      "black": 8,
+      "asian": 2.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 5.5,
+      "twoOrMore": 13.3,
+      "hispanic": 24.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 29.3,
+      "someCollege": 22.5,
+      "associates": 9.7,
+      "bachelors": 18.5,
+      "graduate": 10.5
+    },
+    "medianIncome": 66406,
+    "meanIncome": 87167
+  },
+  {
+    "countyFips": "443",
+    "stateFips": "48",
+    "name": "Terrell County, Texas",
+    "population": 851,
+    "medianAge": 60.9,
+    "race": {
+      "white": 83.4,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 13.4,
+      "hispanic": 42.8
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 31.8,
+      "someCollege": 27.5,
+      "associates": 2.4,
+      "bachelors": 23.3,
+      "graduate": 9.1
+    },
+    "medianIncome": 46989,
+    "meanIncome": 63741
+  },
+  {
+    "countyFips": "445",
+    "stateFips": "48",
+    "name": "Terry County, Texas",
+    "population": 11699,
+    "medianAge": 35.7,
+    "race": {
+      "white": 56.9,
+      "black": 4.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 33,
+      "hispanic": 56.2
+    },
+    "education": {
+      "lessThanHighSchool": 22.3,
+      "highSchool": 35.2,
+      "someCollege": 24.2,
+      "associates": 7.4,
+      "bachelors": 7.4,
+      "graduate": 3.6
+    },
+    "medianIncome": 45905,
+    "meanIncome": 66207
+  },
+  {
+    "countyFips": "447",
+    "stateFips": "48",
+    "name": "Throckmorton County, Texas",
+    "population": 1589,
+    "medianAge": 42.7,
+    "race": {
+      "white": 93.2,
+      "black": 0,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 5.7,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 34.4,
+      "someCollege": 25.2,
+      "associates": 8.2,
+      "bachelors": 18.3,
+      "graduate": 6.7
+    },
+    "medianIncome": 58864,
+    "meanIncome": 73249
+  },
+  {
+    "countyFips": "449",
+    "stateFips": "48",
+    "name": "Titus County, Texas",
+    "population": 31284,
+    "medianAge": 34.7,
+    "race": {
+      "white": 56.7,
+      "black": 9.5,
+      "asian": 1.2,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 16.6,
+      "twoOrMore": 15.1,
+      "hispanic": 44.4
+    },
+    "education": {
+      "lessThanHighSchool": 22.9,
+      "highSchool": 35.3,
+      "someCollege": 18.6,
+      "associates": 7.9,
+      "bachelors": 11.1,
+      "graduate": 4.3
+    },
+    "medianIncome": 59220,
+    "meanIncome": 76026
+  },
+  {
+    "countyFips": "451",
+    "stateFips": "48",
+    "name": "Tom Green County, Texas",
+    "population": 119398,
+    "medianAge": 35.8,
+    "race": {
+      "white": 69,
+      "black": 3.8,
+      "asian": 1.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 6.2,
+      "twoOrMore": 19.1,
+      "hispanic": 40.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.8,
+      "highSchool": 27.7,
+      "someCollege": 25.8,
+      "associates": 8.5,
+      "bachelors": 16.6,
+      "graduate": 8.5
+    },
+    "medianIncome": 66254,
+    "meanIncome": 87666
+  },
+  {
+    "countyFips": "453",
+    "stateFips": "48",
+    "name": "Travis County, Texas",
+    "population": 1307625,
+    "medianAge": 35.5,
+    "race": {
+      "white": 59.8,
+      "black": 8.2,
+      "asian": 7.6,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 8,
+      "twoOrMore": 15.7,
+      "hispanic": 32.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 14.4,
+      "someCollege": 16,
+      "associates": 5.7,
+      "bachelors": 34.7,
+      "graduate": 20.8
+    },
+    "medianIncome": 97169,
+    "meanIncome": 137817
+  },
+  {
+    "countyFips": "455",
+    "stateFips": "48",
+    "name": "Trinity County, Texas",
+    "population": 13850,
+    "medianAge": 49.8,
+    "race": {
+      "white": 80,
+      "black": 9.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 4.5,
+      "twoOrMore": 6.1,
+      "hispanic": 10.7
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 40,
+      "someCollege": 26.3,
+      "associates": 6.8,
+      "bachelors": 12.2,
+      "graduate": 3.7
+    },
+    "medianIncome": 51663,
+    "meanIncome": 73199
+  },
+  {
+    "countyFips": "457",
+    "stateFips": "48",
+    "name": "Tyler County, Texas",
+    "population": 20084,
+    "medianAge": 42.5,
+    "race": {
+      "white": 80.6,
+      "black": 10.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 6.7,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 42.9,
+      "someCollege": 23.1,
+      "associates": 5.2,
+      "bachelors": 8.2,
+      "graduate": 3.8
+    },
+    "medianIncome": 50647,
+    "meanIncome": 91760
+  },
+  {
+    "countyFips": "459",
+    "stateFips": "48",
+    "name": "Upshur County, Texas",
+    "population": 41864,
+    "medianAge": 40.3,
+    "race": {
+      "white": 81.4,
+      "black": 7.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 8.1,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 31.8,
+      "someCollege": 28,
+      "associates": 9.5,
+      "bachelors": 12.7,
+      "graduate": 4.8
+    },
+    "medianIncome": 62794,
+    "meanIncome": 84875
+  },
+  {
+    "countyFips": "461",
+    "stateFips": "48",
+    "name": "Upton County, Texas",
+    "population": 3227,
+    "medianAge": 41.1,
+    "race": {
+      "white": 43.3,
+      "black": 0.9,
+      "asian": 1.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 47.4,
+      "twoOrMore": 6.4,
+      "hispanic": 56.2
+    },
+    "education": {
+      "lessThanHighSchool": 18.5,
+      "highSchool": 45.8,
+      "someCollege": 20.4,
+      "associates": 6.5,
+      "bachelors": 6.5,
+      "graduate": 2.3
+    },
+    "medianIncome": 52321,
+    "meanIncome": 71782
+  },
+  {
+    "countyFips": "463",
+    "stateFips": "48",
+    "name": "Uvalde County, Texas",
+    "population": 24810,
+    "medianAge": 34.6,
+    "race": {
+      "white": 67.2,
+      "black": 1.4,
+      "asian": 1.7,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 11.2,
+      "twoOrMore": 17.1,
+      "hispanic": 70.7
+    },
+    "education": {
+      "lessThanHighSchool": 21.7,
+      "highSchool": 25.9,
+      "someCollege": 21,
+      "associates": 11.2,
+      "bachelors": 15.1,
+      "graduate": 5
+    },
+    "medianIncome": 57849,
+    "meanIncome": 74085
+  },
+  {
+    "countyFips": "465",
+    "stateFips": "48",
+    "name": "Val Verde County, Texas",
+    "population": 47647,
+    "medianAge": 32.3,
+    "race": {
+      "white": 62.2,
+      "black": 1.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 11.9,
+      "twoOrMore": 23.5,
+      "hispanic": 81
+    },
+    "education": {
+      "lessThanHighSchool": 24.9,
+      "highSchool": 29.8,
+      "someCollege": 16.1,
+      "associates": 7.9,
+      "bachelors": 12.9,
+      "graduate": 8.5
+    },
+    "medianIncome": 59673,
+    "meanIncome": 75738
+  },
+  {
+    "countyFips": "467",
+    "stateFips": "48",
+    "name": "Van Zandt County, Texas",
+    "population": 61323,
+    "medianAge": 42.1,
+    "race": {
+      "white": 88.3,
+      "black": 2.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6.1,
+      "hispanic": 12.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 32.6,
+      "someCollege": 28,
+      "associates": 8.6,
+      "bachelors": 12.3,
+      "graduate": 5.9
+    },
+    "medianIncome": 68274,
+    "meanIncome": 90821
+  },
+  {
+    "countyFips": "469",
+    "stateFips": "48",
+    "name": "Victoria County, Texas",
+    "population": 91281,
+    "medianAge": 36.6,
+    "race": {
+      "white": 61.6,
+      "black": 5.7,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 7.1,
+      "twoOrMore": 24.1,
+      "hispanic": 47.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 31,
+      "someCollege": 23.7,
+      "associates": 10.7,
+      "bachelors": 14.2,
+      "graduate": 5.5
+    },
+    "medianIncome": 70101,
+    "meanIncome": 88149
+  },
+  {
+    "countyFips": "471",
+    "stateFips": "48",
+    "name": "Walker County, Texas",
+    "population": 78292,
+    "medianAge": 37.1,
+    "race": {
+      "white": 61.9,
+      "black": 20.3,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.4,
+      "other": 4,
+      "twoOrMore": 11.9,
+      "hispanic": 21.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 34.7,
+      "someCollege": 21.3,
+      "associates": 7.3,
+      "bachelors": 14.4,
+      "graduate": 7.1
+    },
+    "medianIncome": 49862,
+    "meanIncome": 68951
+  },
+  {
+    "countyFips": "473",
+    "stateFips": "48",
+    "name": "Waller County, Texas",
+    "population": 59455,
+    "medianAge": 30.8,
+    "race": {
+      "white": 46.6,
+      "black": 23.6,
+      "asian": 1.7,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.1,
+      "other": 14.5,
+      "twoOrMore": 12.1,
+      "hispanic": 33
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 29.3,
+      "someCollege": 23.2,
+      "associates": 4.9,
+      "bachelors": 19.9,
+      "graduate": 6.7
+    },
+    "medianIncome": 76135,
+    "meanIncome": 105868
+  },
+  {
+    "countyFips": "475",
+    "stateFips": "48",
+    "name": "Ward County, Texas",
+    "population": 11255,
+    "medianAge": 34.9,
+    "race": {
+      "white": 64.5,
+      "black": 6.3,
+      "asian": 1.6,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 15.9,
+      "twoOrMore": 10.7,
+      "hispanic": 55.4
+    },
+    "education": {
+      "lessThanHighSchool": 19,
+      "highSchool": 40.2,
+      "someCollege": 24.4,
+      "associates": 5.8,
+      "bachelors": 7.8,
+      "graduate": 2.9
+    },
+    "medianIncome": 71719,
+    "meanIncome": 99358
+  },
+  {
+    "countyFips": "477",
+    "stateFips": "48",
+    "name": "Washington County, Texas",
+    "population": 36156,
+    "medianAge": 40.9,
+    "race": {
+      "white": 69,
+      "black": 15.2,
+      "asian": 1.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 11.2,
+      "hispanic": 18.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 28.3,
+      "someCollege": 22.5,
+      "associates": 8.6,
+      "bachelors": 21.1,
+      "graduate": 9.9
+    },
+    "medianIncome": 75085,
+    "meanIncome": 101919
+  },
+  {
+    "countyFips": "479",
+    "stateFips": "48",
+    "name": "Webb County, Texas",
+    "population": 267731,
+    "medianAge": 29.8,
+    "race": {
+      "white": 37.7,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 7.6,
+      "twoOrMore": 53.5,
+      "hispanic": 95.1
+    },
+    "education": {
+      "lessThanHighSchool": 30.2,
+      "highSchool": 22.2,
+      "someCollege": 19.3,
+      "associates": 7.4,
+      "bachelors": 14.7,
+      "graduate": 6.2
+    },
+    "medianIncome": 62506,
+    "meanIncome": 80723
+  },
+  {
+    "countyFips": "481",
+    "stateFips": "48",
+    "name": "Wharton County, Texas",
+    "population": 41651,
+    "medianAge": 38.4,
+    "race": {
+      "white": 63.4,
+      "black": 13.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 6.7,
+      "twoOrMore": 16,
+      "hispanic": 41.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 31.3,
+      "someCollege": 22.4,
+      "associates": 11,
+      "bachelors": 14.1,
+      "graduate": 5.1
+    },
+    "medianIncome": 66100,
+    "meanIncome": 89055
+  },
+  {
+    "countyFips": "483",
+    "stateFips": "48",
+    "name": "Wheeler County, Texas",
+    "population": 4902,
+    "medianAge": 40.6,
+    "race": {
+      "white": 81.9,
+      "black": 1.7,
+      "asian": 1.6,
+      "nativeAmerican": 2.7,
+      "pacificIslander": 0,
+      "other": 5.9,
+      "twoOrMore": 6.2,
+      "hispanic": 25
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 33.2,
+      "someCollege": 29,
+      "associates": 6,
+      "bachelors": 17.7,
+      "graduate": 1.8
+    },
+    "medianIncome": 67964,
+    "meanIncome": 77469
+  },
+  {
+    "countyFips": "485",
+    "stateFips": "48",
+    "name": "Wichita County, Texas",
+    "population": 129842,
+    "medianAge": 35,
+    "race": {
+      "white": 73.9,
+      "black": 10.3,
+      "asian": 2.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 3.2,
+      "twoOrMore": 9.6,
+      "hispanic": 20.3
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 31.3,
+      "someCollege": 23.6,
+      "associates": 8.4,
+      "bachelors": 15.9,
+      "graduate": 9
+    },
+    "medianIncome": 62168,
+    "meanIncome": 83994
+  },
+  {
+    "countyFips": "487",
+    "stateFips": "48",
+    "name": "Wilbarger County, Texas",
+    "population": 12712,
+    "medianAge": 39.5,
+    "race": {
+      "white": 66.7,
+      "black": 6.2,
+      "asian": 2.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 6.8,
+      "twoOrMore": 16.9,
+      "hispanic": 29.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.7,
+      "highSchool": 31.2,
+      "someCollege": 26.1,
+      "associates": 6.5,
+      "bachelors": 12.9,
+      "graduate": 4.5
+    },
+    "medianIncome": 51626,
+    "meanIncome": 69207
+  },
+  {
+    "countyFips": "489",
+    "stateFips": "48",
+    "name": "Willacy County, Texas",
+    "population": 20218,
+    "medianAge": 33.7,
+    "race": {
+      "white": 56.8,
+      "black": 1.4,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.8,
+      "twoOrMore": 36.8,
+      "hispanic": 87.2
+    },
+    "education": {
+      "lessThanHighSchool": 32.3,
+      "highSchool": 34.6,
+      "someCollege": 15.5,
+      "associates": 5.4,
+      "bachelors": 9.4,
+      "graduate": 2.8
+    },
+    "medianIncome": 45645,
+    "meanIncome": 63701
+  },
+  {
+    "countyFips": "491",
+    "stateFips": "48",
+    "name": "Williamson County, Texas",
+    "population": 643889,
+    "medianAge": 37.2,
+    "race": {
+      "white": 63.8,
+      "black": 6.9,
+      "asian": 9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 5,
+      "twoOrMore": 14.7,
+      "hispanic": 24.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 17.7,
+      "someCollege": 20.3,
+      "associates": 8.7,
+      "bachelors": 30.5,
+      "graduate": 16.9
+    },
+    "medianIncome": 108309,
+    "meanIncome": 134720
+  },
+  {
+    "countyFips": "493",
+    "stateFips": "48",
+    "name": "Wilson County, Texas",
+    "population": 51501,
+    "medianAge": 40.1,
+    "race": {
+      "white": 72.1,
+      "black": 1.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 19.7,
+      "hispanic": 39.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 30.4,
+      "someCollege": 23.4,
+      "associates": 9.5,
+      "bachelors": 18.4,
+      "graduate": 7.9
+    },
+    "medianIncome": 92461,
+    "meanIncome": 116219
+  },
+  {
+    "countyFips": "495",
+    "stateFips": "48",
+    "name": "Winkler County, Texas",
+    "population": 7540,
+    "medianAge": 35.3,
+    "race": {
+      "white": 58.2,
+      "black": 4.3,
+      "asian": 0.9,
+      "nativeAmerican": 2.4,
+      "pacificIslander": 0,
+      "other": 15.9,
+      "twoOrMore": 18.4,
+      "hispanic": 61.8
+    },
+    "education": {
+      "lessThanHighSchool": 26.2,
+      "highSchool": 35.9,
+      "someCollege": 21.3,
+      "associates": 6.6,
+      "bachelors": 9,
+      "graduate": 1
+    },
+    "medianIncome": 91898,
+    "meanIncome": 94977
+  },
+  {
+    "countyFips": "497",
+    "stateFips": "48",
+    "name": "Wise County, Texas",
+    "population": 72359,
+    "medianAge": 40,
+    "race": {
+      "white": 84.4,
+      "black": 1.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 7.2,
+      "hispanic": 20.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 33.7,
+      "someCollege": 24.4,
+      "associates": 7.9,
+      "bachelors": 14.1,
+      "graduate": 6.6
+    },
+    "medianIncome": 89897,
+    "meanIncome": 110406
+  },
+  {
+    "countyFips": "499",
+    "stateFips": "48",
+    "name": "Wood County, Texas",
+    "population": 46094,
+    "medianAge": 48.4,
+    "race": {
+      "white": 84.2,
+      "black": 4,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 7.8,
+      "hispanic": 11.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 31.5,
+      "someCollege": 25.9,
+      "associates": 7.1,
+      "bachelors": 13.7,
+      "graduate": 8.5
+    },
+    "medianIncome": 62524,
+    "meanIncome": 85733
+  },
+  {
+    "countyFips": "501",
+    "stateFips": "48",
+    "name": "Yoakum County, Texas",
+    "population": 7589,
+    "medianAge": 33,
+    "race": {
+      "white": 58.8,
+      "black": 0.1,
+      "asian": 0.9,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 7,
+      "twoOrMore": 31.8,
+      "hispanic": 65.2
+    },
+    "education": {
+      "lessThanHighSchool": 24.3,
+      "highSchool": 30.2,
+      "someCollege": 27.1,
+      "associates": 4.2,
+      "bachelors": 11.9,
+      "graduate": 2.3
+    },
+    "medianIncome": 82261,
+    "meanIncome": 101220
+  },
+  {
+    "countyFips": "503",
+    "stateFips": "48",
+    "name": "Young County, Texas",
+    "population": 17963,
+    "medianAge": 40.7,
+    "race": {
+      "white": 83.2,
+      "black": 1.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 5.8,
+      "twoOrMore": 8.7,
+      "hispanic": 20.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 32.5,
+      "someCollege": 24.6,
+      "associates": 8.7,
+      "bachelors": 16.9,
+      "graduate": 6.7
+    },
+    "medianIncome": 63723,
+    "meanIncome": 85404
+  },
+  {
+    "countyFips": "505",
+    "stateFips": "48",
+    "name": "Zapata County, Texas",
+    "population": 13855,
+    "medianAge": 31.5,
+    "race": {
+      "white": 39.5,
+      "black": 0.3,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 6.6,
+      "twoOrMore": 52.9,
+      "hispanic": 93.9
+    },
+    "education": {
+      "lessThanHighSchool": 35.9,
+      "highSchool": 29.2,
+      "someCollege": 15,
+      "associates": 6.5,
+      "bachelors": 9.7,
+      "graduate": 3.6
+    },
+    "medianIncome": 36527,
+    "meanIncome": 56798
+  },
+  {
+    "countyFips": "507",
+    "stateFips": "48",
+    "name": "Zavala County, Texas",
+    "population": 9532,
+    "medianAge": 32.5,
+    "race": {
+      "white": 36.4,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 56.3,
+      "hispanic": 92.6
+    },
+    "education": {
+      "lessThanHighSchool": 26.6,
+      "highSchool": 33,
+      "someCollege": 24.6,
+      "associates": 6.2,
+      "bachelors": 8.1,
+      "graduate": 1.5
+    },
+    "medianIncome": 41887,
+    "meanIncome": 55486
+  }
+]
