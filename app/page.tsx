@@ -6,6 +6,7 @@ import CountyMap from '@/components/CountyMap';
 import PersonaScreen from '@/components/PersonaScreen';
 import PersonaExploration from '@/components/PersonaExploration';
 import ComparePerspectives from '@/components/ComparePerspectives';
+import { useEffect } from 'react';
 
 function AppContent() {
   const { currentView } = useApp();

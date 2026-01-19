@@ -1,0 +1,1244 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "45",
+    "name": "Abbeville County, South Carolina",
+    "population": 24352,
+    "medianAge": 44.3,
+    "race": {
+      "white": 69.3,
+      "black": 25.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.8,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 37.5,
+      "someCollege": 15.8,
+      "associates": 13.6,
+      "bachelors": 13.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 52112,
+    "meanIncome": 73094
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "45",
+    "name": "Aiken County, South Carolina",
+    "population": 171949,
+    "medianAge": 41.6,
+    "race": {
+      "white": 66.1,
+      "black": 24.5,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 6.7,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 29.7,
+      "someCollege": 20.1,
+      "associates": 9,
+      "bachelors": 19.6,
+      "graduate": 11.5
+    },
+    "medianIncome": 67940,
+    "meanIncome": 88922
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "45",
+    "name": "Allendale County, South Carolina",
+    "population": 7738,
+    "medianAge": 42.5,
+    "race": {
+      "white": 24.2,
+      "black": 64,
+      "asian": 4.2,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.1,
+      "other": 4.1,
+      "twoOrMore": 2.3,
+      "hispanic": 10.3
+    },
+    "education": {
+      "lessThanHighSchool": 20.4,
+      "highSchool": 41.8,
+      "someCollege": 17.5,
+      "associates": 6.9,
+      "bachelors": 5.9,
+      "graduate": 7.4
+    },
+    "medianIncome": 31603,
+    "meanIncome": 54043
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "45",
+    "name": "Anderson County, South Carolina",
+    "population": 207218,
+    "medianAge": 40.5,
+    "race": {
+      "white": 77.2,
+      "black": 13.6,
+      "asian": 1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 6,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 30.5,
+      "someCollege": 19.8,
+      "associates": 11.1,
+      "bachelors": 16.7,
+      "graduate": 9.7
+    },
+    "medianIncome": 64683,
+    "meanIncome": 86976
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "45",
+    "name": "Bamberg County, South Carolina",
+    "population": 13164,
+    "medianAge": 41.7,
+    "race": {
+      "white": 37.8,
+      "black": 59.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 1,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 23.1,
+      "highSchool": 29.9,
+      "someCollege": 17.4,
+      "associates": 10.7,
+      "bachelors": 10.7,
+      "graduate": 8.1
+    },
+    "medianIncome": 43206,
+    "meanIncome": 55753
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "45",
+    "name": "Barnwell County, South Carolina",
+    "population": 20565,
+    "medianAge": 40.7,
+    "race": {
+      "white": 52.2,
+      "black": 43.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.8,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 19.2,
+      "highSchool": 40.4,
+      "someCollege": 16.3,
+      "associates": 11.3,
+      "bachelors": 8.3,
+      "graduate": 4.6
+    },
+    "medianIncome": 41800,
+    "meanIncome": 62036
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "45",
+    "name": "Beaufort County, South Carolina",
+    "population": 192123,
+    "medianAge": 47.2,
+    "race": {
+      "white": 70.1,
+      "black": 15.8,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5.8,
+      "twoOrMore": 7.1,
+      "hispanic": 12.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 21.4,
+      "someCollege": 19.7,
+      "associates": 8.3,
+      "bachelors": 25.9,
+      "graduate": 18.9
+    },
+    "medianIncome": 84819,
+    "meanIncome": 123126
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "45",
+    "name": "Berkeley County, South Carolina",
+    "population": 238723,
+    "medianAge": 36.7,
+    "race": {
+      "white": 63.1,
+      "black": 23.2,
+      "asian": 2.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 7.1,
+      "hispanic": 8.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 28.6,
+      "someCollege": 21.8,
+      "associates": 10.2,
+      "bachelors": 19.3,
+      "graduate": 10.6
+    },
+    "medianIncome": 82327,
+    "meanIncome": 102485
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "45",
+    "name": "Calhoun County, South Carolina",
+    "population": 14150,
+    "medianAge": 47.4,
+    "race": {
+      "white": 55.2,
+      "black": 38.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.4,
+      "other": 2.6,
+      "twoOrMore": 2.6,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 34.6,
+      "someCollege": 19.9,
+      "associates": 12.1,
+      "bachelors": 14.4,
+      "graduate": 7.3
+    },
+    "medianIncome": 56690,
+    "meanIncome": 74774
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "45",
+    "name": "Charleston County, South Carolina",
+    "population": 414711,
+    "medianAge": 39,
+    "race": {
+      "white": 66.2,
+      "black": 23.8,
+      "asian": 1.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 3.1,
+      "twoOrMore": 4.8,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 18.6,
+      "someCollege": 17.3,
+      "associates": 8,
+      "bachelors": 30,
+      "graduate": 19
+    },
+    "medianIncome": 84320,
+    "meanIncome": 126878
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "45",
+    "name": "Cherokee County, South Carolina",
+    "population": 56299,
+    "medianAge": 40.3,
+    "race": {
+      "white": 71.2,
+      "black": 18.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 6.3,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 14.5,
+      "highSchool": 36.9,
+      "someCollege": 20,
+      "associates": 10.2,
+      "bachelors": 11.1,
+      "graduate": 7.3
+    },
+    "medianIncome": 49047,
+    "meanIncome": 66482
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "45",
+    "name": "Chester County, South Carolina",
+    "population": 32177,
+    "medianAge": 42.2,
+    "race": {
+      "white": 58.3,
+      "black": 36,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.1,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 39.9,
+      "someCollege": 21.9,
+      "associates": 8.9,
+      "bachelors": 8.4,
+      "graduate": 5.4
+    },
+    "medianIncome": 51216,
+    "meanIncome": 66845
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "45",
+    "name": "Chesterfield County, South Carolina",
+    "population": 43575,
+    "medianAge": 42.4,
+    "race": {
+      "white": 61.5,
+      "black": 30.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5.5,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 41.1,
+      "someCollege": 18.4,
+      "associates": 9.3,
+      "bachelors": 8,
+      "graduate": 5.2
+    },
+    "medianIncome": 47620,
+    "meanIncome": 68312
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "45",
+    "name": "Clarendon County, South Carolina",
+    "population": 31037,
+    "medianAge": 45.9,
+    "race": {
+      "white": 50.1,
+      "black": 45.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.4,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 36.8,
+      "someCollege": 20.1,
+      "associates": 7.4,
+      "bachelors": 11.4,
+      "graduate": 6.2
+    },
+    "medianIncome": 48887,
+    "meanIncome": 68565
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "45",
+    "name": "Colleton County, South Carolina",
+    "population": 38623,
+    "medianAge": 42.2,
+    "race": {
+      "white": 57.7,
+      "black": 34.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 4.6,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 40.1,
+      "someCollege": 19.4,
+      "associates": 9.3,
+      "bachelors": 10.9,
+      "graduate": 5.8
+    },
+    "medianIncome": 48779,
+    "meanIncome": 69181
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "45",
+    "name": "Darlington County, South Carolina",
+    "population": 62754,
+    "medianAge": 41.5,
+    "race": {
+      "white": 54.5,
+      "black": 41,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.9,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 36.6,
+      "someCollege": 19.3,
+      "associates": 10.9,
+      "bachelors": 12.3,
+      "graduate": 7.4
+    },
+    "medianIncome": 47419,
+    "meanIncome": 73030
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "45",
+    "name": "Dillon County, South Carolina",
+    "population": 28031,
+    "medianAge": 37.5,
+    "race": {
+      "white": 45.3,
+      "black": 45.7,
+      "asian": 0,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.5,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 43.9,
+      "someCollege": 18.3,
+      "associates": 7.7,
+      "bachelors": 6.9,
+      "graduate": 4.7
+    },
+    "medianIncome": 44038,
+    "meanIncome": 57551
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "45",
+    "name": "Dorchester County, South Carolina",
+    "population": 164322,
+    "medianAge": 37.9,
+    "race": {
+      "white": 63.1,
+      "black": 25.1,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.6,
+      "other": 3,
+      "twoOrMore": 5.8,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 26.1,
+      "someCollege": 23.9,
+      "associates": 11.3,
+      "bachelors": 19.3,
+      "graduate": 10.6
+    },
+    "medianIncome": 76896,
+    "meanIncome": 96656
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "45",
+    "name": "Edgefield County, South Carolina",
+    "population": 26508,
+    "medianAge": 42,
+    "race": {
+      "white": 59.4,
+      "black": 31.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 2.2,
+      "twoOrMore": 6.1,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 18.2,
+      "highSchool": 32.5,
+      "someCollege": 18,
+      "associates": 9.9,
+      "bachelors": 12.5,
+      "graduate": 9
+    },
+    "medianIncome": 67092,
+    "meanIncome": 84628
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "45",
+    "name": "Fairfield County, South Carolina",
+    "population": 20741,
+    "medianAge": 46.7,
+    "race": {
+      "white": 38.7,
+      "black": 55.4,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 38.8,
+      "someCollege": 21.6,
+      "associates": 8.9,
+      "bachelors": 8.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 46972,
+    "meanIncome": 74173
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "45",
+    "name": "Florence County, South Carolina",
+    "population": 136921,
+    "medianAge": 39.2,
+    "race": {
+      "white": 50.5,
+      "black": 43,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 3.2,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 33.4,
+      "someCollege": 19.5,
+      "associates": 11.2,
+      "bachelors": 14.7,
+      "graduate": 9
+    },
+    "medianIncome": 56650,
+    "meanIncome": 78842
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "45",
+    "name": "Georgetown County, South Carolina",
+    "population": 64200,
+    "medianAge": 51.6,
+    "race": {
+      "white": 66.2,
+      "black": 28.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 2.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 27.4,
+      "someCollege": 22.1,
+      "associates": 9.9,
+      "bachelors": 20.4,
+      "graduate": 12.1
+    },
+    "medianIncome": 66734,
+    "meanIncome": 98299
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "45",
+    "name": "Greenville County, South Carolina",
+    "population": 537575,
+    "medianAge": 38.5,
+    "race": {
+      "white": 68.2,
+      "black": 16.8,
+      "asian": 2.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 4.3,
+      "twoOrMore": 7.8,
+      "hispanic": 11.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 22.8,
+      "someCollege": 18.3,
+      "associates": 9.3,
+      "bachelors": 25.2,
+      "graduate": 14.8
+    },
+    "medianIncome": 74624,
+    "meanIncome": 104150
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "45",
+    "name": "Greenwood County, South Carolina",
+    "population": 69329,
+    "medianAge": 39.6,
+    "race": {
+      "white": 62.8,
+      "black": 31.3,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 3.3,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 32.8,
+      "someCollege": 17.4,
+      "associates": 13.1,
+      "bachelors": 16.2,
+      "graduate": 9.4
+    },
+    "medianIncome": 50635,
+    "meanIncome": 73454
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "45",
+    "name": "Hampton County, South Carolina",
+    "population": 18555,
+    "medianAge": 40.9,
+    "race": {
+      "white": 40.4,
+      "black": 52.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.9,
+      "twoOrMore": 2.2,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 44.4,
+      "someCollege": 18.8,
+      "associates": 7.5,
+      "bachelors": 7.2,
+      "graduate": 4.5
+    },
+    "medianIncome": 43059,
+    "meanIncome": 59862
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "45",
+    "name": "Horry County, South Carolina",
+    "population": 368937,
+    "medianAge": 48.2,
+    "race": {
+      "white": 77.8,
+      "black": 11.9,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 6.4,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 31.4,
+      "someCollege": 22.8,
+      "associates": 10.6,
+      "bachelors": 17.3,
+      "graduate": 9.3
+    },
+    "medianIncome": 64623,
+    "meanIncome": 84884
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "45",
+    "name": "Jasper County, South Carolina",
+    "population": 30658,
+    "medianAge": 44.3,
+    "race": {
+      "white": 47,
+      "black": 34.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 9.2,
+      "twoOrMore": 8.2,
+      "hispanic": 17.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 34.1,
+      "someCollege": 20.8,
+      "associates": 9.4,
+      "bachelors": 18.8,
+      "graduate": 7.1
+    },
+    "medianIncome": 63503,
+    "meanIncome": 78167
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "45",
+    "name": "Kershaw County, South Carolina",
+    "population": 66924,
+    "medianAge": 40.3,
+    "race": {
+      "white": 67.7,
+      "black": 23.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 3.7,
+      "twoOrMore": 4.4,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 33.4,
+      "someCollege": 23.6,
+      "associates": 9.3,
+      "bachelors": 13.8,
+      "graduate": 9
+    },
+    "medianIncome": 64343,
+    "meanIncome": 86839
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "45",
+    "name": "Lancaster County, South Carolina",
+    "population": 100905,
+    "medianAge": 42.2,
+    "race": {
+      "white": 70.4,
+      "black": 19.4,
+      "asian": 2.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 5.7,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 27.7,
+      "someCollege": 18.4,
+      "associates": 11.7,
+      "bachelors": 19.9,
+      "graduate": 11.3
+    },
+    "medianIncome": 74751,
+    "meanIncome": 102695
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "45",
+    "name": "Laurens County, South Carolina",
+    "population": 67904,
+    "medianAge": 40.9,
+    "race": {
+      "white": 67.4,
+      "black": 23,
+      "asian": 0.5,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.1,
+      "other": 2.7,
+      "twoOrMore": 5.4,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 16.3,
+      "highSchool": 37.2,
+      "someCollege": 18.2,
+      "associates": 10.4,
+      "bachelors": 11.8,
+      "graduate": 6
+    },
+    "medianIncome": 55517,
+    "meanIncome": 72549
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "45",
+    "name": "Lee County, South Carolina",
+    "population": 16330,
+    "medianAge": 41.8,
+    "race": {
+      "white": 34,
+      "black": 62.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 2.2,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 19,
+      "highSchool": 42,
+      "someCollege": 19.2,
+      "associates": 7,
+      "bachelors": 8.5,
+      "graduate": 4.3
+    },
+    "medianIncome": 44145,
+    "meanIncome": 58286
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "45",
+    "name": "Lexington County, South Carolina",
+    "population": 300370,
+    "medianAge": 39.7,
+    "race": {
+      "white": 73.4,
+      "black": 15,
+      "asian": 2.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.5,
+      "twoOrMore": 6.7,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 26.6,
+      "someCollege": 21.4,
+      "associates": 10.4,
+      "bachelors": 20.6,
+      "graduate": 12.5
+    },
+    "medianIncome": 75014,
+    "meanIncome": 95320
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "45",
+    "name": "McCormick County, South Carolina",
+    "population": 9701,
+    "medianAge": 58.7,
+    "race": {
+      "white": 54.7,
+      "black": 41.2,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 3.2,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 34.4,
+      "someCollege": 17,
+      "associates": 10.7,
+      "bachelors": 16.2,
+      "graduate": 6.8
+    },
+    "medianIncome": 55344,
+    "meanIncome": 73615
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "45",
+    "name": "Marion County, South Carolina",
+    "population": 28900,
+    "medianAge": 43,
+    "race": {
+      "white": 38.5,
+      "black": 55.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 2.9,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 48.9,
+      "someCollege": 14,
+      "associates": 7.3,
+      "bachelors": 8.4,
+      "graduate": 5.3
+    },
+    "medianIncome": 34501,
+    "meanIncome": 51626
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "45",
+    "name": "Marlboro County, South Carolina",
+    "population": 26285,
+    "medianAge": 41.2,
+    "race": {
+      "white": 38.7,
+      "black": 49.3,
+      "asian": 0.4,
+      "nativeAmerican": 3.5,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 6.2,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 18.5,
+      "highSchool": 49.6,
+      "someCollege": 15.6,
+      "associates": 7.5,
+      "bachelors": 6,
+      "graduate": 2.7
+    },
+    "medianIncome": 36293,
+    "meanIncome": 50984
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "45",
+    "name": "Newberry County, South Carolina",
+    "population": 38121,
+    "medianAge": 42,
+    "race": {
+      "white": 61.4,
+      "black": 29.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 5.3,
+      "hispanic": 8.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 32.5,
+      "someCollege": 18.2,
+      "associates": 12.1,
+      "bachelors": 14,
+      "graduate": 9.5
+    },
+    "medianIncome": 59670,
+    "meanIncome": 79019
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "45",
+    "name": "Oconee County, South Carolina",
+    "population": 79566,
+    "medianAge": 46.7,
+    "race": {
+      "white": 84.7,
+      "black": 6.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 4.5,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 30.3,
+      "someCollege": 18.2,
+      "associates": 10.1,
+      "bachelors": 17.2,
+      "graduate": 11.3
+    },
+    "medianIncome": 60193,
+    "meanIncome": 87937
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "45",
+    "name": "Orangeburg County, South Carolina",
+    "population": 83531,
+    "medianAge": 40.8,
+    "race": {
+      "white": 34.3,
+      "black": 61.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.1,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 33.4,
+      "someCollege": 17.7,
+      "associates": 12.9,
+      "bachelors": 10.3,
+      "graduate": 9
+    },
+    "medianIncome": 43214,
+    "meanIncome": 61346
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "45",
+    "name": "Pickens County, South Carolina",
+    "population": 132604,
+    "medianAge": 36.2,
+    "race": {
+      "white": 85,
+      "black": 6.2,
+      "asian": 1.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.6,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 30,
+      "someCollege": 18.3,
+      "associates": 11.7,
+      "bachelors": 15.3,
+      "graduate": 12.1
+    },
+    "medianIncome": 59411,
+    "meanIncome": 82867
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "45",
+    "name": "Richland County, South Carolina",
+    "population": 418725,
+    "medianAge": 34.2,
+    "race": {
+      "white": 41.3,
+      "black": 47.3,
+      "asian": 2.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.8,
+      "twoOrMore": 5.4,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 21,
+      "someCollege": 20.9,
+      "associates": 8.9,
+      "bachelors": 23.6,
+      "graduate": 17.5
+    },
+    "medianIncome": 61699,
+    "meanIncome": 89852
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "45",
+    "name": "Saluda County, South Carolina",
+    "population": 18958,
+    "medianAge": 43,
+    "race": {
+      "white": 59.1,
+      "black": 22.1,
+      "asian": 0.3,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 4.8,
+      "twoOrMore": 12.7,
+      "hispanic": 16.6
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 37.8,
+      "someCollege": 16.9,
+      "associates": 9.6,
+      "bachelors": 11.4,
+      "graduate": 8.4
+    },
+    "medianIncome": 52957,
+    "meanIncome": 72636
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "45",
+    "name": "Spartanburg County, South Carolina",
+    "population": 338096,
+    "medianAge": 37.9,
+    "race": {
+      "white": 67.7,
+      "black": 19.8,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 7,
+      "hispanic": 8.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 31.1,
+      "someCollege": 20.7,
+      "associates": 10.3,
+      "bachelors": 15.8,
+      "graduate": 10
+    },
+    "medianIncome": 64195,
+    "meanIncome": 85090
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "45",
+    "name": "Sumter County, South Carolina",
+    "population": 104853,
+    "medianAge": 37.3,
+    "race": {
+      "white": 45.1,
+      "black": 46.2,
+      "asian": 1.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 5.1,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 32.2,
+      "someCollege": 22.1,
+      "associates": 11.7,
+      "bachelors": 14,
+      "graduate": 9.1
+    },
+    "medianIncome": 55990,
+    "meanIncome": 72474
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "45",
+    "name": "Union County, South Carolina",
+    "population": 26990,
+    "medianAge": 44.3,
+    "race": {
+      "white": 65.2,
+      "black": 29.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4.8,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 19.3,
+      "highSchool": 37.7,
+      "someCollege": 20.5,
+      "associates": 9,
+      "bachelors": 10.3,
+      "graduate": 3.2
+    },
+    "medianIncome": 41200,
+    "meanIncome": 58786
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "45",
+    "name": "Williamsburg County, South Carolina",
+    "population": 30517,
+    "medianAge": 44,
+    "race": {
+      "white": 32.7,
+      "black": 64,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 0.9,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 43,
+      "someCollege": 16.5,
+      "associates": 8.4,
+      "bachelors": 8.8,
+      "graduate": 6.6
+    },
+    "medianIncome": 43471,
+    "meanIncome": 57757
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "45",
+    "name": "York County, South Carolina",
+    "population": 288559,
+    "medianAge": 39.4,
+    "race": {
+      "white": 69.5,
+      "black": 18.7,
+      "asian": 2.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 6.5,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 23.6,
+      "someCollege": 20.6,
+      "associates": 10.3,
+      "bachelors": 24.2,
+      "graduate": 14
+    },
+    "medianIncome": 83060,
+    "meanIncome": 110350
+  }
+]

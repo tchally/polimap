@@ -1,0 +1,2081 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "40",
+    "name": "Adair County, Oklahoma",
+    "population": 19595,
+    "medianAge": 38.1,
+    "race": {
+      "white": 40.4,
+      "black": 0.3,
+      "asian": 1.3,
+      "nativeAmerican": 41.8,
+      "pacificIslander": 0,
+      "other": 3.9,
+      "twoOrMore": 12.2,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 45.2,
+      "someCollege": 20.6,
+      "associates": 5.3,
+      "bachelors": 7,
+      "graduate": 4.8
+    },
+    "medianIncome": 48028,
+    "meanIncome": 58562
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "40",
+    "name": "Alfalfa County, Oklahoma",
+    "population": 5685,
+    "medianAge": 44.4,
+    "race": {
+      "white": 82.7,
+      "black": 3.4,
+      "asian": 0.3,
+      "nativeAmerican": 3,
+      "pacificIslander": 0.1,
+      "other": 1.8,
+      "twoOrMore": 8.6,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 35.5,
+      "someCollege": 22.2,
+      "associates": 7.4,
+      "bachelors": 13.5,
+      "graduate": 7.2
+    },
+    "medianIncome": 67870,
+    "meanIncome": 81930
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "40",
+    "name": "Atoka County, Oklahoma",
+    "population": 14255,
+    "medianAge": 40.2,
+    "race": {
+      "white": 69.2,
+      "black": 3.9,
+      "asian": 0.8,
+      "nativeAmerican": 9.4,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 16.4,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 41.3,
+      "someCollege": 20.1,
+      "associates": 6.9,
+      "bachelors": 10.3,
+      "graduate": 5
+    },
+    "medianIncome": 52034,
+    "meanIncome": 70526
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "40",
+    "name": "Beaver County, Oklahoma",
+    "population": 5041,
+    "medianAge": 41.1,
+    "race": {
+      "white": 70.6,
+      "black": 0.3,
+      "asian": 0.1,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 13.1,
+      "twoOrMore": 15,
+      "hispanic": 27.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 31.5,
+      "someCollege": 20.4,
+      "associates": 10.2,
+      "bachelors": 16.2,
+      "graduate": 6.8
+    },
+    "medianIncome": 64266,
+    "meanIncome": 80880
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "40",
+    "name": "Beckham County, Oklahoma",
+    "population": 22202,
+    "medianAge": 37.1,
+    "race": {
+      "white": 82.7,
+      "black": 5.4,
+      "asian": 0.9,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 7,
+      "hispanic": 13.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 42,
+      "someCollege": 20.7,
+      "associates": 8.4,
+      "bachelors": 8.6,
+      "graduate": 4.7
+    },
+    "medianIncome": 52323,
+    "meanIncome": 74334
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "40",
+    "name": "Blaine County, Oklahoma",
+    "population": 8603,
+    "medianAge": 41.6,
+    "race": {
+      "white": 75.4,
+      "black": 4.3,
+      "asian": 0,
+      "nativeAmerican": 6.6,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 9.4,
+      "hispanic": 11.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 36.6,
+      "someCollege": 24.4,
+      "associates": 5.7,
+      "bachelors": 14.1,
+      "graduate": 3.9
+    },
+    "medianIncome": 59304,
+    "meanIncome": 80381
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "40",
+    "name": "Bryan County, Oklahoma",
+    "population": 47237,
+    "medianAge": 36.8,
+    "race": {
+      "white": 70.4,
+      "black": 2.4,
+      "asian": 0.7,
+      "nativeAmerican": 12.6,
+      "pacificIslander": 0.1,
+      "other": 1.8,
+      "twoOrMore": 12,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 34.3,
+      "someCollege": 23.2,
+      "associates": 5.7,
+      "bachelors": 16.6,
+      "graduate": 7.8
+    },
+    "medianIncome": 54280,
+    "meanIncome": 72300
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "40",
+    "name": "Caddo County, Oklahoma",
+    "population": 26626,
+    "medianAge": 37.8,
+    "race": {
+      "white": 58.4,
+      "black": 3.6,
+      "asian": 0.2,
+      "nativeAmerican": 18.6,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 14.9,
+      "hispanic": 16.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 46.5,
+      "someCollege": 19.8,
+      "associates": 5,
+      "bachelors": 11.6,
+      "graduate": 3.9
+    },
+    "medianIncome": 52817,
+    "meanIncome": 65871
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "40",
+    "name": "Canadian County, Oklahoma",
+    "population": 162621,
+    "medianAge": 36.1,
+    "race": {
+      "white": 74.5,
+      "black": 3.6,
+      "asian": 3.2,
+      "nativeAmerican": 3.5,
+      "pacificIslander": 0.1,
+      "other": 3.7,
+      "twoOrMore": 11.4,
+      "hispanic": 11.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 27.3,
+      "someCollege": 23.6,
+      "associates": 9.5,
+      "bachelors": 22.3,
+      "graduate": 9.5
+    },
+    "medianIncome": 85427,
+    "meanIncome": 102440
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "40",
+    "name": "Carter County, Oklahoma",
+    "population": 48255,
+    "medianAge": 38.3,
+    "race": {
+      "white": 69.4,
+      "black": 5.9,
+      "asian": 1.2,
+      "nativeAmerican": 7.5,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 13.9,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 36.8,
+      "someCollege": 23.3,
+      "associates": 7.7,
+      "bachelors": 12.9,
+      "graduate": 7.2
+    },
+    "medianIncome": 58856,
+    "meanIncome": 79874
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "40",
+    "name": "Cherokee County, Oklahoma",
+    "population": 47621,
+    "medianAge": 37.3,
+    "race": {
+      "white": 46.9,
+      "black": 1.4,
+      "asian": 1,
+      "nativeAmerican": 33.2,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 15.5,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 32.1,
+      "someCollege": 23.1,
+      "associates": 5.3,
+      "bachelors": 18.9,
+      "graduate": 10.5
+    },
+    "medianIncome": 53668,
+    "meanIncome": 75092
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "40",
+    "name": "Choctaw County, Oklahoma",
+    "population": 14299,
+    "medianAge": 42.1,
+    "race": {
+      "white": 59.5,
+      "black": 9.5,
+      "asian": 0.7,
+      "nativeAmerican": 15.2,
+      "pacificIslander": 0.1,
+      "other": 1.8,
+      "twoOrMore": 13.3,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 39.3,
+      "someCollege": 23.1,
+      "associates": 8.7,
+      "bachelors": 10.6,
+      "graduate": 4.7
+    },
+    "medianIncome": 45456,
+    "meanIncome": 61345
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "40",
+    "name": "Cimarron County, Oklahoma",
+    "population": 2247,
+    "medianAge": 38.3,
+    "race": {
+      "white": 80.5,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 18.3,
+      "hispanic": 24.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 33.6,
+      "someCollege": 18.8,
+      "associates": 1.2,
+      "bachelors": 28.7,
+      "graduate": 3
+    },
+    "medianIncome": 57204,
+    "meanIncome": 94401
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "40",
+    "name": "Cleveland County, Oklahoma",
+    "population": 297545,
+    "medianAge": 35.1,
+    "race": {
+      "white": 71.3,
+      "black": 4.9,
+      "asian": 4.6,
+      "nativeAmerican": 4.2,
+      "pacificIslander": 0.1,
+      "other": 2.5,
+      "twoOrMore": 12.4,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 24.7,
+      "someCollege": 23.2,
+      "associates": 8.7,
+      "bachelors": 21,
+      "graduate": 14.6
+    },
+    "medianIncome": 74446,
+    "meanIncome": 96578
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "40",
+    "name": "Coal County, Oklahoma",
+    "population": 5275,
+    "medianAge": 40.3,
+    "race": {
+      "white": 66.6,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 9.9,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 22.4,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 41.5,
+      "someCollege": 18.9,
+      "associates": 7.1,
+      "bachelors": 10,
+      "graduate": 6.8
+    },
+    "medianIncome": 48162,
+    "meanIncome": 65909
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "40",
+    "name": "Comanche County, Oklahoma",
+    "population": 121699,
+    "medianAge": 33.7,
+    "race": {
+      "white": 58.7,
+      "black": 15.3,
+      "asian": 2.6,
+      "nativeAmerican": 5,
+      "pacificIslander": 0.4,
+      "other": 3.1,
+      "twoOrMore": 14.8,
+      "hispanic": 14.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 33,
+      "someCollege": 25.7,
+      "associates": 7.7,
+      "bachelors": 15.6,
+      "graduate": 8.6
+    },
+    "medianIncome": 59000,
+    "meanIncome": 76794
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "40",
+    "name": "Cotton County, Oklahoma",
+    "population": 5475,
+    "medianAge": 43.2,
+    "race": {
+      "white": 78.8,
+      "black": 1.6,
+      "asian": 0.1,
+      "nativeAmerican": 8,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 8.5,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 34.6,
+      "someCollege": 24.6,
+      "associates": 5.1,
+      "bachelors": 13.8,
+      "graduate": 7.2
+    },
+    "medianIncome": 60313,
+    "meanIncome": 81345
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "40",
+    "name": "Craig County, Oklahoma",
+    "population": 14215,
+    "medianAge": 40.8,
+    "race": {
+      "white": 62.5,
+      "black": 3.5,
+      "asian": 1.2,
+      "nativeAmerican": 20.1,
+      "pacificIslander": 0.1,
+      "other": 1,
+      "twoOrMore": 11.6,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 40.9,
+      "someCollege": 22,
+      "associates": 8.4,
+      "bachelors": 10.5,
+      "graduate": 4.4
+    },
+    "medianIncome": 50182,
+    "meanIncome": 67232
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "40",
+    "name": "Creek County, Oklahoma",
+    "population": 72353,
+    "medianAge": 40.6,
+    "race": {
+      "white": 76.1,
+      "black": 2.1,
+      "asian": 0.6,
+      "nativeAmerican": 11.4,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 8.4,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 40.3,
+      "someCollege": 22.8,
+      "associates": 9,
+      "bachelors": 13,
+      "graduate": 5.4
+    },
+    "medianIncome": 61849,
+    "meanIncome": 80376
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "40",
+    "name": "Custer County, Oklahoma",
+    "population": 28332,
+    "medianAge": 32.8,
+    "race": {
+      "white": 71,
+      "black": 2.9,
+      "asian": 0.9,
+      "nativeAmerican": 5,
+      "pacificIslander": 0.1,
+      "other": 5.8,
+      "twoOrMore": 14.3,
+      "hispanic": 19.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 28.4,
+      "someCollege": 20.2,
+      "associates": 6.5,
+      "bachelors": 22.1,
+      "graduate": 11.3
+    },
+    "medianIncome": 57562,
+    "meanIncome": 81803
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "40",
+    "name": "Delaware County, Oklahoma",
+    "population": 41017,
+    "medianAge": 47,
+    "race": {
+      "white": 63.5,
+      "black": 0.5,
+      "asian": 1.5,
+      "nativeAmerican": 20.7,
+      "pacificIslander": 0.1,
+      "other": 1,
+      "twoOrMore": 12.7,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 38.9,
+      "someCollege": 22.3,
+      "associates": 7,
+      "bachelors": 13,
+      "graduate": 6.2
+    },
+    "medianIncome": 55114,
+    "meanIncome": 74796
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "40",
+    "name": "Dewey County, Oklahoma",
+    "population": 4433,
+    "medianAge": 38,
+    "race": {
+      "white": 83.4,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 4.6,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 11.1,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 45.4,
+      "someCollege": 22.2,
+      "associates": 5.2,
+      "bachelors": 12.6,
+      "graduate": 7.1
+    },
+    "medianIncome": 60550,
+    "meanIncome": 76946
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "40",
+    "name": "Ellis County, Oklahoma",
+    "population": 3717,
+    "medianAge": 43.4,
+    "race": {
+      "white": 87.6,
+      "black": 0.2,
+      "asian": 0.9,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 7.3,
+      "hispanic": 8.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 37.3,
+      "someCollege": 24.5,
+      "associates": 6.5,
+      "bachelors": 14.1,
+      "graduate": 5.9
+    },
+    "medianIncome": 56992,
+    "meanIncome": 73156
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "40",
+    "name": "Garfield County, Oklahoma",
+    "population": 62322,
+    "medianAge": 35.7,
+    "race": {
+      "white": 74.7,
+      "black": 2,
+      "asian": 1.3,
+      "nativeAmerican": 2.2,
+      "pacificIslander": 4.5,
+      "other": 5.8,
+      "twoOrMore": 9.5,
+      "hispanic": 14.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 36.8,
+      "someCollege": 20.2,
+      "associates": 8.2,
+      "bachelors": 15.5,
+      "graduate": 6.8
+    },
+    "medianIncome": 67302,
+    "meanIncome": 85427
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "40",
+    "name": "Garvin County, Oklahoma",
+    "population": 25779,
+    "medianAge": 38.8,
+    "race": {
+      "white": 78.3,
+      "black": 1.6,
+      "asian": 0.5,
+      "nativeAmerican": 4.3,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 13.4,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 43.1,
+      "someCollege": 22.2,
+      "associates": 4.8,
+      "bachelors": 11.7,
+      "graduate": 5.9
+    },
+    "medianIncome": 57127,
+    "meanIncome": 75648
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "40",
+    "name": "Grady County, Oklahoma",
+    "population": 55868,
+    "medianAge": 39.9,
+    "race": {
+      "white": 81.5,
+      "black": 2.2,
+      "asian": 0.5,
+      "nativeAmerican": 4,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 9.9,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 39.6,
+      "someCollege": 21,
+      "associates": 7.9,
+      "bachelors": 15.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 75730,
+    "meanIncome": 93439
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "40",
+    "name": "Grant County, Oklahoma",
+    "population": 4137,
+    "medianAge": 42.9,
+    "race": {
+      "white": 88.5,
+      "black": 2.1,
+      "asian": 0.2,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5.8,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 40.3,
+      "someCollege": 17.9,
+      "associates": 10.2,
+      "bachelors": 16.6,
+      "graduate": 6.1
+    },
+    "medianIncome": 61824,
+    "meanIncome": 78906
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "40",
+    "name": "Greer County, Oklahoma",
+    "population": 5498,
+    "medianAge": 40.6,
+    "race": {
+      "white": 80.5,
+      "black": 6.7,
+      "asian": 0.5,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 8,
+      "hispanic": 12.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.3,
+      "highSchool": 35.2,
+      "someCollege": 22.4,
+      "associates": 8.9,
+      "bachelors": 13,
+      "graduate": 2.2
+    },
+    "medianIncome": 60183,
+    "meanIncome": 67215
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "40",
+    "name": "Harmon County, Oklahoma",
+    "population": 2452,
+    "medianAge": 40.3,
+    "race": {
+      "white": 68.1,
+      "black": 11.1,
+      "asian": 0,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 10.5,
+      "twoOrMore": 8.5,
+      "hispanic": 31.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.5,
+      "highSchool": 34.5,
+      "someCollege": 22.9,
+      "associates": 9.8,
+      "bachelors": 10.2,
+      "graduate": 6
+    },
+    "medianIncome": 54286,
+    "meanIncome": 77060
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "40",
+    "name": "Harper County, Oklahoma",
+    "population": 3231,
+    "medianAge": 41.3,
+    "race": {
+      "white": 76.5,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 17.8,
+      "twoOrMore": 5.6,
+      "hispanic": 23.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 30,
+      "someCollege": 24,
+      "associates": 7.1,
+      "bachelors": 20.2,
+      "graduate": 6.5
+    },
+    "medianIncome": 59191,
+    "meanIncome": 69291
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "40",
+    "name": "Haskell County, Oklahoma",
+    "population": 11667,
+    "medianAge": 41.4,
+    "race": {
+      "white": 69.3,
+      "black": 0.3,
+      "asian": 0.9,
+      "nativeAmerican": 14,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 14.1,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 41.1,
+      "someCollege": 18.9,
+      "associates": 10.5,
+      "bachelors": 10.8,
+      "graduate": 4.5
+    },
+    "medianIncome": 49930,
+    "meanIncome": 67542
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "40",
+    "name": "Hughes County, Oklahoma",
+    "population": 13411,
+    "medianAge": 39.2,
+    "race": {
+      "white": 64.5,
+      "black": 4.7,
+      "asian": 0.4,
+      "nativeAmerican": 20.5,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 7.4,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 40.1,
+      "someCollege": 22.7,
+      "associates": 6.2,
+      "bachelors": 8.7,
+      "graduate": 6.4
+    },
+    "medianIncome": 47923,
+    "meanIncome": 58738
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "40",
+    "name": "Jackson County, Oklahoma",
+    "population": 24730,
+    "medianAge": 35,
+    "race": {
+      "white": 72,
+      "black": 6.6,
+      "asian": 1.5,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.1,
+      "other": 6,
+      "twoOrMore": 11.9,
+      "hispanic": 24.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 27.1,
+      "someCollege": 23.2,
+      "associates": 12.2,
+      "bachelors": 15.7,
+      "graduate": 8.5
+    },
+    "medianIncome": 61497,
+    "meanIncome": 78383
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "40",
+    "name": "Jefferson County, Oklahoma",
+    "population": 5377,
+    "medianAge": 41.2,
+    "race": {
+      "white": 79.7,
+      "black": 1.4,
+      "asian": 0.1,
+      "nativeAmerican": 4.2,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 12.8,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 42.3,
+      "someCollege": 23,
+      "associates": 3.7,
+      "bachelors": 12.5,
+      "graduate": 3.2
+    },
+    "medianIncome": 48750,
+    "meanIncome": 70599
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "40",
+    "name": "Johnston County, Oklahoma",
+    "population": 10334,
+    "medianAge": 39.5,
+    "race": {
+      "white": 68.8,
+      "black": 2.4,
+      "asian": 0.1,
+      "nativeAmerican": 11.3,
+      "pacificIslander": 0.5,
+      "other": 2,
+      "twoOrMore": 15,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 36.5,
+      "someCollege": 20.1,
+      "associates": 9.6,
+      "bachelors": 14.8,
+      "graduate": 6.5
+    },
+    "medianIncome": 50911,
+    "meanIncome": 64413
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "40",
+    "name": "Kay County, Oklahoma",
+    "population": 43731,
+    "medianAge": 38.3,
+    "race": {
+      "white": 74.4,
+      "black": 2.2,
+      "asian": 0.6,
+      "nativeAmerican": 8.5,
+      "pacificIslander": 0.1,
+      "other": 3.2,
+      "twoOrMore": 11.2,
+      "hispanic": 8.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 35.4,
+      "someCollege": 24.5,
+      "associates": 12.1,
+      "bachelors": 12.9,
+      "graduate": 5.6
+    },
+    "medianIncome": 56673,
+    "meanIncome": 77337
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "40",
+    "name": "Kingfisher County, Oklahoma",
+    "population": 15288,
+    "medianAge": 38.5,
+    "race": {
+      "white": 81.3,
+      "black": 1.1,
+      "asian": 0.5,
+      "nativeAmerican": 2.6,
+      "pacificIslander": 0.2,
+      "other": 3.4,
+      "twoOrMore": 10.9,
+      "hispanic": 18
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 41.9,
+      "someCollege": 19.9,
+      "associates": 5.5,
+      "bachelors": 16.3,
+      "graduate": 6.5
+    },
+    "medianIncome": 70617,
+    "meanIncome": 96314
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "40",
+    "name": "Kiowa County, Oklahoma",
+    "population": 8458,
+    "medianAge": 42,
+    "race": {
+      "white": 81.1,
+      "black": 3.4,
+      "asian": 0.2,
+      "nativeAmerican": 4.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 9.6,
+      "hispanic": 11.8
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 32.7,
+      "someCollege": 26.9,
+      "associates": 8,
+      "bachelors": 12.1,
+      "graduate": 6.3
+    },
+    "medianIncome": 42063,
+    "meanIncome": 59504
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "40",
+    "name": "Latimer County, Oklahoma",
+    "population": 9495,
+    "medianAge": 41.5,
+    "race": {
+      "white": 62.9,
+      "black": 1.3,
+      "asian": 1.1,
+      "nativeAmerican": 24.5,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 9.4,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 39.3,
+      "someCollege": 20.1,
+      "associates": 14.9,
+      "bachelors": 7.4,
+      "graduate": 3.1
+    },
+    "medianIncome": 41048,
+    "meanIncome": 60087
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "40",
+    "name": "Le Flore County, Oklahoma",
+    "population": 48728,
+    "medianAge": 38.8,
+    "race": {
+      "white": 71,
+      "black": 1.8,
+      "asian": 0.8,
+      "nativeAmerican": 11.7,
+      "pacificIslander": 0.1,
+      "other": 3.5,
+      "twoOrMore": 11,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 40.9,
+      "someCollege": 19.5,
+      "associates": 10.1,
+      "bachelors": 10.4,
+      "graduate": 4.4
+    },
+    "medianIncome": 50027,
+    "meanIncome": 64850
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "40",
+    "name": "Lincoln County, Oklahoma",
+    "population": 33917,
+    "medianAge": 41.3,
+    "race": {
+      "white": 82.3,
+      "black": 1.7,
+      "asian": 0.5,
+      "nativeAmerican": 5.7,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 9,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 41.8,
+      "someCollege": 24,
+      "associates": 7.8,
+      "bachelors": 10.9,
+      "graduate": 4.6
+    },
+    "medianIncome": 59425,
+    "meanIncome": 77396
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "40",
+    "name": "Logan County, Oklahoma",
+    "population": 50905,
+    "medianAge": 40.2,
+    "race": {
+      "white": 78,
+      "black": 6.5,
+      "asian": 0.6,
+      "nativeAmerican": 3.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 10.5,
+      "hispanic": 8.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 32.1,
+      "someCollege": 21.6,
+      "associates": 7.6,
+      "bachelors": 21.2,
+      "graduate": 9.3
+    },
+    "medianIncome": 82735,
+    "meanIncome": 112589
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "40",
+    "name": "Love County, Oklahoma",
+    "population": 10196,
+    "medianAge": 38.6,
+    "race": {
+      "white": 72.3,
+      "black": 2.1,
+      "asian": 0.8,
+      "nativeAmerican": 4.5,
+      "pacificIslander": 0,
+      "other": 4.5,
+      "twoOrMore": 15.8,
+      "hispanic": 17.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 36.6,
+      "someCollege": 25.3,
+      "associates": 7.4,
+      "bachelors": 12.5,
+      "graduate": 3.5
+    },
+    "medianIncome": 62940,
+    "meanIncome": 82902
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "40",
+    "name": "McClain County, Oklahoma",
+    "population": 43779,
+    "medianAge": 38.9,
+    "race": {
+      "white": 79.5,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 5.8,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 11.5,
+      "hispanic": 9.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 31.2,
+      "someCollege": 23,
+      "associates": 6.5,
+      "bachelors": 19.8,
+      "graduate": 8.3
+    },
+    "medianIncome": 84778,
+    "meanIncome": 103428
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "40",
+    "name": "McCurtain County, Oklahoma",
+    "population": 30825,
+    "medianAge": 37.9,
+    "race": {
+      "white": 60.8,
+      "black": 7.7,
+      "asian": 1.1,
+      "nativeAmerican": 13.5,
+      "pacificIslander": 1.5,
+      "other": 2.2,
+      "twoOrMore": 13.2,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 41.5,
+      "someCollege": 21.5,
+      "associates": 7.2,
+      "bachelors": 11.3,
+      "graduate": 4.2
+    },
+    "medianIncome": 50175,
+    "meanIncome": 66504
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "40",
+    "name": "McIntosh County, Oklahoma",
+    "population": 19237,
+    "medianAge": 47.3,
+    "race": {
+      "white": 68.1,
+      "black": 2.8,
+      "asian": 0.9,
+      "nativeAmerican": 16.5,
+      "pacificIslander": 0.1,
+      "other": 0.1,
+      "twoOrMore": 11.6,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 42.1,
+      "someCollege": 22.2,
+      "associates": 7.9,
+      "bachelors": 9.4,
+      "graduate": 5.1
+    },
+    "medianIncome": 46203,
+    "meanIncome": 63753
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "40",
+    "name": "Major County, Oklahoma",
+    "population": 7656,
+    "medianAge": 42,
+    "race": {
+      "white": 84.5,
+      "black": 0,
+      "asian": 0.5,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.7,
+      "other": 3.5,
+      "twoOrMore": 9.2,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 42.6,
+      "someCollege": 21.6,
+      "associates": 8,
+      "bachelors": 13.3,
+      "graduate": 4.6
+    },
+    "medianIncome": 69229,
+    "meanIncome": 84659
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "40",
+    "name": "Marshall County, Oklahoma",
+    "population": 15628,
+    "medianAge": 42,
+    "race": {
+      "white": 67.2,
+      "black": 0.9,
+      "asian": 0.2,
+      "nativeAmerican": 6.2,
+      "pacificIslander": 0.1,
+      "other": 9.3,
+      "twoOrMore": 16,
+      "hispanic": 17.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 37.7,
+      "someCollege": 22.4,
+      "associates": 7.7,
+      "bachelors": 13,
+      "graduate": 3.9
+    },
+    "medianIncome": 56495,
+    "meanIncome": 69996
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "40",
+    "name": "Mayes County, Oklahoma",
+    "population": 39406,
+    "medianAge": 40.5,
+    "race": {
+      "white": 63.8,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 20.4,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 13.9,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 39.4,
+      "someCollege": 23.8,
+      "associates": 9.7,
+      "bachelors": 12.2,
+      "graduate": 4.2
+    },
+    "medianIncome": 57279,
+    "meanIncome": 75226
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "40",
+    "name": "Murray County, Oklahoma",
+    "population": 13807,
+    "medianAge": 41.5,
+    "race": {
+      "white": 71.6,
+      "black": 1.3,
+      "asian": 0,
+      "nativeAmerican": 13,
+      "pacificIslander": 0.3,
+      "other": 1.9,
+      "twoOrMore": 12,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 41.5,
+      "someCollege": 20.7,
+      "associates": 5.7,
+      "bachelors": 12.7,
+      "graduate": 5.1
+    },
+    "medianIncome": 61904,
+    "meanIncome": 85918
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "40",
+    "name": "Muskogee County, Oklahoma",
+    "population": 66471,
+    "medianAge": 38.2,
+    "race": {
+      "white": 55.9,
+      "black": 9.8,
+      "asian": 0.7,
+      "nativeAmerican": 17.6,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 12.5,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 34.1,
+      "someCollege": 22.9,
+      "associates": 10.9,
+      "bachelors": 13.2,
+      "graduate": 5.8
+    },
+    "medianIncome": 51999,
+    "meanIncome": 69594
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "40",
+    "name": "Noble County, Oklahoma",
+    "population": 10909,
+    "medianAge": 41.7,
+    "race": {
+      "white": 80.5,
+      "black": 1.2,
+      "asian": 0.1,
+      "nativeAmerican": 6.6,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 9.5,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 35.3,
+      "someCollege": 24.6,
+      "associates": 11,
+      "bachelors": 14.1,
+      "graduate": 6.1
+    },
+    "medianIncome": 70071,
+    "meanIncome": 85810
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "40",
+    "name": "Nowata County, Oklahoma",
+    "population": 9392,
+    "medianAge": 41.6,
+    "race": {
+      "white": 65.9,
+      "black": 1.6,
+      "asian": 0.5,
+      "nativeAmerican": 15.8,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 14.7,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 41.8,
+      "someCollege": 22,
+      "associates": 10.1,
+      "bachelors": 12.3,
+      "graduate": 4.2
+    },
+    "medianIncome": 52679,
+    "meanIncome": 75109
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "40",
+    "name": "Okfuskee County, Oklahoma",
+    "population": 11304,
+    "medianAge": 40.3,
+    "race": {
+      "white": 61.8,
+      "black": 6.6,
+      "asian": 0.8,
+      "nativeAmerican": 17.4,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 12.9,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 40.8,
+      "someCollege": 21.4,
+      "associates": 7.9,
+      "bachelors": 8.8,
+      "graduate": 4.3
+    },
+    "medianIncome": 45441,
+    "meanIncome": 64839
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "40",
+    "name": "Oklahoma County, Oklahoma",
+    "population": 800487,
+    "medianAge": 35.1,
+    "race": {
+      "white": 59.9,
+      "black": 14.5,
+      "asian": 3.4,
+      "nativeAmerican": 3.1,
+      "pacificIslander": 0.1,
+      "other": 5.1,
+      "twoOrMore": 13.8,
+      "hispanic": 19.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 24.1,
+      "someCollege": 21.7,
+      "associates": 7.6,
+      "bachelors": 22.2,
+      "graduate": 12.9
+    },
+    "medianIncome": 65374,
+    "meanIncome": 94100
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "40",
+    "name": "Okmulgee County, Oklahoma",
+    "population": 36922,
+    "medianAge": 39.4,
+    "race": {
+      "white": 63,
+      "black": 7.1,
+      "asian": 0.5,
+      "nativeAmerican": 15.2,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 13.4,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 34.3,
+      "someCollege": 23.9,
+      "associates": 12.8,
+      "bachelors": 12,
+      "graduate": 5.3
+    },
+    "medianIncome": 53123,
+    "meanIncome": 73141
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "40",
+    "name": "Osage County, Oklahoma",
+    "population": 45963,
+    "medianAge": 43.3,
+    "race": {
+      "white": 63.3,
+      "black": 10.2,
+      "asian": 0.2,
+      "nativeAmerican": 11.1,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 13.5,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 36.3,
+      "someCollege": 21.4,
+      "associates": 10.3,
+      "bachelors": 14.6,
+      "graduate": 6.9
+    },
+    "medianIncome": 60482,
+    "meanIncome": 81883
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "40",
+    "name": "Ottawa County, Oklahoma",
+    "population": 30360,
+    "medianAge": 37.3,
+    "race": {
+      "white": 63.9,
+      "black": 1.1,
+      "asian": 0.7,
+      "nativeAmerican": 19.1,
+      "pacificIslander": 0.7,
+      "other": 3,
+      "twoOrMore": 11.5,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.8,
+      "highSchool": 35.3,
+      "someCollege": 26.2,
+      "associates": 10.8,
+      "bachelors": 10,
+      "graduate": 4.9
+    },
+    "medianIncome": 48656,
+    "meanIncome": 62303
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "40",
+    "name": "Pawnee County, Oklahoma",
+    "population": 15689,
+    "medianAge": 41.7,
+    "race": {
+      "white": 76.4,
+      "black": 1,
+      "asian": 0.3,
+      "nativeAmerican": 9.1,
+      "pacificIslander": 0.3,
+      "other": 1.5,
+      "twoOrMore": 11.5,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 43.5,
+      "someCollege": 20.6,
+      "associates": 7.5,
+      "bachelors": 12.3,
+      "graduate": 4.1
+    },
+    "medianIncome": 57551,
+    "meanIncome": 74111
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "40",
+    "name": "Payne County, Oklahoma",
+    "population": 82290,
+    "medianAge": 27.7,
+    "race": {
+      "white": 76.1,
+      "black": 3.7,
+      "asian": 4,
+      "nativeAmerican": 4.2,
+      "pacificIslander": 0.1,
+      "other": 1.7,
+      "twoOrMore": 10.2,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 27,
+      "someCollege": 18.7,
+      "associates": 7.3,
+      "bachelors": 21.8,
+      "graduate": 18.3
+    },
+    "medianIncome": 48937,
+    "meanIncome": 71869
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "40",
+    "name": "Pittsburg County, Oklahoma",
+    "population": 43629,
+    "medianAge": 40.3,
+    "race": {
+      "white": 70.3,
+      "black": 2.3,
+      "asian": 0.5,
+      "nativeAmerican": 7.7,
+      "pacificIslander": 0.2,
+      "other": 1,
+      "twoOrMore": 18,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 35.7,
+      "someCollege": 22.4,
+      "associates": 9.4,
+      "bachelors": 12.9,
+      "graduate": 6.8
+    },
+    "medianIncome": 54787,
+    "meanIncome": 73938
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "40",
+    "name": "Pontotoc County, Oklahoma",
+    "population": 38158,
+    "medianAge": 37.5,
+    "race": {
+      "white": 65.1,
+      "black": 2.5,
+      "asian": 1,
+      "nativeAmerican": 18.3,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 12.3,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 32.2,
+      "someCollege": 20.8,
+      "associates": 7.6,
+      "bachelors": 18.3,
+      "graduate": 11.5
+    },
+    "medianIncome": 62564,
+    "meanIncome": 79510
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "40",
+    "name": "Pottawatomie County, Oklahoma",
+    "population": 73011,
+    "medianAge": 38,
+    "race": {
+      "white": 72.3,
+      "black": 3.2,
+      "asian": 0.8,
+      "nativeAmerican": 12.2,
+      "pacificIslander": 0.1,
+      "other": 1,
+      "twoOrMore": 10.4,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 35.2,
+      "someCollege": 24,
+      "associates": 8.3,
+      "bachelors": 14.3,
+      "graduate": 6.7
+    },
+    "medianIncome": 60828,
+    "meanIncome": 76506
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "40",
+    "name": "Pushmataha County, Oklahoma",
+    "population": 10787,
+    "medianAge": 43.8,
+    "race": {
+      "white": 70,
+      "black": 1.4,
+      "asian": 0.3,
+      "nativeAmerican": 16.3,
+      "pacificIslander": 0.1,
+      "other": 1,
+      "twoOrMore": 10.8,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 43,
+      "someCollege": 19.9,
+      "associates": 8.2,
+      "bachelors": 7.7,
+      "graduate": 6.7
+    },
+    "medianIncome": 44634,
+    "meanIncome": 59089
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "40",
+    "name": "Roger Mills County, Oklahoma",
+    "population": 3378,
+    "medianAge": 42,
+    "race": {
+      "white": 83.3,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 7.2,
+      "pacificIslander": 0.7,
+      "other": 1.5,
+      "twoOrMore": 7,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 36,
+      "someCollege": 26.7,
+      "associates": 7,
+      "bachelors": 15.6,
+      "graduate": 8.2
+    },
+    "medianIncome": 62721,
+    "meanIncome": 104745
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "40",
+    "name": "Rogers County, Oklahoma",
+    "population": 97235,
+    "medianAge": 39.3,
+    "race": {
+      "white": 71.5,
+      "black": 1,
+      "asian": 1.7,
+      "nativeAmerican": 12.4,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 12,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 33,
+      "someCollege": 22.9,
+      "associates": 10.7,
+      "bachelors": 17.4,
+      "graduate": 8.2
+    },
+    "medianIncome": 77688,
+    "meanIncome": 99296
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "40",
+    "name": "Seminole County, Oklahoma",
+    "population": 23550,
+    "medianAge": 39.2,
+    "race": {
+      "white": 64.7,
+      "black": 4.3,
+      "asian": 0.4,
+      "nativeAmerican": 19.7,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 9.9,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 37.3,
+      "someCollege": 24.2,
+      "associates": 8.7,
+      "bachelors": 10.6,
+      "graduate": 4.6
+    },
+    "medianIncome": 46191,
+    "meanIncome": 60002
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "40",
+    "name": "Sequoyah County, Oklahoma",
+    "population": 39676,
+    "medianAge": 40.6,
+    "race": {
+      "white": 62.4,
+      "black": 2.1,
+      "asian": 0.7,
+      "nativeAmerican": 19.3,
+      "pacificIslander": 0.1,
+      "other": 1.2,
+      "twoOrMore": 14.3,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 38.3,
+      "someCollege": 20.4,
+      "associates": 10.7,
+      "bachelors": 10.9,
+      "graduate": 4.2
+    },
+    "medianIncome": 49795,
+    "meanIncome": 64885
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "40",
+    "name": "Stephens County, Oklahoma",
+    "population": 43314,
+    "medianAge": 40.9,
+    "race": {
+      "white": 80.6,
+      "black": 1.6,
+      "asian": 0.5,
+      "nativeAmerican": 3.4,
+      "pacificIslander": 0.1,
+      "other": 2.5,
+      "twoOrMore": 11.4,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 40.8,
+      "someCollege": 22.7,
+      "associates": 5.3,
+      "bachelors": 12.9,
+      "graduate": 6.6
+    },
+    "medianIncome": 60236,
+    "meanIncome": 83122
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "40",
+    "name": "Texas County, Oklahoma",
+    "population": 20880,
+    "medianAge": 33.4,
+    "race": {
+      "white": 51.2,
+      "black": 4.2,
+      "asian": 2.5,
+      "nativeAmerican": 3.6,
+      "pacificIslander": 0,
+      "other": 20.7,
+      "twoOrMore": 17.9,
+      "hispanic": 51.1
+    },
+    "education": {
+      "lessThanHighSchool": 25,
+      "highSchool": 29,
+      "someCollege": 17.6,
+      "associates": 4.1,
+      "bachelors": 16.2,
+      "graduate": 8.2
+    },
+    "medianIncome": 59275,
+    "meanIncome": 69863
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "40",
+    "name": "Tillman County, Oklahoma",
+    "population": 6967,
+    "medianAge": 39.6,
+    "race": {
+      "white": 64.9,
+      "black": 7.6,
+      "asian": 0.5,
+      "nativeAmerican": 2.5,
+      "pacificIslander": 0,
+      "other": 11.2,
+      "twoOrMore": 13.3,
+      "hispanic": 27.7
+    },
+    "education": {
+      "lessThanHighSchool": 18.5,
+      "highSchool": 38.4,
+      "someCollege": 19.9,
+      "associates": 6,
+      "bachelors": 12.8,
+      "graduate": 4.5
+    },
+    "medianIncome": 47445,
+    "meanIncome": 65201
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "40",
+    "name": "Tulsa County, Oklahoma",
+    "population": 673708,
+    "medianAge": 36,
+    "race": {
+      "white": 62.6,
+      "black": 9.7,
+      "asian": 3.7,
+      "nativeAmerican": 5.1,
+      "pacificIslander": 0.2,
+      "other": 4.5,
+      "twoOrMore": 14.2,
+      "hispanic": 15.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 25.1,
+      "someCollege": 22.1,
+      "associates": 8.9,
+      "bachelors": 21.9,
+      "graduate": 11.8
+    },
+    "medianIncome": 67317,
+    "meanIncome": 96856
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "40",
+    "name": "Wagoner County, Oklahoma",
+    "population": 84339,
+    "medianAge": 38.8,
+    "race": {
+      "white": 69.7,
+      "black": 3.4,
+      "asian": 2.1,
+      "nativeAmerican": 8.6,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 13.5,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 30.7,
+      "someCollege": 24.2,
+      "associates": 10,
+      "bachelors": 18.1,
+      "graduate": 8.7
+    },
+    "medianIncome": 78520,
+    "meanIncome": 96963
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "40",
+    "name": "Washington County, Oklahoma",
+    "population": 52895,
+    "medianAge": 39.4,
+    "race": {
+      "white": 72.8,
+      "black": 2.7,
+      "asian": 2.1,
+      "nativeAmerican": 8.5,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 11.4,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 33.2,
+      "someCollege": 20.7,
+      "associates": 7.1,
+      "bachelors": 20.3,
+      "graduate": 10.2
+    },
+    "medianIncome": 61205,
+    "meanIncome": 86952
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "40",
+    "name": "Washita County, Oklahoma",
+    "population": 10857,
+    "medianAge": 40.7,
+    "race": {
+      "white": 86.2,
+      "black": 1.4,
+      "asian": 0.1,
+      "nativeAmerican": 2.4,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 8.4,
+      "hispanic": 9.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 39.7,
+      "someCollege": 22.5,
+      "associates": 6.3,
+      "bachelors": 12.8,
+      "graduate": 7.6
+    },
+    "medianIncome": 61980,
+    "meanIncome": 77077
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "40",
+    "name": "Woods County, Oklahoma",
+    "population": 8619,
+    "medianAge": 33.9,
+    "race": {
+      "white": 87.6,
+      "black": 2.5,
+      "asian": 0,
+      "nativeAmerican": 2.9,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.7,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 31.7,
+      "someCollege": 20,
+      "associates": 4.3,
+      "bachelors": 22.7,
+      "graduate": 9.8
+    },
+    "medianIncome": 50512,
+    "meanIncome": 71400
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "40",
+    "name": "Woodward County, Oklahoma",
+    "population": 20260,
+    "medianAge": 36.5,
+    "race": {
+      "white": 83.5,
+      "black": 1.2,
+      "asian": 0.4,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 8.2,
+      "hispanic": 14.9
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 38.2,
+      "someCollege": 23.8,
+      "associates": 4.4,
+      "bachelors": 14.7,
+      "graduate": 6.9
+    },
+    "medianIncome": 65060,
+    "meanIncome": 86804
+  }
+]

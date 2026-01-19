@@ -1,0 +1,2702 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "37",
+    "name": "Alamance County, North Carolina",
+    "population": 174286,
+    "medianAge": 38.7,
+    "race": {
+      "white": 62.8,
+      "black": 19.9,
+      "asian": 1.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 8.4,
+      "twoOrMore": 6.7,
+      "hispanic": 14.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 28.7,
+      "someCollege": 20.8,
+      "associates": 11.3,
+      "bachelors": 18.8,
+      "graduate": 8.9
+    },
+    "medianIncome": 64445,
+    "meanIncome": 82268
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "37",
+    "name": "Alexander County, North Carolina",
+    "population": 36440,
+    "medianAge": 43.8,
+    "race": {
+      "white": 87.3,
+      "black": 4,
+      "asian": 1.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.5,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 39.5,
+      "someCollege": 21,
+      "associates": 9.7,
+      "bachelors": 10.4,
+      "graduate": 5
+    },
+    "medianIncome": 65268,
+    "meanIncome": 82266
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "37",
+    "name": "Alleghany County, North Carolina",
+    "population": 11075,
+    "medianAge": 51.4,
+    "race": {
+      "white": 91.3,
+      "black": 1.5,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 6,
+      "hispanic": 11.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 29.7,
+      "someCollege": 21.9,
+      "associates": 8.7,
+      "bachelors": 14.8,
+      "graduate": 8
+    },
+    "medianIncome": 44272,
+    "meanIncome": 70579
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "37",
+    "name": "Anson County, North Carolina",
+    "population": 21903,
+    "medianAge": 42.4,
+    "race": {
+      "white": 45.3,
+      "black": 47.2,
+      "asian": 1.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 4,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 43.3,
+      "someCollege": 18,
+      "associates": 10.2,
+      "bachelors": 8.2,
+      "graduate": 2.7
+    },
+    "medianIncome": 44245,
+    "meanIncome": 58710
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "37",
+    "name": "Ashe County, North Carolina",
+    "population": 26831,
+    "medianAge": 49.8,
+    "race": {
+      "white": 94,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.5,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 30.9,
+      "someCollege": 22.1,
+      "associates": 12.1,
+      "bachelors": 14.4,
+      "graduate": 8
+    },
+    "medianIncome": 50827,
+    "meanIncome": 68596
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "37",
+    "name": "Avery County, North Carolina",
+    "population": 17643,
+    "medianAge": 46.5,
+    "race": {
+      "white": 88.4,
+      "black": 4.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.9,
+      "twoOrMore": 3.7,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 32,
+      "someCollege": 23.8,
+      "associates": 8.7,
+      "bachelors": 13.7,
+      "graduate": 8.2
+    },
+    "medianIncome": 57657,
+    "meanIncome": 87001
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "37",
+    "name": "Beaufort County, North Carolina",
+    "population": 44597,
+    "medianAge": 47.1,
+    "race": {
+      "white": 68.8,
+      "black": 22.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 5.7,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 31.7,
+      "someCollege": 24.4,
+      "associates": 11.4,
+      "bachelors": 13.1,
+      "graduate": 7.5
+    },
+    "medianIncome": 57997,
+    "meanIncome": 77396
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "37",
+    "name": "Bertie County, North Carolina",
+    "population": 17482,
+    "medianAge": 45.9,
+    "race": {
+      "white": 34.7,
+      "black": 60.1,
+      "asian": 0.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.8,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 35.6,
+      "someCollege": 20.5,
+      "associates": 8,
+      "bachelors": 11.1,
+      "graduate": 6.8
+    },
+    "medianIncome": 45931,
+    "meanIncome": 66687
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "37",
+    "name": "Bladen County, North Carolina",
+    "population": 29591,
+    "medianAge": 44.8,
+    "race": {
+      "white": 54.9,
+      "black": 33.6,
+      "asian": 0.2,
+      "nativeAmerican": 3.2,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 2.5,
+      "hispanic": 9
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 33.4,
+      "someCollege": 22.4,
+      "associates": 12.2,
+      "bachelors": 14.6,
+      "graduate": 6
+    },
+    "medianIncome": 44528,
+    "meanIncome": 66507
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "37",
+    "name": "Brunswick County, North Carolina",
+    "population": 145889,
+    "medianAge": 56.1,
+    "race": {
+      "white": 82.3,
+      "black": 8.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 6.2,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 26.2,
+      "someCollege": 22,
+      "associates": 11.9,
+      "bachelors": 21.1,
+      "graduate": 12.1
+    },
+    "medianIncome": 74034,
+    "meanIncome": 98633
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "37",
+    "name": "Buncombe County, North Carolina",
+    "population": 271790,
+    "medianAge": 42.4,
+    "race": {
+      "white": 83.1,
+      "black": 5.4,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 7.9,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 22.7,
+      "someCollege": 16.3,
+      "associates": 8.7,
+      "bachelors": 26.5,
+      "graduate": 18.2
+    },
+    "medianIncome": 70578,
+    "meanIncome": 98793
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "37",
+    "name": "Burke County, North Carolina",
+    "population": 87863,
+    "medianAge": 44.9,
+    "race": {
+      "white": 81.1,
+      "black": 6.1,
+      "asian": 3.4,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 4,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 33.1,
+      "someCollege": 19.7,
+      "associates": 12.1,
+      "bachelors": 12.8,
+      "graduate": 7.3
+    },
+    "medianIncome": 55684,
+    "meanIncome": 74300
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "37",
+    "name": "Cabarrus County, North Carolina",
+    "population": 231262,
+    "medianAge": 37.7,
+    "race": {
+      "white": 61.9,
+      "black": 18.9,
+      "asian": 5.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 8.1,
+      "hispanic": 12.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 24.9,
+      "someCollege": 19.6,
+      "associates": 9.7,
+      "bachelors": 23.9,
+      "graduate": 13.8
+    },
+    "medianIncome": 86084,
+    "meanIncome": 112035
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "37",
+    "name": "Caldwell County, North Carolina",
+    "population": 80618,
+    "medianAge": 45.5,
+    "race": {
+      "white": 86.6,
+      "black": 4.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 4.7,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 31.7,
+      "someCollege": 21.9,
+      "associates": 10.6,
+      "bachelors": 13,
+      "graduate": 5.6
+    },
+    "medianIncome": 55401,
+    "meanIncome": 73139
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "37",
+    "name": "Camden County, North Carolina",
+    "population": 10743,
+    "medianAge": 40.9,
+    "race": {
+      "white": 79.5,
+      "black": 8.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 2.6,
+      "twoOrMore": 8.4,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 30.9,
+      "someCollege": 23.1,
+      "associates": 13.3,
+      "bachelors": 18.4,
+      "graduate": 7.3
+    },
+    "medianIncome": 87781,
+    "meanIncome": 100944
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "37",
+    "name": "Carteret County, North Carolina",
+    "population": 68652,
+    "medianAge": 50.1,
+    "race": {
+      "white": 86.7,
+      "black": 4.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 5.6,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 23.6,
+      "someCollege": 25.5,
+      "associates": 11.2,
+      "bachelors": 20.2,
+      "graduate": 12.1
+    },
+    "medianIncome": 70235,
+    "meanIncome": 93931
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "37",
+    "name": "Caswell County, North Carolina",
+    "population": 22689,
+    "medianAge": 46.2,
+    "race": {
+      "white": 60.3,
+      "black": 31.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 5.9,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 16.3,
+      "highSchool": 35.8,
+      "someCollege": 20.9,
+      "associates": 10.9,
+      "bachelors": 10.5,
+      "graduate": 5.6
+    },
+    "medianIncome": 59407,
+    "meanIncome": 70874
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "37",
+    "name": "Catawba County, North Carolina",
+    "population": 162051,
+    "medianAge": 41.8,
+    "race": {
+      "white": 75.8,
+      "black": 8,
+      "asian": 4.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 7.3,
+      "hispanic": 11.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 28.8,
+      "someCollege": 21.3,
+      "associates": 12.5,
+      "bachelors": 17.7,
+      "graduate": 7.3
+    },
+    "medianIncome": 64544,
+    "meanIncome": 87768
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "37",
+    "name": "Chatham County, North Carolina",
+    "population": 78319,
+    "medianAge": 47.6,
+    "race": {
+      "white": 72.5,
+      "black": 10.5,
+      "asian": 2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 7.4,
+      "twoOrMore": 7.4,
+      "hispanic": 13.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 18,
+      "someCollege": 15.4,
+      "associates": 8.9,
+      "bachelors": 25.2,
+      "graduate": 22.8
+    },
+    "medianIncome": 88534,
+    "meanIncome": 131980
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "37",
+    "name": "Cherokee County, North Carolina",
+    "population": 29197,
+    "medianAge": 53.3,
+    "race": {
+      "white": 91.2,
+      "black": 1.5,
+      "asian": 0.5,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.2,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 32.3,
+      "someCollege": 22.9,
+      "associates": 12.1,
+      "bachelors": 16.1,
+      "graduate": 8.1
+    },
+    "medianIncome": 51496,
+    "meanIncome": 67671
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "37",
+    "name": "Chowan County, North Carolina",
+    "population": 13814,
+    "medianAge": 47.9,
+    "race": {
+      "white": 60.2,
+      "black": 33.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 3.6,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 35.1,
+      "someCollege": 17.5,
+      "associates": 10.2,
+      "bachelors": 14.2,
+      "graduate": 10.3
+    },
+    "medianIncome": 56982,
+    "meanIncome": 76492
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "37",
+    "name": "Clay County, North Carolina",
+    "population": 11391,
+    "medianAge": 54.5,
+    "race": {
+      "white": 93.1,
+      "black": 1.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 1.9,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 24.9,
+      "someCollege": 20.3,
+      "associates": 13.3,
+      "bachelors": 21.3,
+      "graduate": 10.2
+    },
+    "medianIncome": 53645,
+    "meanIncome": 77507
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "37",
+    "name": "Cleveland County, North Carolina",
+    "population": 100170,
+    "medianAge": 41.2,
+    "race": {
+      "white": 72.5,
+      "black": 18.4,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 5.7,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 33.8,
+      "someCollege": 19.3,
+      "associates": 13.2,
+      "bachelors": 13.5,
+      "graduate": 7.6
+    },
+    "medianIncome": 55769,
+    "meanIncome": 75411
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "37",
+    "name": "Columbus County, North Carolina",
+    "population": 50453,
+    "medianAge": 42.4,
+    "race": {
+      "white": 60.2,
+      "black": 28.7,
+      "asian": 0.4,
+      "nativeAmerican": 3.1,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 4.5,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 36.7,
+      "someCollege": 22.8,
+      "associates": 12,
+      "bachelors": 10.1,
+      "graduate": 4.9
+    },
+    "medianIncome": 48184,
+    "meanIncome": 66614
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "37",
+    "name": "Craven County, North Carolina",
+    "population": 101074,
+    "medianAge": 39.2,
+    "race": {
+      "white": 67.4,
+      "black": 20.3,
+      "asian": 2.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 2.3,
+      "twoOrMore": 6.8,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 26.6,
+      "someCollege": 26.7,
+      "associates": 12.4,
+      "bachelors": 15.6,
+      "graduate": 10.4
+    },
+    "medianIncome": 64635,
+    "meanIncome": 86928
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "37",
+    "name": "Cumberland County, North Carolina",
+    "population": 336749,
+    "medianAge": 31.8,
+    "race": {
+      "white": 43.9,
+      "black": 37.3,
+      "asian": 2.6,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.4,
+      "other": 4.3,
+      "twoOrMore": 10.2,
+      "hispanic": 12.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 26.5,
+      "someCollege": 27.4,
+      "associates": 11.5,
+      "bachelors": 17.4,
+      "graduate": 9.8
+    },
+    "medianIncome": 58780,
+    "meanIncome": 76492
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "37",
+    "name": "Currituck County, North Carolina",
+    "population": 29612,
+    "medianAge": 41.7,
+    "race": {
+      "white": 85.6,
+      "black": 5.1,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 5.7,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 33.4,
+      "someCollege": 22.3,
+      "associates": 9,
+      "bachelors": 20.5,
+      "graduate": 8.8
+    },
+    "medianIncome": 91548,
+    "meanIncome": 112218
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "37",
+    "name": "Dare County, North Carolina",
+    "population": 37534,
+    "medianAge": 48.5,
+    "race": {
+      "white": 87.3,
+      "black": 2.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 3.7,
+      "twoOrMore": 5.4,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 22.3,
+      "someCollege": 21.3,
+      "associates": 8.8,
+      "bachelors": 29.4,
+      "graduate": 13.4
+    },
+    "medianIncome": 81214,
+    "meanIncome": 106269
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "37",
+    "name": "Davidson County, North Carolina",
+    "population": 171063,
+    "medianAge": 42.3,
+    "race": {
+      "white": 79.1,
+      "black": 9.3,
+      "asian": 1.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 7.5,
+      "hispanic": 8.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 32.5,
+      "someCollege": 23.9,
+      "associates": 10.6,
+      "bachelors": 14.6,
+      "graduate": 6.2
+    },
+    "medianIncome": 62426,
+    "meanIncome": 80838
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "37",
+    "name": "Davie County, North Carolina",
+    "population": 43526,
+    "medianAge": 45,
+    "race": {
+      "white": 84.2,
+      "black": 4,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 7.8,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 31.7,
+      "someCollege": 22.3,
+      "associates": 9.9,
+      "bachelors": 18,
+      "graduate": 8.8
+    },
+    "medianIncome": 73234,
+    "meanIncome": 95329
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "37",
+    "name": "Duplin County, North Carolina",
+    "population": 49053,
+    "medianAge": 40.7,
+    "race": {
+      "white": 57.5,
+      "black": 22.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 12,
+      "twoOrMore": 6.6,
+      "hispanic": 22.7
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 30.7,
+      "someCollege": 22.9,
+      "associates": 10.9,
+      "bachelors": 12.6,
+      "graduate": 4.9
+    },
+    "medianIncome": 51880,
+    "meanIncome": 67269
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "37",
+    "name": "Durham County, North Carolina",
+    "population": 329405,
+    "medianAge": 35.8,
+    "race": {
+      "white": 45.5,
+      "black": 33.1,
+      "asian": 5.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 7.1,
+      "twoOrMore": 8.6,
+      "hispanic": 15.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 16.3,
+      "someCollege": 14,
+      "associates": 6.9,
+      "bachelors": 27.6,
+      "graduate": 25.9
+    },
+    "medianIncome": 79501,
+    "meanIncome": 109585
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "37",
+    "name": "Edgecombe County, North Carolina",
+    "population": 48777,
+    "medianAge": 41.7,
+    "race": {
+      "white": 37.8,
+      "black": 55.9,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 3.5,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 38.1,
+      "someCollege": 22,
+      "associates": 7.6,
+      "bachelors": 11.7,
+      "graduate": 5
+    },
+    "medianIncome": 48480,
+    "meanIncome": 66592
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "37",
+    "name": "Forsyth County, North Carolina",
+    "population": 386740,
+    "medianAge": 38.3,
+    "race": {
+      "white": 58.2,
+      "black": 25.5,
+      "asian": 2.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 5.8,
+      "twoOrMore": 7.7,
+      "hispanic": 14.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 24.1,
+      "someCollege": 19.9,
+      "associates": 9,
+      "bachelors": 22.6,
+      "graduate": 14.3
+    },
+    "medianIncome": 65541,
+    "meanIncome": 90850
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "37",
+    "name": "Franklin County, North Carolina",
+    "population": 71962,
+    "medianAge": 40.9,
+    "race": {
+      "white": 63,
+      "black": 23.7,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 5.9,
+      "twoOrMore": 6.2,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 29.3,
+      "someCollege": 23.1,
+      "associates": 10.9,
+      "bachelors": 16.9,
+      "graduate": 7.5
+    },
+    "medianIncome": 71386,
+    "meanIncome": 87392
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "37",
+    "name": "Gaston County, North Carolina",
+    "population": 231485,
+    "medianAge": 39.5,
+    "race": {
+      "white": 70.4,
+      "black": 17.6,
+      "asian": 1.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 6.7,
+      "hispanic": 9.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 29,
+      "someCollege": 21.9,
+      "associates": 11.2,
+      "bachelors": 18.2,
+      "graduate": 7.7
+    },
+    "medianIncome": 65472,
+    "meanIncome": 87551
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "37",
+    "name": "Gates County, North Carolina",
+    "population": 10437,
+    "medianAge": 47.7,
+    "race": {
+      "white": 63.5,
+      "black": 31.2,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.3,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 40.6,
+      "someCollege": 29.1,
+      "associates": 9.1,
+      "bachelors": 5.7,
+      "graduate": 5.1
+    },
+    "medianIncome": 61612,
+    "meanIncome": 72701
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "37",
+    "name": "Graham County, North Carolina",
+    "population": 8041,
+    "medianAge": 45.5,
+    "race": {
+      "white": 85.2,
+      "black": 0.7,
+      "asian": 1.1,
+      "nativeAmerican": 8.9,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 2,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 36.7,
+      "someCollege": 21.3,
+      "associates": 9.9,
+      "bachelors": 11.3,
+      "graduate": 5.5
+    },
+    "medianIncome": 49038,
+    "meanIncome": 68550
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "37",
+    "name": "Granville County, North Carolina",
+    "population": 61439,
+    "medianAge": 42.5,
+    "race": {
+      "white": 57.1,
+      "black": 29.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.3,
+      "other": 6,
+      "twoOrMore": 6.2,
+      "hispanic": 10.7
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 30.7,
+      "someCollege": 21.2,
+      "associates": 10.7,
+      "bachelors": 16.9,
+      "graduate": 7.1
+    },
+    "medianIncome": 70975,
+    "meanIncome": 89041
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "37",
+    "name": "Greene County, North Carolina",
+    "population": 20421,
+    "medianAge": 39.6,
+    "race": {
+      "white": 49.3,
+      "black": 32.2,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 12.4,
+      "hispanic": 15.1
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 33.4,
+      "someCollege": 21.3,
+      "associates": 10.9,
+      "bachelors": 8.7,
+      "graduate": 3.5
+    },
+    "medianIncome": 50904,
+    "meanIncome": 60861
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "37",
+    "name": "Guilford County, North Carolina",
+    "population": 542987,
+    "medianAge": 37.4,
+    "race": {
+      "white": 49.1,
+      "black": 34,
+      "asian": 5.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 7.3,
+      "hispanic": 9.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 22.6,
+      "someCollege": 20.4,
+      "associates": 9.2,
+      "bachelors": 23.7,
+      "graduate": 14.4
+    },
+    "medianIncome": 66027,
+    "meanIncome": 93015
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "37",
+    "name": "Halifax County, North Carolina",
+    "population": 48219,
+    "medianAge": 43.8,
+    "race": {
+      "white": 37.2,
+      "black": 51.9,
+      "asian": 0.9,
+      "nativeAmerican": 3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.3,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 19.1,
+      "highSchool": 36.4,
+      "someCollege": 20.3,
+      "associates": 8.8,
+      "bachelors": 10.2,
+      "graduate": 5.2
+    },
+    "medianIncome": 45071,
+    "meanIncome": 62150
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "37",
+    "name": "Harnett County, North Carolina",
+    "population": 136503,
+    "medianAge": 35.4,
+    "race": {
+      "white": 63,
+      "black": 20.8,
+      "asian": 1.2,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.2,
+      "other": 5.9,
+      "twoOrMore": 7.8,
+      "hispanic": 14.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 29,
+      "someCollege": 22.3,
+      "associates": 13.5,
+      "bachelors": 15.9,
+      "graduate": 8.1
+    },
+    "medianIncome": 69012,
+    "meanIncome": 84184
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "37",
+    "name": "Haywood County, North Carolina",
+    "population": 62432,
+    "medianAge": 47.8,
+    "race": {
+      "white": 91.9,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.2,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 27.5,
+      "someCollege": 21.8,
+      "associates": 12.8,
+      "bachelors": 17.9,
+      "graduate": 11.5
+    },
+    "medianIncome": 61001,
+    "meanIncome": 79327
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "37",
+    "name": "Henderson County, North Carolina",
+    "population": 117387,
+    "medianAge": 47.2,
+    "race": {
+      "white": 84.1,
+      "black": 3.3,
+      "asian": 1.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 4.7,
+      "twoOrMore": 5.9,
+      "hispanic": 12.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 24.6,
+      "someCollege": 21.1,
+      "associates": 10.3,
+      "bachelors": 22.3,
+      "graduate": 12.8
+    },
+    "medianIncome": 67623,
+    "meanIncome": 90317
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "37",
+    "name": "Hertford County, North Carolina",
+    "population": 20492,
+    "medianAge": 42.3,
+    "race": {
+      "white": 35.2,
+      "black": 56.8,
+      "asian": 1,
+      "nativeAmerican": 2,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 3,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 34.8,
+      "someCollege": 22.3,
+      "associates": 10.9,
+      "bachelors": 10.4,
+      "graduate": 6.4
+    },
+    "medianIncome": 47472,
+    "meanIncome": 67765
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "37",
+    "name": "Hoke County, North Carolina",
+    "population": 53102,
+    "medianAge": 33.7,
+    "race": {
+      "white": 40.8,
+      "black": 33.5,
+      "asian": 1.4,
+      "nativeAmerican": 7.2,
+      "pacificIslander": 0,
+      "other": 7.8,
+      "twoOrMore": 9.2,
+      "hispanic": 15.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 29,
+      "someCollege": 24,
+      "associates": 14.6,
+      "bachelors": 14.7,
+      "graduate": 6.6
+    },
+    "medianIncome": 60095,
+    "meanIncome": 80326
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "37",
+    "name": "Hyde County, North Carolina",
+    "population": 4625,
+    "medianAge": 48.5,
+    "race": {
+      "white": 60.7,
+      "black": 25,
+      "asian": 0,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 12.6,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 40.4,
+      "someCollege": 19.4,
+      "associates": 13.3,
+      "bachelors": 10.1,
+      "graduate": 3.6
+    },
+    "medianIncome": 47338,
+    "meanIncome": 53886
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "37",
+    "name": "Iredell County, North Carolina",
+    "population": 191800,
+    "medianAge": 40.9,
+    "race": {
+      "white": 75.5,
+      "black": 11.6,
+      "asian": 2.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 6.1,
+      "hispanic": 8.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 27.1,
+      "someCollege": 20.6,
+      "associates": 10.1,
+      "bachelors": 22.7,
+      "graduate": 10.7
+    },
+    "medianIncome": 78678,
+    "meanIncome": 108944
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "37",
+    "name": "Jackson County, North Carolina",
+    "population": 43089,
+    "medianAge": 38.9,
+    "race": {
+      "white": 79.5,
+      "black": 2.4,
+      "asian": 1.2,
+      "nativeAmerican": 7.2,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.9,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 29.8,
+      "someCollege": 19.7,
+      "associates": 10.3,
+      "bachelors": 17.3,
+      "graduate": 12.7
+    },
+    "medianIncome": 53479,
+    "meanIncome": 76781
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "37",
+    "name": "Johnston County, North Carolina",
+    "population": 226623,
+    "medianAge": 38.3,
+    "race": {
+      "white": 66.6,
+      "black": 16.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 8,
+      "twoOrMore": 7.2,
+      "hispanic": 16.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 27.5,
+      "someCollege": 21.4,
+      "associates": 12.9,
+      "bachelors": 20,
+      "graduate": 7.7
+    },
+    "medianIncome": 79838,
+    "meanIncome": 98557
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "37",
+    "name": "Jones County, North Carolina",
+    "population": 9245,
+    "medianAge": 48.1,
+    "race": {
+      "white": 63.4,
+      "black": 27.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 7.5,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 37.9,
+      "someCollege": 22,
+      "associates": 8.8,
+      "bachelors": 14.2,
+      "graduate": 3.6
+    },
+    "medianIncome": 55659,
+    "meanIncome": 66084
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "37",
+    "name": "Lee County, North Carolina",
+    "population": 64565,
+    "medianAge": 39.9,
+    "race": {
+      "white": 65.7,
+      "black": 18.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 9.4,
+      "hispanic": 21
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 26.9,
+      "someCollege": 23.5,
+      "associates": 13.1,
+      "bachelors": 14.8,
+      "graduate": 6.8
+    },
+    "medianIncome": 63060,
+    "meanIncome": 79634
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "37",
+    "name": "Lenoir County, North Carolina",
+    "population": 54917,
+    "medianAge": 42.2,
+    "race": {
+      "white": 50.6,
+      "black": 39.7,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 4.7,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 32.7,
+      "someCollege": 21.8,
+      "associates": 12.2,
+      "bachelors": 10.3,
+      "graduate": 5.5
+    },
+    "medianIncome": 44795,
+    "meanIncome": 63281
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "37",
+    "name": "Lincoln County, North Carolina",
+    "population": 90359,
+    "medianAge": 44.3,
+    "race": {
+      "white": 84.7,
+      "black": 5.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 5.8,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 29.3,
+      "someCollege": 21.6,
+      "associates": 12,
+      "bachelors": 19.4,
+      "graduate": 7.6
+    },
+    "medianIncome": 78490,
+    "meanIncome": 103818
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "37",
+    "name": "McDowell County, North Carolina",
+    "population": 44679,
+    "medianAge": 44.3,
+    "race": {
+      "white": 88.5,
+      "black": 3.9,
+      "asian": 1.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 4,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 35,
+      "someCollege": 20.4,
+      "associates": 13.1,
+      "bachelors": 12.2,
+      "graduate": 5.4
+    },
+    "medianIncome": 55527,
+    "meanIncome": 71177
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "37",
+    "name": "Macon County, North Carolina",
+    "population": 37533,
+    "medianAge": 50.1,
+    "race": {
+      "white": 88.6,
+      "black": 1.2,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 4,
+      "hispanic": 9.7
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 30.6,
+      "someCollege": 24,
+      "associates": 10.9,
+      "bachelors": 15.7,
+      "graduate": 8.8
+    },
+    "medianIncome": 53298,
+    "meanIncome": 76654
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "37",
+    "name": "Madison County, North Carolina",
+    "population": 21640,
+    "medianAge": 44.5,
+    "race": {
+      "white": 92,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 5.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 33,
+      "someCollege": 18.5,
+      "associates": 7.9,
+      "bachelors": 21.1,
+      "graduate": 10.3
+    },
+    "medianIncome": 58628,
+    "meanIncome": 80418
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "37",
+    "name": "Martin County, North Carolina",
+    "population": 21773,
+    "medianAge": 46.7,
+    "race": {
+      "white": 51.6,
+      "black": 41,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 5.2,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 31.3,
+      "someCollege": 25.3,
+      "associates": 11.6,
+      "bachelors": 11,
+      "graduate": 4.2
+    },
+    "medianIncome": 46793,
+    "meanIncome": 60917
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "37",
+    "name": "Mecklenburg County, North Carolina",
+    "population": 1130906,
+    "medianAge": 35.4,
+    "race": {
+      "white": 46.5,
+      "black": 30.5,
+      "asian": 6.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 7.8,
+      "twoOrMore": 8.6,
+      "hispanic": 15.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 16.4,
+      "someCollege": 17.6,
+      "associates": 8.2,
+      "bachelors": 31.3,
+      "graduate": 17.3
+    },
+    "medianIncome": 83765,
+    "meanIncome": 124725
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "37",
+    "name": "Mitchell County, North Carolina",
+    "population": 14973,
+    "medianAge": 48,
+    "race": {
+      "white": 92.1,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 3.8,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 29.7,
+      "someCollege": 24.6,
+      "associates": 12.2,
+      "bachelors": 13.5,
+      "graduate": 9.6
+    },
+    "medianIncome": 58089,
+    "meanIncome": 74236
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "37",
+    "name": "Montgomery County, North Carolina",
+    "population": 25874,
+    "medianAge": 43.6,
+    "race": {
+      "white": 66.8,
+      "black": 16.7,
+      "asian": 1.6,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 8.2,
+      "hispanic": 15.5
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 33.6,
+      "someCollege": 19.4,
+      "associates": 11.7,
+      "bachelors": 12.8,
+      "graduate": 6.5
+    },
+    "medianIncome": 55849,
+    "meanIncome": 77130
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "37",
+    "name": "Moore County, North Carolina",
+    "population": 102840,
+    "medianAge": 42.8,
+    "race": {
+      "white": 78,
+      "black": 9.6,
+      "asian": 1.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 3.4,
+      "twoOrMore": 7,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 20,
+      "someCollege": 19.9,
+      "associates": 11.9,
+      "bachelors": 24.4,
+      "graduate": 16.5
+    },
+    "medianIncome": 82837,
+    "meanIncome": 105326
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "37",
+    "name": "Nash County, North Carolina",
+    "population": 95451,
+    "medianAge": 41.6,
+    "race": {
+      "white": 48.2,
+      "black": 40.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 5.2,
+      "twoOrMore": 4.4,
+      "hispanic": 7.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 33.2,
+      "someCollege": 20.2,
+      "associates": 11.3,
+      "bachelors": 14.7,
+      "graduate": 7.1
+    },
+    "medianIncome": 60704,
+    "meanIncome": 80514
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "37",
+    "name": "New Hanover County, North Carolina",
+    "population": 231214,
+    "medianAge": 40.1,
+    "race": {
+      "white": 77.4,
+      "black": 11.3,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 5.9,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 18,
+      "someCollege": 19.7,
+      "associates": 11.1,
+      "bachelors": 29.1,
+      "graduate": 15.7
+    },
+    "medianIncome": 72892,
+    "meanIncome": 103112
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "37",
+    "name": "Northampton County, North Carolina",
+    "population": 17212,
+    "medianAge": 51.6,
+    "race": {
+      "white": 39.7,
+      "black": 54.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.3,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 33.8,
+      "someCollege": 20.4,
+      "associates": 11.3,
+      "bachelors": 11.6,
+      "graduate": 7.5
+    },
+    "medianIncome": 47935,
+    "meanIncome": 70632
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "37",
+    "name": "Onslow County, North Carolina",
+    "population": 208537,
+    "medianAge": 27.1,
+    "race": {
+      "white": 69.2,
+      "black": 12.5,
+      "asian": 1.8,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 2.6,
+      "twoOrMore": 12.8,
+      "hispanic": 13.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 29.8,
+      "someCollege": 26,
+      "associates": 11.3,
+      "bachelors": 17.9,
+      "graduate": 8.2
+    },
+    "medianIncome": 64568,
+    "meanIncome": 80838
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "37",
+    "name": "Orange County, North Carolina",
+    "population": 147292,
+    "medianAge": 36.2,
+    "race": {
+      "white": 70.5,
+      "black": 10.6,
+      "asian": 7.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 6.8,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 12.6,
+      "someCollege": 11.8,
+      "associates": 6.9,
+      "bachelors": 27.5,
+      "graduate": 34.3
+    },
+    "medianIncome": 88553,
+    "meanIncome": 133780
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "37",
+    "name": "Pamlico County, North Carolina",
+    "population": 12315,
+    "medianAge": 54.1,
+    "race": {
+      "white": 74.6,
+      "black": 18.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.1,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 31.3,
+      "someCollege": 23.2,
+      "associates": 10.2,
+      "bachelors": 13.9,
+      "graduate": 11.5
+    },
+    "medianIncome": 61624,
+    "meanIncome": 81899
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "37",
+    "name": "Pasquotank County, North Carolina",
+    "population": 40830,
+    "medianAge": 39,
+    "race": {
+      "white": 55.6,
+      "black": 35.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.3,
+      "other": 1.6,
+      "twoOrMore": 5.7,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 28.4,
+      "someCollege": 24.2,
+      "associates": 10.6,
+      "bachelors": 17.8,
+      "graduate": 9.1
+    },
+    "medianIncome": 63912,
+    "meanIncome": 82744
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "37",
+    "name": "Pender County, North Carolina",
+    "population": 63475,
+    "medianAge": 41.8,
+    "race": {
+      "white": 75.7,
+      "black": 12.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 5.4,
+      "twoOrMore": 5.4,
+      "hispanic": 8.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 27.7,
+      "someCollege": 21.7,
+      "associates": 11.3,
+      "bachelors": 19.7,
+      "graduate": 10.1
+    },
+    "medianIncome": 76838,
+    "meanIncome": 97152
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "37",
+    "name": "Perquimans County, North Carolina",
+    "population": 13146,
+    "medianAge": 50.5,
+    "race": {
+      "white": 70.3,
+      "black": 21.8,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 4.7,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 31.6,
+      "someCollege": 25.4,
+      "associates": 9.2,
+      "bachelors": 12.1,
+      "graduate": 8.3
+    },
+    "medianIncome": 61224,
+    "meanIncome": 76843
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "37",
+    "name": "Person County, North Carolina",
+    "population": 39275,
+    "medianAge": 43.9,
+    "race": {
+      "white": 65.7,
+      "black": 25.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 6.4,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 34.8,
+      "someCollege": 22.4,
+      "associates": 12,
+      "bachelors": 14.1,
+      "graduate": 5.7
+    },
+    "medianIncome": 64927,
+    "meanIncome": 87568
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "37",
+    "name": "Pitt County, North Carolina",
+    "population": 172279,
+    "medianAge": 33.6,
+    "race": {
+      "white": 53,
+      "black": 35.1,
+      "asian": 1.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 5.1,
+      "twoOrMore": 4.7,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 24.7,
+      "someCollege": 19.6,
+      "associates": 12.8,
+      "bachelors": 19.7,
+      "graduate": 14.2
+    },
+    "medianIncome": 58851,
+    "meanIncome": 80463
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "37",
+    "name": "Polk County, North Carolina",
+    "population": 19689,
+    "medianAge": 54.4,
+    "race": {
+      "white": 87.7,
+      "black": 5.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.3,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 27.2,
+      "someCollege": 21.4,
+      "associates": 10.4,
+      "bachelors": 20.3,
+      "graduate": 12.6
+    },
+    "medianIncome": 61005,
+    "meanIncome": 85807
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "37",
+    "name": "Randolph County, North Carolina",
+    "population": 145322,
+    "medianAge": 41.4,
+    "race": {
+      "white": 80.2,
+      "black": 6.1,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 6.3,
+      "twoOrMore": 6,
+      "hispanic": 13.6
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 35,
+      "someCollege": 20.8,
+      "associates": 10.5,
+      "bachelors": 12.6,
+      "graduate": 5
+    },
+    "medianIncome": 59047,
+    "meanIncome": 73631
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "37",
+    "name": "Richmond County, North Carolina",
+    "population": 42818,
+    "medianAge": 40.3,
+    "race": {
+      "white": 56.9,
+      "black": 31.8,
+      "asian": 0.8,
+      "nativeAmerican": 2.1,
+      "pacificIslander": 0,
+      "other": 4.8,
+      "twoOrMore": 3.7,
+      "hispanic": 7.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 30.6,
+      "someCollege": 25.2,
+      "associates": 12.2,
+      "bachelors": 10.3,
+      "graduate": 5.9
+    },
+    "medianIncome": 43626,
+    "meanIncome": 59517
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "37",
+    "name": "Robeson County, North Carolina",
+    "population": 116858,
+    "medianAge": 36.5,
+    "race": {
+      "white": 24.8,
+      "black": 23.3,
+      "asian": 0.8,
+      "nativeAmerican": 39.6,
+      "pacificIslander": 0,
+      "other": 7.8,
+      "twoOrMore": 3.6,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 21.1,
+      "highSchool": 34.9,
+      "someCollege": 19.3,
+      "associates": 10.1,
+      "bachelors": 9.6,
+      "graduate": 5
+    },
+    "medianIncome": 40318,
+    "meanIncome": 60160
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "37",
+    "name": "Rockingham County, North Carolina",
+    "population": 91585,
+    "medianAge": 44.7,
+    "race": {
+      "white": 72.6,
+      "black": 17.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.2,
+      "other": 2.6,
+      "twoOrMore": 6.1,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 34.6,
+      "someCollege": 23,
+      "associates": 10.7,
+      "bachelors": 10.9,
+      "graduate": 5.2
+    },
+    "medianIncome": 55796,
+    "meanIncome": 73596
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "37",
+    "name": "Rowan County, North Carolina",
+    "population": 148487,
+    "medianAge": 40.5,
+    "race": {
+      "white": 71.3,
+      "black": 15.7,
+      "asian": 1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 4.6,
+      "twoOrMore": 6.8,
+      "hispanic": 11.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 32.3,
+      "someCollege": 22.7,
+      "associates": 11.5,
+      "bachelors": 14.9,
+      "graduate": 6.6
+    },
+    "medianIncome": 63196,
+    "meanIncome": 82423
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "37",
+    "name": "Rutherford County, North Carolina",
+    "population": 64850,
+    "medianAge": 45.3,
+    "race": {
+      "white": 83,
+      "black": 8.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 5.6,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 31.1,
+      "someCollege": 23.1,
+      "associates": 11.7,
+      "bachelors": 13.3,
+      "graduate": 7.4
+    },
+    "medianIncome": 49771,
+    "meanIncome": 69617
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "37",
+    "name": "Sampson County, North Carolina",
+    "population": 59245,
+    "medianAge": 39.7,
+    "race": {
+      "white": 53.2,
+      "black": 24.9,
+      "asian": 0.5,
+      "nativeAmerican": 2.2,
+      "pacificIslander": 0,
+      "other": 14.9,
+      "twoOrMore": 4.3,
+      "hispanic": 21.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 35.7,
+      "someCollege": 20.9,
+      "associates": 11.8,
+      "bachelors": 11.4,
+      "graduate": 4.4
+    },
+    "medianIncome": 53159,
+    "meanIncome": 70092
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "37",
+    "name": "Scotland County, North Carolina",
+    "population": 34353,
+    "medianAge": 38.3,
+    "race": {
+      "white": 41,
+      "black": 37.8,
+      "asian": 1,
+      "nativeAmerican": 11.4,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 6.8,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 36.1,
+      "someCollege": 20.8,
+      "associates": 10.7,
+      "bachelors": 9.3,
+      "graduate": 5.5
+    },
+    "medianIncome": 43500,
+    "meanIncome": 66699
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "37",
+    "name": "Stanly County, North Carolina",
+    "population": 63557,
+    "medianAge": 40.6,
+    "race": {
+      "white": 80.4,
+      "black": 11,
+      "asian": 1.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.3,
+      "other": 2.6,
+      "twoOrMore": 3.5,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 31.6,
+      "someCollege": 22.3,
+      "associates": 13.5,
+      "bachelors": 14.8,
+      "graduate": 4.9
+    },
+    "medianIncome": 61631,
+    "meanIncome": 80577
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "37",
+    "name": "Stokes County, North Carolina",
+    "population": 44889,
+    "medianAge": 47.6,
+    "race": {
+      "white": 91.3,
+      "black": 3.4,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.9,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 38.1,
+      "someCollege": 22.1,
+      "associates": 11.2,
+      "bachelors": 12.3,
+      "graduate": 6.2
+    },
+    "medianIncome": 60039,
+    "meanIncome": 74778
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "37",
+    "name": "Surry County, North Carolina",
+    "population": 71407,
+    "medianAge": 43.7,
+    "race": {
+      "white": 86.2,
+      "black": 3.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 3.3,
+      "twoOrMore": 5.9,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 28.5,
+      "someCollege": 23.3,
+      "associates": 11.4,
+      "bachelors": 13,
+      "graduate": 6.4
+    },
+    "medianIncome": 56095,
+    "meanIncome": 76119
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "37",
+    "name": "Swain County, North Carolina",
+    "population": 14065,
+    "medianAge": 42.6,
+    "race": {
+      "white": 61.2,
+      "black": 1.5,
+      "asian": 0.4,
+      "nativeAmerican": 29.3,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 7.3,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 35.2,
+      "someCollege": 21.7,
+      "associates": 9,
+      "bachelors": 12.3,
+      "graduate": 9
+    },
+    "medianIncome": 55429,
+    "meanIncome": 74336
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "37",
+    "name": "Transylvania County, North Carolina",
+    "population": 33243,
+    "medianAge": 51.9,
+    "race": {
+      "white": 89.3,
+      "black": 3.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 5.4,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 23.9,
+      "someCollege": 21.9,
+      "associates": 9.4,
+      "bachelors": 23.9,
+      "graduate": 14.7
+    },
+    "medianIncome": 64523,
+    "meanIncome": 86211
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "37",
+    "name": "Tyrrell County, North Carolina",
+    "population": 3376,
+    "medianAge": 46,
+    "race": {
+      "white": 56.4,
+      "black": 32.7,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 4.4,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 19.5,
+      "highSchool": 40.8,
+      "someCollege": 20.5,
+      "associates": 4.6,
+      "bachelors": 9.3,
+      "graduate": 5.5
+    },
+    "medianIncome": 43952,
+    "meanIncome": 57746
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "37",
+    "name": "Union County, North Carolina",
+    "population": 244975,
+    "medianAge": 39.1,
+    "race": {
+      "white": 71.1,
+      "black": 11.2,
+      "asian": 4.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 6.1,
+      "twoOrMore": 7.1,
+      "hispanic": 12.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 22.8,
+      "someCollege": 19.5,
+      "associates": 9,
+      "bachelors": 25.6,
+      "graduate": 13.4
+    },
+    "medianIncome": 99243,
+    "meanIncome": 132863
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "37",
+    "name": "Vance County, North Carolina",
+    "population": 42361,
+    "medianAge": 39.9,
+    "race": {
+      "white": 38.5,
+      "black": 49,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 6.1,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 35.8,
+      "someCollege": 22.4,
+      "associates": 8.7,
+      "bachelors": 12.8,
+      "graduate": 5.6
+    },
+    "medianIncome": 46943,
+    "meanIncome": 66313
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "37",
+    "name": "Wake County, North Carolina",
+    "population": 1151009,
+    "medianAge": 37.2,
+    "race": {
+      "white": 59.4,
+      "black": 19.3,
+      "asian": 8.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.8,
+      "twoOrMore": 8.1,
+      "hispanic": 11.4
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 14.5,
+      "someCollege": 15.2,
+      "associates": 7.9,
+      "bachelors": 33.8,
+      "graduate": 22.5
+    },
+    "medianIncome": 101763,
+    "meanIncome": 134151
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "37",
+    "name": "Warren County, North Carolina",
+    "population": 18751,
+    "medianAge": 48.6,
+    "race": {
+      "white": 38.5,
+      "black": 47.1,
+      "asian": 0.7,
+      "nativeAmerican": 5.1,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 5.7,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 39.1,
+      "someCollege": 19.2,
+      "associates": 9.4,
+      "bachelors": 12.8,
+      "graduate": 6.2
+    },
+    "medianIncome": 45279,
+    "meanIncome": 71275
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "37",
+    "name": "Washington County, North Carolina",
+    "population": 10905,
+    "medianAge": 49.3,
+    "race": {
+      "white": 46.6,
+      "black": 49.6,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.4,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 36.1,
+      "someCollege": 26.4,
+      "associates": 10.9,
+      "bachelors": 8.5,
+      "graduate": 3.7
+    },
+    "medianIncome": 41750,
+    "meanIncome": 59553
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "37",
+    "name": "Watauga County, North Carolina",
+    "population": 54607,
+    "medianAge": 32.2,
+    "race": {
+      "white": 90.3,
+      "black": 2.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.6,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 20.8,
+      "someCollege": 17,
+      "associates": 7,
+      "bachelors": 25.8,
+      "graduate": 21.9
+    },
+    "medianIncome": 51367,
+    "meanIncome": 78984
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "37",
+    "name": "Wayne County, North Carolina",
+    "population": 117606,
+    "medianAge": 37.4,
+    "race": {
+      "white": 55,
+      "black": 30.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.6,
+      "twoOrMore": 10.4,
+      "hispanic": 13.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 30.4,
+      "someCollege": 22.7,
+      "associates": 12,
+      "bachelors": 14.7,
+      "graduate": 6.6
+    },
+    "medianIncome": 58082,
+    "meanIncome": 77193
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "37",
+    "name": "Wilkes County, North Carolina",
+    "population": 65983,
+    "medianAge": 45.3,
+    "race": {
+      "white": 87.2,
+      "black": 3.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.7,
+      "twoOrMore": 5.4,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 32.4,
+      "someCollege": 21.1,
+      "associates": 11.7,
+      "bachelors": 11.6,
+      "graduate": 5.1
+    },
+    "medianIncome": 50438,
+    "meanIncome": 66225
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "37",
+    "name": "Wilson County, North Carolina",
+    "population": 78648,
+    "medianAge": 40.7,
+    "race": {
+      "white": 46.1,
+      "black": 39.3,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 8.2,
+      "twoOrMore": 5.2,
+      "hispanic": 11.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 34.2,
+      "someCollege": 19.6,
+      "associates": 10.4,
+      "bachelors": 12.3,
+      "graduate": 8
+    },
+    "medianIncome": 51381,
+    "meanIncome": 71763
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "37",
+    "name": "Yadkin County, North Carolina",
+    "population": 37419,
+    "medianAge": 44.3,
+    "race": {
+      "white": 86.2,
+      "black": 2.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 5.9,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 36,
+      "someCollege": 23.2,
+      "associates": 11.5,
+      "bachelors": 11.9,
+      "graduate": 3.9
+    },
+    "medianIncome": 60321,
+    "meanIncome": 81915
+  },
+  {
+    "countyFips": "199",
+    "stateFips": "37",
+    "name": "Yancey County, North Carolina",
+    "population": 18676,
+    "medianAge": 47.9,
+    "race": {
+      "white": 92.5,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 3.8,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 35.1,
+      "someCollege": 20,
+      "associates": 10,
+      "bachelors": 15.1,
+      "graduate": 7.9
+    },
+    "medianIncome": 54961,
+    "meanIncome": 78969
+  }
+]

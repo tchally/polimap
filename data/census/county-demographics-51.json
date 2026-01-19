@@ -1,0 +1,3593 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "51",
+    "name": "Accomack County, Virginia",
+    "population": 33326,
+    "medianAge": 47.5,
+    "race": {
+      "white": 60.7,
+      "black": 27.2,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 8.4,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 34.9,
+      "someCollege": 18.2,
+      "associates": 7.8,
+      "bachelors": 12.7,
+      "graduate": 9.1
+    },
+    "medianIncome": 57500,
+    "meanIncome": 76527
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "51",
+    "name": "Albemarle County, Virginia",
+    "population": 113683,
+    "medianAge": 39.8,
+    "race": {
+      "white": 76.6,
+      "black": 8.8,
+      "asian": 5.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 6.5,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 14.6,
+      "someCollege": 13.3,
+      "associates": 6,
+      "bachelors": 29.9,
+      "graduate": 30.7
+    },
+    "medianIncome": 102617,
+    "meanIncome": 141600
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "51",
+    "name": "Alleghany County, Virginia",
+    "population": 14962,
+    "medianAge": 48.1,
+    "race": {
+      "white": 92.4,
+      "black": 5.5,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 1.6,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 44.5,
+      "someCollege": 22,
+      "associates": 8,
+      "bachelors": 8.8,
+      "graduate": 6.8
+    },
+    "medianIncome": 55160,
+    "meanIncome": 69390
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "51",
+    "name": "Amelia County, Virginia",
+    "population": 13342,
+    "medianAge": 44.8,
+    "race": {
+      "white": 73.3,
+      "black": 20.3,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 6.3,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 44.2,
+      "someCollege": 18.4,
+      "associates": 6.2,
+      "bachelors": 12.9,
+      "graduate": 3.9
+    },
+    "medianIncome": 66339,
+    "meanIncome": 81188
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "51",
+    "name": "Amherst County, Virginia",
+    "population": 31385,
+    "medianAge": 43.3,
+    "race": {
+      "white": 74.5,
+      "black": 17.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 4.9,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 36.3,
+      "someCollege": 19.1,
+      "associates": 10.2,
+      "bachelors": 13.8,
+      "graduate": 9.1
+    },
+    "medianIncome": 67298,
+    "meanIncome": 88404
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "51",
+    "name": "Appomattox County, Virginia",
+    "population": 16424,
+    "medianAge": 43.3,
+    "race": {
+      "white": 77.3,
+      "black": 17,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 3.4,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 40.4,
+      "someCollege": 21.6,
+      "associates": 9.6,
+      "bachelors": 15.3,
+      "graduate": 5.3
+    },
+    "medianIncome": 62337,
+    "meanIncome": 78227
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "51",
+    "name": "Arlington County, Virginia",
+    "population": 235463,
+    "medianAge": 35.5,
+    "race": {
+      "white": 62.6,
+      "black": 9.4,
+      "asian": 10.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 11.3,
+      "hispanic": 15.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 7.1,
+      "someCollege": 8,
+      "associates": 3.2,
+      "bachelors": 35.7,
+      "graduate": 41.4
+    },
+    "medianIncome": 140160,
+    "meanIncome": 184356
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "51",
+    "name": "Augusta County, Virginia",
+    "population": 77713,
+    "medianAge": 44.9,
+    "race": {
+      "white": 90,
+      "black": 4.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 3.1,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 40.8,
+      "someCollege": 19,
+      "associates": 7.7,
+      "bachelors": 15.6,
+      "graduate": 7.7
+    },
+    "medianIncome": 79972,
+    "meanIncome": 93110
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "51",
+    "name": "Bath County, Virginia",
+    "population": 4123,
+    "medianAge": 52.3,
+    "race": {
+      "white": 91,
+      "black": 3.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 1.6,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 39.9,
+      "someCollege": 20,
+      "associates": 8.7,
+      "bachelors": 10.3,
+      "graduate": 5.2
+    },
+    "medianIncome": 61709,
+    "meanIncome": 84279
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "51",
+    "name": "Bedford County, Virginia",
+    "population": 80254,
+    "medianAge": 47.1,
+    "race": {
+      "white": 86.6,
+      "black": 6,
+      "asian": 1.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 28.2,
+      "someCollege": 21.7,
+      "associates": 8.7,
+      "bachelors": 20.8,
+      "graduate": 12.8
+    },
+    "medianIncome": 77644,
+    "meanIncome": 101435
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "51",
+    "name": "Bland County, Virginia",
+    "population": 6211,
+    "medianAge": 47.1,
+    "race": {
+      "white": 93.2,
+      "black": 5,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.4,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 44.7,
+      "someCollege": 22.4,
+      "associates": 8.6,
+      "bachelors": 10.9,
+      "graduate": 4.5
+    },
+    "medianIncome": 61375,
+    "meanIncome": 74110
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "51",
+    "name": "Botetourt County, Virginia",
+    "population": 33875,
+    "medianAge": 48.1,
+    "race": {
+      "white": 91.7,
+      "black": 2.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 1.5,
+      "twoOrMore": 3.5,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 36.8,
+      "someCollege": 18.9,
+      "associates": 11.1,
+      "bachelors": 17.5,
+      "graduate": 10
+    },
+    "medianIncome": 80467,
+    "meanIncome": 100728
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "51",
+    "name": "Brunswick County, Virginia",
+    "population": 15868,
+    "medianAge": 44.4,
+    "race": {
+      "white": 41.2,
+      "black": 53.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 3.2,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 20.6,
+      "highSchool": 36.7,
+      "someCollege": 20.7,
+      "associates": 6.5,
+      "bachelors": 9.5,
+      "graduate": 6.1
+    },
+    "medianIncome": 52978,
+    "meanIncome": 71884
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "51",
+    "name": "Buchanan County, Virginia",
+    "population": 19857,
+    "medianAge": 47.3,
+    "race": {
+      "white": 96.2,
+      "black": 2.4,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.1,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 22.5,
+      "highSchool": 42.6,
+      "someCollege": 17,
+      "associates": 7,
+      "bachelors": 5.5,
+      "graduate": 5.4
+    },
+    "medianIncome": 42216,
+    "meanIncome": 59584
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "51",
+    "name": "Buckingham County, Virginia",
+    "population": 16914,
+    "medianAge": 43.7,
+    "race": {
+      "white": 61.4,
+      "black": 32.1,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 4.7,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 44.4,
+      "someCollege": 20.4,
+      "associates": 6.4,
+      "bachelors": 9.4,
+      "graduate": 4.1
+    },
+    "medianIncome": 59199,
+    "meanIncome": 74211
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "51",
+    "name": "Campbell County, Virginia",
+    "population": 55398,
+    "medianAge": 43.2,
+    "race": {
+      "white": 77.9,
+      "black": 14.4,
+      "asian": 1.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 5.6,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 33.9,
+      "someCollege": 21.7,
+      "associates": 9.1,
+      "bachelors": 16.9,
+      "graduate": 8.8
+    },
+    "medianIncome": 62608,
+    "meanIncome": 80840
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "51",
+    "name": "Caroline County, Virginia",
+    "population": 31541,
+    "medianAge": 39.4,
+    "race": {
+      "white": 62.4,
+      "black": 23.9,
+      "asian": 1.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 7.1,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 39.3,
+      "someCollege": 18.2,
+      "associates": 8.7,
+      "bachelors": 13.7,
+      "graduate": 9.5
+    },
+    "medianIncome": 86267,
+    "meanIncome": 101829
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "51",
+    "name": "Carroll County, Virginia",
+    "population": 29158,
+    "medianAge": 49,
+    "race": {
+      "white": 94.7,
+      "black": 0.5,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 2.3,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 37.8,
+      "someCollege": 18.6,
+      "associates": 12.1,
+      "bachelors": 11.7,
+      "graduate": 5
+    },
+    "medianIncome": 52575,
+    "meanIncome": 66876
+  },
+  {
+    "countyFips": "036",
+    "stateFips": "51",
+    "name": "Charles City County, Virginia",
+    "population": 6686,
+    "medianAge": 52.6,
+    "race": {
+      "white": 44.9,
+      "black": 40.5,
+      "asian": 1.2,
+      "nativeAmerican": 5.7,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 7.2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 43.5,
+      "someCollege": 20.5,
+      "associates": 8.2,
+      "bachelors": 11.6,
+      "graduate": 4.4
+    },
+    "medianIncome": 70339,
+    "meanIncome": 92844
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "51",
+    "name": "Charlotte County, Virginia",
+    "population": 11475,
+    "medianAge": 45.2,
+    "race": {
+      "white": 70.4,
+      "black": 25.2,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.1,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 33.7,
+      "someCollege": 18.9,
+      "associates": 10.1,
+      "bachelors": 10.7,
+      "graduate": 8
+    },
+    "medianIncome": 48892,
+    "meanIncome": 67948
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "51",
+    "name": "Chesterfield County, Virginia",
+    "population": 371610,
+    "medianAge": 38.9,
+    "race": {
+      "white": 59.5,
+      "black": 23.5,
+      "asian": 3.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 6.4,
+      "twoOrMore": 6.8,
+      "hispanic": 11.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 21.9,
+      "someCollege": 19.3,
+      "associates": 9,
+      "bachelors": 26.4,
+      "graduate": 16.3
+    },
+    "medianIncome": 98910,
+    "meanIncome": 124805
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "51",
+    "name": "Clarke County, Virginia",
+    "population": 15060,
+    "medianAge": 48.3,
+    "race": {
+      "white": 84.7,
+      "black": 6,
+      "asian": 1.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 3.5,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 27.7,
+      "someCollege": 20.9,
+      "associates": 7,
+      "bachelors": 23.2,
+      "graduate": 14.1
+    },
+    "medianIncome": 114185,
+    "meanIncome": 137142
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "51",
+    "name": "Craig County, Virginia",
+    "population": 4881,
+    "medianAge": 46.1,
+    "race": {
+      "white": 95.2,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 2.8,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 38.9,
+      "someCollege": 19.9,
+      "associates": 10.9,
+      "bachelors": 10.6,
+      "graduate": 6.7
+    },
+    "medianIncome": 67778,
+    "meanIncome": 87694
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "51",
+    "name": "Culpeper County, Virginia",
+    "population": 53563,
+    "medianAge": 39.3,
+    "race": {
+      "white": 68.4,
+      "black": 13.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 9.7,
+      "twoOrMore": 7.2,
+      "hispanic": 14.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 32.6,
+      "someCollege": 20.2,
+      "associates": 8.9,
+      "bachelors": 17.4,
+      "graduate": 9
+    },
+    "medianIncome": 96098,
+    "meanIncome": 116086
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "51",
+    "name": "Cumberland County, Virginia",
+    "population": 9745,
+    "medianAge": 45.2,
+    "race": {
+      "white": 64,
+      "black": 28.8,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 6.4,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 38,
+      "someCollege": 21.5,
+      "associates": 10.9,
+      "bachelors": 9.9,
+      "graduate": 8.3
+    },
+    "medianIncome": 57057,
+    "meanIncome": 84793
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "51",
+    "name": "Dickenson County, Virginia",
+    "population": 13920,
+    "medianAge": 45.9,
+    "race": {
+      "white": 97.8,
+      "black": 1,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 0.7,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 42.9,
+      "someCollege": 19.7,
+      "associates": 8.3,
+      "bachelors": 8.8,
+      "graduate": 1.9
+    },
+    "medianIncome": 43831,
+    "meanIncome": 59352
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "51",
+    "name": "Dinwiddie County, Virginia",
+    "population": 28083,
+    "medianAge": 43.4,
+    "race": {
+      "white": 64.4,
+      "black": 30.6,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 2.2,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 37.2,
+      "someCollege": 21.9,
+      "associates": 11.7,
+      "bachelors": 12.7,
+      "graduate": 7.7
+    },
+    "medianIncome": 83898,
+    "meanIncome": 101604
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "51",
+    "name": "Essex County, Virginia",
+    "population": 10604,
+    "medianAge": 47.1,
+    "race": {
+      "white": 55.9,
+      "black": 37.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 5.1,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 39.5,
+      "someCollege": 23.5,
+      "associates": 5.3,
+      "bachelors": 11.1,
+      "graduate": 6.4
+    },
+    "medianIncome": 56481,
+    "meanIncome": 75330
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "51",
+    "name": "Fairfax County, Virginia",
+    "population": 1144474,
+    "medianAge": 38.9,
+    "race": {
+      "white": 51.4,
+      "black": 9.8,
+      "asian": 19.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 7.1,
+      "twoOrMore": 11.3,
+      "hispanic": 17.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 12,
+      "someCollege": 11.6,
+      "associates": 5.4,
+      "bachelors": 31.8,
+      "graduate": 32.4
+    },
+    "medianIncome": 150113,
+    "meanIncome": 191191
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "51",
+    "name": "Fauquier County, Virginia",
+    "population": 73935,
+    "medianAge": 40.8,
+    "race": {
+      "white": 81,
+      "black": 6.3,
+      "asian": 1.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 8.9,
+      "hispanic": 11.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 24.8,
+      "someCollege": 21.3,
+      "associates": 6.2,
+      "bachelors": 24.7,
+      "graduate": 14.9
+    },
+    "medianIncome": 129495,
+    "meanIncome": 155933
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "51",
+    "name": "Floyd County, Virginia",
+    "population": 15560,
+    "medianAge": 48,
+    "race": {
+      "white": 93.5,
+      "black": 2.8,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.8,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 37.6,
+      "someCollege": 18.3,
+      "associates": 12.6,
+      "bachelors": 14.2,
+      "graduate": 8.9
+    },
+    "medianIncome": 61401,
+    "meanIncome": 81982
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "51",
+    "name": "Fluvanna County, Virginia",
+    "population": 27764,
+    "medianAge": 43.3,
+    "race": {
+      "white": 76.7,
+      "black": 12.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 7.2,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 26.2,
+      "someCollege": 23.2,
+      "associates": 8.9,
+      "bachelors": 22.3,
+      "graduate": 13.3
+    },
+    "medianIncome": 91959,
+    "meanIncome": 113385
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "51",
+    "name": "Franklin County, Virginia",
+    "population": 54958,
+    "medianAge": 48.5,
+    "race": {
+      "white": 86.7,
+      "black": 7.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.6,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 34.3,
+      "someCollege": 22.9,
+      "associates": 9,
+      "bachelors": 15.6,
+      "graduate": 8.8
+    },
+    "medianIncome": 68348,
+    "meanIncome": 90740
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "51",
+    "name": "Frederick County, Virginia",
+    "population": 93355,
+    "medianAge": 40.6,
+    "race": {
+      "white": 82.4,
+      "black": 4.2,
+      "asian": 1.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 5.4,
+      "twoOrMore": 5.5,
+      "hispanic": 11.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 30.8,
+      "someCollege": 20.6,
+      "associates": 7.4,
+      "bachelors": 17.9,
+      "graduate": 12.4
+    },
+    "medianIncome": 95603,
+    "meanIncome": 117692
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "51",
+    "name": "Giles County, Virginia",
+    "population": 16610,
+    "medianAge": 45.8,
+    "race": {
+      "white": 94.7,
+      "black": 2.2,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0,
+      "twoOrMore": 2.4,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 43.8,
+      "someCollege": 20.1,
+      "associates": 9.3,
+      "bachelors": 9.5,
+      "graduate": 8.5
+    },
+    "medianIncome": 64819,
+    "meanIncome": 76719
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "51",
+    "name": "Gloucester County, Virginia",
+    "population": 39228,
+    "medianAge": 44.6,
+    "race": {
+      "white": 84,
+      "black": 8.1,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.2,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 32.3,
+      "someCollege": 23.9,
+      "associates": 9.1,
+      "bachelors": 16.5,
+      "graduate": 9.4
+    },
+    "medianIncome": 83689,
+    "meanIncome": 103122
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "51",
+    "name": "Goochland County, Virginia",
+    "population": 25613,
+    "medianAge": 49.4,
+    "race": {
+      "white": 79,
+      "black": 14.4,
+      "asian": 1.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 3.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 22.5,
+      "someCollege": 18.2,
+      "associates": 7.4,
+      "bachelors": 26.4,
+      "graduate": 20.6
+    },
+    "medianIncome": 118695,
+    "meanIncome": 172374
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "51",
+    "name": "Grayson County, Virginia",
+    "population": 15323,
+    "medianAge": 48.5,
+    "race": {
+      "white": 89.7,
+      "black": 5.2,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.6,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 40.8,
+      "someCollege": 17.6,
+      "associates": 11.9,
+      "bachelors": 9.4,
+      "graduate": 4.5
+    },
+    "medianIncome": 42864,
+    "meanIncome": 64012
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "51",
+    "name": "Greene County, Virginia",
+    "population": 20850,
+    "medianAge": 40.8,
+    "race": {
+      "white": 79.9,
+      "black": 6.8,
+      "asian": 2.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 6.8,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 31.6,
+      "someCollege": 20.8,
+      "associates": 8.9,
+      "bachelors": 18.5,
+      "graduate": 10
+    },
+    "medianIncome": 85268,
+    "meanIncome": 110807
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "51",
+    "name": "Greensville County, Virginia",
+    "population": 11304,
+    "medianAge": 39.9,
+    "race": {
+      "white": 36.3,
+      "black": 53.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 7.2,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 20.9,
+      "highSchool": 40.8,
+      "someCollege": 18.5,
+      "associates": 6,
+      "bachelors": 10,
+      "graduate": 3.8
+    },
+    "medianIncome": 56759,
+    "meanIncome": 76071
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "51",
+    "name": "Halifax County, Virginia",
+    "population": 33811,
+    "medianAge": 46.7,
+    "race": {
+      "white": 60.3,
+      "black": 34.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 35,
+      "someCollege": 20.4,
+      "associates": 8,
+      "bachelors": 11.9,
+      "graduate": 6.3
+    },
+    "medianIncome": 49244,
+    "meanIncome": 64146
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "51",
+    "name": "Hanover County, Virginia",
+    "population": 111652,
+    "medianAge": 42.3,
+    "race": {
+      "white": 82.3,
+      "black": 8.6,
+      "asian": 1.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 5.5,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 24.4,
+      "someCollege": 19.3,
+      "associates": 8.3,
+      "bachelors": 26.4,
+      "graduate": 16
+    },
+    "medianIncome": 109504,
+    "meanIncome": 135241
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "51",
+    "name": "Henrico County, Virginia",
+    "population": 334434,
+    "medianAge": 39.4,
+    "race": {
+      "white": 51.3,
+      "black": 29.7,
+      "asian": 9.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 5.8,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 21.8,
+      "someCollege": 18.6,
+      "associates": 6.9,
+      "bachelors": 26.4,
+      "graduate": 19.3
+    },
+    "medianIncome": 86397,
+    "meanIncome": 121771
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "51",
+    "name": "Henry County, Virginia",
+    "population": 50365,
+    "medianAge": 47.9,
+    "race": {
+      "white": 69.8,
+      "black": 22.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 4.1,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 33.7,
+      "someCollege": 21.6,
+      "associates": 12.3,
+      "bachelors": 10,
+      "graduate": 5.7
+    },
+    "medianIncome": 48445,
+    "meanIncome": 64932
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "51",
+    "name": "Highland County, Virginia",
+    "population": 2265,
+    "medianAge": 57.1,
+    "race": {
+      "white": 94.4,
+      "black": 0,
+      "asian": 3.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.5,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 34.5,
+      "someCollege": 14.4,
+      "associates": 4.9,
+      "bachelors": 22.2,
+      "graduate": 13.2
+    },
+    "medianIncome": 62946,
+    "meanIncome": 76984
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "51",
+    "name": "Isle of Wight County, Virginia",
+    "population": 39444,
+    "medianAge": 44.2,
+    "race": {
+      "white": 70.2,
+      "black": 22.1,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 5.3,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 30.4,
+      "someCollege": 22.7,
+      "associates": 9.1,
+      "bachelors": 17.8,
+      "graduate": 12.2
+    },
+    "medianIncome": 96118,
+    "meanIncome": 119223
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "51",
+    "name": "James City County, Virginia",
+    "population": 80046,
+    "medianAge": 47.2,
+    "race": {
+      "white": 74.9,
+      "black": 12.8,
+      "asian": 2.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 7.6,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 18.9,
+      "someCollege": 17.9,
+      "associates": 8.3,
+      "bachelors": 25.9,
+      "graduate": 24.3
+    },
+    "medianIncome": 107046,
+    "meanIncome": 132549
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "51",
+    "name": "King and Queen County, Virginia",
+    "population": 6676,
+    "medianAge": 49,
+    "race": {
+      "white": 66.8,
+      "black": 23.8,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.4,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 38.7,
+      "someCollege": 23.5,
+      "associates": 8.4,
+      "bachelors": 14.3,
+      "graduate": 5.1
+    },
+    "medianIncome": 72851,
+    "meanIncome": 88368
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "51",
+    "name": "King George County, Virginia",
+    "population": 27468,
+    "medianAge": 38.3,
+    "race": {
+      "white": 71.2,
+      "black": 15.7,
+      "asian": 1.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 7.7,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 26.5,
+      "someCollege": 20.9,
+      "associates": 7.9,
+      "bachelors": 21.6,
+      "graduate": 14.3
+    },
+    "medianIncome": 110517,
+    "meanIncome": 126189
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "51",
+    "name": "King William County, Virginia",
+    "population": 18232,
+    "medianAge": 40.5,
+    "race": {
+      "white": 78.6,
+      "black": 15.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 4.4,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 36.7,
+      "someCollege": 25.1,
+      "associates": 7.5,
+      "bachelors": 18.1,
+      "graduate": 6.1
+    },
+    "medianIncome": 85212,
+    "meanIncome": 97561
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "51",
+    "name": "Lancaster County, Virginia",
+    "population": 10876,
+    "medianAge": 59.1,
+    "race": {
+      "white": 67.7,
+      "black": 27.8,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.9,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 27.4,
+      "someCollege": 15.7,
+      "associates": 6.5,
+      "bachelors": 21.7,
+      "graduate": 15.7
+    },
+    "medianIncome": 67169,
+    "meanIncome": 98274
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "51",
+    "name": "Lee County, Virginia",
+    "population": 22042,
+    "medianAge": 45.4,
+    "race": {
+      "white": 93,
+      "black": 4.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.2,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 17.7,
+      "highSchool": 35.4,
+      "someCollege": 25.7,
+      "associates": 8.5,
+      "bachelors": 9.1,
+      "graduate": 3.6
+    },
+    "medianIncome": 42269,
+    "meanIncome": 60434
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "51",
+    "name": "Loudoun County, Virginia",
+    "population": 427082,
+    "medianAge": 37.8,
+    "race": {
+      "white": 55.4,
+      "black": 7.7,
+      "asian": 21,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 4.4,
+      "twoOrMore": 11.1,
+      "hispanic": 14.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 11.7,
+      "someCollege": 12.7,
+      "associates": 5.7,
+      "bachelors": 36,
+      "graduate": 28.1
+    },
+    "medianIncome": 178707,
+    "meanIncome": 209947
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "51",
+    "name": "Louisa County, Virginia",
+    "population": 39012,
+    "medianAge": 44.8,
+    "race": {
+      "white": 77.3,
+      "black": 13.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 6.3,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 34.5,
+      "someCollege": 20.3,
+      "associates": 6.7,
+      "bachelors": 15.6,
+      "graduate": 12.1
+    },
+    "medianIncome": 80343,
+    "meanIncome": 108564
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "51",
+    "name": "Lunenburg County, Virginia",
+    "population": 11990,
+    "medianAge": 44.8,
+    "race": {
+      "white": 57.8,
+      "black": 33.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 5.3,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 20,
+      "highSchool": 36.3,
+      "someCollege": 25.4,
+      "associates": 7.2,
+      "bachelors": 7.5,
+      "graduate": 3.7
+    },
+    "medianIncome": 54460,
+    "meanIncome": 65840
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "51",
+    "name": "Madison County, Virginia",
+    "population": 13931,
+    "medianAge": 46.2,
+    "race": {
+      "white": 84.7,
+      "black": 8.4,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 5.9,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 35,
+      "someCollege": 20,
+      "associates": 6.1,
+      "bachelors": 14.1,
+      "graduate": 13.5
+    },
+    "medianIncome": 82972,
+    "meanIncome": 103123
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "51",
+    "name": "Mathews County, Virginia",
+    "population": 8517,
+    "medianAge": 53.8,
+    "race": {
+      "white": 86.7,
+      "black": 8.4,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 0.8,
+      "twoOrMore": 3.9,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 30.6,
+      "someCollege": 22,
+      "associates": 8.6,
+      "bachelors": 21.7,
+      "graduate": 8.4
+    },
+    "medianIncome": 75487,
+    "meanIncome": 100156
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "51",
+    "name": "Mecklenburg County, Virginia",
+    "population": 30431,
+    "medianAge": 48.8,
+    "race": {
+      "white": 61.9,
+      "black": 32.9,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.1,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 33.1,
+      "someCollege": 21.8,
+      "associates": 9.9,
+      "bachelors": 13,
+      "graduate": 8.1
+    },
+    "medianIncome": 51691,
+    "meanIncome": 73997
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "51",
+    "name": "Middlesex County, Virginia",
+    "population": 10774,
+    "medianAge": 55.5,
+    "race": {
+      "white": 79.3,
+      "black": 15.1,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 3.9,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 30.2,
+      "someCollege": 22.1,
+      "associates": 7.4,
+      "bachelors": 21.1,
+      "graduate": 10.5
+    },
+    "medianIncome": 74154,
+    "meanIncome": 92227
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "51",
+    "name": "Montgomery County, Virginia",
+    "population": 99159,
+    "medianAge": 30.2,
+    "race": {
+      "white": 82.7,
+      "black": 3.9,
+      "asian": 6.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 1.8,
+      "twoOrMore": 4.8,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 23.8,
+      "someCollege": 16.5,
+      "associates": 7,
+      "bachelors": 22.6,
+      "graduate": 25.8
+    },
+    "medianIncome": 70769,
+    "meanIncome": 93218
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "51",
+    "name": "Nelson County, Virginia",
+    "population": 14777,
+    "medianAge": 51.3,
+    "race": {
+      "white": 81.6,
+      "black": 10.3,
+      "asian": 1.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.2,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 30.2,
+      "someCollege": 18.6,
+      "associates": 6.3,
+      "bachelors": 22.1,
+      "graduate": 11.6
+    },
+    "medianIncome": 68525,
+    "meanIncome": 100430
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "51",
+    "name": "New Kent County, Virginia",
+    "population": 24139,
+    "medianAge": 43.4,
+    "race": {
+      "white": 78,
+      "black": 13.4,
+      "asian": 1.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 5.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 28.4,
+      "someCollege": 20.7,
+      "associates": 10.1,
+      "bachelors": 24.9,
+      "graduate": 10.6
+    },
+    "medianIncome": 120125,
+    "meanIncome": 135614
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "51",
+    "name": "Northampton County, Virginia",
+    "population": 12115,
+    "medianAge": 51.6,
+    "race": {
+      "white": 57.4,
+      "black": 31.5,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 7.6,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 29.9,
+      "someCollege": 17.4,
+      "associates": 7,
+      "bachelors": 19.2,
+      "graduate": 13.3
+    },
+    "medianIncome": 55933,
+    "meanIncome": 85776
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "51",
+    "name": "Northumberland County, Virginia",
+    "population": 12085,
+    "medianAge": 59.5,
+    "race": {
+      "white": 69,
+      "black": 19.6,
+      "asian": 4.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.4,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 27.5,
+      "someCollege": 20.4,
+      "associates": 8.6,
+      "bachelors": 17.7,
+      "graduate": 16.2
+    },
+    "medianIncome": 69500,
+    "meanIncome": 101818
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "51",
+    "name": "Nottoway County, Virginia",
+    "population": 15597,
+    "medianAge": 41.2,
+    "race": {
+      "white": 55.3,
+      "black": 37.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 6,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 39.9,
+      "someCollege": 21.3,
+      "associates": 7.8,
+      "bachelors": 12.4,
+      "graduate": 4.4
+    },
+    "medianIncome": 62161,
+    "meanIncome": 73868
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "51",
+    "name": "Orange County, Virginia",
+    "population": 37208,
+    "medianAge": 42,
+    "race": {
+      "white": 77.2,
+      "black": 10.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 9.2,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 35.9,
+      "someCollege": 18.6,
+      "associates": 7.4,
+      "bachelors": 18.3,
+      "graduate": 11.1
+    },
+    "medianIncome": 94175,
+    "meanIncome": 117261
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "51",
+    "name": "Page County, Virginia",
+    "population": 23750,
+    "medianAge": 45.4,
+    "race": {
+      "white": 92.5,
+      "black": 1.9,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 46.1,
+      "someCollege": 16.9,
+      "associates": 5.7,
+      "bachelors": 9.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 59396,
+    "meanIncome": 72525
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "51",
+    "name": "Patrick County, Virginia",
+    "population": 17606,
+    "medianAge": 51,
+    "race": {
+      "white": 91.1,
+      "black": 5.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.4,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 36,
+      "someCollege": 21.9,
+      "associates": 11.2,
+      "bachelors": 11.5,
+      "graduate": 3.7
+    },
+    "medianIncome": 50938,
+    "meanIncome": 73865
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "51",
+    "name": "Pittsylvania County, Virginia",
+    "population": 60148,
+    "medianAge": 48.3,
+    "race": {
+      "white": 74.4,
+      "black": 20.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 2.9,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 39.2,
+      "someCollege": 21.2,
+      "associates": 9.9,
+      "bachelors": 10.7,
+      "graduate": 4.7
+    },
+    "medianIncome": 54115,
+    "meanIncome": 71627
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "51",
+    "name": "Powhatan County, Virginia",
+    "population": 31074,
+    "medianAge": 45.3,
+    "race": {
+      "white": 85.1,
+      "black": 8.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.8,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 27.4,
+      "someCollege": 20.3,
+      "associates": 9.5,
+      "bachelors": 23.1,
+      "graduate": 11.1
+    },
+    "medianIncome": 110667,
+    "meanIncome": 131371
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "51",
+    "name": "Prince Edward County, Virginia",
+    "population": 21932,
+    "medianAge": 32.4,
+    "race": {
+      "white": 62.7,
+      "black": 30.6,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.9,
+      "other": 0.1,
+      "twoOrMore": 4.2,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 36,
+      "someCollege": 21,
+      "associates": 6.8,
+      "bachelors": 14,
+      "graduate": 10.2
+    },
+    "medianIncome": 55082,
+    "meanIncome": 75079
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "51",
+    "name": "Prince George County, Virginia",
+    "population": 42873,
+    "medianAge": 33.4,
+    "race": {
+      "white": 54.8,
+      "black": 31.1,
+      "asian": 2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.4,
+      "other": 2.3,
+      "twoOrMore": 8.9,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 32.3,
+      "someCollege": 24.7,
+      "associates": 9.6,
+      "bachelors": 15.2,
+      "graduate": 8.8
+    },
+    "medianIncome": 88225,
+    "meanIncome": 102321
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "51",
+    "name": "Prince William County, Virginia",
+    "population": 484625,
+    "medianAge": 36,
+    "race": {
+      "white": 46.6,
+      "black": 20.5,
+      "asian": 9.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 9,
+      "twoOrMore": 13.3,
+      "hispanic": 25.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 20.2,
+      "someCollege": 17.8,
+      "associates": 7.8,
+      "bachelors": 26.4,
+      "graduate": 18.1
+    },
+    "medianIncome": 128873,
+    "meanIncome": 155425
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "51",
+    "name": "Pulaski County, Virginia",
+    "population": 33771,
+    "medianAge": 46.9,
+    "race": {
+      "white": 91.1,
+      "black": 4.6,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.3,
+      "other": 0.6,
+      "twoOrMore": 2.8,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 35.7,
+      "someCollege": 23.7,
+      "associates": 9.9,
+      "bachelors": 13,
+      "graduate": 8.4
+    },
+    "medianIncome": 60767,
+    "meanIncome": 81064
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "51",
+    "name": "Rappahannock County, Virginia",
+    "population": 7409,
+    "medianAge": 50.1,
+    "race": {
+      "white": 86,
+      "black": 4.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 3.3,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 29.5,
+      "someCollege": 18.2,
+      "associates": 8.6,
+      "bachelors": 20.5,
+      "graduate": 15.1
+    },
+    "medianIncome": 98125,
+    "meanIncome": 140266
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "51",
+    "name": "Richmond County, Virginia",
+    "population": 9047,
+    "medianAge": 46.1,
+    "race": {
+      "white": 61,
+      "black": 27.9,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 8,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 22.9,
+      "highSchool": 36.6,
+      "someCollege": 12.2,
+      "associates": 10.9,
+      "bachelors": 11.9,
+      "graduate": 5.5
+    },
+    "medianIncome": 64184,
+    "meanIncome": 79207
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "51",
+    "name": "Roanoke County, Virginia",
+    "population": 96793,
+    "medianAge": 43.7,
+    "race": {
+      "white": 84.6,
+      "black": 6.4,
+      "asian": 3.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.9,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 28.5,
+      "someCollege": 18.9,
+      "associates": 9,
+      "bachelors": 24.2,
+      "graduate": 13.2
+    },
+    "medianIncome": 82931,
+    "meanIncome": 107156
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "51",
+    "name": "Rockbridge County, Virginia",
+    "population": 22578,
+    "medianAge": 49.7,
+    "race": {
+      "white": 89.6,
+      "black": 4,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 3.3,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 33.8,
+      "someCollege": 18.6,
+      "associates": 7.1,
+      "bachelors": 16,
+      "graduate": 15.4
+    },
+    "medianIncome": 63975,
+    "meanIncome": 85339
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "51",
+    "name": "Rockingham County, Virginia",
+    "population": 84739,
+    "medianAge": 40.3,
+    "race": {
+      "white": 88.1,
+      "black": 2.5,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 5.8,
+      "hispanic": 8.9
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 36.1,
+      "someCollege": 15.7,
+      "associates": 6.8,
+      "bachelors": 16.6,
+      "graduate": 11.8
+    },
+    "medianIncome": 78468,
+    "meanIncome": 100367
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "51",
+    "name": "Russell County, Virginia",
+    "population": 25635,
+    "medianAge": 46.5,
+    "race": {
+      "white": 97,
+      "black": 1.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 0.2,
+      "twoOrMore": 1.1,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 39.9,
+      "someCollege": 18.7,
+      "associates": 10.7,
+      "bachelors": 9.7,
+      "graduate": 4.4
+    },
+    "medianIncome": 49020,
+    "meanIncome": 66584
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "51",
+    "name": "Scott County, Virginia",
+    "population": 21504,
+    "medianAge": 47.6,
+    "race": {
+      "white": 96.5,
+      "black": 1.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.1,
+      "twoOrMore": 1.9,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 37,
+      "someCollege": 21.7,
+      "associates": 11,
+      "bachelors": 9.7,
+      "graduate": 4.5
+    },
+    "medianIncome": 45136,
+    "meanIncome": 63469
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "51",
+    "name": "Shenandoah County, Virginia",
+    "population": 44630,
+    "medianAge": 42.9,
+    "race": {
+      "white": 86.9,
+      "black": 2.9,
+      "asian": 1.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 6.1,
+      "hispanic": 8.8
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 41.1,
+      "someCollege": 18.3,
+      "associates": 8.3,
+      "bachelors": 12.3,
+      "graduate": 9.1
+    },
+    "medianIncome": 64437,
+    "meanIncome": 86594
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "51",
+    "name": "Smyth County, Virginia",
+    "population": 29585,
+    "medianAge": 46.2,
+    "race": {
+      "white": 95,
+      "black": 2,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 2.2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 38.5,
+      "someCollege": 17.5,
+      "associates": 12,
+      "bachelors": 11.6,
+      "graduate": 6.5
+    },
+    "medianIncome": 46859,
+    "meanIncome": 66592
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "51",
+    "name": "Southampton County, Virginia",
+    "population": 17988,
+    "medianAge": 46.9,
+    "race": {
+      "white": 61.3,
+      "black": 29.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 7.4,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 35.1,
+      "someCollege": 24.8,
+      "associates": 8.2,
+      "bachelors": 12.2,
+      "graduate": 6.4
+    },
+    "medianIncome": 68465,
+    "meanIncome": 83914
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "51",
+    "name": "Spotsylvania County, Virginia",
+    "population": 143876,
+    "medianAge": 38.3,
+    "race": {
+      "white": 65.2,
+      "black": 16.6,
+      "asian": 2.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 6.2,
+      "twoOrMore": 9.1,
+      "hispanic": 12.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 27.5,
+      "someCollege": 21.6,
+      "associates": 7.9,
+      "bachelors": 20.5,
+      "graduate": 13.3
+    },
+    "medianIncome": 109576,
+    "meanIncome": 130137
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "51",
+    "name": "Stafford County, Virginia",
+    "population": 160520,
+    "medianAge": 36.3,
+    "race": {
+      "white": 57.2,
+      "black": 19.3,
+      "asian": 3.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 8.1,
+      "twoOrMore": 11.4,
+      "hispanic": 15.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 21.5,
+      "someCollege": 20,
+      "associates": 8,
+      "bachelors": 25.2,
+      "graduate": 18.1
+    },
+    "medianIncome": 133792,
+    "meanIncome": 157495
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "51",
+    "name": "Surry County, Virginia",
+    "population": 6552,
+    "medianAge": 50.7,
+    "race": {
+      "white": 55.8,
+      "black": 41,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.1,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 31,
+      "someCollege": 27.9,
+      "associates": 5.7,
+      "bachelors": 18.3,
+      "graduate": 7.1
+    },
+    "medianIncome": 71458,
+    "meanIncome": 86472
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "51",
+    "name": "Sussex County, Virginia",
+    "population": 10793,
+    "medianAge": 41,
+    "race": {
+      "white": 40.3,
+      "black": 55,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.3,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 40.2,
+      "someCollege": 20.7,
+      "associates": 7.9,
+      "bachelors": 9.8,
+      "graduate": 6
+    },
+    "medianIncome": 62821,
+    "meanIncome": 83114
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "51",
+    "name": "Tazewell County, Virginia",
+    "population": 39933,
+    "medianAge": 45,
+    "race": {
+      "white": 93.3,
+      "black": 3.7,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 39.9,
+      "someCollege": 20.9,
+      "associates": 10.1,
+      "bachelors": 10.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 45788,
+    "meanIncome": 68404
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "51",
+    "name": "Warren County, Virginia",
+    "population": 41104,
+    "medianAge": 40.5,
+    "race": {
+      "white": 83.7,
+      "black": 5.1,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 5.5,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 34.5,
+      "someCollege": 23.4,
+      "associates": 6.5,
+      "bachelors": 15,
+      "graduate": 9.6
+    },
+    "medianIncome": 84331,
+    "meanIncome": 103067
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "51",
+    "name": "Washington County, Virginia",
+    "population": 53913,
+    "medianAge": 46.9,
+    "race": {
+      "white": 94.7,
+      "black": 1.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.4,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 34.3,
+      "someCollege": 19.5,
+      "associates": 9.7,
+      "bachelors": 17.4,
+      "graduate": 9.1
+    },
+    "medianIncome": 62774,
+    "meanIncome": 91122
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "51",
+    "name": "Westmoreland County, Virginia",
+    "population": 18683,
+    "medianAge": 48,
+    "race": {
+      "white": 63.7,
+      "black": 24,
+      "asian": 1.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.9,
+      "twoOrMore": 7.2,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 40.4,
+      "someCollege": 16.2,
+      "associates": 7.8,
+      "bachelors": 11.5,
+      "graduate": 8.2
+    },
+    "medianIncome": 59766,
+    "meanIncome": 84744
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "51",
+    "name": "Wise County, Virginia",
+    "population": 35727,
+    "medianAge": 42.1,
+    "race": {
+      "white": 90.7,
+      "black": 5.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.3,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 19.7,
+      "highSchool": 34.1,
+      "someCollege": 20.3,
+      "associates": 10.2,
+      "bachelors": 9.8,
+      "graduate": 5.8
+    },
+    "medianIncome": 50740,
+    "meanIncome": 61657
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "51",
+    "name": "Wythe County, Virginia",
+    "population": 28219,
+    "medianAge": 45.9,
+    "race": {
+      "white": 93.6,
+      "black": 2.4,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 2.9,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 36.9,
+      "someCollege": 21.8,
+      "associates": 11.2,
+      "bachelors": 11.2,
+      "graduate": 8.5
+    },
+    "medianIncome": 55359,
+    "meanIncome": 75350
+  },
+  {
+    "countyFips": "199",
+    "stateFips": "51",
+    "name": "York County, Virginia",
+    "population": 70590,
+    "medianAge": 39.8,
+    "race": {
+      "white": 69.1,
+      "black": 13.1,
+      "asian": 5.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 1.6,
+      "twoOrMore": 9.9,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 16.7,
+      "someCollege": 18.1,
+      "associates": 10.9,
+      "bachelors": 26.5,
+      "graduate": 23.5
+    },
+    "medianIncome": 108326,
+    "meanIncome": 133056
+  },
+  {
+    "countyFips": "510",
+    "stateFips": "51",
+    "name": "Alexandria city, Virginia",
+    "population": 156788,
+    "medianAge": 37.5,
+    "race": {
+      "white": 53.6,
+      "black": 21.1,
+      "asian": 6.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 12.9,
+      "hispanic": 18.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 10.6,
+      "someCollege": 11.5,
+      "associates": 4.9,
+      "bachelors": 31.4,
+      "graduate": 34.4
+    },
+    "medianIncome": 113638,
+    "meanIncome": 159455
+  },
+  {
+    "countyFips": "520",
+    "stateFips": "51",
+    "name": "Bristol city, Virginia",
+    "population": 17024,
+    "medianAge": 42.6,
+    "race": {
+      "white": 85.9,
+      "black": 6.7,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 5.9,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 34.7,
+      "someCollege": 22.6,
+      "associates": 8.4,
+      "bachelors": 14.1,
+      "graduate": 9.8
+    },
+    "medianIncome": 44706,
+    "meanIncome": 62955
+  },
+  {
+    "countyFips": "530",
+    "stateFips": "51",
+    "name": "Buena Vista city, Virginia",
+    "population": 6612,
+    "medianAge": 36.2,
+    "race": {
+      "white": 86,
+      "black": 1.6,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 10.7,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 29.9,
+      "someCollege": 20.6,
+      "associates": 8.2,
+      "bachelors": 15.3,
+      "graduate": 9.4
+    },
+    "medianIncome": 54458,
+    "meanIncome": 83522
+  },
+  {
+    "countyFips": "540",
+    "stateFips": "51",
+    "name": "Charlottesville city, Virginia",
+    "population": 45863,
+    "medianAge": 32.9,
+    "race": {
+      "white": 68,
+      "black": 17,
+      "asian": 7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 6.3,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 14.7,
+      "someCollege": 12.1,
+      "associates": 5.3,
+      "bachelors": 27.2,
+      "graduate": 33.4
+    },
+    "medianIncome": 69829,
+    "meanIncome": 109240
+  },
+  {
+    "countyFips": "550",
+    "stateFips": "51",
+    "name": "Chesapeake city, Virginia",
+    "population": 251153,
+    "medianAge": 37.7,
+    "race": {
+      "white": 56.2,
+      "black": 29,
+      "asian": 3.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 8.3,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 24.1,
+      "someCollege": 22.9,
+      "associates": 10,
+      "bachelors": 22.4,
+      "graduate": 14
+    },
+    "medianIncome": 94189,
+    "meanIncome": 116849
+  },
+  {
+    "countyFips": "570",
+    "stateFips": "51",
+    "name": "Colonial Heights city, Virginia",
+    "population": 18210,
+    "medianAge": 38.5,
+    "race": {
+      "white": 69.4,
+      "black": 18,
+      "asian": 3.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 4.8,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 31.9,
+      "someCollege": 19.5,
+      "associates": 11,
+      "bachelors": 18.4,
+      "graduate": 11.1
+    },
+    "medianIncome": 76250,
+    "meanIncome": 93743
+  },
+  {
+    "countyFips": "580",
+    "stateFips": "51",
+    "name": "Covington city, Virginia",
+    "population": 5671,
+    "medianAge": 41.5,
+    "race": {
+      "white": 80,
+      "black": 12.3,
+      "asian": 1.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.2,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 49.5,
+      "someCollege": 21.7,
+      "associates": 6.3,
+      "bachelors": 6,
+      "graduate": 3.6
+    },
+    "medianIncome": 42724,
+    "meanIncome": 54455
+  },
+  {
+    "countyFips": "590",
+    "stateFips": "51",
+    "name": "Danville city, Virginia",
+    "population": 42239,
+    "medianAge": 40.8,
+    "race": {
+      "white": 40.7,
+      "black": 50.4,
+      "asian": 1.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 6.7,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 39,
+      "someCollege": 18.3,
+      "associates": 9.4,
+      "bachelors": 11,
+      "graduate": 7.3
+    },
+    "medianIncome": 42778,
+    "meanIncome": 62024
+  },
+  {
+    "countyFips": "595",
+    "stateFips": "51",
+    "name": "Emporia city, Virginia",
+    "population": 5633,
+    "medianAge": 39.5,
+    "race": {
+      "white": 20.6,
+      "black": 64,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 14.8,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 24.3,
+      "highSchool": 37.7,
+      "someCollege": 14.8,
+      "associates": 8,
+      "bachelors": 8.4,
+      "graduate": 6.8
+    },
+    "medianIncome": 49375,
+    "meanIncome": 66137
+  },
+  {
+    "countyFips": "600",
+    "stateFips": "51",
+    "name": "Fairfax city, Virginia",
+    "population": 24478,
+    "medianAge": 37.3,
+    "race": {
+      "white": 56.3,
+      "black": 6.4,
+      "asian": 18.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 7.9,
+      "twoOrMore": 11.1,
+      "hispanic": 18.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 13,
+      "someCollege": 10.9,
+      "associates": 5.6,
+      "bachelors": 32.7,
+      "graduate": 29.7
+    },
+    "medianIncome": 132774,
+    "meanIncome": 170219
+  },
+  {
+    "countyFips": "610",
+    "stateFips": "51",
+    "name": "Falls Church city, Virginia",
+    "population": 14593,
+    "medianAge": 39.4,
+    "race": {
+      "white": 70.9,
+      "black": 4.8,
+      "asian": 9.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 10.4,
+      "hispanic": 10.7
+    },
+    "education": {
+      "lessThanHighSchool": 2.6,
+      "highSchool": 6.1,
+      "someCollege": 9.1,
+      "associates": 2.5,
+      "bachelors": 29.9,
+      "graduate": 49.8
+    },
+    "medianIncome": 154734,
+    "meanIncome": 205626
+  },
+  {
+    "countyFips": "620",
+    "stateFips": "51",
+    "name": "Franklin city, Virginia",
+    "population": 8212,
+    "medianAge": 40.5,
+    "race": {
+      "white": 38.1,
+      "black": 51.7,
+      "asian": 2.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 7.2,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 29.6,
+      "someCollege": 20.2,
+      "associates": 8.4,
+      "bachelors": 15.7,
+      "graduate": 10.7
+    },
+    "medianIncome": 65125,
+    "meanIncome": 79553
+  },
+  {
+    "countyFips": "630",
+    "stateFips": "51",
+    "name": "Fredericksburg city, Virginia",
+    "population": 28383,
+    "medianAge": 31,
+    "race": {
+      "white": 58.8,
+      "black": 20.2,
+      "asian": 3.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 6.6,
+      "twoOrMore": 10.5,
+      "hispanic": 12.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 19.4,
+      "someCollege": 21.3,
+      "associates": 5.1,
+      "bachelors": 26.8,
+      "graduate": 20
+    },
+    "medianIncome": 85368,
+    "meanIncome": 117378
+  },
+  {
+    "countyFips": "640",
+    "stateFips": "51",
+    "name": "Galax city, Virginia",
+    "population": 6698,
+    "medianAge": 41.9,
+    "race": {
+      "white": 80.4,
+      "black": 4.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.3,
+      "other": 5.2,
+      "twoOrMore": 8.6,
+      "hispanic": 15.8
+    },
+    "education": {
+      "lessThanHighSchool": 17,
+      "highSchool": 25.3,
+      "someCollege": 24.7,
+      "associates": 14.7,
+      "bachelors": 11.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 41438,
+    "meanIncome": 73907
+  },
+  {
+    "countyFips": "650",
+    "stateFips": "51",
+    "name": "Hampton city, Virginia",
+    "population": 137334,
+    "medianAge": 36.5,
+    "race": {
+      "white": 37.5,
+      "black": 49,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 9,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 29.2,
+      "someCollege": 25.5,
+      "associates": 10.5,
+      "bachelors": 17.1,
+      "graduate": 10.4
+    },
+    "medianIncome": 67758,
+    "meanIncome": 85775
+  },
+  {
+    "countyFips": "660",
+    "stateFips": "51",
+    "name": "Harrisonburg city, Virginia",
+    "population": 51492,
+    "medianAge": 25.4,
+    "race": {
+      "white": 66.5,
+      "black": 7.6,
+      "asian": 3.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 7.6,
+      "twoOrMore": 14.5,
+      "hispanic": 23.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 23.4,
+      "someCollege": 14.1,
+      "associates": 9.1,
+      "bachelors": 19.4,
+      "graduate": 17.4
+    },
+    "medianIncome": 59752,
+    "meanIncome": 80210
+  },
+  {
+    "countyFips": "670",
+    "stateFips": "51",
+    "name": "Hopewell city, Virginia",
+    "population": 22944,
+    "medianAge": 36.4,
+    "race": {
+      "white": 44.4,
+      "black": 42.6,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 9.7,
+      "hispanic": 8.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 39.4,
+      "someCollege": 23.8,
+      "associates": 12.1,
+      "bachelors": 8.3,
+      "graduate": 4.2
+    },
+    "medianIncome": 48681,
+    "meanIncome": 64349
+  },
+  {
+    "countyFips": "678",
+    "stateFips": "51",
+    "name": "Lexington city, Virginia",
+    "population": 7420,
+    "medianAge": 22.5,
+    "race": {
+      "white": 81.7,
+      "black": 4.7,
+      "asian": 3.2,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 8.6,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 22.9,
+      "someCollege": 10.4,
+      "associates": 5.2,
+      "bachelors": 24.9,
+      "graduate": 32.4
+    },
+    "medianIncome": 89598,
+    "meanIncome": 95202
+  },
+  {
+    "countyFips": "680",
+    "stateFips": "51",
+    "name": "Lynchburg city, Virginia",
+    "population": 79255,
+    "medianAge": 28.4,
+    "race": {
+      "white": 62.2,
+      "black": 27.7,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 5.3,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 23.9,
+      "someCollege": 20.5,
+      "associates": 7.5,
+      "bachelors": 23.6,
+      "graduate": 14.9
+    },
+    "medianIncome": 59808,
+    "meanIncome": 79359
+  },
+  {
+    "countyFips": "683",
+    "stateFips": "51",
+    "name": "Manassas city, Virginia",
+    "population": 42674,
+    "medianAge": 34.7,
+    "race": {
+      "white": 50.5,
+      "black": 12.6,
+      "asian": 5.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 10.1,
+      "twoOrMore": 20.7,
+      "hispanic": 43
+    },
+    "education": {
+      "lessThanHighSchool": 18.3,
+      "highSchool": 27.1,
+      "someCollege": 14.5,
+      "associates": 6.9,
+      "bachelors": 21,
+      "graduate": 12.2
+    },
+    "medianIncome": 117919,
+    "meanIncome": 139363
+  },
+  {
+    "countyFips": "685",
+    "stateFips": "51",
+    "name": "Manassas Park city, Virginia",
+    "population": 16923,
+    "medianAge": 35.3,
+    "race": {
+      "white": 40.3,
+      "black": 11.4,
+      "asian": 10.6,
+      "nativeAmerican": 3.6,
+      "pacificIslander": 0,
+      "other": 17.1,
+      "twoOrMore": 17,
+      "hispanic": 45.9
+    },
+    "education": {
+      "lessThanHighSchool": 21.1,
+      "highSchool": 30.7,
+      "someCollege": 16.6,
+      "associates": 6.2,
+      "bachelors": 15.2,
+      "graduate": 10.3
+    },
+    "medianIncome": 100668,
+    "meanIncome": 123119
+  },
+  {
+    "countyFips": "690",
+    "stateFips": "51",
+    "name": "Martinsville city, Virginia",
+    "population": 13584,
+    "medianAge": 40.2,
+    "race": {
+      "white": 43.1,
+      "black": 44.3,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 2.9,
+      "twoOrMore": 8.4,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 31.2,
+      "someCollege": 17,
+      "associates": 16.7,
+      "bachelors": 12.9,
+      "graduate": 8.4
+    },
+    "medianIncome": 42434,
+    "meanIncome": 65146
+  },
+  {
+    "countyFips": "700",
+    "stateFips": "51",
+    "name": "Newport News city, Virginia",
+    "population": 184774,
+    "medianAge": 34.2,
+    "race": {
+      "white": 42.3,
+      "black": 41,
+      "asian": 3.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.9,
+      "twoOrMore": 10.1,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 29.8,
+      "someCollege": 22.6,
+      "associates": 10.3,
+      "bachelors": 17.7,
+      "graduate": 11.4
+    },
+    "medianIncome": 66718,
+    "meanIncome": 87285
+  },
+  {
+    "countyFips": "710",
+    "stateFips": "51",
+    "name": "Norfolk city, Virginia",
+    "population": 235037,
+    "medianAge": 32.4,
+    "race": {
+      "white": 44,
+      "black": 39.8,
+      "asian": 3.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 3.9,
+      "twoOrMore": 8,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 24.9,
+      "someCollege": 23.6,
+      "associates": 8.5,
+      "bachelors": 19.3,
+      "graduate": 13.4
+    },
+    "medianIncome": 64017,
+    "meanIncome": 88032
+  },
+  {
+    "countyFips": "720",
+    "stateFips": "51",
+    "name": "Norton city, Virginia",
+    "population": 3620,
+    "medianAge": 41.1,
+    "race": {
+      "white": 95.1,
+      "black": 1.3,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.5,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 39.6,
+      "someCollege": 26.4,
+      "associates": 9.7,
+      "bachelors": 9.8,
+      "graduate": 6.8
+    },
+    "medianIncome": 38497,
+    "meanIncome": 56274
+  },
+  {
+    "countyFips": "730",
+    "stateFips": "51",
+    "name": "Petersburg city, Virginia",
+    "population": 33365,
+    "medianAge": 35.8,
+    "race": {
+      "white": 15.9,
+      "black": 77.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 5,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 34.9,
+      "someCollege": 18.9,
+      "associates": 8.1,
+      "bachelors": 15.4,
+      "graduate": 9.7
+    },
+    "medianIncome": 50741,
+    "meanIncome": 62609
+  },
+  {
+    "countyFips": "735",
+    "stateFips": "51",
+    "name": "Poquoson city, Virginia",
+    "population": 12556,
+    "medianAge": 41.4,
+    "race": {
+      "white": 92,
+      "black": 1.7,
+      "asian": 1.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.7,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 2.8,
+      "highSchool": 27.5,
+      "someCollege": 20.7,
+      "associates": 8.9,
+      "bachelors": 21.9,
+      "graduate": 18.1
+    },
+    "medianIncome": 120919,
+    "meanIncome": 135303
+  },
+  {
+    "countyFips": "740",
+    "stateFips": "51",
+    "name": "Portsmouth city, Virginia",
+    "population": 97299,
+    "medianAge": 35.8,
+    "race": {
+      "white": 36.9,
+      "black": 51.7,
+      "asian": 1.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 7.6,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 31.7,
+      "someCollege": 24.8,
+      "associates": 9.5,
+      "bachelors": 14.9,
+      "graduate": 8.3
+    },
+    "medianIncome": 58972,
+    "meanIncome": 77280
+  },
+  {
+    "countyFips": "750",
+    "stateFips": "51",
+    "name": "Radford city, Virginia",
+    "population": 16505,
+    "medianAge": 23,
+    "race": {
+      "white": 83.2,
+      "black": 9.3,
+      "asian": 2.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.3,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 19.7,
+      "someCollege": 24.7,
+      "associates": 9.1,
+      "bachelors": 19.3,
+      "graduate": 20.5
+    },
+    "medianIncome": 52791,
+    "meanIncome": 68571
+  },
+  {
+    "countyFips": "760",
+    "stateFips": "51",
+    "name": "Richmond city, Virginia",
+    "population": 227595,
+    "medianAge": 34.5,
+    "race": {
+      "white": 43.2,
+      "black": 42,
+      "asian": 2.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5.3,
+      "twoOrMore": 7.1,
+      "hispanic": 10.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 21.2,
+      "someCollege": 18.8,
+      "associates": 5.3,
+      "bachelors": 26,
+      "graduate": 18
+    },
+    "medianIncome": 62671,
+    "meanIncome": 94647
+  },
+  {
+    "countyFips": "770",
+    "stateFips": "51",
+    "name": "Roanoke city, Virginia",
+    "population": 98677,
+    "medianAge": 38,
+    "race": {
+      "white": 57.5,
+      "black": 29,
+      "asian": 3.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 7.8,
+      "hispanic": 8.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 33.9,
+      "someCollege": 19.4,
+      "associates": 7.4,
+      "bachelors": 17.6,
+      "graduate": 11.3
+    },
+    "medianIncome": 52671,
+    "meanIncome": 76775
+  },
+  {
+    "countyFips": "775",
+    "stateFips": "51",
+    "name": "Salem city, Virginia",
+    "population": 25477,
+    "medianAge": 40.3,
+    "race": {
+      "white": 84,
+      "black": 7.8,
+      "asian": 1.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 4,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 28.5,
+      "someCollege": 22.4,
+      "associates": 12.1,
+      "bachelors": 18,
+      "graduate": 13.1
+    },
+    "medianIncome": 66716,
+    "meanIncome": 92769
+  },
+  {
+    "countyFips": "790",
+    "stateFips": "51",
+    "name": "Staunton city, Virginia",
+    "population": 25765,
+    "medianAge": 41,
+    "race": {
+      "white": 80.1,
+      "black": 11,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.3,
+      "other": 1.3,
+      "twoOrMore": 5.7,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 29,
+      "someCollege": 22.1,
+      "associates": 7.5,
+      "bachelors": 19,
+      "graduate": 16
+    },
+    "medianIncome": 62586,
+    "meanIncome": 80760
+  },
+  {
+    "countyFips": "800",
+    "stateFips": "51",
+    "name": "Suffolk city, Virginia",
+    "population": 96638,
+    "medianAge": 38.7,
+    "race": {
+      "white": 47.5,
+      "black": 42,
+      "asian": 1.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 6.3,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 26.1,
+      "someCollege": 23.8,
+      "associates": 9.5,
+      "bachelors": 19.9,
+      "graduate": 12.5
+    },
+    "medianIncome": 90089,
+    "meanIncome": 115247
+  },
+  {
+    "countyFips": "810",
+    "stateFips": "51",
+    "name": "Virginia Beach city, Virginia",
+    "population": 457066,
+    "medianAge": 37.4,
+    "race": {
+      "white": 61.6,
+      "black": 18.9,
+      "asian": 7.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 2.4,
+      "twoOrMore": 9.4,
+      "hispanic": 8.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 21.3,
+      "someCollege": 22.4,
+      "associates": 10.5,
+      "bachelors": 25,
+      "graduate": 15.4
+    },
+    "medianIncome": 90685,
+    "meanIncome": 118081
+  },
+  {
+    "countyFips": "820",
+    "stateFips": "51",
+    "name": "Waynesboro city, Virginia",
+    "population": 22574,
+    "medianAge": 38.9,
+    "race": {
+      "white": 75.6,
+      "black": 11.9,
+      "asian": 1.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 8.8,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 35,
+      "someCollege": 20.1,
+      "associates": 7.7,
+      "bachelors": 15.6,
+      "graduate": 10.7
+    },
+    "medianIncome": 56364,
+    "meanIncome": 74559
+  },
+  {
+    "countyFips": "830",
+    "stateFips": "51",
+    "name": "Williamsburg city, Virginia",
+    "population": 15564,
+    "medianAge": 24,
+    "race": {
+      "white": 68.2,
+      "black": 15.2,
+      "asian": 7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 8.3,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 16.8,
+      "someCollege": 19.3,
+      "associates": 8.5,
+      "bachelors": 26.2,
+      "graduate": 22.3
+    },
+    "medianIncome": 70206,
+    "meanIncome": 107619
+  },
+  {
+    "countyFips": "840",
+    "stateFips": "51",
+    "name": "Winchester city, Virginia",
+    "population": 27981,
+    "medianAge": 36.7,
+    "race": {
+      "white": 69,
+      "black": 9.2,
+      "asian": 2.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 8,
+      "twoOrMore": 11.2,
+      "hispanic": 20.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 28.8,
+      "someCollege": 20.1,
+      "associates": 6,
+      "bachelors": 18,
+      "graduate": 13.6
+    },
+    "medianIncome": 64648,
+    "meanIncome": 86816
+  }
+]

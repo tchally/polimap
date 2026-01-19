@@ -1,0 +1,407 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "04",
+    "name": "Apache County, Arizona",
+    "population": 65680,
+    "medianAge": 36.2,
+    "race": {
+      "white": 20.2,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 72.1,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 4.7,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 31.2,
+      "someCollege": 28.7,
+      "associates": 9.7,
+      "bachelors": 8.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 40338,
+    "meanIncome": 57306
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "04",
+    "name": "Cochise County, Arizona",
+    "population": 125458,
+    "medianAge": 42.9,
+    "race": {
+      "white": 66.8,
+      "black": 3.8,
+      "asian": 2,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.2,
+      "other": 5.1,
+      "twoOrMore": 21.1,
+      "hispanic": 34.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 25.2,
+      "someCollege": 25.7,
+      "associates": 10.7,
+      "bachelors": 16.9,
+      "graduate": 10.8
+    },
+    "medianIncome": 58970,
+    "meanIncome": 77541
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "04",
+    "name": "Coconino County, Arizona",
+    "population": 144643,
+    "medianAge": 32.4,
+    "race": {
+      "white": 57,
+      "black": 1.5,
+      "asian": 1.8,
+      "nativeAmerican": 25.2,
+      "pacificIslander": 0.1,
+      "other": 5.4,
+      "twoOrMore": 8.9,
+      "hispanic": 15.2
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 21.4,
+      "someCollege": 22.4,
+      "associates": 8.6,
+      "bachelors": 23.4,
+      "graduate": 16.2
+    },
+    "medianIncome": 69748,
+    "meanIncome": 95848
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "04",
+    "name": "Gila County, Arizona",
+    "population": 53610,
+    "medianAge": 51.4,
+    "race": {
+      "white": 67.7,
+      "black": 0.6,
+      "asian": 0.8,
+      "nativeAmerican": 13.2,
+      "pacificIslander": 0.1,
+      "other": 4.5,
+      "twoOrMore": 13.1,
+      "hispanic": 17.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 31.4,
+      "someCollege": 28.7,
+      "associates": 10.6,
+      "bachelors": 12.4,
+      "graduate": 6.4
+    },
+    "medianIncome": 59089,
+    "meanIncome": 75671
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "04",
+    "name": "Graham County, Arizona",
+    "population": 38860,
+    "medianAge": 34.4,
+    "race": {
+      "white": 66.2,
+      "black": 1.3,
+      "asian": 0.6,
+      "nativeAmerican": 11.4,
+      "pacificIslander": 0.7,
+      "other": 3.9,
+      "twoOrMore": 15.8,
+      "hispanic": 30.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 30.3,
+      "someCollege": 29,
+      "associates": 10.4,
+      "bachelors": 9.7,
+      "graduate": 4.9
+    },
+    "medianIncome": 67326,
+    "meanIncome": 80094
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "04",
+    "name": "Greenlee County, Arizona",
+    "population": 9452,
+    "medianAge": 36.1,
+    "race": {
+      "white": 64.7,
+      "black": 1.5,
+      "asian": 0.7,
+      "nativeAmerican": 4,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 23.6,
+      "hispanic": 46.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 30.8,
+      "someCollege": 29.5,
+      "associates": 7.3,
+      "bachelors": 15.7,
+      "graduate": 4.7
+    },
+    "medianIncome": 75239,
+    "meanIncome": 84558
+  },
+  {
+    "countyFips": "012",
+    "stateFips": "04",
+    "name": "La Paz County, Arizona",
+    "population": 16605,
+    "medianAge": 59.7,
+    "race": {
+      "white": 61.3,
+      "black": 0.4,
+      "asian": 1.1,
+      "nativeAmerican": 14.2,
+      "pacificIslander": 0,
+      "other": 6.9,
+      "twoOrMore": 16,
+      "hispanic": 25.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 34.1,
+      "someCollege": 23.6,
+      "associates": 11,
+      "bachelors": 8.8,
+      "graduate": 5.1
+    },
+    "medianIncome": 49506,
+    "meanIncome": 68092
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "04",
+    "name": "Maricopa County, Arizona",
+    "population": 4491987,
+    "medianAge": 37.5,
+    "race": {
+      "white": 63,
+      "black": 5.8,
+      "asian": 4.4,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.2,
+      "other": 8.4,
+      "twoOrMore": 16.4,
+      "hispanic": 30.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 22,
+      "someCollege": 22.6,
+      "associates": 9.1,
+      "bachelors": 22.3,
+      "graduate": 13.5
+    },
+    "medianIncome": 85518,
+    "meanIncome": 115162
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "04",
+    "name": "Mohave County, Arizona",
+    "population": 217420,
+    "medianAge": 53.2,
+    "race": {
+      "white": 81.5,
+      "black": 1.2,
+      "asian": 1.1,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.2,
+      "other": 4.9,
+      "twoOrMore": 9.5,
+      "hispanic": 16.7
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 34.7,
+      "someCollege": 29.1,
+      "associates": 9.5,
+      "bachelors": 9.2,
+      "graduate": 5.7
+    },
+    "medianIncome": 55799,
+    "meanIncome": 76121
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "04",
+    "name": "Navajo County, Arizona",
+    "population": 107744,
+    "medianAge": 39.4,
+    "race": {
+      "white": 45.4,
+      "black": 1.2,
+      "asian": 0.4,
+      "nativeAmerican": 43.1,
+      "pacificIslander": 0.2,
+      "other": 3.3,
+      "twoOrMore": 6.5,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 30.1,
+      "someCollege": 28.5,
+      "associates": 9.8,
+      "bachelors": 10.4,
+      "graduate": 7.2
+    },
+    "medianIncome": 52752,
+    "meanIncome": 67131
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "04",
+    "name": "Pima County, Arizona",
+    "population": 1049947,
+    "medianAge": 39.7,
+    "race": {
+      "white": 63.2,
+      "black": 3.6,
+      "asian": 3,
+      "nativeAmerican": 3.1,
+      "pacificIslander": 0.2,
+      "other": 9.9,
+      "twoOrMore": 17,
+      "hispanic": 36.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 21.2,
+      "someCollege": 23.9,
+      "associates": 9,
+      "bachelors": 20.4,
+      "graduate": 15.5
+    },
+    "medianIncome": 67929,
+    "meanIncome": 92561
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "04",
+    "name": "Pinal County, Arizona",
+    "population": 449219,
+    "medianAge": 40.3,
+    "race": {
+      "white": 66,
+      "black": 5,
+      "asian": 1.7,
+      "nativeAmerican": 4.7,
+      "pacificIslander": 0.4,
+      "other": 8.3,
+      "twoOrMore": 13.9,
+      "hispanic": 29.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 30.3,
+      "someCollege": 26.6,
+      "associates": 10.1,
+      "bachelors": 15,
+      "graduate": 7.2
+    },
+    "medianIncome": 77588,
+    "meanIncome": 97007
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "04",
+    "name": "Santa Cruz County, Arizona",
+    "population": 48209,
+    "medianAge": 37.9,
+    "race": {
+      "white": 42.1,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 11.3,
+      "twoOrMore": 45.5,
+      "hispanic": 82.7
+    },
+    "education": {
+      "lessThanHighSchool": 22.3,
+      "highSchool": 26.4,
+      "someCollege": 18.3,
+      "associates": 8.9,
+      "bachelors": 15.4,
+      "graduate": 8.7
+    },
+    "medianIncome": 53614,
+    "meanIncome": 70629
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "04",
+    "name": "Yavapai County, Arizona",
+    "population": 241656,
+    "medianAge": 55,
+    "race": {
+      "white": 82.7,
+      "black": 0.6,
+      "asian": 1.1,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.1,
+      "other": 4.4,
+      "twoOrMore": 9.7,
+      "hispanic": 15
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 24.8,
+      "someCollege": 28.4,
+      "associates": 9.7,
+      "bachelors": 17.3,
+      "graduate": 12.3
+    },
+    "medianIncome": 66106,
+    "meanIncome": 88175
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "04",
+    "name": "Yuma County, Arizona",
+    "population": 207685,
+    "medianAge": 35.8,
+    "race": {
+      "white": 48.4,
+      "black": 1.7,
+      "asian": 1.1,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.1,
+      "other": 13.2,
+      "twoOrMore": 34.1,
+      "hispanic": 64.4
+    },
+    "education": {
+      "lessThanHighSchool": 23.4,
+      "highSchool": 26.7,
+      "someCollege": 25,
+      "associates": 8.3,
+      "bachelors": 10.6,
+      "graduate": 6
+    },
+    "medianIncome": 60417,
+    "meanIncome": 77603
+  }
+]

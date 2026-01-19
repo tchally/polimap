@@ -1,0 +1,1946 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "55",
+    "name": "Adams County, Wisconsin",
+    "population": 20928,
+    "medianAge": 55.5,
+    "race": {
+      "white": 89.8,
+      "black": 2.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5.7,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 39.8,
+      "someCollege": 22.7,
+      "associates": 9.2,
+      "bachelors": 12.5,
+      "graduate": 4.7
+    },
+    "medianIncome": 59153,
+    "meanIncome": 74613
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "55",
+    "name": "Ashland County, Wisconsin",
+    "population": 16050,
+    "medianAge": 43.1,
+    "race": {
+      "white": 83.3,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 9.6,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.2,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 35.7,
+      "someCollege": 23.6,
+      "associates": 13.8,
+      "bachelors": 14.6,
+      "graduate": 7.5
+    },
+    "medianIncome": 57645,
+    "meanIncome": 72039
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "55",
+    "name": "Barron County, Wisconsin",
+    "population": 46741,
+    "medianAge": 44.8,
+    "race": {
+      "white": 92.1,
+      "black": 1.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 3.7,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 35,
+      "someCollege": 19.3,
+      "associates": 15.2,
+      "bachelors": 14.8,
+      "graduate": 7.5
+    },
+    "medianIncome": 64619,
+    "meanIncome": 85894
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "55",
+    "name": "Bayfield County, Wisconsin",
+    "population": 16410,
+    "medianAge": 54.1,
+    "race": {
+      "white": 84.5,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 7.8,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.9,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 3.8,
+      "highSchool": 25.5,
+      "someCollege": 22.6,
+      "associates": 13.1,
+      "bachelors": 21.8,
+      "graduate": 13.2
+    },
+    "medianIncome": 69609,
+    "meanIncome": 88980
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "55",
+    "name": "Brown County, Wisconsin",
+    "population": 269425,
+    "medianAge": 37.9,
+    "race": {
+      "white": 80.5,
+      "black": 2.7,
+      "asian": 3.2,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 3.9,
+      "twoOrMore": 7.9,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 29.2,
+      "someCollege": 19.1,
+      "associates": 12.6,
+      "bachelors": 22.7,
+      "graduate": 9.7
+    },
+    "medianIncome": 77490,
+    "meanIncome": 99390
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "55",
+    "name": "Buffalo County, Wisconsin",
+    "population": 13341,
+    "medianAge": 46.4,
+    "race": {
+      "white": 95.2,
+      "black": 0.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 38.1,
+      "someCollege": 17.8,
+      "associates": 13.9,
+      "bachelors": 16,
+      "graduate": 6.1
+    },
+    "medianIncome": 68722,
+    "meanIncome": 80608
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "55",
+    "name": "Burnett County, Wisconsin",
+    "population": 16741,
+    "medianAge": 55.2,
+    "race": {
+      "white": 90.7,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 3.4,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 4.2,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 37.2,
+      "someCollege": 22.2,
+      "associates": 11.4,
+      "bachelors": 15,
+      "graduate": 7
+    },
+    "medianIncome": 61664,
+    "meanIncome": 82526
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "55",
+    "name": "Calumet County, Wisconsin",
+    "population": 52626,
+    "medianAge": 41.7,
+    "race": {
+      "white": 89.2,
+      "black": 0.9,
+      "asian": 2.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 5.7,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 30.2,
+      "someCollege": 18.4,
+      "associates": 13.6,
+      "bachelors": 23.9,
+      "graduate": 8.6
+    },
+    "medianIncome": 87700,
+    "meanIncome": 107242
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "55",
+    "name": "Chippewa County, Wisconsin",
+    "population": 66558,
+    "medianAge": 41.7,
+    "race": {
+      "white": 93.1,
+      "black": 1.6,
+      "asian": 1.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.1,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 33.8,
+      "someCollege": 20.7,
+      "associates": 14.9,
+      "bachelors": 17.5,
+      "graduate": 6.6
+    },
+    "medianIncome": 74009,
+    "meanIncome": 93401
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "55",
+    "name": "Clark County, Wisconsin",
+    "population": 34736,
+    "medianAge": 37,
+    "race": {
+      "white": 92.4,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 4.9,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 40.4,
+      "someCollege": 18.2,
+      "associates": 10.6,
+      "bachelors": 9.5,
+      "graduate": 3.9
+    },
+    "medianIncome": 66250,
+    "meanIncome": 86275
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "55",
+    "name": "Columbia County, Wisconsin",
+    "population": 58322,
+    "medianAge": 43.3,
+    "race": {
+      "white": 92.1,
+      "black": 1.9,
+      "asian": 0.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.9,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 31.2,
+      "someCollege": 24.2,
+      "associates": 12.8,
+      "bachelors": 17.5,
+      "graduate": 8.1
+    },
+    "medianIncome": 82792,
+    "meanIncome": 98820
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "55",
+    "name": "Crawford County, Wisconsin",
+    "population": 16064,
+    "medianAge": 47.3,
+    "race": {
+      "white": 93.6,
+      "black": 1.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 3.7,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 41.2,
+      "someCollege": 19.7,
+      "associates": 13.2,
+      "bachelors": 12.5,
+      "graduate": 5.8
+    },
+    "medianIncome": 63496,
+    "meanIncome": 80220
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "55",
+    "name": "Dane County, Wisconsin",
+    "population": 564777,
+    "medianAge": 35.6,
+    "race": {
+      "white": 79,
+      "black": 5.1,
+      "asian": 6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 7.8,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 3.7,
+      "highSchool": 17.4,
+      "someCollege": 15.3,
+      "associates": 9.1,
+      "bachelors": 32.6,
+      "graduate": 21.9
+    },
+    "medianIncome": 88108,
+    "meanIncome": 117041
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "55",
+    "name": "Dodge County, Wisconsin",
+    "population": 88818,
+    "medianAge": 42.9,
+    "race": {
+      "white": 90,
+      "black": 2.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5.2,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 40.3,
+      "someCollege": 20.5,
+      "associates": 11.8,
+      "bachelors": 14.4,
+      "graduate": 5.6
+    },
+    "medianIncome": 73992,
+    "meanIncome": 88987
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "55",
+    "name": "Door County, Wisconsin",
+    "population": 30279,
+    "medianAge": 54.1,
+    "race": {
+      "white": 93.3,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 3.4,
+      "highSchool": 26.4,
+      "someCollege": 22.8,
+      "associates": 10.3,
+      "bachelors": 23.9,
+      "graduate": 13.2
+    },
+    "medianIncome": 71785,
+    "meanIncome": 99914
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "55",
+    "name": "Douglas County, Wisconsin",
+    "population": 44197,
+    "medianAge": 42.8,
+    "race": {
+      "white": 90.9,
+      "black": 1.3,
+      "asian": 1.1,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 29.5,
+      "someCollege": 22.7,
+      "associates": 14.6,
+      "bachelors": 20,
+      "graduate": 7.8
+    },
+    "medianIncome": 72579,
+    "meanIncome": 86804
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "55",
+    "name": "Dunn County, Wisconsin",
+    "population": 45349,
+    "medianAge": 35.8,
+    "race": {
+      "white": 91.9,
+      "black": 0.9,
+      "asian": 3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.3,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 33.4,
+      "someCollege": 19.4,
+      "associates": 12.4,
+      "bachelors": 18.3,
+      "graduate": 10.9
+    },
+    "medianIncome": 71785,
+    "meanIncome": 88965
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "55",
+    "name": "Eau Claire County, Wisconsin",
+    "population": 106328,
+    "medianAge": 35.8,
+    "race": {
+      "white": 88.8,
+      "black": 1.2,
+      "asian": 4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 4.5,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 4,
+      "highSchool": 26.1,
+      "someCollege": 19.1,
+      "associates": 15.1,
+      "bachelors": 23.6,
+      "graduate": 12.1
+    },
+    "medianIncome": 71834,
+    "meanIncome": 96941
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "55",
+    "name": "Florence County, Wisconsin",
+    "population": 4617,
+    "medianAge": 54.8,
+    "race": {
+      "white": 95.7,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.1,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 34.5,
+      "someCollege": 22.3,
+      "associates": 11.6,
+      "bachelors": 17.6,
+      "graduate": 5.6
+    },
+    "medianIncome": 62786,
+    "meanIncome": 78755
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "55",
+    "name": "Fond du Lac County, Wisconsin",
+    "population": 104053,
+    "medianAge": 41.9,
+    "race": {
+      "white": 88.8,
+      "black": 1.7,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 5.7,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 37.3,
+      "someCollege": 20.1,
+      "associates": 13,
+      "bachelors": 15,
+      "graduate": 7.6
+    },
+    "medianIncome": 73154,
+    "meanIncome": 91108
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "55",
+    "name": "Forest County, Wisconsin",
+    "population": 9261,
+    "medianAge": 49.1,
+    "race": {
+      "white": 78.4,
+      "black": 0.4,
+      "asian": 0.1,
+      "nativeAmerican": 11.6,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 7.1,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 37.9,
+      "someCollege": 24.9,
+      "associates": 12.4,
+      "bachelors": 11.9,
+      "graduate": 3.6
+    },
+    "medianIncome": 59727,
+    "meanIncome": 73293
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "55",
+    "name": "Grant County, Wisconsin",
+    "population": 51678,
+    "medianAge": 36.9,
+    "race": {
+      "white": 94.2,
+      "black": 1.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.4,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 34.5,
+      "someCollege": 19.6,
+      "associates": 14.2,
+      "bachelors": 15.2,
+      "graduate": 9.4
+    },
+    "medianIncome": 64349,
+    "meanIncome": 82821
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "55",
+    "name": "Green County, Wisconsin",
+    "population": 37036,
+    "medianAge": 43.1,
+    "race": {
+      "white": 94.1,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.6,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 34.6,
+      "someCollege": 20,
+      "associates": 12.3,
+      "bachelors": 18.6,
+      "graduate": 8.4
+    },
+    "medianIncome": 80248,
+    "meanIncome": 96605
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "55",
+    "name": "Green Lake County, Wisconsin",
+    "population": 19165,
+    "medianAge": 45.5,
+    "race": {
+      "white": 93.2,
+      "black": 0.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 1.5,
+      "twoOrMore": 3.5,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 36.6,
+      "someCollege": 22.8,
+      "associates": 9.6,
+      "bachelors": 14.7,
+      "graduate": 7.8
+    },
+    "medianIncome": 66917,
+    "meanIncome": 87958
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "55",
+    "name": "Iowa County, Wisconsin",
+    "population": 23832,
+    "medianAge": 43.7,
+    "race": {
+      "white": 93.4,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 32.5,
+      "someCollege": 22,
+      "associates": 12.4,
+      "bachelors": 19.3,
+      "graduate": 9.2
+    },
+    "medianIncome": 83372,
+    "meanIncome": 97487
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "55",
+    "name": "Iron County, Wisconsin",
+    "population": 6164,
+    "medianAge": 55.9,
+    "race": {
+      "white": 94.5,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.3,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 32.4,
+      "someCollege": 23.1,
+      "associates": 16.5,
+      "bachelors": 17.1,
+      "graduate": 6.3
+    },
+    "medianIncome": 59058,
+    "meanIncome": 73582
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "55",
+    "name": "Jackson County, Wisconsin",
+    "population": 20971,
+    "medianAge": 42.6,
+    "race": {
+      "white": 86.2,
+      "black": 1.7,
+      "asian": 0.6,
+      "nativeAmerican": 5,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 44.3,
+      "someCollege": 20.8,
+      "associates": 11.1,
+      "bachelors": 10.9,
+      "graduate": 5.4
+    },
+    "medianIncome": 65508,
+    "meanIncome": 82194
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "55",
+    "name": "Jefferson County, Wisconsin",
+    "population": 85867,
+    "medianAge": 41.3,
+    "race": {
+      "white": 89.8,
+      "black": 1.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.9,
+      "twoOrMore": 5.2,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 32.5,
+      "someCollege": 21.5,
+      "associates": 10.7,
+      "bachelors": 19.6,
+      "graduate": 8.5
+    },
+    "medianIncome": 80604,
+    "meanIncome": 97779
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "55",
+    "name": "Juneau County, Wisconsin",
+    "population": 26695,
+    "medianAge": 45.9,
+    "race": {
+      "white": 88.8,
+      "black": 2.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 6.1,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 40,
+      "someCollege": 21.9,
+      "associates": 11.5,
+      "bachelors": 11.4,
+      "graduate": 4.8
+    },
+    "medianIncome": 65150,
+    "meanIncome": 78183
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "55",
+    "name": "Kenosha County, Wisconsin",
+    "population": 168413,
+    "medianAge": 39.2,
+    "race": {
+      "white": 76.8,
+      "black": 6.2,
+      "asian": 1.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.1,
+      "twoOrMore": 11.7,
+      "hispanic": 14.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 28,
+      "someCollege": 22.5,
+      "associates": 10.3,
+      "bachelors": 19.7,
+      "graduate": 11.1
+    },
+    "medianIncome": 79412,
+    "meanIncome": 99465
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "55",
+    "name": "Kewaunee County, Wisconsin",
+    "population": 20621,
+    "medianAge": 44.4,
+    "race": {
+      "white": 93.6,
+      "black": 0.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.9,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 38.5,
+      "someCollege": 18.9,
+      "associates": 15.6,
+      "bachelors": 14,
+      "graduate": 6.5
+    },
+    "medianIncome": 80085,
+    "meanIncome": 94566
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "55",
+    "name": "La Crosse County, Wisconsin",
+    "population": 120262,
+    "medianAge": 37.1,
+    "race": {
+      "white": 88.8,
+      "black": 1.5,
+      "asian": 4.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.9,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 3.5,
+      "highSchool": 24.7,
+      "someCollege": 21.7,
+      "associates": 14,
+      "bachelors": 22.1,
+      "graduate": 14
+    },
+    "medianIncome": 70704,
+    "meanIncome": 95451
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "55",
+    "name": "Lafayette County, Wisconsin",
+    "population": 16788,
+    "medianAge": 40.9,
+    "race": {
+      "white": 93.4,
+      "black": 0.6,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.4,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 39.2,
+      "someCollege": 18.9,
+      "associates": 12.2,
+      "bachelors": 14.6,
+      "graduate": 6.1
+    },
+    "medianIncome": 72091,
+    "meanIncome": 86841
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "55",
+    "name": "Langlade County, Wisconsin",
+    "population": 19473,
+    "medianAge": 49,
+    "race": {
+      "white": 93,
+      "black": 0.5,
+      "asian": 0.2,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.2,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 42.6,
+      "someCollege": 20.3,
+      "associates": 10.7,
+      "bachelors": 12.1,
+      "graduate": 4.1
+    },
+    "medianIncome": 57258,
+    "meanIncome": 76439
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "55",
+    "name": "Lincoln County, Wisconsin",
+    "population": 28403,
+    "medianAge": 49.2,
+    "race": {
+      "white": 94.2,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.9,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 40.1,
+      "someCollege": 20.2,
+      "associates": 12.8,
+      "bachelors": 12.9,
+      "graduate": 6.6
+    },
+    "medianIncome": 67726,
+    "meanIncome": 83765
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "55",
+    "name": "Manitowoc County, Wisconsin",
+    "population": 81314,
+    "medianAge": 45,
+    "race": {
+      "white": 89.8,
+      "black": 0.8,
+      "asian": 2.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5.4,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 37.4,
+      "someCollege": 20.5,
+      "associates": 12.2,
+      "bachelors": 15.7,
+      "graduate": 6.5
+    },
+    "medianIncome": 68611,
+    "meanIncome": 86730
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "55",
+    "name": "Marathon County, Wisconsin",
+    "population": 138067,
+    "medianAge": 41.2,
+    "race": {
+      "white": 87.9,
+      "black": 0.5,
+      "asian": 5.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.5,
+      "twoOrMore": 4.4,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 32.9,
+      "someCollege": 19.7,
+      "associates": 13.2,
+      "bachelors": 19,
+      "graduate": 8.3
+    },
+    "medianIncome": 76185,
+    "meanIncome": 95540
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "55",
+    "name": "Marinette County, Wisconsin",
+    "population": 41907,
+    "medianAge": 48.8,
+    "race": {
+      "white": 94.7,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.5,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 37.4,
+      "someCollege": 22.4,
+      "associates": 13.9,
+      "bachelors": 13.4,
+      "graduate": 6.1
+    },
+    "medianIncome": 63401,
+    "meanIncome": 80117
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "55",
+    "name": "Marquette County, Wisconsin",
+    "population": 15706,
+    "medianAge": 50.5,
+    "race": {
+      "white": 93.9,
+      "black": 0.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 3.3,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 43.6,
+      "someCollege": 23.2,
+      "associates": 9.9,
+      "bachelors": 10.9,
+      "graduate": 4.3
+    },
+    "medianIncome": 63471,
+    "meanIncome": 79741
+  },
+  {
+    "countyFips": "078",
+    "stateFips": "55",
+    "name": "Menominee County, Wisconsin",
+    "population": 4256,
+    "medianAge": 33.8,
+    "race": {
+      "white": 12.4,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 81.4,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 45.4,
+      "someCollege": 20.7,
+      "associates": 9.5,
+      "bachelors": 12.5,
+      "graduate": 7.1
+    },
+    "medianIncome": 59528,
+    "meanIncome": 72396
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "55",
+    "name": "Milwaukee County, Wisconsin",
+    "population": 927656,
+    "medianAge": 35.4,
+    "race": {
+      "white": 52.4,
+      "black": 26.1,
+      "asian": 4.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 10.7,
+      "hispanic": 16.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 28,
+      "someCollege": 19.6,
+      "associates": 8.1,
+      "bachelors": 21.8,
+      "graduate": 12.1
+    },
+    "medianIncome": 62118,
+    "meanIncome": 86052
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "55",
+    "name": "Monroe County, Wisconsin",
+    "population": 46169,
+    "medianAge": 39.6,
+    "race": {
+      "white": 90.7,
+      "black": 1.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 4.1,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 36.3,
+      "someCollege": 22.3,
+      "associates": 12.2,
+      "bachelors": 14,
+      "graduate": 6
+    },
+    "medianIncome": 68213,
+    "meanIncome": 85024
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "55",
+    "name": "Oconto County, Wisconsin",
+    "population": 39329,
+    "medianAge": 47.4,
+    "race": {
+      "white": 94.1,
+      "black": 0.1,
+      "asian": 0.4,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.4,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 40.4,
+      "someCollege": 19.7,
+      "associates": 14.3,
+      "bachelors": 13.6,
+      "graduate": 5.1
+    },
+    "medianIncome": 75886,
+    "meanIncome": 90916
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "55",
+    "name": "Oneida County, Wisconsin",
+    "population": 38007,
+    "medianAge": 52.2,
+    "race": {
+      "white": 94,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.8,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 29.4,
+      "someCollege": 25.3,
+      "associates": 12.6,
+      "bachelors": 17.6,
+      "graduate": 10.8
+    },
+    "medianIncome": 69621,
+    "meanIncome": 89854
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "55",
+    "name": "Outagamie County, Wisconsin",
+    "population": 191537,
+    "medianAge": 38.7,
+    "race": {
+      "white": 86.6,
+      "black": 1.6,
+      "asian": 3.6,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.1,
+      "other": 1.7,
+      "twoOrMore": 5.4,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 31,
+      "someCollege": 18.4,
+      "associates": 13.4,
+      "bachelors": 23,
+      "graduate": 9
+    },
+    "medianIncome": 82857,
+    "meanIncome": 110546
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "55",
+    "name": "Ozaukee County, Wisconsin",
+    "population": 92345,
+    "medianAge": 44,
+    "race": {
+      "white": 90.8,
+      "black": 1.5,
+      "asian": 2.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.6,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 2.2,
+      "highSchool": 21.6,
+      "someCollege": 17.9,
+      "associates": 8,
+      "bachelors": 31.3,
+      "graduate": 19.1
+    },
+    "medianIncome": 96734,
+    "meanIncome": 136887
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "55",
+    "name": "Pepin County, Wisconsin",
+    "population": 7372,
+    "medianAge": 46.3,
+    "race": {
+      "white": 95.6,
+      "black": 0.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.3,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 37.3,
+      "someCollege": 20,
+      "associates": 14.2,
+      "bachelors": 17,
+      "graduate": 6.7
+    },
+    "medianIncome": 74536,
+    "meanIncome": 95774
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "55",
+    "name": "Pierce County, Wisconsin",
+    "population": 42351,
+    "medianAge": 38.4,
+    "race": {
+      "white": 92.5,
+      "black": 0.4,
+      "asian": 1.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 4.4,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 30.8,
+      "someCollege": 20.3,
+      "associates": 12.5,
+      "bachelors": 21,
+      "graduate": 11
+    },
+    "medianIncome": 88802,
+    "meanIncome": 109835
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "55",
+    "name": "Polk County, Wisconsin",
+    "population": 45327,
+    "medianAge": 46.5,
+    "race": {
+      "white": 94.2,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 34,
+      "someCollege": 22.2,
+      "associates": 13.7,
+      "bachelors": 16.9,
+      "graduate": 6.8
+    },
+    "medianIncome": 76208,
+    "meanIncome": 92480
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "55",
+    "name": "Portage County, Wisconsin",
+    "population": 70375,
+    "medianAge": 38.1,
+    "race": {
+      "white": 90.5,
+      "black": 0.8,
+      "asian": 2.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 3.8,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 31.1,
+      "someCollege": 17,
+      "associates": 13,
+      "bachelors": 23.6,
+      "graduate": 10.1
+    },
+    "medianIncome": 73284,
+    "meanIncome": 92252
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "55",
+    "name": "Price County, Wisconsin",
+    "population": 14077,
+    "medianAge": 52.5,
+    "race": {
+      "white": 94.1,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.8,
+      "other": 0.6,
+      "twoOrMore": 3.5,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 42.6,
+      "someCollege": 19.8,
+      "associates": 13.9,
+      "bachelors": 12,
+      "graduate": 5.1
+    },
+    "medianIncome": 58720,
+    "meanIncome": 73497
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "55",
+    "name": "Racine County, Wisconsin",
+    "population": 196888,
+    "medianAge": 40.5,
+    "race": {
+      "white": 74.2,
+      "black": 10.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.4,
+      "twoOrMore": 10.1,
+      "hispanic": 14.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 29.9,
+      "someCollege": 22.7,
+      "associates": 11,
+      "bachelors": 18.8,
+      "graduate": 9.2
+    },
+    "medianIncome": 75331,
+    "meanIncome": 96943
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "55",
+    "name": "Richland County, Wisconsin",
+    "population": 17229,
+    "medianAge": 46.4,
+    "race": {
+      "white": 93.4,
+      "black": 0.9,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 2.5,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 42.1,
+      "someCollege": 18,
+      "associates": 11.3,
+      "bachelors": 14.6,
+      "graduate": 6.1
+    },
+    "medianIncome": 62649,
+    "meanIncome": 80217
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "55",
+    "name": "Rock County, Wisconsin",
+    "population": 163944,
+    "medianAge": 40.1,
+    "race": {
+      "white": 82.3,
+      "black": 4.7,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 8.2,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 33.3,
+      "someCollege": 22,
+      "associates": 11.6,
+      "bachelors": 17.7,
+      "graduate": 8
+    },
+    "medianIncome": 74390,
+    "meanIncome": 89673
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "55",
+    "name": "Rusk County, Wisconsin",
+    "population": 14146,
+    "medianAge": 49.1,
+    "race": {
+      "white": 94.3,
+      "black": 0.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.5,
+      "twoOrMore": 3.5,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 43.4,
+      "someCollege": 19.6,
+      "associates": 13.1,
+      "bachelors": 12.3,
+      "graduate": 4
+    },
+    "medianIncome": 58322,
+    "meanIncome": 72443
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "55",
+    "name": "St. Croix County, Wisconsin",
+    "population": 94819,
+    "medianAge": 39.8,
+    "race": {
+      "white": 93,
+      "black": 0.7,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.2,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 3.7,
+      "highSchool": 24.8,
+      "someCollege": 19.4,
+      "associates": 12.7,
+      "bachelors": 27.6,
+      "graduate": 11.8
+    },
+    "medianIncome": 102482,
+    "meanIncome": 124042
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "55",
+    "name": "Sauk County, Wisconsin",
+    "population": 65759,
+    "medianAge": 41.3,
+    "race": {
+      "white": 89,
+      "black": 0.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 6,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 33.1,
+      "someCollege": 20.8,
+      "associates": 12.9,
+      "bachelors": 18.6,
+      "graduate": 7.9
+    },
+    "medianIncome": 77648,
+    "meanIncome": 95062
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "55",
+    "name": "Sawyer County, Wisconsin",
+    "population": 18243,
+    "medianAge": 52.2,
+    "race": {
+      "white": 77.9,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 14.6,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 5.5,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 32.5,
+      "someCollege": 22.2,
+      "associates": 11,
+      "bachelors": 17.5,
+      "graduate": 9.7
+    },
+    "medianIncome": 59055,
+    "meanIncome": 79980
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "55",
+    "name": "Shawano County, Wisconsin",
+    "population": 40927,
+    "medianAge": 45.5,
+    "race": {
+      "white": 86.1,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 6.8,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5.4,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 43.3,
+      "someCollege": 18,
+      "associates": 12.9,
+      "bachelors": 12.8,
+      "graduate": 5.9
+    },
+    "medianIncome": 67032,
+    "meanIncome": 85534
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "55",
+    "name": "Sheboygan County, Wisconsin",
+    "population": 117783,
+    "medianAge": 41.8,
+    "race": {
+      "white": 84.3,
+      "black": 2.1,
+      "asian": 5.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.5,
+      "twoOrMore": 5.9,
+      "hispanic": 7.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 33.6,
+      "someCollege": 21.1,
+      "associates": 11.5,
+      "bachelors": 18.4,
+      "graduate": 8.9
+    },
+    "medianIncome": 71898,
+    "meanIncome": 92593
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "55",
+    "name": "Taylor County, Wisconsin",
+    "population": 19972,
+    "medianAge": 44.1,
+    "race": {
+      "white": 95.1,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 3.5,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 43.9,
+      "someCollege": 18.6,
+      "associates": 11,
+      "bachelors": 11.9,
+      "graduate": 4.8
+    },
+    "medianIncome": 63142,
+    "meanIncome": 81456
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "55",
+    "name": "Trempealeau County, Wisconsin",
+    "population": 30786,
+    "medianAge": 39.8,
+    "race": {
+      "white": 87.8,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.2,
+      "other": 6.9,
+      "twoOrMore": 3.5,
+      "hispanic": 12.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 37.9,
+      "someCollege": 18.7,
+      "associates": 14.8,
+      "bachelors": 13.5,
+      "graduate": 6.7
+    },
+    "medianIncome": 71295,
+    "meanIncome": 89298
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "55",
+    "name": "Vernon County, Wisconsin",
+    "population": 30915,
+    "medianAge": 41.5,
+    "race": {
+      "white": 95,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.6,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 34.8,
+      "someCollege": 18.6,
+      "associates": 12.2,
+      "bachelors": 16.3,
+      "graduate": 8.6
+    },
+    "medianIncome": 69556,
+    "meanIncome": 86971
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "55",
+    "name": "Vilas County, Wisconsin",
+    "population": 23410,
+    "medianAge": 55.5,
+    "race": {
+      "white": 85.9,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 8.5,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.4,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 31.1,
+      "someCollege": 23.3,
+      "associates": 11.2,
+      "bachelors": 19.7,
+      "graduate": 10.8
+    },
+    "medianIncome": 67132,
+    "meanIncome": 89265
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "55",
+    "name": "Walworth County, Wisconsin",
+    "population": 105447,
+    "medianAge": 41.1,
+    "race": {
+      "white": 87.1,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 7.3,
+      "hispanic": 11.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 29.3,
+      "someCollege": 21.5,
+      "associates": 9.5,
+      "bachelors": 21.5,
+      "graduate": 10.8
+    },
+    "medianIncome": 77359,
+    "meanIncome": 104608
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "55",
+    "name": "Washburn County, Wisconsin",
+    "population": 16749,
+    "medianAge": 52.4,
+    "race": {
+      "white": 93.4,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.9,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 35.7,
+      "someCollege": 22.2,
+      "associates": 12.4,
+      "bachelors": 16.9,
+      "graduate": 6.7
+    },
+    "medianIncome": 61270,
+    "meanIncome": 79948
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "55",
+    "name": "Washington County, Wisconsin",
+    "population": 137320,
+    "medianAge": 43.5,
+    "race": {
+      "white": 92.1,
+      "black": 1.6,
+      "asian": 1.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.8,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.4,
+      "highSchool": 28.5,
+      "someCollege": 20.1,
+      "associates": 12.2,
+      "bachelors": 24.1,
+      "graduate": 10.7
+    },
+    "medianIncome": 95851,
+    "meanIncome": 115147
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "55",
+    "name": "Waukesha County, Wisconsin",
+    "population": 409040,
+    "medianAge": 43.3,
+    "race": {
+      "white": 87.9,
+      "black": 1.5,
+      "asian": 3.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5.2,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 2.9,
+      "highSchool": 20.6,
+      "someCollege": 18.7,
+      "associates": 9.9,
+      "bachelors": 31.7,
+      "graduate": 16.3
+    },
+    "medianIncome": 104100,
+    "meanIncome": 136213
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "55",
+    "name": "Waupaca County, Wisconsin",
+    "population": 51714,
+    "medianAge": 45.4,
+    "race": {
+      "white": 93.6,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3.9,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 43,
+      "someCollege": 18.4,
+      "associates": 10.4,
+      "bachelors": 15,
+      "graduate": 5.2
+    },
+    "medianIncome": 71189,
+    "meanIncome": 91598
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "55",
+    "name": "Waushara County, Wisconsin",
+    "population": 24752,
+    "medianAge": 49.9,
+    "race": {
+      "white": 89.7,
+      "black": 1.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 4.1,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 42,
+      "someCollege": 20.4,
+      "associates": 10.3,
+      "bachelors": 11.8,
+      "graduate": 5.5
+    },
+    "medianIncome": 64968,
+    "meanIncome": 82262
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "55",
+    "name": "Winnebago County, Wisconsin",
+    "population": 171357,
+    "medianAge": 38.4,
+    "race": {
+      "white": 87.8,
+      "black": 2.6,
+      "asian": 3.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 1.2,
+      "twoOrMore": 4.6,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 31.7,
+      "someCollege": 19.7,
+      "associates": 12,
+      "bachelors": 21.4,
+      "graduate": 9.6
+    },
+    "medianIncome": 72873,
+    "meanIncome": 92895
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "55",
+    "name": "Wood County, Wisconsin",
+    "population": 74039,
+    "medianAge": 43.9,
+    "race": {
+      "white": 92,
+      "black": 0.8,
+      "asian": 1.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.1,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 38.3,
+      "someCollege": 19.5,
+      "associates": 14.3,
+      "bachelors": 14.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 66417,
+    "meanIncome": 86752
+  }
+]

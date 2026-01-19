@@ -1,0 +1,2243 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "26",
+    "name": "Alcona County, Michigan",
+    "population": 10310,
+    "medianAge": 59.7,
+    "race": {
+      "white": 94.3,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.6,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 37.6,
+      "someCollege": 23.5,
+      "associates": 11.1,
+      "bachelors": 12.6,
+      "graduate": 8.1
+    },
+    "medianIncome": 53568,
+    "meanIncome": 70723
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "26",
+    "name": "Alger County, Michigan",
+    "population": 8813,
+    "medianAge": 48.8,
+    "race": {
+      "white": 82.1,
+      "black": 7.9,
+      "asian": 0.3,
+      "nativeAmerican": 2.7,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.8,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 41.1,
+      "someCollege": 22.4,
+      "associates": 9.8,
+      "bachelors": 13.8,
+      "graduate": 6.4
+    },
+    "medianIncome": 59406,
+    "meanIncome": 69972
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "26",
+    "name": "Allegan County, Michigan",
+    "population": 120913,
+    "medianAge": 40.8,
+    "race": {
+      "white": 89.3,
+      "black": 1.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 6.5,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 36.3,
+      "someCollege": 21.4,
+      "associates": 8.2,
+      "bachelors": 17.7,
+      "graduate": 8.4
+    },
+    "medianIncome": 80255,
+    "meanIncome": 99705
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "26",
+    "name": "Alpena County, Michigan",
+    "population": 28908,
+    "medianAge": 47.6,
+    "race": {
+      "white": 93.3,
+      "black": 0.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.9,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 36.1,
+      "someCollege": 24.7,
+      "associates": 14.6,
+      "bachelors": 11.3,
+      "graduate": 6.5
+    },
+    "medianIncome": 51909,
+    "meanIncome": 72874
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "26",
+    "name": "Antrim County, Michigan",
+    "population": 23876,
+    "medianAge": 51.8,
+    "race": {
+      "white": 93.9,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 29.7,
+      "someCollege": 21.2,
+      "associates": 9.2,
+      "bachelors": 21.1,
+      "graduate": 13.2
+    },
+    "medianIncome": 71421,
+    "meanIncome": 91809
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "26",
+    "name": "Arenac County, Michigan",
+    "population": 15054,
+    "medianAge": 50.1,
+    "race": {
+      "white": 93.9,
+      "black": 0.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.4,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 36.1,
+      "someCollege": 24.9,
+      "associates": 11.8,
+      "bachelors": 10.5,
+      "graduate": 5.3
+    },
+    "medianIncome": 56989,
+    "meanIncome": 69907
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "26",
+    "name": "Baraga County, Michigan",
+    "population": 8249,
+    "medianAge": 46.2,
+    "race": {
+      "white": 72.6,
+      "black": 6.8,
+      "asian": 0.6,
+      "nativeAmerican": 12.2,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 7.4,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 39.1,
+      "someCollege": 27.5,
+      "associates": 9.4,
+      "bachelors": 10.7,
+      "graduate": 5.4
+    },
+    "medianIncome": 55117,
+    "meanIncome": 71095
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "26",
+    "name": "Barry County, Michigan",
+    "population": 62982,
+    "medianAge": 42,
+    "race": {
+      "white": 93.6,
+      "black": 0.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 36.1,
+      "someCollege": 23.3,
+      "associates": 9.4,
+      "bachelors": 16.6,
+      "graduate": 7.7
+    },
+    "medianIncome": 77873,
+    "meanIncome": 100618
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "26",
+    "name": "Bay County, Michigan",
+    "population": 103235,
+    "medianAge": 43.8,
+    "race": {
+      "white": 91.9,
+      "black": 1.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 5.5,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 33.7,
+      "someCollege": 25,
+      "associates": 11.7,
+      "bachelors": 14.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 60523,
+    "meanIncome": 77994
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "26",
+    "name": "Benzie County, Michigan",
+    "population": 18177,
+    "medianAge": 50.6,
+    "race": {
+      "white": 92.1,
+      "black": 0.5,
+      "asian": 0.9,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 3.7,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 26.7,
+      "someCollege": 22.8,
+      "associates": 10,
+      "bachelors": 21.2,
+      "graduate": 13.2
+    },
+    "medianIncome": 72603,
+    "meanIncome": 96668
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "26",
+    "name": "Berrien County, Michigan",
+    "population": 153411,
+    "medianAge": 42.6,
+    "race": {
+      "white": 75,
+      "black": 13.5,
+      "asian": 1.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 6.8,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 27.9,
+      "someCollege": 23.1,
+      "associates": 11,
+      "bachelors": 18,
+      "graduate": 12.2
+    },
+    "medianIncome": 63152,
+    "meanIncome": 88982
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "26",
+    "name": "Branch County, Michigan",
+    "population": 44914,
+    "medianAge": 40.8,
+    "race": {
+      "white": 89.3,
+      "black": 1.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 6,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 39,
+      "someCollege": 23.1,
+      "associates": 9.6,
+      "bachelors": 12,
+      "graduate": 4.9
+    },
+    "medianIncome": 61958,
+    "meanIncome": 78604
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "26",
+    "name": "Calhoun County, Michigan",
+    "population": 133846,
+    "medianAge": 40.2,
+    "race": {
+      "white": 77.4,
+      "black": 10.1,
+      "asian": 2.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 7.9,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 35.1,
+      "someCollege": 23.3,
+      "associates": 10.2,
+      "bachelors": 14.5,
+      "graduate": 7.7
+    },
+    "medianIncome": 60385,
+    "meanIncome": 80429
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "26",
+    "name": "Cass County, Michigan",
+    "population": 51606,
+    "medianAge": 45.5,
+    "race": {
+      "white": 86.1,
+      "black": 4.3,
+      "asian": 0.9,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 6.1,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 34,
+      "someCollege": 23.3,
+      "associates": 11.3,
+      "bachelors": 13.4,
+      "graduate": 8.2
+    },
+    "medianIncome": 68011,
+    "meanIncome": 94695
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "26",
+    "name": "Charlevoix County, Michigan",
+    "population": 26143,
+    "medianAge": 50,
+    "race": {
+      "white": 93.7,
+      "black": 0.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.9,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 27.6,
+      "someCollege": 22.8,
+      "associates": 11.1,
+      "bachelors": 20.5,
+      "graduate": 13.4
+    },
+    "medianIncome": 76495,
+    "meanIncome": 102533
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "26",
+    "name": "Cheboygan County, Michigan",
+    "population": 25778,
+    "medianAge": 51.9,
+    "race": {
+      "white": 90.3,
+      "black": 0.9,
+      "asian": 0.6,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 5.2,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 34.7,
+      "someCollege": 21.2,
+      "associates": 10.9,
+      "bachelors": 13.5,
+      "graduate": 9.5
+    },
+    "medianIncome": 61619,
+    "meanIncome": 79606
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "26",
+    "name": "Chippewa County, Michigan",
+    "population": 36448,
+    "medianAge": 41.3,
+    "race": {
+      "white": 68,
+      "black": 5.8,
+      "asian": 0.9,
+      "nativeAmerican": 13.1,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 11.1,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 36.3,
+      "someCollege": 26.1,
+      "associates": 8.6,
+      "bachelors": 13.5,
+      "graduate": 8.3
+    },
+    "medianIncome": 60631,
+    "meanIncome": 77181
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "26",
+    "name": "Clare County, Michigan",
+    "population": 31109,
+    "medianAge": 48.3,
+    "race": {
+      "white": 94.4,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.5,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 40.8,
+      "someCollege": 24.1,
+      "associates": 10.3,
+      "bachelors": 7.7,
+      "graduate": 5.3
+    },
+    "medianIncome": 49805,
+    "meanIncome": 66300
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "26",
+    "name": "Clinton County, Michigan",
+    "population": 79419,
+    "medianAge": 41.8,
+    "race": {
+      "white": 89.6,
+      "black": 1.7,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.5,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 24.5,
+      "someCollege": 24.2,
+      "associates": 12.5,
+      "bachelors": 21.1,
+      "graduate": 13.1
+    },
+    "medianIncome": 85928,
+    "meanIncome": 110367
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "26",
+    "name": "Crawford County, Michigan",
+    "population": 13271,
+    "medianAge": 51.5,
+    "race": {
+      "white": 93.2,
+      "black": 0.3,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.2,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 33.5,
+      "someCollege": 25.5,
+      "associates": 12.3,
+      "bachelors": 11.9,
+      "graduate": 8.3
+    },
+    "medianIncome": 58614,
+    "meanIncome": 68771
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "26",
+    "name": "Delta County, Michigan",
+    "population": 36829,
+    "medianAge": 47.8,
+    "race": {
+      "white": 90.7,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 6.7,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 35.1,
+      "someCollege": 22.6,
+      "associates": 14.7,
+      "bachelors": 14.3,
+      "graduate": 5.7
+    },
+    "medianIncome": 54829,
+    "meanIncome": 77286
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "26",
+    "name": "Dickinson County, Michigan",
+    "population": 25940,
+    "medianAge": 47.4,
+    "race": {
+      "white": 93.3,
+      "black": 0.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 0.8,
+      "twoOrMore": 3.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 33.5,
+      "someCollege": 25.3,
+      "associates": 12.6,
+      "bachelors": 17,
+      "graduate": 7.4
+    },
+    "medianIncome": 61882,
+    "meanIncome": 79343
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "26",
+    "name": "Eaton County, Michigan",
+    "population": 109000,
+    "medianAge": 41.2,
+    "race": {
+      "white": 82.5,
+      "black": 7,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 6.3,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 27.4,
+      "someCollege": 26.1,
+      "associates": 10.6,
+      "bachelors": 19.9,
+      "graduate": 10.5
+    },
+    "medianIncome": 78025,
+    "meanIncome": 95377
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "26",
+    "name": "Emmet County, Michigan",
+    "population": 34159,
+    "medianAge": 46.4,
+    "race": {
+      "white": 90.4,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 5.8,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 4,
+      "highSchool": 24.6,
+      "someCollege": 21.8,
+      "associates": 9.3,
+      "bachelors": 23.1,
+      "graduate": 17.2
+    },
+    "medianIncome": 73724,
+    "meanIncome": 104840
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "26",
+    "name": "Genesee County, Michigan",
+    "population": 404087,
+    "medianAge": 40.6,
+    "race": {
+      "white": 72.6,
+      "black": 19.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.7,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 31.6,
+      "someCollege": 25.4,
+      "associates": 11.1,
+      "bachelors": 14.9,
+      "graduate": 8
+    },
+    "medianIncome": 60673,
+    "meanIncome": 82790
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "26",
+    "name": "Gladwin County, Michigan",
+    "population": 25543,
+    "medianAge": 50.8,
+    "race": {
+      "white": 94.4,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.8,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 37.7,
+      "someCollege": 25,
+      "associates": 10.8,
+      "bachelors": 10.8,
+      "graduate": 4.7
+    },
+    "medianIncome": 55576,
+    "meanIncome": 74438
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "26",
+    "name": "Gogebic County, Michigan",
+    "population": 14348,
+    "medianAge": 51.3,
+    "race": {
+      "white": 92,
+      "black": 0.9,
+      "asian": 0.6,
+      "nativeAmerican": 2.5,
+      "pacificIslander": 0.2,
+      "other": 0.3,
+      "twoOrMore": 3.6,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 32.3,
+      "someCollege": 25.5,
+      "associates": 16.2,
+      "bachelors": 14.1,
+      "graduate": 7.8
+    },
+    "medianIncome": 49672,
+    "meanIncome": 67756
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "26",
+    "name": "Grand Traverse County, Michigan",
+    "population": 95757,
+    "medianAge": 43.1,
+    "race": {
+      "white": 92.5,
+      "black": 0.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.6,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 21.7,
+      "someCollege": 22.4,
+      "associates": 10.8,
+      "bachelors": 23.5,
+      "graduate": 16.7
+    },
+    "medianIncome": 79486,
+    "meanIncome": 102115
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "26",
+    "name": "Gratiot County, Michigan",
+    "population": 41478,
+    "medianAge": 39.7,
+    "race": {
+      "white": 87.4,
+      "black": 5.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.9,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 40.2,
+      "someCollege": 23.9,
+      "associates": 8.8,
+      "bachelors": 13.1,
+      "graduate": 5.9
+    },
+    "medianIncome": 61128,
+    "meanIncome": 81865
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "26",
+    "name": "Hillsdale County, Michigan",
+    "population": 45658,
+    "medianAge": 42.8,
+    "race": {
+      "white": 94.4,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.9,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 40.6,
+      "someCollege": 20.8,
+      "associates": 8.5,
+      "bachelors": 12.2,
+      "graduate": 8.4
+    },
+    "medianIncome": 60869,
+    "meanIncome": 78710
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "26",
+    "name": "Houghton County, Michigan",
+    "population": 37428,
+    "medianAge": 32.3,
+    "race": {
+      "white": 91.8,
+      "black": 1.1,
+      "asian": 2.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.5,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 29,
+      "someCollege": 20.5,
+      "associates": 8.5,
+      "bachelors": 20.5,
+      "graduate": 16.1
+    },
+    "medianIncome": 56573,
+    "meanIncome": 77744
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "26",
+    "name": "Huron County, Michigan",
+    "population": 31258,
+    "medianAge": 49.4,
+    "race": {
+      "white": 94.3,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.2,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 41.1,
+      "someCollege": 21.7,
+      "associates": 11.5,
+      "bachelors": 11.8,
+      "graduate": 5.8
+    },
+    "medianIncome": 56963,
+    "meanIncome": 74244
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "26",
+    "name": "Ingham County, Michigan",
+    "population": 282015,
+    "medianAge": 33.3,
+    "race": {
+      "white": 70.4,
+      "black": 11.8,
+      "asian": 6.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 9.1,
+      "hispanic": 8.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 21.2,
+      "someCollege": 21.8,
+      "associates": 9.2,
+      "bachelors": 22.6,
+      "graduate": 18.7
+    },
+    "medianIncome": 64354,
+    "meanIncome": 88247
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "26",
+    "name": "Ionia County, Michigan",
+    "population": 66706,
+    "medianAge": 38.8,
+    "race": {
+      "white": 87.6,
+      "black": 3.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 6.3,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 38.2,
+      "someCollege": 25.1,
+      "associates": 10,
+      "bachelors": 13,
+      "graduate": 5.1
+    },
+    "medianIncome": 73436,
+    "meanIncome": 84553
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "26",
+    "name": "Iosco County, Michigan",
+    "population": 25333,
+    "medianAge": 53.5,
+    "race": {
+      "white": 92.4,
+      "black": 0.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.1,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 36.9,
+      "someCollege": 24.6,
+      "associates": 10,
+      "bachelors": 10.6,
+      "graduate": 7
+    },
+    "medianIncome": 47777,
+    "meanIncome": 63001
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "26",
+    "name": "Iron County, Michigan",
+    "population": 11650,
+    "medianAge": 53.2,
+    "race": {
+      "white": 93.3,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 41,
+      "someCollege": 20.8,
+      "associates": 11,
+      "bachelors": 13.8,
+      "graduate": 6.8
+    },
+    "medianIncome": 53614,
+    "meanIncome": 67747
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "26",
+    "name": "Isabella County, Michigan",
+    "population": 64475,
+    "medianAge": 29.8,
+    "race": {
+      "white": 85.3,
+      "black": 2.8,
+      "asian": 1.6,
+      "nativeAmerican": 3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 5.8,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 30.4,
+      "someCollege": 21.3,
+      "associates": 9.4,
+      "bachelors": 17.1,
+      "graduate": 13.7
+    },
+    "medianIncome": 53759,
+    "meanIncome": 72425
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "26",
+    "name": "Jackson County, Michigan",
+    "population": 160187,
+    "medianAge": 41.2,
+    "race": {
+      "white": 83.9,
+      "black": 7.7,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 6.6,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 35.7,
+      "someCollege": 23.5,
+      "associates": 10.6,
+      "bachelors": 15.4,
+      "graduate": 7.6
+    },
+    "medianIncome": 65004,
+    "meanIncome": 86795
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "26",
+    "name": "Kalamazoo County, Michigan",
+    "population": 261437,
+    "medianAge": 34.9,
+    "race": {
+      "white": 76.8,
+      "black": 11,
+      "asian": 2.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 7.3,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 22.5,
+      "someCollege": 21.8,
+      "associates": 9.2,
+      "bachelors": 24.5,
+      "graduate": 16.3
+    },
+    "medianIncome": 70525,
+    "meanIncome": 96937
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "26",
+    "name": "Kalkaska County, Michigan",
+    "population": 18116,
+    "medianAge": 44,
+    "race": {
+      "white": 93.8,
+      "black": 0.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.6,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 38.2,
+      "someCollege": 24.7,
+      "associates": 8.7,
+      "bachelors": 11.4,
+      "graduate": 6.9
+    },
+    "medianIncome": 60365,
+    "meanIncome": 76261
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "26",
+    "name": "Kent County, Michigan",
+    "population": 658844,
+    "medianAge": 35.7,
+    "race": {
+      "white": 73.9,
+      "black": 9.5,
+      "asian": 3.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 9.7,
+      "hispanic": 11.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 23.5,
+      "someCollege": 20,
+      "associates": 9.1,
+      "bachelors": 25.5,
+      "graduate": 14.1
+    },
+    "medianIncome": 80390,
+    "meanIncome": 105864
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "26",
+    "name": "Keweenaw County, Michigan",
+    "population": 2106,
+    "medianAge": 56.7,
+    "race": {
+      "white": 96,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.6,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 2.5,
+      "highSchool": 27,
+      "someCollege": 17.7,
+      "associates": 9.3,
+      "bachelors": 24.5,
+      "graduate": 19
+    },
+    "medianIncome": 53893,
+    "meanIncome": 88295
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "26",
+    "name": "Lake County, Michigan",
+    "population": 12393,
+    "medianAge": 50.3,
+    "race": {
+      "white": 80.1,
+      "black": 8.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 7.7,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 40.2,
+      "someCollege": 23.2,
+      "associates": 6.7,
+      "bachelors": 9.3,
+      "graduate": 3.2
+    },
+    "medianIncome": 49680,
+    "meanIncome": 61941
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "26",
+    "name": "Lapeer County, Michigan",
+    "population": 88703,
+    "medianAge": 44.6,
+    "race": {
+      "white": 91.6,
+      "black": 1.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.1,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 37,
+      "someCollege": 24.8,
+      "associates": 10.7,
+      "bachelors": 13.3,
+      "graduate": 6.5
+    },
+    "medianIncome": 76228,
+    "meanIncome": 95711
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "26",
+    "name": "Leelanau County, Michigan",
+    "population": 22607,
+    "medianAge": 55.3,
+    "race": {
+      "white": 90.4,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 3.1,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 4.6,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 3.4,
+      "highSchool": 18.6,
+      "someCollege": 19.2,
+      "associates": 8.9,
+      "bachelors": 29.3,
+      "graduate": 20.6
+    },
+    "medianIncome": 91943,
+    "meanIncome": 127724
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "26",
+    "name": "Lenawee County, Michigan",
+    "population": 98823,
+    "medianAge": 42.2,
+    "race": {
+      "white": 89,
+      "black": 2.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6.8,
+      "hispanic": 8.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 35.9,
+      "someCollege": 22.9,
+      "associates": 10.4,
+      "bachelors": 14.3,
+      "graduate": 8
+    },
+    "medianIncome": 67013,
+    "meanIncome": 83678
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "26",
+    "name": "Livingston County, Michigan",
+    "population": 195143,
+    "medianAge": 43.8,
+    "race": {
+      "white": 94.1,
+      "black": 0.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.6,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 3.8,
+      "highSchool": 24.6,
+      "someCollege": 22.4,
+      "associates": 10,
+      "bachelors": 26.5,
+      "graduate": 12.7
+    },
+    "medianIncome": 101315,
+    "meanIncome": 126515
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "26",
+    "name": "Luce County, Michigan",
+    "population": 6325,
+    "medianAge": 44.6,
+    "race": {
+      "white": 77.6,
+      "black": 8.2,
+      "asian": 0.3,
+      "nativeAmerican": 7.4,
+      "pacificIslander": 0.2,
+      "other": 0.3,
+      "twoOrMore": 5.9,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 40.4,
+      "someCollege": 20.2,
+      "associates": 12.8,
+      "bachelors": 10.5,
+      "graduate": 8.8
+    },
+    "medianIncome": 54338,
+    "meanIncome": 69918
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "26",
+    "name": "Mackinac County, Michigan",
+    "population": 10865,
+    "medianAge": 53.3,
+    "race": {
+      "white": 72,
+      "black": 4.2,
+      "asian": 1,
+      "nativeAmerican": 14.1,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 7.6,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 37.9,
+      "someCollege": 23.5,
+      "associates": 7.3,
+      "bachelors": 15,
+      "graduate": 8.5
+    },
+    "medianIncome": 58598,
+    "meanIncome": 74438
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "26",
+    "name": "Macomb County, Michigan",
+    "population": 877624,
+    "medianAge": 41.1,
+    "race": {
+      "white": 76.2,
+      "black": 12.5,
+      "asian": 4.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1,
+      "twoOrMore": 5.3,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 29,
+      "someCollege": 23.6,
+      "associates": 11,
+      "bachelors": 17.5,
+      "graduate": 9.6
+    },
+    "medianIncome": 76399,
+    "meanIncome": 96605
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "26",
+    "name": "Manistee County, Michigan",
+    "population": 25247,
+    "medianAge": 50.3,
+    "race": {
+      "white": 89.3,
+      "black": 3.4,
+      "asian": 0.4,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.3,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 32.8,
+      "someCollege": 25.1,
+      "associates": 9,
+      "bachelors": 16.3,
+      "graduate": 7
+    },
+    "medianIncome": 60879,
+    "meanIncome": 81133
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "26",
+    "name": "Marquette County, Michigan",
+    "population": 66430,
+    "medianAge": 39.2,
+    "race": {
+      "white": 91.5,
+      "black": 1.5,
+      "asian": 0.6,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.1,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 26.6,
+      "someCollege": 21.7,
+      "associates": 11.3,
+      "bachelors": 24.4,
+      "graduate": 11.4
+    },
+    "medianIncome": 64675,
+    "meanIncome": 80432
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "26",
+    "name": "Mason County, Michigan",
+    "population": 29177,
+    "medianAge": 47.2,
+    "race": {
+      "white": 92.3,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.5,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 33.4,
+      "someCollege": 21.9,
+      "associates": 13,
+      "bachelors": 15.2,
+      "graduate": 9.9
+    },
+    "medianIncome": 62296,
+    "meanIncome": 80155
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "26",
+    "name": "Mecosta County, Michigan",
+    "population": 40321,
+    "medianAge": 40.6,
+    "race": {
+      "white": 90.9,
+      "black": 2.3,
+      "asian": 0.9,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.5,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 36.7,
+      "someCollege": 22.8,
+      "associates": 9.6,
+      "bachelors": 14.6,
+      "graduate": 8.1
+    },
+    "medianIncome": 57774,
+    "meanIncome": 70726
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "26",
+    "name": "Menominee County, Michigan",
+    "population": 23295,
+    "medianAge": 49.9,
+    "race": {
+      "white": 92.4,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.9,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 40.2,
+      "someCollege": 21.4,
+      "associates": 12.8,
+      "bachelors": 12.5,
+      "graduate": 5.5
+    },
+    "medianIncome": 55688,
+    "meanIncome": 71229
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "26",
+    "name": "Midland County, Michigan",
+    "population": 83641,
+    "medianAge": 41.8,
+    "race": {
+      "white": 90.8,
+      "black": 1.4,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 27.4,
+      "someCollege": 20.2,
+      "associates": 11.1,
+      "bachelors": 22.1,
+      "graduate": 14.3
+    },
+    "medianIncome": 77538,
+    "meanIncome": 102291
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "26",
+    "name": "Missaukee County, Michigan",
+    "population": 15156,
+    "medianAge": 42.7,
+    "race": {
+      "white": 92.5,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.5,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 40.2,
+      "someCollege": 22,
+      "associates": 10.9,
+      "bachelors": 12.1,
+      "graduate": 5.8
+    },
+    "medianIncome": 61868,
+    "meanIncome": 78686
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "26",
+    "name": "Monroe County, Michigan",
+    "population": 155001,
+    "medianAge": 42.6,
+    "race": {
+      "white": 90.9,
+      "black": 2.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.4,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 33.2,
+      "someCollege": 23.5,
+      "associates": 11.6,
+      "bachelors": 15,
+      "graduate": 8.4
+    },
+    "medianIncome": 75272,
+    "meanIncome": 96199
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "26",
+    "name": "Montcalm County, Michigan",
+    "population": 67174,
+    "medianAge": 40.1,
+    "race": {
+      "white": 89,
+      "black": 3.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 39.8,
+      "someCollege": 23.6,
+      "associates": 9.9,
+      "bachelors": 10,
+      "graduate": 4.9
+    },
+    "medianIncome": 64892,
+    "meanIncome": 76263
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "26",
+    "name": "Montmorency County, Michigan",
+    "population": 9372,
+    "medianAge": 56.7,
+    "race": {
+      "white": 93.9,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 4.8,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 39.6,
+      "someCollege": 23.8,
+      "associates": 10,
+      "bachelors": 10.4,
+      "graduate": 5.6
+    },
+    "medianIncome": 47803,
+    "meanIncome": 61899
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "26",
+    "name": "Muskegon County, Michigan",
+    "population": 175378,
+    "medianAge": 39.9,
+    "race": {
+      "white": 77.2,
+      "black": 12.6,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 7.7,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 34.7,
+      "someCollege": 24.2,
+      "associates": 12.1,
+      "bachelors": 15,
+      "graduate": 6.4
+    },
+    "medianIncome": 63495,
+    "meanIncome": 81923
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "26",
+    "name": "Newaygo County, Michigan",
+    "population": 50414,
+    "medianAge": 42.8,
+    "race": {
+      "white": 89.9,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.7,
+      "twoOrMore": 6,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 39.6,
+      "someCollege": 22.2,
+      "associates": 9.5,
+      "bachelors": 12.6,
+      "graduate": 5.9
+    },
+    "medianIncome": 61931,
+    "meanIncome": 77086
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "26",
+    "name": "Oakland County, Michigan",
+    "population": 1272294,
+    "medianAge": 41.2,
+    "race": {
+      "white": 70.6,
+      "black": 13,
+      "asian": 8.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 6.5,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 17.8,
+      "someCollege": 18.7,
+      "associates": 8.2,
+      "bachelors": 28.4,
+      "graduate": 21.8
+    },
+    "medianIncome": 95296,
+    "meanIncome": 130332
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "26",
+    "name": "Oceana County, Michigan",
+    "population": 26788,
+    "medianAge": 43.9,
+    "race": {
+      "white": 88.4,
+      "black": 0.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 7.3,
+      "hispanic": 15.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 37.6,
+      "someCollege": 22.1,
+      "associates": 9.9,
+      "bachelors": 13.7,
+      "graduate": 7.2
+    },
+    "medianIncome": 63624,
+    "meanIncome": 79555
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "26",
+    "name": "Ogemaw County, Michigan",
+    "population": 20853,
+    "medianAge": 50.8,
+    "race": {
+      "white": 94,
+      "black": 0.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 37.8,
+      "someCollege": 24.3,
+      "associates": 11.7,
+      "bachelors": 10.8,
+      "graduate": 5.1
+    },
+    "medianIncome": 51983,
+    "meanIncome": 68739
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "26",
+    "name": "Ontonagon County, Michigan",
+    "population": 5870,
+    "medianAge": 59.4,
+    "race": {
+      "white": 93.5,
+      "black": 0.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.2,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 41.1,
+      "someCollege": 23.7,
+      "associates": 12.6,
+      "bachelors": 10.4,
+      "graduate": 6.3
+    },
+    "medianIncome": 51844,
+    "meanIncome": 64711
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "26",
+    "name": "Osceola County, Michigan",
+    "population": 23122,
+    "medianAge": 43.8,
+    "race": {
+      "white": 93.1,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3.8,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 40.2,
+      "someCollege": 23.4,
+      "associates": 9.7,
+      "bachelors": 10.9,
+      "graduate": 5.4
+    },
+    "medianIncome": 57050,
+    "meanIncome": 72359
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "26",
+    "name": "Oscoda County, Michigan",
+    "population": 8338,
+    "medianAge": 52.1,
+    "race": {
+      "white": 94.2,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 4.2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 36.1,
+      "someCollege": 27.4,
+      "associates": 7.8,
+      "bachelors": 10.4,
+      "graduate": 4.4
+    },
+    "medianIncome": 50581,
+    "meanIncome": 62776
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "26",
+    "name": "Otsego County, Michigan",
+    "population": 25352,
+    "medianAge": 44.5,
+    "race": {
+      "white": 93.7,
+      "black": 0.9,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4.2,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 32.9,
+      "someCollege": 23.7,
+      "associates": 11.5,
+      "bachelors": 16.6,
+      "graduate": 9.2
+    },
+    "medianIncome": 67285,
+    "meanIncome": 84167
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "26",
+    "name": "Ottawa County, Michigan",
+    "population": 298614,
+    "medianAge": 36.3,
+    "race": {
+      "white": 85.5,
+      "black": 1.6,
+      "asian": 2.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 6.3,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 26.2,
+      "someCollege": 20.5,
+      "associates": 10,
+      "bachelors": 24.5,
+      "graduate": 13
+    },
+    "medianIncome": 87144,
+    "meanIncome": 110019
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "26",
+    "name": "Presque Isle County, Michigan",
+    "population": 13142,
+    "medianAge": 56.2,
+    "race": {
+      "white": 95.7,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.2,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 35.3,
+      "someCollege": 23.8,
+      "associates": 12.4,
+      "bachelors": 13.7,
+      "graduate": 6.4
+    },
+    "medianIncome": 56713,
+    "meanIncome": 75785
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "26",
+    "name": "Roscommon County, Michigan",
+    "population": 23639,
+    "medianAge": 57.4,
+    "race": {
+      "white": 93.7,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.9,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 32.4,
+      "someCollege": 25.5,
+      "associates": 12.6,
+      "bachelors": 11.8,
+      "graduate": 8.5
+    },
+    "medianIncome": 54106,
+    "meanIncome": 76109
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "26",
+    "name": "Saginaw County, Michigan",
+    "population": 189210,
+    "medianAge": 41.1,
+    "race": {
+      "white": 71.7,
+      "black": 18.9,
+      "asian": 1.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 5.8,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 32.8,
+      "someCollege": 23.5,
+      "associates": 11.3,
+      "bachelors": 14.8,
+      "graduate": 8.6
+    },
+    "medianIncome": 58347,
+    "meanIncome": 81912
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "26",
+    "name": "St. Clair County, Michigan",
+    "population": 160089,
+    "medianAge": 44.3,
+    "race": {
+      "white": 91.6,
+      "black": 2.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.3,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 33.2,
+      "someCollege": 26.2,
+      "associates": 12.4,
+      "bachelors": 12.8,
+      "graduate": 7.5
+    },
+    "medianIncome": 69349,
+    "meanIncome": 88904
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "26",
+    "name": "St. Joseph County, Michigan",
+    "population": 60870,
+    "medianAge": 39.8,
+    "race": {
+      "white": 87.2,
+      "black": 2.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 8.2,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 36.3,
+      "someCollege": 22.8,
+      "associates": 10.1,
+      "bachelors": 10.8,
+      "graduate": 6.3
+    },
+    "medianIncome": 64707,
+    "meanIncome": 78907
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "26",
+    "name": "Sanilac County, Michigan",
+    "population": 40574,
+    "medianAge": 45.3,
+    "race": {
+      "white": 93.8,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.2,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 41.7,
+      "someCollege": 22.3,
+      "associates": 10.7,
+      "bachelors": 10.3,
+      "graduate": 5.7
+    },
+    "medianIncome": 59074,
+    "meanIncome": 76203
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "26",
+    "name": "Schoolcraft County, Michigan",
+    "population": 8093,
+    "medianAge": 52.1,
+    "race": {
+      "white": 84.3,
+      "black": 0.6,
+      "asian": 0.2,
+      "nativeAmerican": 6.3,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 8.4,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 35.9,
+      "someCollege": 22.6,
+      "associates": 10.5,
+      "bachelors": 13.1,
+      "graduate": 7.5
+    },
+    "medianIncome": 57708,
+    "meanIncome": 75970
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "26",
+    "name": "Shiawassee County, Michigan",
+    "population": 68061,
+    "medianAge": 43.1,
+    "race": {
+      "white": 94.8,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.3,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 34.6,
+      "someCollege": 26.7,
+      "associates": 11.9,
+      "bachelors": 13.4,
+      "graduate": 6.1
+    },
+    "medianIncome": 64464,
+    "meanIncome": 82060
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "26",
+    "name": "Tuscola County, Michigan",
+    "population": 53071,
+    "medianAge": 44.6,
+    "race": {
+      "white": 93.6,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 46.2,
+      "someCollege": 20.4,
+      "associates": 10,
+      "bachelors": 10.5,
+      "graduate": 5.1
+    },
+    "medianIncome": 62847,
+    "meanIncome": 75231
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "26",
+    "name": "Van Buren County, Michigan",
+    "population": 75681,
+    "medianAge": 41.2,
+    "race": {
+      "white": 81.9,
+      "black": 3.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 9.1,
+      "hispanic": 12.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 33.4,
+      "someCollege": 22.9,
+      "associates": 9.6,
+      "bachelors": 14.4,
+      "graduate": 8.5
+    },
+    "medianIncome": 66902,
+    "meanIncome": 82494
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "26",
+    "name": "Washtenaw County, Michigan",
+    "population": 368394,
+    "medianAge": 34.8,
+    "race": {
+      "white": 69.9,
+      "black": 11.6,
+      "asian": 8.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 7.7,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 14.2,
+      "someCollege": 16.8,
+      "associates": 6.7,
+      "bachelors": 27.1,
+      "graduate": 31
+    },
+    "medianIncome": 87156,
+    "meanIncome": 122847
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "26",
+    "name": "Wayne County, Michigan",
+    "population": 1773767,
+    "medianAge": 37.8,
+    "race": {
+      "white": 50,
+      "black": 37.2,
+      "asian": 3.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.2,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 29.5,
+      "someCollege": 23,
+      "associates": 8.5,
+      "bachelors": 16.3,
+      "graduate": 10.6
+    },
+    "medianIncome": 59521,
+    "meanIncome": 83852
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "26",
+    "name": "Wexford County, Michigan",
+    "population": 33868,
+    "medianAge": 42.2,
+    "race": {
+      "white": 92.4,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5.2,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 36.1,
+      "someCollege": 22.5,
+      "associates": 10.3,
+      "bachelors": 13.7,
+      "graduate": 7.5
+    },
+    "medianIncome": 63123,
+    "meanIncome": 80750
+  }
+]

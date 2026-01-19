@@ -1,0 +1,29 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "11",
+    "name": "District of Columbia, District of Columbia",
+    "population": 672079,
+    "medianAge": 34.9,
+    "race": {
+      "white": 39.1,
+      "black": 43.3,
+      "asian": 4.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 4.8,
+      "twoOrMore": 8.4,
+      "hispanic": 11.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 14.5,
+      "someCollege": 11.8,
+      "associates": 2.9,
+      "bachelors": 26.1,
+      "graduate": 37.5
+    },
+    "medianIncome": 106287,
+    "meanIncome": 157604
+  }
+]

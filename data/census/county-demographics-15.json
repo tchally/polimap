@@ -1,0 +1,137 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "15",
+    "name": "Hawaii County, Hawaii",
+    "population": 203684,
+    "medianAge": 44.1,
+    "race": {
+      "white": 31.1,
+      "black": 0.8,
+      "asian": 21.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 12.1,
+      "other": 1.9,
+      "twoOrMore": 32.5,
+      "hispanic": 11.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 29.6,
+      "someCollege": 20.9,
+      "associates": 11.6,
+      "bachelors": 19,
+      "graduate": 11.9
+    },
+    "medianIncome": 77215,
+    "meanIncome": 103758
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "15",
+    "name": "Honolulu County, Hawaii",
+    "population": 1003666,
+    "medianAge": 39.4,
+    "race": {
+      "white": 18.8,
+      "black": 2.4,
+      "asian": 42.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 9.9,
+      "other": 1.6,
+      "twoOrMore": 24.4,
+      "hispanic": 9.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 25.2,
+      "someCollege": 19,
+      "associates": 11,
+      "bachelors": 23.7,
+      "graduate": 14
+    },
+    "medianIncome": 104264,
+    "meanIncome": 133753
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "15",
+    "name": "Kalawao County, Hawaii",
+    "population": 43,
+    "medianAge": 39.9,
+    "race": {
+      "white": 25.6,
+      "black": 0,
+      "asian": 32.6,
+      "nativeAmerican": 11.6,
+      "pacificIslander": 18.6,
+      "other": 0,
+      "twoOrMore": 11.6,
+      "hispanic": 9.3
+    },
+    "education": {
+      "lessThanHighSchool": 25.6,
+      "highSchool": 25.6,
+      "someCollege": 11.6,
+      "associates": 4.7,
+      "bachelors": 16.3,
+      "graduate": 16.3
+    },
+    "medianIncome": 86250,
+    "meanIncome": 67936
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "15",
+    "name": "Kauai County, Hawaii",
+    "population": 73610,
+    "medianAge": 42.7,
+    "race": {
+      "white": 30.1,
+      "black": 0.6,
+      "asian": 29.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 10.2,
+      "other": 1.5,
+      "twoOrMore": 27.8,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 29.6,
+      "someCollege": 21.2,
+      "associates": 11.7,
+      "bachelors": 20.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 93612,
+    "meanIncome": 124027
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "15",
+    "name": "Maui County, Hawaii",
+    "population": 164632,
+    "medianAge": 42.9,
+    "race": {
+      "white": 31,
+      "black": 0.8,
+      "asian": 28.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 10.4,
+      "other": 2,
+      "twoOrMore": 27.2,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 30.1,
+      "someCollege": 22.6,
+      "associates": 10,
+      "bachelors": 20,
+      "graduate": 10.1
+    },
+    "medianIncome": 95076,
+    "meanIncome": 127716
+  }
+]

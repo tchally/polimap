@@ -114,11 +114,6 @@ async function generateCountyFromElectionData(
   // countyFips from election data is already 5 digits (state + county) from the parser
   // So we can use it directly
   const fullFips = countyFips.padStart(5, '0');
-  
-  // Debug: Log first few counties to verify FIPS is set
-  if (countyName.includes('Alameda') || countyName.includes('Los Angeles')) {
-    console.log(`🏷️ Creating county: ${countyName}, FIPS: ${fullFips}, State: ${stateAbbr}`);
-  }
 
   return {
     id: countyId,
@@ -165,10 +160,18 @@ export async function getAllCountiesFromElections(): Promise<County[]> {
   try {
     const electionData = await loadElectionData();
     const counties: County[] = [];
+    const seenCountyIds = new Set<string>(); // Track unique county IDs
 
     for (const countyElectionData of electionData) {
       try {
         const county = await generateCountyFromElectionData(countyElectionData);
+        
+        // Skip if we've already seen this county ID
+        if (seenCountyIds.has(county.id)) {
+          continue;
+        }
+        
+        seenCountyIds.add(county.id);
         counties.push(county);
       } catch (error) {
         console.warn(`Failed to generate county for ${countyElectionData.countyName}:`, error);

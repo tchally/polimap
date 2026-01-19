@@ -7,10 +7,8 @@ import * as path from 'path';
  * GET /api/census?stateFips=06
  */
 export async function GET(request: Request) {
-  console.log('🌐 API route /api/census called');
   const { searchParams } = new URL(request.url);
   const stateFips = searchParams.get('stateFips');
-  console.log('🌐 Requested stateFips:', stateFips);
 
   if (!stateFips) {
     return NextResponse.json(
@@ -20,7 +18,6 @@ export async function GET(request: Request) {
   }
 
   try {
-    console.log('🌐 Looking for Census data file...');
     // Try public directory first (for browser access)
     const publicPath = path.join(process.cwd(), 'public', 'data', 'census', `county-demographics-${stateFips}.json`);
     
@@ -41,7 +38,6 @@ export async function GET(request: Request) {
 
     const fileContent = fs.readFileSync(filePath, 'utf-8');
     const data = JSON.parse(fileContent);
-    console.log(`🌐 Successfully loaded ${data.length} counties for state FIPS ${stateFips}`);
 
     return NextResponse.json(data, {
       headers: {

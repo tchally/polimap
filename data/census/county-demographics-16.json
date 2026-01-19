@@ -1,0 +1,1190 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "16",
+    "name": "Ada County, Idaho",
+    "population": 508052,
+    "medianAge": 38.3,
+    "race": {
+      "white": 84.8,
+      "black": 1.3,
+      "asian": 2.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 2.8,
+      "twoOrMore": 7.8,
+      "hispanic": 9.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 19.6,
+      "someCollege": 23.2,
+      "associates": 8.4,
+      "bachelors": 28.5,
+      "graduate": 15.4
+    },
+    "medianIncome": 88907,
+    "meanIncome": 121034
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "16",
+    "name": "Adams County, Idaho",
+    "population": 4599,
+    "medianAge": 54.3,
+    "race": {
+      "white": 91.6,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.5,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 35.2,
+      "someCollege": 28.7,
+      "associates": 7.7,
+      "bachelors": 13.5,
+      "graduate": 7.8
+    },
+    "medianIncome": 59286,
+    "meanIncome": 88154
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "16",
+    "name": "Bannock County, Idaho",
+    "population": 88457,
+    "medianAge": 35,
+    "race": {
+      "white": 84.3,
+      "black": 0.9,
+      "asian": 1.6,
+      "nativeAmerican": 2.6,
+      "pacificIslander": 0.3,
+      "other": 3.9,
+      "twoOrMore": 6.3,
+      "hispanic": 9.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 25.7,
+      "someCollege": 27.6,
+      "associates": 10.2,
+      "bachelors": 19.5,
+      "graduate": 10.7
+    },
+    "medianIncome": 64080,
+    "meanIncome": 83414
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "16",
+    "name": "Bear Lake County, Idaho",
+    "population": 6552,
+    "medianAge": 40.2,
+    "race": {
+      "white": 94.4,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 2.1,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 36.4,
+      "someCollege": 25.1,
+      "associates": 11.2,
+      "bachelors": 14,
+      "graduate": 6.4
+    },
+    "medianIncome": 67304,
+    "meanIncome": 82325
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "16",
+    "name": "Benewah County, Idaho",
+    "population": 9913,
+    "medianAge": 46,
+    "race": {
+      "white": 85,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 8.8,
+      "pacificIslander": 0.2,
+      "other": 0.4,
+      "twoOrMore": 4.9,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 32.9,
+      "someCollege": 21.6,
+      "associates": 10.1,
+      "bachelors": 13.1,
+      "graduate": 6.7
+    },
+    "medianIncome": 56553,
+    "meanIncome": 75989
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "16",
+    "name": "Bingham County, Idaho",
+    "population": 48993,
+    "medianAge": 34.8,
+    "race": {
+      "white": 79.1,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 5.4,
+      "pacificIslander": 0.1,
+      "other": 6.6,
+      "twoOrMore": 8.2,
+      "hispanic": 17.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 32,
+      "someCollege": 25.6,
+      "associates": 10.9,
+      "bachelors": 14.9,
+      "graduate": 5.9
+    },
+    "medianIncome": 76842,
+    "meanIncome": 96148
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "16",
+    "name": "Blaine County, Idaho",
+    "population": 24579,
+    "medianAge": 45.5,
+    "race": {
+      "white": 80.3,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 10,
+      "twoOrMore": 7.6,
+      "hispanic": 21.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 21.7,
+      "someCollege": 19.1,
+      "associates": 4.9,
+      "bachelors": 33.1,
+      "graduate": 12.5
+    },
+    "medianIncome": 84470,
+    "meanIncome": 121425
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "16",
+    "name": "Boise County, Idaho",
+    "population": 8045,
+    "medianAge": 53.5,
+    "race": {
+      "white": 87.4,
+      "black": 0.2,
+      "asian": 1.5,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 7.7,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.4,
+      "highSchool": 27.6,
+      "someCollege": 25.3,
+      "associates": 12.7,
+      "bachelors": 20.3,
+      "graduate": 9.6
+    },
+    "medianIncome": 77349,
+    "meanIncome": 88157
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "16",
+    "name": "Bonner County, Idaho",
+    "population": 49456,
+    "medianAge": 48.2,
+    "race": {
+      "white": 91,
+      "black": 0.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 6,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 29.1,
+      "someCollege": 25.5,
+      "associates": 8.1,
+      "bachelors": 18.9,
+      "graduate": 10
+    },
+    "medianIncome": 65168,
+    "meanIncome": 91015
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "16",
+    "name": "Bonneville County, Idaho",
+    "population": 127056,
+    "medianAge": 33.3,
+    "race": {
+      "white": 85.4,
+      "black": 0.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 5.2,
+      "twoOrMore": 7.2,
+      "hispanic": 14.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 24.4,
+      "someCollege": 24.1,
+      "associates": 11.3,
+      "bachelors": 22.2,
+      "graduate": 10
+    },
+    "medianIncome": 76646,
+    "meanIncome": 99403
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "16",
+    "name": "Boundary County, Idaho",
+    "population": 12695,
+    "medianAge": 42.8,
+    "race": {
+      "white": 88.8,
+      "black": 0.7,
+      "asian": 1.7,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.1,
+      "other": 2.8,
+      "twoOrMore": 4.4,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.8,
+      "highSchool": 32.6,
+      "someCollege": 25.2,
+      "associates": 9.9,
+      "bachelors": 11.8,
+      "graduate": 7.7
+    },
+    "medianIncome": 62438,
+    "meanIncome": 75791
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "16",
+    "name": "Butte County, Idaho",
+    "population": 2654,
+    "medianAge": 39.2,
+    "race": {
+      "white": 92.3,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.3,
+      "other": 0.8,
+      "twoOrMore": 6.6,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 28.3,
+      "someCollege": 23.6,
+      "associates": 21.8,
+      "bachelors": 10,
+      "graduate": 3.8
+    },
+    "medianIncome": 43281,
+    "meanIncome": 64273
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "16",
+    "name": "Camas County, Idaho",
+    "population": 1155,
+    "medianAge": 34.9,
+    "race": {
+      "white": 78.1,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 5.3,
+      "twoOrMore": 14.4,
+      "hispanic": 14.2
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 28.2,
+      "someCollege": 22.5,
+      "associates": 7.9,
+      "bachelors": 18.5,
+      "graduate": 9
+    },
+    "medianIncome": 55536,
+    "meanIncome": 79094
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "16",
+    "name": "Canyon County, Idaho",
+    "population": 242405,
+    "medianAge": 34.8,
+    "race": {
+      "white": 74.3,
+      "black": 0.7,
+      "asian": 0.9,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.3,
+      "other": 11.5,
+      "twoOrMore": 11.4,
+      "hispanic": 25.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 30,
+      "someCollege": 25.4,
+      "associates": 9.4,
+      "bachelors": 16.2,
+      "graduate": 6.7
+    },
+    "medianIncome": 72355,
+    "meanIncome": 88851
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "16",
+    "name": "Caribou County, Idaho",
+    "population": 7118,
+    "medianAge": 38,
+    "race": {
+      "white": 91.9,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 3.7,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 35.5,
+      "someCollege": 29.1,
+      "associates": 10.4,
+      "bachelors": 9.7,
+      "graduate": 5.8
+    },
+    "medianIncome": 66653,
+    "meanIncome": 78848
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "16",
+    "name": "Cassia County, Idaho",
+    "population": 25165,
+    "medianAge": 33.1,
+    "race": {
+      "white": 72.3,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 13.4,
+      "twoOrMore": 12.9,
+      "hispanic": 29.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 27.1,
+      "someCollege": 27.1,
+      "associates": 10.3,
+      "bachelors": 13.9,
+      "graduate": 7
+    },
+    "medianIncome": 67042,
+    "meanIncome": 88788
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "16",
+    "name": "Clark County, Idaho",
+    "population": 776,
+    "medianAge": 33.4,
+    "race": {
+      "white": 67.1,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 25.9,
+      "twoOrMore": 6.8,
+      "hispanic": 30.7
+    },
+    "education": {
+      "lessThanHighSchool": 24.3,
+      "highSchool": 30.2,
+      "someCollege": 24.9,
+      "associates": 3.4,
+      "bachelors": 13.7,
+      "graduate": 3.6
+    },
+    "medianIncome": 52083,
+    "meanIncome": 58492
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "16",
+    "name": "Clearwater County, Idaho",
+    "population": 8921,
+    "medianAge": 52,
+    "race": {
+      "white": 89.9,
+      "black": 0.2,
+      "asian": 1,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 5.9,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 35.8,
+      "someCollege": 27.3,
+      "associates": 8.6,
+      "bachelors": 13.3,
+      "graduate": 6.2
+    },
+    "medianIncome": 57961,
+    "meanIncome": 72440
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "16",
+    "name": "Custer County, Idaho",
+    "population": 4411,
+    "medianAge": 59.5,
+    "race": {
+      "white": 89.9,
+      "black": 0.3,
+      "asian": 2.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.7,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 28.8,
+      "someCollege": 27,
+      "associates": 12.6,
+      "bachelors": 21.3,
+      "graduate": 3.9
+    },
+    "medianIncome": 56957,
+    "meanIncome": 65974
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "16",
+    "name": "Elmore County, Idaho",
+    "population": 29046,
+    "medianAge": 32.5,
+    "race": {
+      "white": 74.5,
+      "black": 3.2,
+      "asian": 2.8,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.4,
+      "other": 4.7,
+      "twoOrMore": 13.2,
+      "hispanic": 18
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 30.4,
+      "someCollege": 24.2,
+      "associates": 12.3,
+      "bachelors": 15.8,
+      "graduate": 5.4
+    },
+    "medianIncome": 58976,
+    "meanIncome": 76919
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "16",
+    "name": "Franklin County, Idaho",
+    "population": 14715,
+    "medianAge": 32.5,
+    "race": {
+      "white": 91.9,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 3,
+      "twoOrMore": 4.3,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 42.7,
+      "someCollege": 24.4,
+      "associates": 5.4,
+      "bachelors": 15.2,
+      "graduate": 6.3
+    },
+    "medianIncome": 65991,
+    "meanIncome": 91877
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "16",
+    "name": "Fremont County, Idaho",
+    "population": 13701,
+    "medianAge": 39.9,
+    "race": {
+      "white": 88.8,
+      "black": 0.3,
+      "asian": 0.1,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.1,
+      "other": 4.2,
+      "twoOrMore": 5.4,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 31.8,
+      "someCollege": 25.2,
+      "associates": 11.9,
+      "bachelors": 16.9,
+      "graduate": 4.9
+    },
+    "medianIncome": 72767,
+    "meanIncome": 90888
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "16",
+    "name": "Gem County, Idaho",
+    "population": 19854,
+    "medianAge": 42.8,
+    "race": {
+      "white": 87.2,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 8.5,
+      "hispanic": 9.3
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 32.6,
+      "someCollege": 28.5,
+      "associates": 5.7,
+      "bachelors": 17.3,
+      "graduate": 5
+    },
+    "medianIncome": 66245,
+    "meanIncome": 87429
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "16",
+    "name": "Gooding County, Idaho",
+    "population": 15740,
+    "medianAge": 38.4,
+    "race": {
+      "white": 72.1,
+      "black": 0.1,
+      "asian": 0.7,
+      "nativeAmerican": 2.4,
+      "pacificIslander": 0,
+      "other": 11.4,
+      "twoOrMore": 13.2,
+      "hispanic": 31
+    },
+    "education": {
+      "lessThanHighSchool": 20.2,
+      "highSchool": 30.4,
+      "someCollege": 23.5,
+      "associates": 8.8,
+      "bachelors": 11.1,
+      "graduate": 6
+    },
+    "medianIncome": 62395,
+    "meanIncome": 81334
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "16",
+    "name": "Idaho County, Idaho",
+    "population": 17120,
+    "medianAge": 49.6,
+    "race": {
+      "white": 91.6,
+      "black": 0.1,
+      "asian": 0.5,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.7,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 34.1,
+      "someCollege": 23.7,
+      "associates": 12,
+      "bachelors": 16.2,
+      "graduate": 5.8
+    },
+    "medianIncome": 60975,
+    "meanIncome": 77479
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "16",
+    "name": "Jefferson County, Idaho",
+    "population": 32234,
+    "medianAge": 32.3,
+    "race": {
+      "white": 88.3,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 6.5,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 26.7,
+      "someCollege": 24.8,
+      "associates": 14.6,
+      "bachelors": 19.3,
+      "graduate": 7.8
+    },
+    "medianIncome": 82952,
+    "meanIncome": 95822
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "16",
+    "name": "Jerome County, Idaho",
+    "population": 24788,
+    "medianAge": 33.6,
+    "race": {
+      "white": 69.9,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.1,
+      "other": 9.7,
+      "twoOrMore": 18.8,
+      "hispanic": 38.5
+    },
+    "education": {
+      "lessThanHighSchool": 26.6,
+      "highSchool": 27.2,
+      "someCollege": 22.3,
+      "associates": 10.6,
+      "bachelors": 9,
+      "graduate": 4.3
+    },
+    "medianIncome": 69338,
+    "meanIncome": 87894
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "16",
+    "name": "Kootenai County, Idaho",
+    "population": 177736,
+    "medianAge": 40.8,
+    "race": {
+      "white": 88.2,
+      "black": 0.3,
+      "asian": 0.8,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 8.4,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 26.6,
+      "someCollege": 27.6,
+      "associates": 11.4,
+      "bachelors": 19,
+      "graduate": 9.8
+    },
+    "medianIncome": 77034,
+    "meanIncome": 98298
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "16",
+    "name": "Latah County, Idaho",
+    "population": 40315,
+    "medianAge": 30.7,
+    "race": {
+      "white": 88.6,
+      "black": 1,
+      "asian": 2.1,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 0.9,
+      "twoOrMore": 6.5,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 3.1,
+      "highSchool": 21.5,
+      "someCollege": 21.7,
+      "associates": 8.8,
+      "bachelors": 27.1,
+      "graduate": 17.8
+    },
+    "medianIncome": 65179,
+    "meanIncome": 86327
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "16",
+    "name": "Lemhi County, Idaho",
+    "population": 8166,
+    "medianAge": 53.1,
+    "race": {
+      "white": 92.1,
+      "black": 0,
+      "asian": 0.3,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.3,
+      "other": 1.3,
+      "twoOrMore": 5.2,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 32.2,
+      "someCollege": 25.6,
+      "associates": 11.9,
+      "bachelors": 14.2,
+      "graduate": 8.7
+    },
+    "medianIncome": 52057,
+    "meanIncome": 72897
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "16",
+    "name": "Lewis County, Idaho",
+    "population": 3649,
+    "medianAge": 48.9,
+    "race": {
+      "white": 83.4,
+      "black": 1.7,
+      "asian": 0.9,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 10.1,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 32,
+      "someCollege": 27.6,
+      "associates": 11.2,
+      "bachelors": 14.5,
+      "graduate": 5.5
+    },
+    "medianIncome": 49643,
+    "meanIncome": 69631
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "16",
+    "name": "Lincoln County, Idaho",
+    "population": 5276,
+    "medianAge": 37.2,
+    "race": {
+      "white": 69.4,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 3.3,
+      "pacificIslander": 0,
+      "other": 11.5,
+      "twoOrMore": 14.8,
+      "hispanic": 32
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 36.8,
+      "someCollege": 21.1,
+      "associates": 13.1,
+      "bachelors": 7,
+      "graduate": 4.7
+    },
+    "medianIncome": 66038,
+    "meanIncome": 76232
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "16",
+    "name": "Madison County, Idaho",
+    "population": 53578,
+    "medianAge": 21.4,
+    "race": {
+      "white": 88.1,
+      "black": 0.9,
+      "asian": 1.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.3,
+      "other": 3.2,
+      "twoOrMore": 5.7,
+      "hispanic": 9.7
+    },
+    "education": {
+      "lessThanHighSchool": 3,
+      "highSchool": 15,
+      "someCollege": 27.9,
+      "associates": 13.8,
+      "bachelors": 28.4,
+      "graduate": 11.9
+    },
+    "medianIncome": 58259,
+    "meanIncome": 89770
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "16",
+    "name": "Minidoka County, Idaho",
+    "population": 21922,
+    "medianAge": 34.5,
+    "race": {
+      "white": 72.1,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 12.3,
+      "twoOrMore": 13.9,
+      "hispanic": 36.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.9,
+      "highSchool": 34.7,
+      "someCollege": 21.6,
+      "associates": 9,
+      "bachelors": 9.7,
+      "graduate": 7.1
+    },
+    "medianIncome": 70060,
+    "meanIncome": 85696
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "16",
+    "name": "Nez Perce County, Idaho",
+    "population": 42477,
+    "medianAge": 40.9,
+    "race": {
+      "white": 88.4,
+      "black": 0.1,
+      "asian": 0.9,
+      "nativeAmerican": 4.5,
+      "pacificIslander": 0.3,
+      "other": 0.8,
+      "twoOrMore": 5.1,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 28.7,
+      "someCollege": 25.9,
+      "associates": 11.6,
+      "bachelors": 18.1,
+      "graduate": 8.7
+    },
+    "medianIncome": 71466,
+    "meanIncome": 91289
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "16",
+    "name": "Oneida County, Idaho",
+    "population": 4681,
+    "medianAge": 40.2,
+    "race": {
+      "white": 94.1,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.2,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 35.8,
+      "someCollege": 23.5,
+      "associates": 8.8,
+      "bachelors": 17.8,
+      "graduate": 8.4
+    },
+    "medianIncome": 72563,
+    "meanIncome": 81664
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "16",
+    "name": "Owyhee County, Idaho",
+    "population": 12284,
+    "medianAge": 38.3,
+    "race": {
+      "white": 73.1,
+      "black": 0.5,
+      "asian": 0.1,
+      "nativeAmerican": 4.9,
+      "pacificIslander": 0,
+      "other": 11.2,
+      "twoOrMore": 10.3,
+      "hispanic": 24.8
+    },
+    "education": {
+      "lessThanHighSchool": 22.3,
+      "highSchool": 37.8,
+      "someCollege": 20.5,
+      "associates": 5.8,
+      "bachelors": 9.3,
+      "graduate": 4.4
+    },
+    "medianIncome": 59773,
+    "meanIncome": 72147
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "16",
+    "name": "Payette County, Idaho",
+    "population": 26190,
+    "medianAge": 38.8,
+    "race": {
+      "white": 82.5,
+      "black": 0.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 11,
+      "hispanic": 17.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 33,
+      "someCollege": 24.1,
+      "associates": 9.9,
+      "bachelors": 13.8,
+      "graduate": 5.9
+    },
+    "medianIncome": 65723,
+    "meanIncome": 81314
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "16",
+    "name": "Power County, Idaho",
+    "population": 8018,
+    "medianAge": 33.9,
+    "race": {
+      "white": 65.4,
+      "black": 0.9,
+      "asian": 0,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 20.4,
+      "twoOrMore": 11.8,
+      "hispanic": 33.8
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 34,
+      "someCollege": 31.8,
+      "associates": 5.5,
+      "bachelors": 12.1,
+      "graduate": 4.6
+    },
+    "medianIncome": 59760,
+    "meanIncome": 72022
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "16",
+    "name": "Shoshone County, Idaho",
+    "population": 13580,
+    "medianAge": 45.1,
+    "race": {
+      "white": 90.9,
+      "black": 0.9,
+      "asian": 0.3,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.2,
+      "other": 0.5,
+      "twoOrMore": 5.9,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 39,
+      "someCollege": 28.4,
+      "associates": 9.9,
+      "bachelors": 7.4,
+      "graduate": 4.1
+    },
+    "medianIncome": 49975,
+    "meanIncome": 63447
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "16",
+    "name": "Teton County, Idaho",
+    "population": 12101,
+    "medianAge": 39.8,
+    "race": {
+      "white": 82.4,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 9.4,
+      "twoOrMore": 7.3,
+      "hispanic": 17.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 16.5,
+      "someCollege": 20.3,
+      "associates": 7.5,
+      "bachelors": 34.2,
+      "graduate": 14.1
+    },
+    "medianIncome": 90740,
+    "meanIncome": 117932
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "16",
+    "name": "Twin Falls County, Idaho",
+    "population": 92121,
+    "medianAge": 35.8,
+    "race": {
+      "white": 81.6,
+      "black": 0.9,
+      "asian": 1.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.3,
+      "other": 5.4,
+      "twoOrMore": 10,
+      "hispanic": 17.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 28.9,
+      "someCollege": 25.5,
+      "associates": 11.2,
+      "bachelors": 13.9,
+      "graduate": 9.1
+    },
+    "medianIncome": 65338,
+    "meanIncome": 86618
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "16",
+    "name": "Valley County, Idaho",
+    "population": 12136,
+    "medianAge": 49,
+    "race": {
+      "white": 95.1,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 3.8,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 22.5,
+      "someCollege": 25.5,
+      "associates": 7.7,
+      "bachelors": 25.4,
+      "graduate": 10
+    },
+    "medianIncome": 76125,
+    "meanIncome": 110257
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "16",
+    "name": "Washington County, Idaho",
+    "population": 10866,
+    "medianAge": 44.6,
+    "race": {
+      "white": 83.3,
+      "black": 0.1,
+      "asian": 0.2,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.2,
+      "other": 6.7,
+      "twoOrMore": 8.6,
+      "hispanic": 16
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 30.3,
+      "someCollege": 27.5,
+      "associates": 11.9,
+      "bachelors": 12.6,
+      "graduate": 6.4
+    },
+    "medianIncome": 53608,
+    "meanIncome": 69532
+  }
+]

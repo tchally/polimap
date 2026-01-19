@@ -1,0 +1,1055 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "53",
+    "name": "Adams County, Washington",
+    "population": 20690,
+    "medianAge": 29.2,
+    "race": {
+      "white": 47.8,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 2.5,
+      "pacificIslander": 0.3,
+      "other": 28.5,
+      "twoOrMore": 20,
+      "hispanic": 64.1
+    },
+    "education": {
+      "lessThanHighSchool": 30.1,
+      "highSchool": 29.3,
+      "someCollege": 17.6,
+      "associates": 7.6,
+      "bachelors": 10.1,
+      "graduate": 5.3
+    },
+    "medianIncome": 65042,
+    "meanIncome": 82379
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "53",
+    "name": "Asotin County, Washington",
+    "population": 22424,
+    "medianAge": 45.5,
+    "race": {
+      "white": 88.9,
+      "black": 0.9,
+      "asian": 1,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 6.2,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 30.9,
+      "someCollege": 24.9,
+      "associates": 11.8,
+      "bachelors": 14.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 69107,
+    "meanIncome": 90466
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "53",
+    "name": "Benton County, Washington",
+    "population": 210224,
+    "medianAge": 36.2,
+    "race": {
+      "white": 72.3,
+      "black": 1.7,
+      "asian": 2.9,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.2,
+      "other": 9.3,
+      "twoOrMore": 12.7,
+      "hispanic": 24.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 23,
+      "someCollege": 23.1,
+      "associates": 10.8,
+      "bachelors": 20.1,
+      "graduate": 12.9
+    },
+    "medianIncome": 87316,
+    "meanIncome": 111832
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "53",
+    "name": "Chelan County, Washington",
+    "population": 79518,
+    "medianAge": 40.4,
+    "race": {
+      "white": 68.8,
+      "black": 0.6,
+      "asian": 0.8,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.1,
+      "other": 17,
+      "twoOrMore": 11.6,
+      "hispanic": 28.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 23.4,
+      "someCollege": 21.8,
+      "associates": 10.4,
+      "bachelors": 19.6,
+      "graduate": 10.6
+    },
+    "medianIncome": 78306,
+    "meanIncome": 105534
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "53",
+    "name": "Clallam County, Washington",
+    "population": 77593,
+    "medianAge": 51.8,
+    "race": {
+      "white": 82.8,
+      "black": 0.9,
+      "asian": 1.7,
+      "nativeAmerican": 3.6,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 8.8,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 25.1,
+      "someCollege": 25.1,
+      "associates": 12.1,
+      "bachelors": 18.3,
+      "graduate": 12.4
+    },
+    "medianIncome": 67999,
+    "meanIncome": 89116
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "53",
+    "name": "Clark County, Washington",
+    "population": 510516,
+    "medianAge": 38.9,
+    "race": {
+      "white": 77.3,
+      "black": 2.1,
+      "asian": 4.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.8,
+      "other": 3.9,
+      "twoOrMore": 10.6,
+      "hispanic": 12
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 24.5,
+      "someCollege": 24.7,
+      "associates": 10.6,
+      "bachelors": 21,
+      "graduate": 12
+    },
+    "medianIncome": 94948,
+    "meanIncome": 120560
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "53",
+    "name": "Columbia County, Washington",
+    "population": 3996,
+    "medianAge": 52.1,
+    "race": {
+      "white": 81.5,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 13.1,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 22.4,
+      "someCollege": 26.1,
+      "associates": 13.2,
+      "bachelors": 16,
+      "graduate": 11.2
+    },
+    "medianIncome": 71528,
+    "meanIncome": 89990
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "53",
+    "name": "Cowlitz County, Washington",
+    "population": 111539,
+    "medianAge": 41.1,
+    "race": {
+      "white": 84.8,
+      "black": 0.7,
+      "asian": 1.2,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.3,
+      "other": 2.8,
+      "twoOrMore": 9.2,
+      "hispanic": 10.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 31.4,
+      "someCollege": 28.7,
+      "associates": 12.8,
+      "bachelors": 11.5,
+      "graduate": 5.5
+    },
+    "medianIncome": 72932,
+    "meanIncome": 92523
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "53",
+    "name": "Douglas County, Washington",
+    "population": 43733,
+    "medianAge": 38.4,
+    "race": {
+      "white": 61.9,
+      "black": 0.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.4,
+      "other": 24.6,
+      "twoOrMore": 10.8,
+      "hispanic": 34.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 28.4,
+      "someCollege": 22.4,
+      "associates": 9.9,
+      "bachelors": 15.2,
+      "graduate": 6.6
+    },
+    "medianIncome": 80374,
+    "meanIncome": 110625
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "53",
+    "name": "Ferry County, Washington",
+    "population": 7326,
+    "medianAge": 52.8,
+    "race": {
+      "white": 73.7,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 13.1,
+      "pacificIslander": 1.8,
+      "other": 0.7,
+      "twoOrMore": 10.2,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 30.1,
+      "someCollege": 29.7,
+      "associates": 14,
+      "bachelors": 11.2,
+      "graduate": 7.1
+    },
+    "medianIncome": 54650,
+    "meanIncome": 74026
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "53",
+    "name": "Franklin County, Washington",
+    "population": 97676,
+    "medianAge": 30.8,
+    "race": {
+      "white": 51.8,
+      "black": 1.9,
+      "asian": 1.6,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.2,
+      "other": 22,
+      "twoOrMore": 21,
+      "hispanic": 54.8
+    },
+    "education": {
+      "lessThanHighSchool": 23.4,
+      "highSchool": 26.7,
+      "someCollege": 20,
+      "associates": 9.5,
+      "bachelors": 12.7,
+      "graduate": 7.7
+    },
+    "medianIncome": 82755,
+    "meanIncome": 105287
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "53",
+    "name": "Garfield County, Washington",
+    "population": 2326,
+    "medianAge": 52.6,
+    "race": {
+      "white": 91,
+      "black": 1.3,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.3,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 24.1,
+      "someCollege": 26.5,
+      "associates": 15.5,
+      "bachelors": 14.9,
+      "graduate": 11.9
+    },
+    "medianIncome": 62411,
+    "meanIncome": 76848
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "53",
+    "name": "Grant County, Washington",
+    "population": 100428,
+    "medianAge": 33.5,
+    "race": {
+      "white": 59,
+      "black": 1.2,
+      "asian": 1.1,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 22.2,
+      "twoOrMore": 15.1,
+      "hispanic": 43.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 29,
+      "someCollege": 23.6,
+      "associates": 10.6,
+      "bachelors": 12.9,
+      "graduate": 5.3
+    },
+    "medianIncome": 71115,
+    "meanIncome": 89681
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "53",
+    "name": "Grays Harbor County, Washington",
+    "population": 76397,
+    "medianAge": 44.7,
+    "race": {
+      "white": 80.9,
+      "black": 1.6,
+      "asian": 1.3,
+      "nativeAmerican": 4.1,
+      "pacificIslander": 0.4,
+      "other": 3.7,
+      "twoOrMore": 8,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 35.3,
+      "someCollege": 25.2,
+      "associates": 12.2,
+      "bachelors": 11.5,
+      "graduate": 6.1
+    },
+    "medianIncome": 63539,
+    "meanIncome": 82333
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "53",
+    "name": "Island County, Washington",
+    "population": 86747,
+    "medianAge": 44.5,
+    "race": {
+      "white": 79.4,
+      "black": 2.7,
+      "asian": 4.9,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.4,
+      "other": 2,
+      "twoOrMore": 9.6,
+      "hispanic": 8.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 21.9,
+      "someCollege": 26.8,
+      "associates": 11.5,
+      "bachelors": 21.5,
+      "graduate": 14.3
+    },
+    "medianIncome": 88358,
+    "meanIncome": 110452
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "53",
+    "name": "Jefferson County, Washington",
+    "population": 33313,
+    "medianAge": 59.5,
+    "race": {
+      "white": 86.7,
+      "black": 0.4,
+      "asian": 1.3,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 7.9,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 19.8,
+      "someCollege": 24.6,
+      "associates": 8.5,
+      "bachelors": 23.6,
+      "graduate": 19.7
+    },
+    "medianIncome": 71143,
+    "meanIncome": 101205
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "53",
+    "name": "King County, Washington",
+    "population": 2262713,
+    "medianAge": 37.3,
+    "race": {
+      "white": 56.7,
+      "black": 6.5,
+      "asian": 19.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.7,
+      "other": 4.9,
+      "twoOrMore": 10.6,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 14.3,
+      "someCollege": 15.9,
+      "associates": 7.6,
+      "bachelors": 32.4,
+      "graduate": 23.5
+    },
+    "medianIncome": 122148,
+    "meanIncome": 170405
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "53",
+    "name": "Kitsap County, Washington",
+    "population": 276581,
+    "medianAge": 39.9,
+    "race": {
+      "white": 76.5,
+      "black": 2.6,
+      "asian": 4.8,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.9,
+      "other": 2.6,
+      "twoOrMore": 11.6,
+      "hispanic": 9
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 21.1,
+      "someCollege": 26.5,
+      "associates": 11.3,
+      "bachelors": 23.3,
+      "graduate": 13.3
+    },
+    "medianIncome": 98546,
+    "meanIncome": 125517
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "53",
+    "name": "Kittitas County, Washington",
+    "population": 44736,
+    "medianAge": 37.9,
+    "race": {
+      "white": 82.4,
+      "black": 1.1,
+      "asian": 1.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 5.2,
+      "twoOrMore": 9,
+      "hispanic": 10.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 27.2,
+      "someCollege": 22,
+      "associates": 8.6,
+      "bachelors": 22.5,
+      "graduate": 12.8
+    },
+    "medianIncome": 69928,
+    "meanIncome": 95281
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "53",
+    "name": "Klickitat County, Washington",
+    "population": 23082,
+    "medianAge": 47.5,
+    "race": {
+      "white": 84.5,
+      "black": 0.7,
+      "asian": 0.9,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0.4,
+      "other": 3.8,
+      "twoOrMore": 8.5,
+      "hispanic": 12.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 27.9,
+      "someCollege": 20.9,
+      "associates": 10,
+      "bachelors": 18,
+      "graduate": 13.1
+    },
+    "medianIncome": 70400,
+    "meanIncome": 96485
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "53",
+    "name": "Lewis County, Washington",
+    "population": 83925,
+    "medianAge": 42.4,
+    "race": {
+      "white": 83.6,
+      "black": 0.8,
+      "asian": 1.2,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.2,
+      "other": 2.9,
+      "twoOrMore": 10.3,
+      "hispanic": 11.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 31.6,
+      "someCollege": 27.1,
+      "associates": 11.5,
+      "bachelors": 13.4,
+      "graduate": 6.8
+    },
+    "medianIncome": 69690,
+    "meanIncome": 86552
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "53",
+    "name": "Lincoln County, Washington",
+    "population": 11271,
+    "medianAge": 46.9,
+    "race": {
+      "white": 90.7,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 2.1,
+      "pacificIslander": 0.2,
+      "other": 1.3,
+      "twoOrMore": 4.4,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 26.1,
+      "someCollege": 30.1,
+      "associates": 12.4,
+      "bachelors": 16,
+      "graduate": 7.7
+    },
+    "medianIncome": 71227,
+    "meanIncome": 91981
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "53",
+    "name": "Mason County, Washington",
+    "population": 66968,
+    "medianAge": 44.8,
+    "race": {
+      "white": 78.3,
+      "black": 1,
+      "asian": 1,
+      "nativeAmerican": 2,
+      "pacificIslander": 0.3,
+      "other": 7,
+      "twoOrMore": 10.4,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 30,
+      "someCollege": 27,
+      "associates": 12.1,
+      "bachelors": 14.1,
+      "graduate": 7.9
+    },
+    "medianIncome": 78359,
+    "meanIncome": 97813
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "53",
+    "name": "Okanogan County, Washington",
+    "population": 42811,
+    "medianAge": 43.4,
+    "race": {
+      "white": 66.5,
+      "black": 1.6,
+      "asian": 0.5,
+      "nativeAmerican": 8.7,
+      "pacificIslander": 0.1,
+      "other": 9.9,
+      "twoOrMore": 12.7,
+      "hispanic": 20.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 29.2,
+      "someCollege": 21.3,
+      "associates": 11.2,
+      "bachelors": 15,
+      "graduate": 9
+    },
+    "medianIncome": 60293,
+    "meanIncome": 77804
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "53",
+    "name": "Pacific County, Washington",
+    "population": 23750,
+    "medianAge": 54.9,
+    "race": {
+      "white": 82.8,
+      "black": 0.6,
+      "asian": 1.7,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.1,
+      "other": 5.1,
+      "twoOrMore": 7.9,
+      "hispanic": 9.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 29.1,
+      "someCollege": 28.5,
+      "associates": 10,
+      "bachelors": 16.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 62350,
+    "meanIncome": 86985
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "53",
+    "name": "Pend Oreille County, Washington",
+    "population": 13811,
+    "medianAge": 50,
+    "race": {
+      "white": 86.2,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.2,
+      "other": 1.7,
+      "twoOrMore": 9.3,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 33.8,
+      "someCollege": 28.8,
+      "associates": 11.4,
+      "bachelors": 13.4,
+      "graduate": 6.9
+    },
+    "medianIncome": 63750,
+    "meanIncome": 83822
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "53",
+    "name": "Pierce County, Washington",
+    "population": 924106,
+    "medianAge": 36.8,
+    "race": {
+      "white": 65.9,
+      "black": 7.2,
+      "asian": 6.6,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 1.5,
+      "other": 3.7,
+      "twoOrMore": 14,
+      "hispanic": 12.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 26.7,
+      "someCollege": 24.2,
+      "associates": 11.4,
+      "bachelors": 19.2,
+      "graduate": 10.9
+    },
+    "medianIncome": 96632,
+    "meanIncome": 120501
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "53",
+    "name": "San Juan County, Washington",
+    "population": 18266,
+    "medianAge": 56.7,
+    "race": {
+      "white": 88.3,
+      "black": 0.3,
+      "asian": 1.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.3,
+      "other": 3.2,
+      "twoOrMore": 6.3,
+      "hispanic": 7.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 16,
+      "someCollege": 19.1,
+      "associates": 7,
+      "bachelors": 30.6,
+      "graduate": 22.8
+    },
+    "medianIncome": 83682,
+    "meanIncome": 129398
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "53",
+    "name": "Skagit County, Washington",
+    "population": 130407,
+    "medianAge": 41.9,
+    "race": {
+      "white": 76.8,
+      "black": 0.9,
+      "asian": 2,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.3,
+      "other": 10,
+      "twoOrMore": 8.4,
+      "hispanic": 18.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 25.5,
+      "someCollege": 25.1,
+      "associates": 11.1,
+      "bachelors": 18,
+      "graduate": 11.2
+    },
+    "medianIncome": 85474,
+    "meanIncome": 108032
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "53",
+    "name": "Skamania County, Washington",
+    "population": 12276,
+    "medianAge": 48.6,
+    "race": {
+      "white": 87.6,
+      "black": 0.3,
+      "asian": 1.3,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.2,
+      "other": 2.9,
+      "twoOrMore": 6.2,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 27.5,
+      "someCollege": 26.4,
+      "associates": 11.1,
+      "bachelors": 17.9,
+      "graduate": 10.3
+    },
+    "medianIncome": 90085,
+    "meanIncome": 106938
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "53",
+    "name": "Snohomish County, Washington",
+    "population": 834648,
+    "medianAge": 38.4,
+    "race": {
+      "white": 66.4,
+      "black": 3.6,
+      "asian": 12.8,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.5,
+      "other": 4.9,
+      "twoOrMore": 10.7,
+      "hispanic": 11.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 22.7,
+      "someCollege": 22.8,
+      "associates": 10.7,
+      "bachelors": 24.2,
+      "graduate": 12.6
+    },
+    "medianIncome": 107982,
+    "meanIncome": 136089
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "53",
+    "name": "Spokane County, Washington",
+    "population": 544323,
+    "medianAge": 38.2,
+    "race": {
+      "white": 83.8,
+      "black": 2,
+      "asian": 2.3,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.7,
+      "other": 1.9,
+      "twoOrMore": 8.3,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 24.2,
+      "someCollege": 25.5,
+      "associates": 12.7,
+      "bachelors": 20.4,
+      "graduate": 11.7
+    },
+    "medianIncome": 73513,
+    "meanIncome": 98513
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "53",
+    "name": "Stevens County, Washington",
+    "population": 47470,
+    "medianAge": 46.8,
+    "race": {
+      "white": 86.8,
+      "black": 0.4,
+      "asian": 0.9,
+      "nativeAmerican": 3.9,
+      "pacificIslander": 0.2,
+      "other": 1.2,
+      "twoOrMore": 6.6,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 32.6,
+      "someCollege": 26.1,
+      "associates": 11.6,
+      "bachelors": 13.2,
+      "graduate": 8.6
+    },
+    "medianIncome": 67405,
+    "meanIncome": 88291
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "53",
+    "name": "Thurston County, Washington",
+    "population": 296640,
+    "medianAge": 39.8,
+    "race": {
+      "white": 74.1,
+      "black": 3.3,
+      "asian": 5.8,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 1,
+      "other": 2.6,
+      "twoOrMore": 12,
+      "hispanic": 10.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 22.1,
+      "someCollege": 24,
+      "associates": 11.2,
+      "bachelors": 23,
+      "graduate": 14.2
+    },
+    "medianIncome": 93985,
+    "meanIncome": 111383
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "53",
+    "name": "Wahkiakum County, Washington",
+    "population": 4573,
+    "medianAge": 54.8,
+    "race": {
+      "white": 86.1,
+      "black": 1.1,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.9,
+      "twoOrMore": 7.3,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 29.3,
+      "someCollege": 27.1,
+      "associates": 14.1,
+      "bachelors": 15.4,
+      "graduate": 6.9
+    },
+    "medianIncome": 57091,
+    "meanIncome": 75908
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "53",
+    "name": "Walla Walla County, Washington",
+    "population": 62102,
+    "medianAge": 38.3,
+    "race": {
+      "white": 75.3,
+      "black": 1.8,
+      "asian": 1.9,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.2,
+      "other": 9.9,
+      "twoOrMore": 9.6,
+      "hispanic": 23.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 22.9,
+      "someCollege": 24.5,
+      "associates": 11.7,
+      "bachelors": 16.8,
+      "graduate": 13.2
+    },
+    "medianIncome": 72212,
+    "meanIncome": 96277
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "53",
+    "name": "Whatcom County, Washington",
+    "population": 228432,
+    "medianAge": 38.2,
+    "race": {
+      "white": 78.7,
+      "black": 0.9,
+      "asian": 4.3,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.3,
+      "other": 4.5,
+      "twoOrMore": 9.4,
+      "hispanic": 10.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 21.4,
+      "someCollege": 23.6,
+      "associates": 10.7,
+      "bachelors": 23.5,
+      "graduate": 14.6
+    },
+    "medianIncome": 80989,
+    "meanIncome": 105948
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "53",
+    "name": "Whitman County, Washington",
+    "population": 47042,
+    "medianAge": 26.1,
+    "race": {
+      "white": 76.7,
+      "black": 1.6,
+      "asian": 7.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.2,
+      "other": 2.7,
+      "twoOrMore": 10.6,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 15.1,
+      "someCollege": 20.8,
+      "associates": 10,
+      "bachelors": 27.1,
+      "graduate": 23.1
+    },
+    "medianIncome": 52893,
+    "meanIncome": 78956
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "53",
+    "name": "Yakima County, Washington",
+    "population": 256605,
+    "medianAge": 33.2,
+    "race": {
+      "white": 52.8,
+      "black": 0.8,
+      "asian": 1.2,
+      "nativeAmerican": 3.4,
+      "pacificIslander": 0.4,
+      "other": 18.9,
+      "twoOrMore": 22.5,
+      "hispanic": 51.6
+    },
+    "education": {
+      "lessThanHighSchool": 23.7,
+      "highSchool": 29.3,
+      "someCollege": 19.7,
+      "associates": 8.5,
+      "bachelors": 12.1,
+      "graduate": 6.8
+    },
+    "medianIncome": 68015,
+    "meanIncome": 85476
+  }
+]

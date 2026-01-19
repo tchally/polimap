@@ -1,0 +1,272 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "33",
+    "name": "Belknap County, New Hampshire",
+    "population": 64300,
+    "medianAge": 48.3,
+    "race": {
+      "white": 93.8,
+      "black": 0.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 29.5,
+      "someCollege": 19.9,
+      "associates": 11.8,
+      "bachelors": 19.4,
+      "graduate": 13.1
+    },
+    "medianIncome": 87983,
+    "meanIncome": 111450
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "33",
+    "name": "Carroll County, New Hampshire",
+    "population": 51259,
+    "medianAge": 54.2,
+    "race": {
+      "white": 94.8,
+      "black": 0.5,
+      "asian": 0.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.9,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.4,
+      "highSchool": 25.6,
+      "someCollege": 20.5,
+      "associates": 10.7,
+      "bachelors": 22.3,
+      "graduate": 16.5
+    },
+    "medianIncome": 82961,
+    "meanIncome": 109531
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "33",
+    "name": "Cheshire County, New Hampshire",
+    "population": 76945,
+    "medianAge": 43.5,
+    "race": {
+      "white": 92.5,
+      "black": 0.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 5.2,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 31.4,
+      "someCollege": 18.1,
+      "associates": 9.2,
+      "bachelors": 21.5,
+      "graduate": 13.8
+    },
+    "medianIncome": 81001,
+    "meanIncome": 101172
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "33",
+    "name": "Coos County, New Hampshire",
+    "population": 31386,
+    "medianAge": 49.9,
+    "race": {
+      "white": 94.3,
+      "black": 1.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.3,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 38.7,
+      "someCollege": 18.7,
+      "associates": 11.9,
+      "bachelors": 12.9,
+      "graduate": 7.3
+    },
+    "medianIncome": 58439,
+    "meanIncome": 82759
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "33",
+    "name": "Grafton County, New Hampshire",
+    "population": 91759,
+    "medianAge": 44,
+    "race": {
+      "white": 88.9,
+      "black": 1.3,
+      "asian": 3.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.9,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 25.8,
+      "someCollege": 15.8,
+      "associates": 7.5,
+      "bachelors": 21.7,
+      "graduate": 23.2
+    },
+    "medianIncome": 84021,
+    "meanIncome": 118425
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "33",
+    "name": "Hillsborough County, New Hampshire",
+    "population": 424732,
+    "medianAge": 41,
+    "race": {
+      "white": 83.3,
+      "black": 2.6,
+      "asian": 4.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 7.7,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 25.6,
+      "someCollege": 17.2,
+      "associates": 9.6,
+      "bachelors": 25.4,
+      "graduate": 15.2
+    },
+    "medianIncome": 100436,
+    "meanIncome": 128567
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "33",
+    "name": "Merrimack County, New Hampshire",
+    "population": 155018,
+    "medianAge": 42.6,
+    "race": {
+      "white": 91.4,
+      "black": 1.6,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.5,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 28.2,
+      "someCollege": 16.6,
+      "associates": 10.9,
+      "bachelors": 22.2,
+      "graduate": 15.9
+    },
+    "medianIncome": 93944,
+    "meanIncome": 119046
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "33",
+    "name": "Rockingham County, New Hampshire",
+    "population": 317163,
+    "medianAge": 44.8,
+    "race": {
+      "white": 91.4,
+      "black": 0.9,
+      "asian": 2.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 25,
+      "someCollege": 16.8,
+      "associates": 9.5,
+      "bachelors": 27.8,
+      "graduate": 17
+    },
+    "medianIncome": 113927,
+    "meanIncome": 145728
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "33",
+    "name": "Strafford County, New Hampshire",
+    "population": 131743,
+    "medianAge": 37.9,
+    "race": {
+      "white": 89,
+      "black": 1.2,
+      "asian": 2.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 6.3,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 26.1,
+      "someCollege": 18.2,
+      "associates": 11.9,
+      "bachelors": 24.3,
+      "graduate": 14.2
+    },
+    "medianIncome": 86564,
+    "meanIncome": 110178
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "33",
+    "name": "Sullivan County, New Hampshire",
+    "population": 43529,
+    "medianAge": 47.3,
+    "race": {
+      "white": 92.3,
+      "black": 0.9,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 4.7,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 37,
+      "someCollege": 13.9,
+      "associates": 9.7,
+      "bachelors": 19.1,
+      "graduate": 11.5
+    },
+    "medianIncome": 75929,
+    "meanIncome": 102029
+  }
+]

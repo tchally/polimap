@@ -1,0 +1,2378 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "39",
+    "name": "Adams County, Ohio",
+    "population": 27510,
+    "medianAge": 42.3,
+    "race": {
+      "white": 96.5,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.2,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 45.2,
+      "someCollege": 15.8,
+      "associates": 9.9,
+      "bachelors": 7.4,
+      "graduate": 6.9
+    },
+    "medianIncome": 49521,
+    "meanIncome": 65434
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "39",
+    "name": "Allen County, Ohio",
+    "population": 101685,
+    "medianAge": 39.7,
+    "race": {
+      "white": 80.9,
+      "black": 10.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6.2,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 40.7,
+      "someCollege": 21.3,
+      "associates": 10.5,
+      "bachelors": 12.4,
+      "graduate": 7.5
+    },
+    "medianIncome": 62001,
+    "meanIncome": 80262
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "39",
+    "name": "Ashland County, Ohio",
+    "population": 52296,
+    "medianAge": 41.4,
+    "race": {
+      "white": 95.1,
+      "black": 1.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.5,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 43.4,
+      "someCollege": 16.9,
+      "associates": 8.6,
+      "bachelors": 14.6,
+      "graduate": 7.4
+    },
+    "medianIncome": 64991,
+    "meanIncome": 79889
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "39",
+    "name": "Ashtabula County, Ohio",
+    "population": 97343,
+    "medianAge": 42.7,
+    "race": {
+      "white": 89.6,
+      "black": 3.8,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 42.2,
+      "someCollege": 20.4,
+      "associates": 8.9,
+      "bachelors": 10.6,
+      "graduate": 5.4
+    },
+    "medianIncome": 55507,
+    "meanIncome": 74053
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "39",
+    "name": "Athens County, Ohio",
+    "population": 61573,
+    "medianAge": 32.8,
+    "race": {
+      "white": 90.7,
+      "black": 2.5,
+      "asian": 2.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.3,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 29.8,
+      "someCollege": 17.8,
+      "associates": 8.8,
+      "bachelors": 16.6,
+      "graduate": 18.8
+    },
+    "medianIncome": 53837,
+    "meanIncome": 75116
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "39",
+    "name": "Auglaize County, Ohio",
+    "population": 46209,
+    "medianAge": 40.6,
+    "race": {
+      "white": 95.4,
+      "black": 0.9,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.6,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 41.5,
+      "someCollege": 18.7,
+      "associates": 12.6,
+      "bachelors": 12.8,
+      "graduate": 8
+    },
+    "medianIncome": 76454,
+    "meanIncome": 91185
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "39",
+    "name": "Belmont County, Ohio",
+    "population": 65982,
+    "medianAge": 44.1,
+    "race": {
+      "white": 91.4,
+      "black": 3.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.2,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 45.9,
+      "someCollege": 16,
+      "associates": 11.5,
+      "bachelors": 11.6,
+      "graduate": 7.1
+    },
+    "medianIncome": 58411,
+    "meanIncome": 75829
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "39",
+    "name": "Brown County, Ohio",
+    "population": 43710,
+    "medianAge": 42.1,
+    "race": {
+      "white": 95.7,
+      "black": 0.9,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 45.9,
+      "someCollege": 17,
+      "associates": 9.1,
+      "bachelors": 10.2,
+      "graduate": 5.6
+    },
+    "medianIncome": 69990,
+    "meanIncome": 85915
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "39",
+    "name": "Butler County, Ohio",
+    "population": 389910,
+    "medianAge": 37.1,
+    "race": {
+      "white": 77.9,
+      "black": 8.3,
+      "asian": 4.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 7.1,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 32,
+      "someCollege": 18.4,
+      "associates": 8.2,
+      "bachelors": 20.8,
+      "graduate": 11.7
+    },
+    "medianIncome": 81194,
+    "meanIncome": 103524
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "39",
+    "name": "Carroll County, Ohio",
+    "population": 26731,
+    "medianAge": 45.5,
+    "race": {
+      "white": 95.1,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.7,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 48.1,
+      "someCollege": 16.6,
+      "associates": 11,
+      "bachelors": 9.1,
+      "graduate": 5
+    },
+    "medianIncome": 64675,
+    "meanIncome": 81586
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "39",
+    "name": "Champaign County, Ohio",
+    "population": 38772,
+    "medianAge": 41.6,
+    "race": {
+      "white": 92.3,
+      "black": 1.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.5,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 42.9,
+      "someCollege": 20.7,
+      "associates": 9.1,
+      "bachelors": 12.8,
+      "graduate": 6.3
+    },
+    "medianIncome": 74239,
+    "meanIncome": 87101
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "39",
+    "name": "Clark County, Ohio",
+    "population": 135445,
+    "medianAge": 41.2,
+    "race": {
+      "white": 83.5,
+      "black": 8.2,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 1.7,
+      "twoOrMore": 5.8,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 37.6,
+      "someCollege": 22.7,
+      "associates": 10.5,
+      "bachelors": 11.5,
+      "graduate": 7
+    },
+    "medianIncome": 60846,
+    "meanIncome": 77705
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "39",
+    "name": "Clermont County, Ohio",
+    "population": 209862,
+    "medianAge": 40.8,
+    "race": {
+      "white": 92.4,
+      "black": 1.5,
+      "asian": 1.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 31.9,
+      "someCollege": 19.3,
+      "associates": 9.3,
+      "bachelors": 19.8,
+      "graduate": 11.6
+    },
+    "medianIncome": 83178,
+    "meanIncome": 107049
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "39",
+    "name": "Clinton County, Ohio",
+    "population": 42014,
+    "medianAge": 41,
+    "race": {
+      "white": 92.6,
+      "black": 1.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.3,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 40.3,
+      "someCollege": 20.2,
+      "associates": 11,
+      "bachelors": 12.5,
+      "graduate": 7.5
+    },
+    "medianIncome": 68125,
+    "meanIncome": 84570
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "39",
+    "name": "Columbiana County, Ohio",
+    "population": 101203,
+    "medianAge": 44.7,
+    "race": {
+      "white": 93.2,
+      "black": 1.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 3.5,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 44.7,
+      "someCollege": 17.8,
+      "associates": 11.2,
+      "bachelors": 10.8,
+      "graduate": 5.2
+    },
+    "medianIncome": 58474,
+    "meanIncome": 75850
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "39",
+    "name": "Coshocton County, Ohio",
+    "population": 36679,
+    "medianAge": 41,
+    "race": {
+      "white": 94.7,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.7,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 41.5,
+      "someCollege": 16.9,
+      "associates": 9.9,
+      "bachelors": 11.2,
+      "graduate": 5.5
+    },
+    "medianIncome": 54687,
+    "meanIncome": 69218
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "39",
+    "name": "Crawford County, Ohio",
+    "population": 41767,
+    "medianAge": 43.3,
+    "race": {
+      "white": 95.5,
+      "black": 0.9,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.7,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 46.1,
+      "someCollege": 17.8,
+      "associates": 11.1,
+      "bachelors": 9.5,
+      "graduate": 6
+    },
+    "medianIncome": 55477,
+    "meanIncome": 72825
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "39",
+    "name": "Cuyahoga County, Ohio",
+    "population": 1249418,
+    "medianAge": 40.5,
+    "race": {
+      "white": 58.7,
+      "black": 29,
+      "asian": 3.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 6.5,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 27.2,
+      "someCollege": 20,
+      "associates": 8.1,
+      "bachelors": 20.5,
+      "graduate": 15.4
+    },
+    "medianIncome": 62823,
+    "meanIncome": 92131
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "39",
+    "name": "Darke County, Ohio",
+    "population": 51655,
+    "medianAge": 42,
+    "race": {
+      "white": 95.6,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 45.4,
+      "someCollege": 20.2,
+      "associates": 8.5,
+      "bachelors": 11.1,
+      "graduate": 5.4
+    },
+    "medianIncome": 64654,
+    "meanIncome": 83137
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "39",
+    "name": "Defiance County, Ohio",
+    "population": 38258,
+    "medianAge": 40.8,
+    "race": {
+      "white": 88.6,
+      "black": 1.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.2,
+      "hispanic": 10.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 39.4,
+      "someCollege": 21.4,
+      "associates": 11.5,
+      "bachelors": 13.1,
+      "graduate": 7
+    },
+    "medianIncome": 73615,
+    "meanIncome": 87099
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "39",
+    "name": "Delaware County, Ohio",
+    "population": 221160,
+    "medianAge": 39.9,
+    "race": {
+      "white": 81.4,
+      "black": 4.2,
+      "asian": 7.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.6,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 2.9,
+      "highSchool": 16.4,
+      "someCollege": 15.9,
+      "associates": 6.7,
+      "bachelors": 34.4,
+      "graduate": 23.6
+    },
+    "medianIncome": 130088,
+    "meanIncome": 161060
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "39",
+    "name": "Erie County, Ohio",
+    "population": 74938,
+    "medianAge": 45.2,
+    "race": {
+      "white": 82.2,
+      "black": 8.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 7.2,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 34.2,
+      "someCollege": 21.6,
+      "associates": 8.7,
+      "bachelors": 18.7,
+      "graduate": 9.2
+    },
+    "medianIncome": 68431,
+    "meanIncome": 91016
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "39",
+    "name": "Fairfield County, Ohio",
+    "population": 161289,
+    "medianAge": 39.5,
+    "race": {
+      "white": 82.6,
+      "black": 8.9,
+      "asian": 2.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.2,
+      "twoOrMore": 4.4,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 32.8,
+      "someCollege": 20.7,
+      "associates": 8.6,
+      "bachelors": 20.8,
+      "graduate": 11.1
+    },
+    "medianIncome": 87069,
+    "meanIncome": 106689
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "39",
+    "name": "Fayette County, Ohio",
+    "population": 28880,
+    "medianAge": 40.8,
+    "race": {
+      "white": 91.3,
+      "black": 2.9,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 4.6,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 47.8,
+      "someCollege": 15.9,
+      "associates": 8.2,
+      "bachelors": 9.3,
+      "graduate": 4.5
+    },
+    "medianIncome": 60047,
+    "meanIncome": 76109
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "39",
+    "name": "Franklin County, Ohio",
+    "population": 1321635,
+    "medianAge": 34.7,
+    "race": {
+      "white": 60.5,
+      "black": 23,
+      "asian": 5.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 7.8,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 24,
+      "someCollege": 18.3,
+      "associates": 7,
+      "bachelors": 25.7,
+      "graduate": 16.3
+    },
+    "medianIncome": 73795,
+    "meanIncome": 102386
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "39",
+    "name": "Fulton County, Ohio",
+    "population": 42434,
+    "medianAge": 41.6,
+    "race": {
+      "white": 90.3,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 5.1,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 42.3,
+      "someCollege": 21.7,
+      "associates": 11.9,
+      "bachelors": 11.9,
+      "graduate": 7
+    },
+    "medianIncome": 72866,
+    "meanIncome": 94622
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "39",
+    "name": "Gallia County, Ohio",
+    "population": 29162,
+    "medianAge": 41.3,
+    "race": {
+      "white": 92.4,
+      "black": 2,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 3,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 41.9,
+      "someCollege": 17.2,
+      "associates": 9.9,
+      "bachelors": 10.2,
+      "graduate": 7.7
+    },
+    "medianIncome": 56455,
+    "meanIncome": 77599
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "39",
+    "name": "Geauga County, Ohio",
+    "population": 95479,
+    "medianAge": 45,
+    "race": {
+      "white": 93.7,
+      "black": 0.9,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.2,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 26.5,
+      "someCollege": 18.2,
+      "associates": 7.8,
+      "bachelors": 24.2,
+      "graduate": 14.5
+    },
+    "medianIncome": 100783,
+    "meanIncome": 135616
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "39",
+    "name": "Greene County, Ohio",
+    "population": 168531,
+    "medianAge": 38.7,
+    "race": {
+      "white": 82.9,
+      "black": 5.9,
+      "asian": 2.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 7,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 23,
+      "someCollege": 20.6,
+      "associates": 9.6,
+      "bachelors": 21.6,
+      "graduate": 19.7
+    },
+    "medianIncome": 85218,
+    "meanIncome": 108932
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "39",
+    "name": "Guernsey County, Ohio",
+    "population": 38283,
+    "medianAge": 42.7,
+    "race": {
+      "white": 94.1,
+      "black": 1.7,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.1,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 41.4,
+      "someCollege": 19.4,
+      "associates": 9.5,
+      "bachelors": 10.1,
+      "graduate": 5.2
+    },
+    "medianIncome": 55756,
+    "meanIncome": 74239
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "39",
+    "name": "Hamilton County, Ohio",
+    "population": 827878,
+    "medianAge": 36.9,
+    "race": {
+      "white": 64.3,
+      "black": 25.1,
+      "asian": 2.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 6.1,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 25.5,
+      "someCollege": 17.3,
+      "associates": 8.3,
+      "bachelors": 24.7,
+      "graduate": 16.7
+    },
+    "medianIncome": 70816,
+    "meanIncome": 103444
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "39",
+    "name": "Hancock County, Ohio",
+    "population": 74885,
+    "medianAge": 39.6,
+    "race": {
+      "white": 89.9,
+      "black": 1.8,
+      "asian": 1.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 4.2,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 35.7,
+      "someCollege": 19.7,
+      "associates": 9.8,
+      "bachelors": 18.5,
+      "graduate": 11.3
+    },
+    "medianIncome": 69699,
+    "meanIncome": 92037
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "39",
+    "name": "Hardin County, Ohio",
+    "population": 30527,
+    "medianAge": 35.3,
+    "race": {
+      "white": 93.4,
+      "black": 1.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 3.7,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 47.4,
+      "someCollege": 17.2,
+      "associates": 8.3,
+      "bachelors": 12.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 58001,
+    "meanIncome": 74502
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "39",
+    "name": "Harrison County, Ohio",
+    "population": 14408,
+    "medianAge": 46.1,
+    "race": {
+      "white": 94.7,
+      "black": 2.9,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 49.1,
+      "someCollege": 15,
+      "associates": 12.8,
+      "bachelors": 8.5,
+      "graduate": 4.5
+    },
+    "medianIncome": 53851,
+    "meanIncome": 72647
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "39",
+    "name": "Henry County, Ohio",
+    "population": 27581,
+    "medianAge": 41.7,
+    "race": {
+      "white": 89.7,
+      "black": 0.6,
+      "asian": 0.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 4.4,
+      "twoOrMore": 4.4,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 41.7,
+      "someCollege": 19.5,
+      "associates": 12.7,
+      "bachelors": 12.4,
+      "graduate": 6.3
+    },
+    "medianIncome": 79267,
+    "meanIncome": 98578
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "39",
+    "name": "Highland County, Ohio",
+    "population": 43403,
+    "medianAge": 40.8,
+    "race": {
+      "white": 95,
+      "black": 1.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.4,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 40.4,
+      "someCollege": 18.8,
+      "associates": 12.1,
+      "bachelors": 10.1,
+      "graduate": 5.5
+    },
+    "medianIncome": 62008,
+    "meanIncome": 76105
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "39",
+    "name": "Hocking County, Ohio",
+    "population": 27938,
+    "medianAge": 42.6,
+    "race": {
+      "white": 94.4,
+      "black": 0.4,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.4,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 42.1,
+      "someCollege": 19.6,
+      "associates": 12,
+      "bachelors": 9.7,
+      "graduate": 4.6
+    },
+    "medianIncome": 61366,
+    "meanIncome": 77310
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "39",
+    "name": "Holmes County, Ohio",
+    "population": 44312,
+    "medianAge": 32.5,
+    "race": {
+      "white": 98.1,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 1.2,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 42.9,
+      "highSchool": 33.1,
+      "someCollege": 9.1,
+      "associates": 3.9,
+      "bachelors": 7.4,
+      "graduate": 3.6
+    },
+    "medianIncome": 74774,
+    "meanIncome": 99080
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "39",
+    "name": "Huron County, Ohio",
+    "population": 58412,
+    "medianAge": 40.4,
+    "race": {
+      "white": 91.9,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.6,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 44.8,
+      "someCollege": 19.8,
+      "associates": 9.1,
+      "bachelors": 11,
+      "graduate": 6
+    },
+    "medianIncome": 65972,
+    "meanIncome": 79750
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "39",
+    "name": "Jackson County, Ohio",
+    "population": 32588,
+    "medianAge": 40.2,
+    "race": {
+      "white": 96.2,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.8,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 47,
+      "someCollege": 13.9,
+      "associates": 9.9,
+      "bachelors": 10.8,
+      "graduate": 5.8
+    },
+    "medianIncome": 58409,
+    "meanIncome": 76287
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "39",
+    "name": "Jefferson County, Ohio",
+    "population": 64855,
+    "medianAge": 44.2,
+    "race": {
+      "white": 89.6,
+      "black": 5.4,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 41.6,
+      "someCollege": 17.7,
+      "associates": 13,
+      "bachelors": 13.4,
+      "graduate": 7.2
+    },
+    "medianIncome": 56983,
+    "meanIncome": 72319
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "39",
+    "name": "Knox County, Ohio",
+    "population": 62888,
+    "medianAge": 39.4,
+    "race": {
+      "white": 94,
+      "black": 0.9,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.3,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 38,
+      "someCollege": 19.2,
+      "associates": 9.5,
+      "bachelors": 15.8,
+      "graduate": 8.6
+    },
+    "medianIncome": 73988,
+    "meanIncome": 90200
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "39",
+    "name": "Lake County, Ohio",
+    "population": 232101,
+    "medianAge": 44,
+    "race": {
+      "white": 86.9,
+      "black": 4.9,
+      "asian": 1.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 5.1,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 31.6,
+      "someCollege": 21.9,
+      "associates": 9.8,
+      "bachelors": 20,
+      "graduate": 10.6
+    },
+    "medianIncome": 77952,
+    "meanIncome": 98936
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "39",
+    "name": "Lawrence County, Ohio",
+    "population": 57385,
+    "medianAge": 41.9,
+    "race": {
+      "white": 94,
+      "black": 1.7,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.9,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 42.7,
+      "someCollege": 19.5,
+      "associates": 9.3,
+      "bachelors": 11.7,
+      "graduate": 6.9
+    },
+    "medianIncome": 54842,
+    "meanIncome": 72534
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "39",
+    "name": "Licking County, Ohio",
+    "population": 180311,
+    "medianAge": 40.2,
+    "race": {
+      "white": 87,
+      "black": 4,
+      "asian": 3.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 5,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 33.8,
+      "someCollege": 20.2,
+      "associates": 9.9,
+      "bachelors": 19.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 81033,
+    "meanIncome": 107464
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "39",
+    "name": "Logan County, Ohio",
+    "population": 46140,
+    "medianAge": 42.1,
+    "race": {
+      "white": 92.7,
+      "black": 1.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.1,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 44,
+      "someCollege": 19.1,
+      "associates": 11.4,
+      "bachelors": 12.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 69183,
+    "meanIncome": 90992
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "39",
+    "name": "Lorain County, Ohio",
+    "population": 314588,
+    "medianAge": 42.1,
+    "race": {
+      "white": 79.5,
+      "black": 7.5,
+      "asian": 1.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 9.4,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 31.1,
+      "someCollege": 21.9,
+      "associates": 10.6,
+      "bachelors": 17.4,
+      "graduate": 10.5
+    },
+    "medianIncome": 70693,
+    "meanIncome": 96343
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "39",
+    "name": "Lucas County, Ohio",
+    "population": 428748,
+    "medianAge": 38.3,
+    "race": {
+      "white": 69.2,
+      "black": 19.5,
+      "asian": 1.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 7,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 29.9,
+      "someCollege": 22,
+      "associates": 10.5,
+      "bachelors": 17.7,
+      "graduate": 10.8
+    },
+    "medianIncome": 60095,
+    "meanIncome": 84633
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "39",
+    "name": "Madison County, Ohio",
+    "population": 44126,
+    "medianAge": 41.5,
+    "race": {
+      "white": 87.5,
+      "black": 4.7,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.1,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 37.8,
+      "someCollege": 20.8,
+      "associates": 8,
+      "bachelors": 15.3,
+      "graduate": 7.1
+    },
+    "medianIncome": 83229,
+    "meanIncome": 99213
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "39",
+    "name": "Mahoning County, Ohio",
+    "population": 227063,
+    "medianAge": 43.4,
+    "race": {
+      "white": 76,
+      "black": 14.3,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 6.5,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 36.3,
+      "someCollege": 20.2,
+      "associates": 8.8,
+      "bachelors": 16.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 55576,
+    "meanIncome": 76826
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "39",
+    "name": "Marion County, Ohio",
+    "population": 65145,
+    "medianAge": 40.5,
+    "race": {
+      "white": 87.6,
+      "black": 5.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5.2,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 43.8,
+      "someCollege": 22.3,
+      "associates": 9.2,
+      "bachelors": 9.4,
+      "graduate": 4.3
+    },
+    "medianIncome": 57306,
+    "meanIncome": 78335
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "39",
+    "name": "Medina County, Ohio",
+    "population": 183049,
+    "medianAge": 43.1,
+    "race": {
+      "white": 92.7,
+      "black": 1.3,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.4,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 29,
+      "someCollege": 19.9,
+      "associates": 9.4,
+      "bachelors": 23.9,
+      "graduate": 12.4
+    },
+    "medianIncome": 92660,
+    "meanIncome": 116764
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "39",
+    "name": "Meigs County, Ohio",
+    "population": 22072,
+    "medianAge": 43.8,
+    "race": {
+      "white": 96.6,
+      "black": 0.6,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.2,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 46.9,
+      "someCollege": 16.2,
+      "associates": 11.9,
+      "bachelors": 8.1,
+      "graduate": 3.7
+    },
+    "medianIncome": 46701,
+    "meanIncome": 60628
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "39",
+    "name": "Mercer County, Ohio",
+    "population": 42438,
+    "medianAge": 39.1,
+    "race": {
+      "white": 95,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1,
+      "twoOrMore": 2.7,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 43.5,
+      "someCollege": 16.6,
+      "associates": 12.4,
+      "bachelors": 14.2,
+      "graduate": 8
+    },
+    "medianIncome": 78036,
+    "meanIncome": 90650
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "39",
+    "name": "Miami County, Ohio",
+    "population": 109549,
+    "medianAge": 41.1,
+    "race": {
+      "white": 91.2,
+      "black": 2.1,
+      "asian": 1.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.4,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 37.9,
+      "someCollege": 19.6,
+      "associates": 10.4,
+      "bachelors": 14.9,
+      "graduate": 10.1
+    },
+    "medianIncome": 74175,
+    "meanIncome": 94300
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "39",
+    "name": "Monroe County, Ohio",
+    "population": 13308,
+    "medianAge": 46,
+    "race": {
+      "white": 95.4,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.2,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 50.7,
+      "someCollege": 15.5,
+      "associates": 13,
+      "bachelors": 7.2,
+      "graduate": 3.5
+    },
+    "medianIncome": 58962,
+    "meanIncome": 80960
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "39",
+    "name": "Montgomery County, Ohio",
+    "population": 535528,
+    "medianAge": 38.8,
+    "race": {
+      "white": 69.2,
+      "black": 20.5,
+      "asian": 2.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 6.4,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 27.6,
+      "someCollege": 23.8,
+      "associates": 10.2,
+      "bachelors": 18.2,
+      "graduate": 12.3
+    },
+    "medianIncome": 64403,
+    "meanIncome": 86066
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "39",
+    "name": "Morgan County, Ohio",
+    "population": 13758,
+    "medianAge": 44.4,
+    "race": {
+      "white": 91.2,
+      "black": 3,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.8,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 43.4,
+      "someCollege": 19.7,
+      "associates": 11.2,
+      "bachelors": 9.7,
+      "graduate": 4.5
+    },
+    "medianIncome": 55971,
+    "meanIncome": 69579
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "39",
+    "name": "Morrow County, Ohio",
+    "population": 35214,
+    "medianAge": 43.3,
+    "race": {
+      "white": 95,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.1,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 46.4,
+      "someCollege": 18.5,
+      "associates": 8.3,
+      "bachelors": 12.9,
+      "graduate": 5.3
+    },
+    "medianIncome": 71047,
+    "meanIncome": 89296
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "39",
+    "name": "Muskingum County, Ohio",
+    "population": 86382,
+    "medianAge": 40.5,
+    "race": {
+      "white": 91,
+      "black": 3.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.7,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 41.9,
+      "someCollege": 18.4,
+      "associates": 9.7,
+      "bachelors": 12.6,
+      "graduate": 7.7
+    },
+    "medianIncome": 59203,
+    "meanIncome": 77324
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "39",
+    "name": "Noble County, Ohio",
+    "population": 14252,
+    "medianAge": 51.3,
+    "race": {
+      "white": 93.6,
+      "black": 4,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 1,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 50.2,
+      "someCollege": 13.6,
+      "associates": 7.8,
+      "bachelors": 9.4,
+      "graduate": 4.3
+    },
+    "medianIncome": 55360,
+    "meanIncome": 80344
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "39",
+    "name": "Ottawa County, Ohio",
+    "population": 40161,
+    "medianAge": 50.3,
+    "race": {
+      "white": 92.7,
+      "black": 1.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 3.7,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 35.2,
+      "someCollege": 19.3,
+      "associates": 11,
+      "bachelors": 17.6,
+      "graduate": 10.9
+    },
+    "medianIncome": 75728,
+    "meanIncome": 104516
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "39",
+    "name": "Paulding County, Ohio",
+    "population": 18800,
+    "medianAge": 41.7,
+    "race": {
+      "white": 92.2,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 4.9,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 44.2,
+      "someCollege": 19.9,
+      "associates": 10.6,
+      "bachelors": 10.5,
+      "graduate": 5.2
+    },
+    "medianIncome": 68167,
+    "meanIncome": 85900
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "39",
+    "name": "Perry County, Ohio",
+    "population": 35474,
+    "medianAge": 41.1,
+    "race": {
+      "white": 96.1,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.2,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 46.9,
+      "someCollege": 16.4,
+      "associates": 9.9,
+      "bachelors": 10.7,
+      "graduate": 4.3
+    },
+    "medianIncome": 64737,
+    "meanIncome": 78715
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "39",
+    "name": "Pickaway County, Ohio",
+    "population": 59407,
+    "medianAge": 39.5,
+    "race": {
+      "white": 92,
+      "black": 3,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.2,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 41,
+      "someCollege": 18.7,
+      "associates": 7.5,
+      "bachelors": 14.7,
+      "graduate": 6.6
+    },
+    "medianIncome": 72927,
+    "meanIncome": 91371
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "39",
+    "name": "Pike County, Ohio",
+    "population": 27080,
+    "medianAge": 41.1,
+    "race": {
+      "white": 95.2,
+      "black": 1.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.5,
+      "other": 0,
+      "twoOrMore": 2.8,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 48.9,
+      "someCollege": 13.3,
+      "associates": 8.8,
+      "bachelors": 9.8,
+      "graduate": 4.7
+    },
+    "medianIncome": 49552,
+    "meanIncome": 77942
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "39",
+    "name": "Portage County, Ohio",
+    "population": 161421,
+    "medianAge": 39.3,
+    "race": {
+      "white": 87.5,
+      "black": 4.7,
+      "asian": 1.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 35.8,
+      "someCollege": 17.7,
+      "associates": 7.9,
+      "bachelors": 18.8,
+      "graduate": 12.7
+    },
+    "medianIncome": 72822,
+    "meanIncome": 94386
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "39",
+    "name": "Preble County, Ohio",
+    "population": 40802,
+    "medianAge": 43.2,
+    "race": {
+      "white": 95.7,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.8,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 46.1,
+      "someCollege": 20.2,
+      "associates": 8.4,
+      "bachelors": 10.8,
+      "graduate": 7.1
+    },
+    "medianIncome": 71237,
+    "meanIncome": 85527
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "39",
+    "name": "Putnam County, Ohio",
+    "population": 34352,
+    "medianAge": 40,
+    "race": {
+      "white": 92,
+      "black": 0.9,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.6,
+      "twoOrMore": 2.8,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 37.9,
+      "someCollege": 16.4,
+      "associates": 14.1,
+      "bachelors": 18.1,
+      "graduate": 8.2
+    },
+    "medianIncome": 82785,
+    "meanIncome": 99572
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "39",
+    "name": "Richland County, Ohio",
+    "population": 125138,
+    "medianAge": 40.9,
+    "race": {
+      "white": 85,
+      "black": 7.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 5.4,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 41.9,
+      "someCollege": 20.2,
+      "associates": 9.5,
+      "bachelors": 11.2,
+      "graduate": 6.6
+    },
+    "medianIncome": 57649,
+    "meanIncome": 74042
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "39",
+    "name": "Ross County, Ohio",
+    "population": 76748,
+    "medianAge": 41,
+    "race": {
+      "white": 89.1,
+      "black": 5.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 45,
+      "someCollege": 19.4,
+      "associates": 7.4,
+      "bachelors": 11,
+      "graduate": 6.1
+    },
+    "medianIncome": 59819,
+    "meanIncome": 78138
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "39",
+    "name": "Sandusky County, Ohio",
+    "population": 58770,
+    "medianAge": 42.5,
+    "race": {
+      "white": 85.7,
+      "black": 3.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 7.3,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 42.7,
+      "someCollege": 20,
+      "associates": 11.4,
+      "bachelors": 13.5,
+      "graduate": 5.6
+    },
+    "medianIncome": 62500,
+    "meanIncome": 82018
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "39",
+    "name": "Scioto County, Ohio",
+    "population": 73118,
+    "medianAge": 40.6,
+    "race": {
+      "white": 93.1,
+      "black": 2.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 43.5,
+      "someCollege": 19.4,
+      "associates": 7.9,
+      "bachelors": 11.5,
+      "graduate": 6.5
+    },
+    "medianIncome": 49571,
+    "meanIncome": 68069
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "39",
+    "name": "Seneca County, Ohio",
+    "population": 54861,
+    "medianAge": 40.5,
+    "race": {
+      "white": 90.5,
+      "black": 2.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 4.2,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 43.1,
+      "someCollege": 18.4,
+      "associates": 11.1,
+      "bachelors": 13.2,
+      "graduate": 7.5
+    },
+    "medianIncome": 65020,
+    "meanIncome": 79613
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "39",
+    "name": "Shelby County, Ohio",
+    "population": 48007,
+    "medianAge": 40.1,
+    "race": {
+      "white": 92.7,
+      "black": 2.1,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.5,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 40.9,
+      "someCollege": 18.1,
+      "associates": 11.8,
+      "bachelors": 13.7,
+      "graduate": 7
+    },
+    "medianIncome": 72822,
+    "meanIncome": 91960
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "39",
+    "name": "Stark County, Ohio",
+    "population": 373764,
+    "medianAge": 41.9,
+    "race": {
+      "white": 85.3,
+      "black": 7.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 5.6,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 37,
+      "someCollege": 21.2,
+      "associates": 9.6,
+      "bachelors": 16.2,
+      "graduate": 8.8
+    },
+    "medianIncome": 65740,
+    "meanIncome": 84919
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "39",
+    "name": "Summit County, Ohio",
+    "population": 538087,
+    "medianAge": 41.2,
+    "race": {
+      "white": 75,
+      "black": 14,
+      "asian": 4.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 6,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 29.2,
+      "someCollege": 20.2,
+      "associates": 8.3,
+      "bachelors": 22.3,
+      "graduate": 13
+    },
+    "medianIncome": 71016,
+    "meanIncome": 98907
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "39",
+    "name": "Trumbull County, Ohio",
+    "population": 201367,
+    "medianAge": 43.8,
+    "race": {
+      "white": 86,
+      "black": 8,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 4.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 43,
+      "someCollege": 18.6,
+      "associates": 8.1,
+      "bachelors": 13.5,
+      "graduate": 6.8
+    },
+    "medianIncome": 55088,
+    "meanIncome": 73150
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "39",
+    "name": "Tuscarawas County, Ohio",
+    "population": 92585,
+    "medianAge": 41.2,
+    "race": {
+      "white": 94.4,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 2.6,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 45.1,
+      "someCollege": 16,
+      "associates": 8.2,
+      "bachelors": 13.5,
+      "graduate": 6.1
+    },
+    "medianIncome": 64494,
+    "meanIncome": 78457
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "39",
+    "name": "Union County, Ohio",
+    "population": 65293,
+    "medianAge": 38.1,
+    "race": {
+      "white": 86.6,
+      "black": 2.4,
+      "asian": 4.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 30.1,
+      "someCollege": 18.2,
+      "associates": 7.8,
+      "bachelors": 25.3,
+      "graduate": 13.8
+    },
+    "medianIncome": 109506,
+    "meanIncome": 134832
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "39",
+    "name": "Van Wert County, Ohio",
+    "population": 28824,
+    "medianAge": 41.4,
+    "race": {
+      "white": 93.9,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.9,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 44.5,
+      "someCollege": 19.5,
+      "associates": 12.5,
+      "bachelors": 10.6,
+      "graduate": 6.4
+    },
+    "medianIncome": 65344,
+    "meanIncome": 79526
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "39",
+    "name": "Vinton County, Ohio",
+    "population": 12686,
+    "medianAge": 43.5,
+    "race": {
+      "white": 96.2,
+      "black": 0.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.2,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 44.1,
+      "someCollege": 14.5,
+      "associates": 9.4,
+      "bachelors": 10.6,
+      "graduate": 4.5
+    },
+    "medianIncome": 53813,
+    "meanIncome": 71683
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "39",
+    "name": "Warren County, Ohio",
+    "population": 246364,
+    "medianAge": 39.8,
+    "race": {
+      "white": 83.7,
+      "black": 3.4,
+      "asian": 6.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 4.3,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 24.6,
+      "someCollege": 16.4,
+      "associates": 8.3,
+      "bachelors": 27.5,
+      "graduate": 18.2
+    },
+    "medianIncome": 107843,
+    "meanIncome": 142625
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "39",
+    "name": "Washington County, Ohio",
+    "population": 59318,
+    "medianAge": 44.1,
+    "race": {
+      "white": 94.4,
+      "black": 1.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.9,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 37,
+      "someCollege": 21.8,
+      "associates": 13.4,
+      "bachelors": 13.3,
+      "graduate": 7.4
+    },
+    "medianIncome": 61355,
+    "meanIncome": 82107
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "39",
+    "name": "Wayne County, Ohio",
+    "population": 116618,
+    "medianAge": 38.9,
+    "race": {
+      "white": 93.2,
+      "black": 1.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.3,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 38,
+      "someCollege": 16.2,
+      "associates": 7.4,
+      "bachelors": 15.1,
+      "graduate": 9.6
+    },
+    "medianIncome": 71769,
+    "meanIncome": 88657
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "39",
+    "name": "Williams County, Ohio",
+    "population": 36862,
+    "medianAge": 41.8,
+    "race": {
+      "white": 92.4,
+      "black": 1.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 3.4,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 43.8,
+      "someCollege": 22.8,
+      "associates": 10.6,
+      "bachelors": 9.4,
+      "graduate": 4.9
+    },
+    "medianIncome": 61834,
+    "meanIncome": 76171
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "39",
+    "name": "Wood County, Ohio",
+    "population": 131795,
+    "medianAge": 35.7,
+    "race": {
+      "white": 87.9,
+      "black": 2,
+      "asian": 2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 6.2,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 28.4,
+      "someCollege": 19.6,
+      "associates": 9.8,
+      "bachelors": 22.2,
+      "graduate": 15.2
+    },
+    "medianIncome": 73124,
+    "meanIncome": 100535
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "39",
+    "name": "Wyandot County, Ohio",
+    "population": 21699,
+    "medianAge": 41.6,
+    "race": {
+      "white": 95,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.9,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 47,
+      "someCollege": 16.8,
+      "associates": 10.4,
+      "bachelors": 12.7,
+      "graduate": 8
+    },
+    "medianIncome": 71878,
+    "meanIncome": 83211
+  }
+]

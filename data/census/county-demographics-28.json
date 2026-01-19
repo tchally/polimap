@@ -1,0 +1,2216 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "28",
+    "name": "Adams County, Mississippi",
+    "population": 29098,
+    "medianAge": 42.1,
+    "race": {
+      "white": 38.4,
+      "black": 55.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 1.8,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 34.5,
+      "someCollege": 21.6,
+      "associates": 8.2,
+      "bachelors": 11.7,
+      "graduate": 7.6
+    },
+    "medianIncome": 40250,
+    "meanIncome": 58556
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "28",
+    "name": "Alcorn County, Mississippi",
+    "population": 34500,
+    "medianAge": 40.6,
+    "race": {
+      "white": 80.9,
+      "black": 10.9,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 2.5,
+      "twoOrMore": 5.1,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 34.9,
+      "someCollege": 21.3,
+      "associates": 8.8,
+      "bachelors": 11.7,
+      "graduate": 6.7
+    },
+    "medianIncome": 49404,
+    "meanIncome": 69592
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "28",
+    "name": "Amite County, Mississippi",
+    "population": 12611,
+    "medianAge": 48.8,
+    "race": {
+      "white": 58.3,
+      "black": 40.1,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 1.2,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 44,
+      "someCollege": 22.7,
+      "associates": 12.4,
+      "bachelors": 3.9,
+      "graduate": 4.1
+    },
+    "medianIncome": 35385,
+    "meanIncome": 51253
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "28",
+    "name": "Attala County, Mississippi",
+    "population": 17685,
+    "medianAge": 39.6,
+    "race": {
+      "white": 52.3,
+      "black": 45.4,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 1.9,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 37.2,
+      "someCollege": 18.8,
+      "associates": 13.4,
+      "bachelors": 9.7,
+      "graduate": 6.1
+    },
+    "medianIncome": 48098,
+    "meanIncome": 70667
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "28",
+    "name": "Benton County, Mississippi",
+    "population": 7592,
+    "medianAge": 43.9,
+    "race": {
+      "white": 60.8,
+      "black": 34.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 2.4,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 19.1,
+      "highSchool": 36.6,
+      "someCollege": 24.3,
+      "associates": 8,
+      "bachelors": 7,
+      "graduate": 5.1
+    },
+    "medianIncome": 42139,
+    "meanIncome": 55959
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "28",
+    "name": "Bolivar County, Mississippi",
+    "population": 30163,
+    "medianAge": 36.6,
+    "race": {
+      "white": 30.7,
+      "black": 63.2,
+      "asian": 1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 3.2,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 24.9,
+      "someCollege": 20.7,
+      "associates": 11.1,
+      "bachelors": 15.6,
+      "graduate": 10.9
+    },
+    "medianIncome": 37315,
+    "meanIncome": 62065
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "28",
+    "name": "Calhoun County, Mississippi",
+    "population": 13029,
+    "medianAge": 43.1,
+    "race": {
+      "white": 64.3,
+      "black": 28.7,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 1.6,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 21,
+      "highSchool": 33.5,
+      "someCollege": 21.5,
+      "associates": 11,
+      "bachelors": 8.2,
+      "graduate": 4.9
+    },
+    "medianIncome": 43942,
+    "meanIncome": 58792
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "28",
+    "name": "Carroll County, Mississippi",
+    "population": 9828,
+    "medianAge": 47.7,
+    "race": {
+      "white": 63.2,
+      "black": 34.5,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 1.8,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 20,
+      "highSchool": 29.9,
+      "someCollege": 21.3,
+      "associates": 10.2,
+      "bachelors": 14.5,
+      "graduate": 4
+    },
+    "medianIncome": 55275,
+    "meanIncome": 67202
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "28",
+    "name": "Chickasaw County, Mississippi",
+    "population": 16994,
+    "medianAge": 39,
+    "race": {
+      "white": 50.3,
+      "black": 44.5,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 1.7,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 19.3,
+      "highSchool": 35.2,
+      "someCollege": 23.1,
+      "associates": 9.9,
+      "bachelors": 7.8,
+      "graduate": 4.6
+    },
+    "medianIncome": 43041,
+    "meanIncome": 54166
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "28",
+    "name": "Choctaw County, Mississippi",
+    "population": 8172,
+    "medianAge": 43,
+    "race": {
+      "white": 67.6,
+      "black": 29.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 1.3,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 38.5,
+      "someCollege": 16.6,
+      "associates": 12.2,
+      "bachelors": 10.4,
+      "graduate": 8.1
+    },
+    "medianIncome": 48321,
+    "meanIncome": 69483
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "28",
+    "name": "Claiborne County, Mississippi",
+    "population": 8908,
+    "medianAge": 33.8,
+    "race": {
+      "white": 10.9,
+      "black": 86.2,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.7,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 16.3,
+      "highSchool": 30.6,
+      "someCollege": 24.1,
+      "associates": 8.5,
+      "bachelors": 7.2,
+      "graduate": 13.4
+    },
+    "medianIncome": 34371,
+    "meanIncome": 53673
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "28",
+    "name": "Clarke County, Mississippi",
+    "population": 15424,
+    "medianAge": 42.6,
+    "race": {
+      "white": 63.3,
+      "black": 34.4,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.2,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 33.3,
+      "someCollege": 26.2,
+      "associates": 11.8,
+      "bachelors": 10.4,
+      "graduate": 4.7
+    },
+    "medianIncome": 46054,
+    "meanIncome": 62727
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "28",
+    "name": "Clay County, Mississippi",
+    "population": 18462,
+    "medianAge": 40.1,
+    "race": {
+      "white": 37.9,
+      "black": 60.1,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.7,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 33.9,
+      "someCollege": 18.7,
+      "associates": 11.9,
+      "bachelors": 11,
+      "graduate": 7.2
+    },
+    "medianIncome": 39904,
+    "meanIncome": 57551
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "28",
+    "name": "Coahoma County, Mississippi",
+    "population": 20808,
+    "medianAge": 35.7,
+    "race": {
+      "white": 19.5,
+      "black": 75.9,
+      "asian": 0.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.4,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 26.9,
+      "someCollege": 23.6,
+      "associates": 12.6,
+      "bachelors": 11.3,
+      "graduate": 7.7
+    },
+    "medianIncome": 36259,
+    "meanIncome": 54806
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "28",
+    "name": "Copiah County, Mississippi",
+    "population": 27994,
+    "medianAge": 39.8,
+    "race": {
+      "white": 43.2,
+      "black": 50.7,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 2.5,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 32,
+      "someCollege": 20.6,
+      "associates": 13.5,
+      "bachelors": 13.7,
+      "graduate": 6.6
+    },
+    "medianIncome": 47994,
+    "meanIncome": 77936
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "28",
+    "name": "Covington County, Mississippi",
+    "population": 18226,
+    "medianAge": 37.7,
+    "race": {
+      "white": 60.4,
+      "black": 34.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.3,
+      "other": 0.3,
+      "twoOrMore": 3.2,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 31.6,
+      "someCollege": 24.1,
+      "associates": 13.1,
+      "bachelors": 10.4,
+      "graduate": 5.5
+    },
+    "medianIncome": 47001,
+    "meanIncome": 65573
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "28",
+    "name": "DeSoto County, Mississippi",
+    "population": 188598,
+    "medianAge": 37,
+    "race": {
+      "white": 59.5,
+      "black": 32,
+      "asian": 1.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 4.4,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 28.9,
+      "someCollege": 23.5,
+      "associates": 10.7,
+      "bachelors": 18.3,
+      "graduate": 10
+    },
+    "medianIncome": 82980,
+    "meanIncome": 98245
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "28",
+    "name": "Forrest County, Mississippi",
+    "population": 78027,
+    "medianAge": 31.8,
+    "race": {
+      "white": 57.2,
+      "black": 35.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 0.8,
+      "twoOrMore": 5.1,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 27.6,
+      "someCollege": 22.5,
+      "associates": 11.3,
+      "bachelors": 16.5,
+      "graduate": 12.9
+    },
+    "medianIncome": 52821,
+    "meanIncome": 74247
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "28",
+    "name": "Franklin County, Mississippi",
+    "population": 7655,
+    "medianAge": 42.7,
+    "race": {
+      "white": 62.6,
+      "black": 35,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.2,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 33.2,
+      "someCollege": 22.1,
+      "associates": 13.4,
+      "bachelors": 10.9,
+      "graduate": 7.2
+    },
+    "medianIncome": 45618,
+    "meanIncome": 62898
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "28",
+    "name": "George County, Mississippi",
+    "population": 24870,
+    "medianAge": 36.2,
+    "race": {
+      "white": 86.4,
+      "black": 7.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.4,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 39.1,
+      "someCollege": 20.7,
+      "associates": 11,
+      "bachelors": 12.2,
+      "graduate": 4.9
+    },
+    "medianIncome": 54822,
+    "meanIncome": 72483
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "28",
+    "name": "Greene County, Mississippi",
+    "population": 13595,
+    "medianAge": 40.5,
+    "race": {
+      "white": 71.7,
+      "black": 24.8,
+      "asian": 0,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.2,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 19.4,
+      "highSchool": 39.5,
+      "someCollege": 21,
+      "associates": 8.2,
+      "bachelors": 7.1,
+      "graduate": 4.8
+    },
+    "medianIncome": 55838,
+    "meanIncome": 70042
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "28",
+    "name": "Grenada County, Mississippi",
+    "population": 21342,
+    "medianAge": 38.9,
+    "race": {
+      "white": 51.1,
+      "black": 44.8,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.2,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 31.4,
+      "someCollege": 19.8,
+      "associates": 9.6,
+      "bachelors": 14.1,
+      "graduate": 9.6
+    },
+    "medianIncome": 47998,
+    "meanIncome": 70611
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "28",
+    "name": "Hancock County, Mississippi",
+    "population": 46057,
+    "medianAge": 45.7,
+    "race": {
+      "white": 84.4,
+      "black": 6.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 6.8,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 30.7,
+      "someCollege": 23.6,
+      "associates": 10.8,
+      "bachelors": 13.7,
+      "graduate": 10.9
+    },
+    "medianIncome": 67728,
+    "meanIncome": 91745
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "28",
+    "name": "Harrison County, Mississippi",
+    "population": 209443,
+    "medianAge": 38.1,
+    "race": {
+      "white": 63.1,
+      "black": 24.1,
+      "asian": 2.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 7.9,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 28.7,
+      "someCollege": 22.4,
+      "associates": 12.6,
+      "bachelors": 16.1,
+      "graduate": 9.4
+    },
+    "medianIncome": 57233,
+    "meanIncome": 77949
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "28",
+    "name": "Hinds County, Mississippi",
+    "population": 222494,
+    "medianAge": 36.6,
+    "race": {
+      "white": 23.6,
+      "black": 72.4,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.3,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 23.6,
+      "someCollege": 23.7,
+      "associates": 10.1,
+      "bachelors": 17.7,
+      "graduate": 13.4
+    },
+    "medianIncome": 49966,
+    "meanIncome": 71220
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "28",
+    "name": "Holmes County, Mississippi",
+    "population": 16491,
+    "medianAge": 35.8,
+    "race": {
+      "white": 14.2,
+      "black": 82.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3,
+      "hispanic": 0.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 37.8,
+      "someCollege": 24.9,
+      "associates": 6,
+      "bachelors": 9.6,
+      "graduate": 4.1
+    },
+    "medianIncome": 29434,
+    "meanIncome": 55138
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "28",
+    "name": "Humphreys County, Mississippi",
+    "population": 7570,
+    "medianAge": 38.4,
+    "race": {
+      "white": 20.3,
+      "black": 78.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 0.6,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 23.1,
+      "highSchool": 27.5,
+      "someCollege": 19,
+      "associates": 11.1,
+      "bachelors": 10,
+      "graduate": 9.4
+    },
+    "medianIncome": 32976,
+    "meanIncome": 58836
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "28",
+    "name": "Issaquena County, Mississippi",
+    "population": 1095,
+    "medianAge": 49.5,
+    "race": {
+      "white": 26.6,
+      "black": 70.1,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 1.6,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 32.7,
+      "highSchool": 41.3,
+      "someCollege": 13.2,
+      "associates": 8.4,
+      "bachelors": 3.5,
+      "graduate": 0.9
+    },
+    "medianIncome": 29271,
+    "meanIncome": 39443
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "28",
+    "name": "Itawamba County, Mississippi",
+    "population": 23942,
+    "medianAge": 39.4,
+    "race": {
+      "white": 89.6,
+      "black": 7.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 1.2,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 35.4,
+      "someCollege": 24.1,
+      "associates": 11,
+      "bachelors": 8.6,
+      "graduate": 6.1
+    },
+    "medianIncome": 59508,
+    "meanIncome": 95997
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "28",
+    "name": "Jackson County, Mississippi",
+    "population": 144437,
+    "medianAge": 39.7,
+    "race": {
+      "white": 68.3,
+      "black": 20.5,
+      "asian": 2.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 5.3,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 26.8,
+      "someCollege": 25.1,
+      "associates": 12,
+      "bachelors": 16.6,
+      "graduate": 8.3
+    },
+    "medianIncome": 64756,
+    "meanIncome": 85693
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "28",
+    "name": "Jasper County, Mississippi",
+    "population": 16211,
+    "medianAge": 42.4,
+    "race": {
+      "white": 45.2,
+      "black": 53.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.6,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 45.8,
+      "someCollege": 20.6,
+      "associates": 10.2,
+      "bachelors": 8.6,
+      "graduate": 4.4
+    },
+    "medianIncome": 47157,
+    "meanIncome": 59344
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "28",
+    "name": "Jefferson County, Mississippi",
+    "population": 7127,
+    "medianAge": 43,
+    "race": {
+      "white": 13.2,
+      "black": 81.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 4.6,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 19.2,
+      "highSchool": 35,
+      "someCollege": 22.2,
+      "associates": 3.6,
+      "bachelors": 12.3,
+      "graduate": 7.6
+    },
+    "medianIncome": 36207,
+    "meanIncome": 53294
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "28",
+    "name": "Jefferson Davis County, Mississippi",
+    "population": 11183,
+    "medianAge": 45.7,
+    "race": {
+      "white": 38.1,
+      "black": 60.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.7,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 41.4,
+      "someCollege": 19.8,
+      "associates": 12.8,
+      "bachelors": 7.9,
+      "graduate": 5.7
+    },
+    "medianIncome": 37183,
+    "meanIncome": 56805
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "28",
+    "name": "Jones County, Mississippi",
+    "population": 66839,
+    "medianAge": 37.6,
+    "race": {
+      "white": 65.4,
+      "black": 28.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 2.7,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 32,
+      "someCollege": 24.3,
+      "associates": 10.7,
+      "bachelors": 12.4,
+      "graduate": 7.7
+    },
+    "medianIncome": 51143,
+    "meanIncome": 73758
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "28",
+    "name": "Kemper County, Mississippi",
+    "population": 8855,
+    "medianAge": 40.7,
+    "race": {
+      "white": 33.7,
+      "black": 60.4,
+      "asian": 0,
+      "nativeAmerican": 3.5,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 20.4,
+      "highSchool": 31,
+      "someCollege": 19.6,
+      "associates": 11.2,
+      "bachelors": 10.2,
+      "graduate": 7.6
+    },
+    "medianIncome": 43595,
+    "meanIncome": 56293
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "28",
+    "name": "Lafayette County, Mississippi",
+    "population": 56920,
+    "medianAge": 30.9,
+    "race": {
+      "white": 69.8,
+      "black": 23.1,
+      "asian": 2.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 3.1,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 21.5,
+      "someCollege": 17,
+      "associates": 9.2,
+      "bachelors": 23.2,
+      "graduate": 21.1
+    },
+    "medianIncome": 64334,
+    "meanIncome": 99327
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "28",
+    "name": "Lamar County, Mississippi",
+    "population": 65081,
+    "medianAge": 37.5,
+    "race": {
+      "white": 72.8,
+      "black": 21.6,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.4,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 26.9,
+      "someCollege": 20.5,
+      "associates": 10.7,
+      "bachelors": 20.2,
+      "graduate": 13.1
+    },
+    "medianIncome": 69106,
+    "meanIncome": 97646
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "28",
+    "name": "Lauderdale County, Mississippi",
+    "population": 71984,
+    "medianAge": 39.5,
+    "race": {
+      "white": 51.6,
+      "black": 42,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 27.6,
+      "someCollege": 22.9,
+      "associates": 13,
+      "bachelors": 13.5,
+      "graduate": 8.2
+    },
+    "medianIncome": 50033,
+    "meanIncome": 70625
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "28",
+    "name": "Lawrence County, Mississippi",
+    "population": 11883,
+    "medianAge": 40.7,
+    "race": {
+      "white": 64.3,
+      "black": 31.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.1,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.9,
+      "highSchool": 39.3,
+      "someCollege": 18.2,
+      "associates": 12,
+      "bachelors": 8,
+      "graduate": 4.6
+    },
+    "medianIncome": 43368,
+    "meanIncome": 65806
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "28",
+    "name": "Leake County, Mississippi",
+    "population": 21288,
+    "medianAge": 40,
+    "race": {
+      "white": 46.7,
+      "black": 39.1,
+      "asian": 0.6,
+      "nativeAmerican": 6.2,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 2.5,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 17.8,
+      "highSchool": 35.4,
+      "someCollege": 18.8,
+      "associates": 10.2,
+      "bachelors": 10.9,
+      "graduate": 6.8
+    },
+    "medianIncome": 48418,
+    "meanIncome": 69847
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "28",
+    "name": "Lee County, Mississippi",
+    "population": 83138,
+    "medianAge": 37.7,
+    "race": {
+      "white": 63.4,
+      "black": 29.9,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.3,
+      "other": 2.4,
+      "twoOrMore": 2.7,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 27.8,
+      "someCollege": 20.8,
+      "associates": 10.4,
+      "bachelors": 18.1,
+      "graduate": 10.6
+    },
+    "medianIncome": 67144,
+    "meanIncome": 86064
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "28",
+    "name": "Leflore County, Mississippi",
+    "population": 27432,
+    "medianAge": 34.5,
+    "race": {
+      "white": 21.4,
+      "black": 74.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 1.3,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 30.8,
+      "someCollege": 23.4,
+      "associates": 8.6,
+      "bachelors": 9.5,
+      "graduate": 10.5
+    },
+    "medianIncome": 33188,
+    "meanIncome": 58150
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "28",
+    "name": "Lincoln County, Mississippi",
+    "population": 34830,
+    "medianAge": 41.2,
+    "race": {
+      "white": 67.8,
+      "black": 30.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 1.3,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 36.7,
+      "someCollege": 19.8,
+      "associates": 12.2,
+      "bachelors": 12.2,
+      "graduate": 6.2
+    },
+    "medianIncome": 48316,
+    "meanIncome": 68516
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "28",
+    "name": "Lowndes County, Mississippi",
+    "population": 58187,
+    "medianAge": 37,
+    "race": {
+      "white": 50.2,
+      "black": 44,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.3,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 32.1,
+      "someCollege": 20.8,
+      "associates": 8.7,
+      "bachelors": 17.2,
+      "graduate": 9.3
+    },
+    "medianIncome": 54460,
+    "meanIncome": 74538
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "28",
+    "name": "Madison County, Mississippi",
+    "population": 110303,
+    "medianAge": 38.5,
+    "race": {
+      "white": 55.5,
+      "black": 37.3,
+      "asian": 2.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 2.9,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 17.4,
+      "someCollege": 18.5,
+      "associates": 7.4,
+      "bachelors": 28.4,
+      "graduate": 20.5
+    },
+    "medianIncome": 78794,
+    "meanIncome": 119928
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "28",
+    "name": "Marion County, Mississippi",
+    "population": 24303,
+    "medianAge": 40.7,
+    "race": {
+      "white": 63.9,
+      "black": 32.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 2.3,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 34.9,
+      "someCollege": 22,
+      "associates": 13.2,
+      "bachelors": 7.6,
+      "graduate": 4.8
+    },
+    "medianIncome": 42320,
+    "meanIncome": 67117
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "28",
+    "name": "Marshall County, Mississippi",
+    "population": 33899,
+    "medianAge": 41.8,
+    "race": {
+      "white": 47.2,
+      "black": 43.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 4.2,
+      "twoOrMore": 4.2,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 35.8,
+      "someCollege": 23.3,
+      "associates": 7.9,
+      "bachelors": 9.1,
+      "graduate": 5.5
+    },
+    "medianIncome": 51875,
+    "meanIncome": 73205
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "28",
+    "name": "Monroe County, Mississippi",
+    "population": 33928,
+    "medianAge": 41.6,
+    "race": {
+      "white": 67.3,
+      "black": 30.2,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.1,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 40.3,
+      "someCollege": 19,
+      "associates": 9.6,
+      "bachelors": 10.8,
+      "graduate": 5.6
+    },
+    "medianIncome": 51231,
+    "meanIncome": 69070
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "28",
+    "name": "Montgomery County, Mississippi",
+    "population": 9708,
+    "medianAge": 42.4,
+    "race": {
+      "white": 52.3,
+      "black": 45.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.2,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 30,
+      "someCollege": 21.2,
+      "associates": 9.7,
+      "bachelors": 10.8,
+      "graduate": 9.8
+    },
+    "medianIncome": 45057,
+    "meanIncome": 62379
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "28",
+    "name": "Neshoba County, Mississippi",
+    "population": 28927,
+    "medianAge": 37.7,
+    "race": {
+      "white": 57.8,
+      "black": 21.4,
+      "asian": 0.6,
+      "nativeAmerican": 15.9,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.4,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 17.8,
+      "highSchool": 33.1,
+      "someCollege": 21.5,
+      "associates": 11.3,
+      "bachelors": 8.1,
+      "graduate": 8.3
+    },
+    "medianIncome": 53087,
+    "meanIncome": 67191
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "28",
+    "name": "Newton County, Mississippi",
+    "population": 21151,
+    "medianAge": 37.8,
+    "race": {
+      "white": 58.9,
+      "black": 31.8,
+      "asian": 0.4,
+      "nativeAmerican": 2.4,
+      "pacificIslander": 0,
+      "other": 3.9,
+      "twoOrMore": 2.5,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.1,
+      "highSchool": 33.1,
+      "someCollege": 22.2,
+      "associates": 13,
+      "bachelors": 8.8,
+      "graduate": 8.7
+    },
+    "medianIncome": 50426,
+    "meanIncome": 74698
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "28",
+    "name": "Noxubee County, Mississippi",
+    "population": 10136,
+    "medianAge": 39.9,
+    "race": {
+      "white": 25.4,
+      "black": 73.8,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 0.2,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 20.1,
+      "highSchool": 41.6,
+      "someCollege": 17,
+      "associates": 10.2,
+      "bachelors": 5.7,
+      "graduate": 5.5
+    },
+    "medianIncome": 38814,
+    "meanIncome": 48133
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "28",
+    "name": "Oktibbeha County, Mississippi",
+    "population": 51473,
+    "medianAge": 25.5,
+    "race": {
+      "white": 55.8,
+      "black": 36.2,
+      "asian": 2.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.2,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 22.5,
+      "someCollege": 14.2,
+      "associates": 8.5,
+      "bachelors": 23.2,
+      "graduate": 22.6
+    },
+    "medianIncome": 43482,
+    "meanIncome": 69056
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "28",
+    "name": "Panola County, Mississippi",
+    "population": 32965,
+    "medianAge": 39.7,
+    "race": {
+      "white": 47,
+      "black": 48.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.4,
+      "other": 0.2,
+      "twoOrMore": 4,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 16.3,
+      "highSchool": 33.5,
+      "someCollege": 22.5,
+      "associates": 12.2,
+      "bachelors": 10.1,
+      "graduate": 5.4
+    },
+    "medianIncome": 43990,
+    "meanIncome": 62656
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "28",
+    "name": "Pearl River County, Mississippi",
+    "population": 56781,
+    "medianAge": 41.1,
+    "race": {
+      "white": 80.4,
+      "black": 12.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.7,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 36,
+      "someCollege": 24,
+      "associates": 11.8,
+      "bachelors": 11.7,
+      "graduate": 4.2
+    },
+    "medianIncome": 56535,
+    "meanIncome": 71898
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "28",
+    "name": "Perry County, Mississippi",
+    "population": 11459,
+    "medianAge": 42.9,
+    "race": {
+      "white": 77.6,
+      "black": 15.8,
+      "asian": 2.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 0.2,
+      "twoOrMore": 4,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 42.9,
+      "someCollege": 24.8,
+      "associates": 9.6,
+      "bachelors": 6.4,
+      "graduate": 5
+    },
+    "medianIncome": 50435,
+    "meanIncome": 61862
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "28",
+    "name": "Pike County, Mississippi",
+    "population": 39930,
+    "medianAge": 37.1,
+    "race": {
+      "white": 42,
+      "black": 54.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.2,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 17,
+      "highSchool": 34.4,
+      "someCollege": 19.4,
+      "associates": 13.3,
+      "bachelors": 9.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 41578,
+    "meanIncome": 57646
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "28",
+    "name": "Pontotoc County, Mississippi",
+    "population": 31312,
+    "medianAge": 35.7,
+    "race": {
+      "white": 75.2,
+      "black": 14.8,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 4.4,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 21.1,
+      "highSchool": 27.4,
+      "someCollege": 23.1,
+      "associates": 10.7,
+      "bachelors": 10.5,
+      "graduate": 7.2
+    },
+    "medianIncome": 52741,
+    "meanIncome": 69978
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "28",
+    "name": "Prentiss County, Mississippi",
+    "population": 24999,
+    "medianAge": 37.9,
+    "race": {
+      "white": 80.1,
+      "black": 11.4,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 4.3,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 30,
+      "someCollege": 20.4,
+      "associates": 14.9,
+      "bachelors": 11.4,
+      "graduate": 7.1
+    },
+    "medianIncome": 51466,
+    "meanIncome": 72927
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "28",
+    "name": "Quitman County, Mississippi",
+    "population": 5908,
+    "medianAge": 41,
+    "race": {
+      "white": 25,
+      "black": 72.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.4,
+      "hispanic": 0.4
+    },
+    "education": {
+      "lessThanHighSchool": 23.2,
+      "highSchool": 30,
+      "someCollege": 19.1,
+      "associates": 12.4,
+      "bachelors": 11.1,
+      "graduate": 4.1
+    },
+    "medianIncome": 32131,
+    "meanIncome": 47613
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "28",
+    "name": "Rankin County, Mississippi",
+    "population": 158218,
+    "medianAge": 39.4,
+    "race": {
+      "white": 72.1,
+      "black": 21.6,
+      "asian": 1.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 3,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 22.6,
+      "someCollege": 23.2,
+      "associates": 11.7,
+      "bachelors": 21,
+      "graduate": 11.8
+    },
+    "medianIncome": 77454,
+    "meanIncome": 97152
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "28",
+    "name": "Scott County, Mississippi",
+    "population": 27754,
+    "medianAge": 37.2,
+    "race": {
+      "white": 50.3,
+      "black": 33.5,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.4,
+      "other": 9.1,
+      "twoOrMore": 6.6,
+      "hispanic": 14.8
+    },
+    "education": {
+      "lessThanHighSchool": 21.3,
+      "highSchool": 31.5,
+      "someCollege": 26.1,
+      "associates": 9,
+      "bachelors": 7.9,
+      "graduate": 4.2
+    },
+    "medianIncome": 48492,
+    "meanIncome": 63183
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "28",
+    "name": "Sharkey County, Mississippi",
+    "population": 3848,
+    "medianAge": 36.6,
+    "race": {
+      "white": 25.6,
+      "black": 73.7,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.3,
+      "other": 0.2,
+      "twoOrMore": 0.2,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 19,
+      "highSchool": 41,
+      "someCollege": 17.2,
+      "associates": 7.4,
+      "bachelors": 8.8,
+      "graduate": 6.6
+    },
+    "medianIncome": 35741,
+    "meanIncome": 58845
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "28",
+    "name": "Simpson County, Mississippi",
+    "population": 25817,
+    "medianAge": 41,
+    "race": {
+      "white": 61.2,
+      "black": 35.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 0.4,
+      "twoOrMore": 1.9,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 18.3,
+      "highSchool": 33.1,
+      "someCollege": 20.3,
+      "associates": 11.8,
+      "bachelors": 11.4,
+      "graduate": 5.1
+    },
+    "medianIncome": 54111,
+    "meanIncome": 77692
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "28",
+    "name": "Smith County, Mississippi",
+    "population": 14193,
+    "medianAge": 42.9,
+    "race": {
+      "white": 73.8,
+      "black": 24.1,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 1.5,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.7,
+      "highSchool": 37.1,
+      "someCollege": 21.4,
+      "associates": 9.7,
+      "bachelors": 8.6,
+      "graduate": 5.4
+    },
+    "medianIncome": 51396,
+    "meanIncome": 63988
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "28",
+    "name": "Stone County, Mississippi",
+    "population": 18515,
+    "medianAge": 39.3,
+    "race": {
+      "white": 76.6,
+      "black": 18,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.3,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 35.7,
+      "someCollege": 23.9,
+      "associates": 13.8,
+      "bachelors": 9,
+      "graduate": 5.6
+    },
+    "medianIncome": 59307,
+    "meanIncome": 73281
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "28",
+    "name": "Sunflower County, Mississippi",
+    "population": 25328,
+    "medianAge": 37.6,
+    "race": {
+      "white": 23.4,
+      "black": 73,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.9,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 24.2,
+      "highSchool": 30.9,
+      "someCollege": 19.5,
+      "associates": 8.5,
+      "bachelors": 9.9,
+      "graduate": 7
+    },
+    "medianIncome": 40265,
+    "meanIncome": 55026
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "28",
+    "name": "Tallahatchie County, Mississippi",
+    "population": 12363,
+    "medianAge": 38.4,
+    "race": {
+      "white": 36.2,
+      "black": 62.1,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.4,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 18.9,
+      "highSchool": 35.3,
+      "someCollege": 19,
+      "associates": 14.9,
+      "bachelors": 7.2,
+      "graduate": 4.8
+    },
+    "medianIncome": 37383,
+    "meanIncome": 55647
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "28",
+    "name": "Tate County, Mississippi",
+    "population": 28135,
+    "medianAge": 38.5,
+    "race": {
+      "white": 66.5,
+      "black": 29.9,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.6,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 31.9,
+      "someCollege": 19.8,
+      "associates": 11.9,
+      "bachelors": 11.1,
+      "graduate": 9.9
+    },
+    "medianIncome": 63995,
+    "meanIncome": 76186
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "28",
+    "name": "Tippah County, Mississippi",
+    "population": 21621,
+    "medianAge": 39.7,
+    "race": {
+      "white": 76,
+      "black": 14.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 3.1,
+      "twoOrMore": 5.9,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 18.2,
+      "highSchool": 32.8,
+      "someCollege": 21.9,
+      "associates": 10.7,
+      "bachelors": 9.7,
+      "graduate": 6.6
+    },
+    "medianIncome": 51141,
+    "meanIncome": 70578
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "28",
+    "name": "Tishomingo County, Mississippi",
+    "population": 18738,
+    "medianAge": 43.5,
+    "race": {
+      "white": 91.6,
+      "black": 1.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 33.7,
+      "someCollege": 20.3,
+      "associates": 12.9,
+      "bachelors": 9.4,
+      "graduate": 7
+    },
+    "medianIncome": 46257,
+    "meanIncome": 64019
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "28",
+    "name": "Tunica County, Mississippi",
+    "population": 9586,
+    "medianAge": 34.7,
+    "race": {
+      "white": 18.2,
+      "black": 79.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 0.8,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 38,
+      "someCollege": 19,
+      "associates": 8.8,
+      "bachelors": 13,
+      "graduate": 3.1
+    },
+    "medianIncome": 38402,
+    "meanIncome": 56787
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "28",
+    "name": "Union County, Mississippi",
+    "population": 28009,
+    "medianAge": 38.4,
+    "race": {
+      "white": 76.9,
+      "black": 16.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 2.7,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 21.4,
+      "highSchool": 31.7,
+      "someCollege": 19.3,
+      "associates": 10.5,
+      "bachelors": 11.5,
+      "graduate": 5.6
+    },
+    "medianIncome": 56807,
+    "meanIncome": 76400
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "28",
+    "name": "Walthall County, Mississippi",
+    "population": 13864,
+    "medianAge": 41.4,
+    "race": {
+      "white": 53.1,
+      "black": 40.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.1,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 20,
+      "highSchool": 33.9,
+      "someCollege": 20.3,
+      "associates": 12.7,
+      "bachelors": 7.6,
+      "graduate": 5.5
+    },
+    "medianIncome": 45444,
+    "meanIncome": 68770
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "28",
+    "name": "Warren County, Mississippi",
+    "population": 43623,
+    "medianAge": 40.3,
+    "race": {
+      "white": 46.7,
+      "black": 49,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.1,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 28.1,
+      "someCollege": 22.1,
+      "associates": 11.4,
+      "bachelors": 16.3,
+      "graduate": 10.2
+    },
+    "medianIncome": 56648,
+    "meanIncome": 81976
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "28",
+    "name": "Washington County, Mississippi",
+    "population": 43674,
+    "medianAge": 38.3,
+    "race": {
+      "white": 24.3,
+      "black": 72.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 1.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 20.8,
+      "highSchool": 32.5,
+      "someCollege": 17.4,
+      "associates": 8.8,
+      "bachelors": 13,
+      "graduate": 7.6
+    },
+    "medianIncome": 40117,
+    "meanIncome": 58434
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "28",
+    "name": "Wayne County, Mississippi",
+    "population": 19699,
+    "medianAge": 39.1,
+    "race": {
+      "white": 56.7,
+      "black": 37.1,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 4,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 39.2,
+      "someCollege": 19.3,
+      "associates": 8.8,
+      "bachelors": 8.4,
+      "graduate": 8.3
+    },
+    "medianIncome": 36791,
+    "meanIncome": 63668
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "28",
+    "name": "Webster County, Mississippi",
+    "population": 9942,
+    "medianAge": 40.3,
+    "race": {
+      "white": 79,
+      "black": 18.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 1.3,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 37.5,
+      "someCollege": 14.1,
+      "associates": 12.5,
+      "bachelors": 11.9,
+      "graduate": 8.2
+    },
+    "medianIncome": 59964,
+    "meanIncome": 67874
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "28",
+    "name": "Wilkinson County, Mississippi",
+    "population": 8376,
+    "medianAge": 39.1,
+    "race": {
+      "white": 28.2,
+      "black": 67.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 2.2,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 41.4,
+      "someCollege": 23.5,
+      "associates": 11,
+      "bachelors": 7.6,
+      "graduate": 4
+    },
+    "medianIncome": 35930,
+    "meanIncome": 53217
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "28",
+    "name": "Winston County, Mississippi",
+    "population": 17609,
+    "medianAge": 42.3,
+    "race": {
+      "white": 49.7,
+      "black": 47.2,
+      "asian": 0.1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 1.6,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 36.7,
+      "someCollege": 19.3,
+      "associates": 9,
+      "bachelors": 12.5,
+      "graduate": 6.1
+    },
+    "medianIncome": 49071,
+    "meanIncome": 68306
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "28",
+    "name": "Yalobusha County, Mississippi",
+    "population": 12439,
+    "medianAge": 42.4,
+    "race": {
+      "white": 58.9,
+      "black": 36.7,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.7,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 45.1,
+      "someCollege": 19.4,
+      "associates": 7.3,
+      "bachelors": 6.4,
+      "graduate": 6
+    },
+    "medianIncome": 49171,
+    "meanIncome": 59840
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "28",
+    "name": "Yazoo County, Mississippi",
+    "population": 26837,
+    "medianAge": 38.4,
+    "race": {
+      "white": 39.3,
+      "black": 58.1,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 1.9,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 25.3,
+      "highSchool": 35.7,
+      "someCollege": 20.6,
+      "associates": 5.1,
+      "bachelors": 9,
+      "graduate": 4.2
+    },
+    "medianIncome": 40974,
+    "meanIncome": 56767
+  }
+]

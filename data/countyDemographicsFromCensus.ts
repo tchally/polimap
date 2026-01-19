@@ -28,26 +28,26 @@ async function loadCensusDataFromFiles(): Promise<Map<string, Map<string, Census
   loadingPromise = (async () => {
     const cache = new Map<string, Map<string, CensusCountyData>>();
     
-    // List of state FIPS codes we have data for
-    // Update this list as you fetch more states using fetchCountyDemographics.ts
-    // The script automatically saves to both data/census and public/data/census
-    const stateFipsList = ['06', '12', '36', '48']; // CA, FL, NY, TX
+    // All 50 states + DC FIPS codes
+    const allStateFips = [
+      '01', '02', '04', '05', '06', '08', '09', '10', '11', '12', '13', '15', '16', '17', '18', '19', '20',
+      '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
+      '41', '42', '44', '45', '46', '47', '48', '49', '50', '51', '53', '54', '55', '56'
+    ];
     
     try {
       // Fetch data for each state via API route to avoid CORB issues
-      const fetchPromises = stateFipsList.map(async (stateFips) => {
+      // Try all states, but gracefully handle missing files
+      const fetchPromises = allStateFips.map(async (stateFips) => {
         try {
-          console.log(`📡 Fetching Census data for state FIPS ${stateFips} from /api/census...`);
           const response = await fetch(`/api/census?stateFips=${stateFips}`);
-          console.log(`📡 Response status for ${stateFips}: ${response.status}`);
+          
           if (!response.ok) {
-            // File doesn't exist for this state, skip it
-            console.warn(`⚠️ Census data not found for state FIPS ${stateFips} (status: ${response.status})`);
+            // File doesn't exist for this state, skip it silently
             return null;
           }
           
           const data: CensusCountyData[] = await response.json();
-          console.log(`✅ Loaded ${data.length} counties for state FIPS ${stateFips}`);
           
           const countyMap = new Map<string, CensusCountyData>();
           for (const county of data) {
@@ -55,10 +55,9 @@ async function loadCensusDataFromFiles(): Promise<Map<string, Map<string, Census
             countyMap.set(fullFips, county);
           }
           
-          console.log(`📊 Created county map for ${stateFips} with ${countyMap.size} entries. Sample FIPS: ${Array.from(countyMap.keys()).slice(0, 3).join(', ')}`);
           return { stateFips, countyMap };
         } catch (error) {
-          console.error(`❌ Failed to load Census data for state FIPS ${stateFips}:`, error);
+          // Silently skip states without data
           return null;
         }
       });
@@ -71,15 +70,8 @@ async function loadCensusDataFromFiles(): Promise<Map<string, Map<string, Census
         }
       }
       
-      if (cache.size > 0) {
-        console.log(`✅ Loaded Census data for ${cache.size} state(s)`);
-        // Log sample FIPS codes for debugging
-        for (const [stateFips, countyMap] of cache.entries()) {
-          const sampleFips = Array.from(countyMap.keys()).slice(0, 3);
-          console.log(`  State ${stateFips}: ${countyMap.size} counties, sample FIPS: ${sampleFips.join(', ')}`);
-        }
-      } else {
-        console.warn('⚠️ No Census data loaded! Check that files exist in /public/data/census/');
+      if (cache.size === 0) {
+        console.warn('No Census data loaded. Run the fetch script to download data for all states.');
       }
     } catch (error) {
       console.error('Error loading Census data:', error);
@@ -115,15 +107,11 @@ async function getCensusDataForState(stateFips: string): Promise<Map<string, Cen
  * Now async to support browser-based data loading
  */
 export async function enrichCountiesWithCensus(counties: County[]): Promise<County[]> {
-  console.log(`🔄 Starting Census enrichment for ${counties.length} counties...`);
   const censusData = await loadCensusDataFromFiles();
   
   if (censusData.size === 0) {
-    console.warn('⚠️ No Census data available. Make sure Census data files are in public/data/census/');
     return counties;
   }
-  
-  console.log(`📊 Census data loaded: ${censusData.size} states available`);
   
   // Group counties by state
   const countiesByState = new Map<string, County[]>();

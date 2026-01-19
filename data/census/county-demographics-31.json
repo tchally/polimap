@@ -1,0 +1,2513 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "31",
+    "name": "Adams County, Nebraska",
+    "population": 31034,
+    "medianAge": 38.8,
+    "race": {
+      "white": 85.2,
+      "black": 1.4,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 6.7,
+      "hispanic": 12
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 25.2,
+      "someCollege": 23.9,
+      "associates": 13.9,
+      "bachelors": 17.7,
+      "graduate": 11.1
+    },
+    "medianIncome": 65680,
+    "meanIncome": 87748
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "31",
+    "name": "Antelope County, Nebraska",
+    "population": 6302,
+    "medianAge": 42.7,
+    "race": {
+      "white": 94.9,
+      "black": 0.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.4,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 31.5,
+      "someCollege": 22.2,
+      "associates": 19.4,
+      "bachelors": 12.7,
+      "graduate": 7.2
+    },
+    "medianIncome": 63750,
+    "meanIncome": 78983
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "31",
+    "name": "Arthur County, Nebraska",
+    "population": 540,
+    "medianAge": 40.5,
+    "race": {
+      "white": 92.6,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 7.2,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 2.1,
+      "highSchool": 21.1,
+      "someCollege": 28.9,
+      "associates": 15.2,
+      "bachelors": 25,
+      "graduate": 7.7
+    },
+    "medianIncome": 67500,
+    "meanIncome": 87350
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "31",
+    "name": "Banner County, Nebraska",
+    "population": 657,
+    "medianAge": 56.6,
+    "race": {
+      "white": 92.7,
+      "black": 0,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 2.4,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 19.5,
+      "someCollege": 29.2,
+      "associates": 9.2,
+      "bachelors": 23.5,
+      "graduate": 9.2
+    },
+    "medianIncome": 71250,
+    "meanIncome": 87378
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "31",
+    "name": "Blaine County, Nebraska",
+    "population": 385,
+    "medianAge": 56.8,
+    "race": {
+      "white": 100,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 0,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 4,
+      "highSchool": 38.9,
+      "someCollege": 18.9,
+      "associates": 12.6,
+      "bachelors": 21.9,
+      "graduate": 3.7
+    },
+    "medianIncome": 61250,
+    "meanIncome": 83284
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "31",
+    "name": "Boone County, Nebraska",
+    "population": 5366,
+    "medianAge": 43.2,
+    "race": {
+      "white": 95.2,
+      "black": 0,
+      "asian": 0.3,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.9,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 39.2,
+      "someCollege": 20.6,
+      "associates": 15.2,
+      "bachelors": 13.4,
+      "graduate": 5.4
+    },
+    "medianIncome": 71367,
+    "meanIncome": 89450
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "31",
+    "name": "Box Butte County, Nebraska",
+    "population": 10754,
+    "medianAge": 40.7,
+    "race": {
+      "white": 84.7,
+      "black": 3.4,
+      "asian": 0.9,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 6.4,
+      "hispanic": 12.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 32.1,
+      "someCollege": 29.8,
+      "associates": 10.4,
+      "bachelors": 15.1,
+      "graduate": 5
+    },
+    "medianIncome": 68778,
+    "meanIncome": 78395
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "31",
+    "name": "Boyd County, Nebraska",
+    "population": 1704,
+    "medianAge": 54.9,
+    "race": {
+      "white": 92.3,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 3,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 2.3,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 41.2,
+      "someCollege": 21.6,
+      "associates": 13.3,
+      "bachelors": 10.9,
+      "graduate": 8.7
+    },
+    "medianIncome": 58984,
+    "meanIncome": 77634
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "31",
+    "name": "Brown County, Nebraska",
+    "population": 2739,
+    "medianAge": 45.9,
+    "race": {
+      "white": 89.2,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 6.3,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 31.8,
+      "someCollege": 26.9,
+      "associates": 12.4,
+      "bachelors": 13.6,
+      "graduate": 7.6
+    },
+    "medianIncome": 51538,
+    "meanIncome": 82657
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "31",
+    "name": "Buffalo County, Nebraska",
+    "population": 50323,
+    "medianAge": 34.6,
+    "race": {
+      "white": 87.8,
+      "black": 0.9,
+      "asian": 1.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.5,
+      "twoOrMore": 4.7,
+      "hispanic": 10.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 24.3,
+      "someCollege": 24.2,
+      "associates": 10.3,
+      "bachelors": 22.7,
+      "graduate": 11.9
+    },
+    "medianIncome": 74570,
+    "meanIncome": 93211
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "31",
+    "name": "Burt County, Nebraska",
+    "population": 6730,
+    "medianAge": 44.8,
+    "race": {
+      "white": 91.6,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.2,
+      "other": 1.4,
+      "twoOrMore": 5.1,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 33.9,
+      "someCollege": 21,
+      "associates": 11.5,
+      "bachelors": 18.8,
+      "graduate": 6.9
+    },
+    "medianIncome": 57303,
+    "meanIncome": 81148
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "31",
+    "name": "Butler County, Nebraska",
+    "population": 8413,
+    "medianAge": 42.7,
+    "race": {
+      "white": 90.8,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 4.3,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 35,
+      "someCollege": 17.7,
+      "associates": 13.9,
+      "bachelors": 19.5,
+      "graduate": 5.7
+    },
+    "medianIncome": 82603,
+    "meanIncome": 105747
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "31",
+    "name": "Cass County, Nebraska",
+    "population": 26963,
+    "medianAge": 41,
+    "race": {
+      "white": 92.3,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 5,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 27.5,
+      "someCollege": 23.1,
+      "associates": 13.3,
+      "bachelors": 20.5,
+      "graduate": 11.3
+    },
+    "medianIncome": 88255,
+    "meanIncome": 109350
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "31",
+    "name": "Cedar County, Nebraska",
+    "population": 8344,
+    "medianAge": 41.9,
+    "race": {
+      "white": 95.9,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 2,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 37.2,
+      "someCollege": 20.7,
+      "associates": 13.3,
+      "bachelors": 18.3,
+      "graduate": 6.7
+    },
+    "medianIncome": 73977,
+    "meanIncome": 91700
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "31",
+    "name": "Chase County, Nebraska",
+    "population": 3639,
+    "medianAge": 41.8,
+    "race": {
+      "white": 85.9,
+      "black": 0.4,
+      "asian": 2.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 9.6,
+      "hispanic": 18.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 26.1,
+      "someCollege": 25.6,
+      "associates": 12.7,
+      "bachelors": 18.6,
+      "graduate": 5.5
+    },
+    "medianIncome": 62782,
+    "meanIncome": 90078
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "31",
+    "name": "Cherry County, Nebraska",
+    "population": 5468,
+    "medianAge": 43.5,
+    "race": {
+      "white": 85.6,
+      "black": 1,
+      "asian": 1.2,
+      "nativeAmerican": 2.6,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 7.8,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 2.6,
+      "highSchool": 32.5,
+      "someCollege": 26.7,
+      "associates": 14,
+      "bachelors": 16.7,
+      "graduate": 7.5
+    },
+    "medianIncome": 63750,
+    "meanIncome": 80202
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "31",
+    "name": "Cheyenne County, Nebraska",
+    "population": 9478,
+    "medianAge": 42,
+    "race": {
+      "white": 92,
+      "black": 2.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 4,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 31.8,
+      "someCollege": 25.2,
+      "associates": 13.9,
+      "bachelors": 14.9,
+      "graduate": 7.2
+    },
+    "medianIncome": 57594,
+    "meanIncome": 76923
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "31",
+    "name": "Clay County, Nebraska",
+    "population": 6084,
+    "medianAge": 40.1,
+    "race": {
+      "white": 90.9,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 4.4,
+      "hispanic": 9.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 35.8,
+      "someCollege": 20.8,
+      "associates": 14.7,
+      "bachelors": 15.5,
+      "graduate": 7.4
+    },
+    "medianIncome": 75938,
+    "meanIncome": 94153
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "31",
+    "name": "Colfax County, Nebraska",
+    "population": 10541,
+    "medianAge": 35,
+    "race": {
+      "white": 51.7,
+      "black": 3.4,
+      "asian": 0,
+      "nativeAmerican": 4.9,
+      "pacificIslander": 0,
+      "other": 17.1,
+      "twoOrMore": 22.8,
+      "hispanic": 47.3
+    },
+    "education": {
+      "lessThanHighSchool": 23.3,
+      "highSchool": 32.1,
+      "someCollege": 19.6,
+      "associates": 10.9,
+      "bachelors": 10.2,
+      "graduate": 3.9
+    },
+    "medianIncome": 79720,
+    "meanIncome": 99488
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "31",
+    "name": "Cuming County, Nebraska",
+    "population": 8976,
+    "medianAge": 40.8,
+    "race": {
+      "white": 86.9,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 6.6,
+      "hispanic": 12.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 33.9,
+      "someCollege": 19.9,
+      "associates": 13.5,
+      "bachelors": 17.4,
+      "graduate": 7.5
+    },
+    "medianIncome": 70708,
+    "meanIncome": 88653
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "31",
+    "name": "Custer County, Nebraska",
+    "population": 10544,
+    "medianAge": 42.3,
+    "race": {
+      "white": 94,
+      "black": 0.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 2.5,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 31.4,
+      "someCollege": 21.6,
+      "associates": 15.4,
+      "bachelors": 18.7,
+      "graduate": 7
+    },
+    "medianIncome": 66310,
+    "meanIncome": 88008
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "31",
+    "name": "Dakota County, Nebraska",
+    "population": 21331,
+    "medianAge": 32.1,
+    "race": {
+      "white": 47.7,
+      "black": 8.1,
+      "asian": 2.8,
+      "nativeAmerican": 2.9,
+      "pacificIslander": 0,
+      "other": 20.4,
+      "twoOrMore": 18.1,
+      "hispanic": 41.2
+    },
+    "education": {
+      "lessThanHighSchool": 18.9,
+      "highSchool": 35.5,
+      "someCollege": 20.7,
+      "associates": 9.7,
+      "bachelors": 11.5,
+      "graduate": 3.6
+    },
+    "medianIncome": 71655,
+    "meanIncome": 85144
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "31",
+    "name": "Dawes County, Nebraska",
+    "population": 8212,
+    "medianAge": 35.2,
+    "race": {
+      "white": 88.6,
+      "black": 1.4,
+      "asian": 1,
+      "nativeAmerican": 2,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 7,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 26.5,
+      "someCollege": 21.6,
+      "associates": 12.4,
+      "bachelors": 18.3,
+      "graduate": 16.9
+    },
+    "medianIncome": 54381,
+    "meanIncome": 70382
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "31",
+    "name": "Dawson County, Nebraska",
+    "population": 24020,
+    "medianAge": 35.8,
+    "race": {
+      "white": 62,
+      "black": 7,
+      "asian": 0.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.3,
+      "other": 18.1,
+      "twoOrMore": 11.5,
+      "hispanic": 36.3
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 31.1,
+      "someCollege": 20,
+      "associates": 9.2,
+      "bachelors": 13.5,
+      "graduate": 4.1
+    },
+    "medianIncome": 65383,
+    "meanIncome": 86799
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "31",
+    "name": "Deuel County, Nebraska",
+    "population": 1865,
+    "medianAge": 50.7,
+    "race": {
+      "white": 90.3,
+      "black": 0,
+      "asian": 0.5,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 6.8,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 29.5,
+      "someCollege": 27.1,
+      "associates": 12.2,
+      "bachelors": 15.2,
+      "graduate": 7.3
+    },
+    "medianIncome": 61438,
+    "meanIncome": 91302
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "31",
+    "name": "Dixon County, Nebraska",
+    "population": 5561,
+    "medianAge": 42.1,
+    "race": {
+      "white": 83.7,
+      "black": 0.3,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 9.8,
+      "hispanic": 15.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 31.9,
+      "someCollege": 17.3,
+      "associates": 11.3,
+      "bachelors": 18,
+      "graduate": 5.7
+    },
+    "medianIncome": 69156,
+    "meanIncome": 96634
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "31",
+    "name": "Dodge County, Nebraska",
+    "population": 37146,
+    "medianAge": 38.9,
+    "race": {
+      "white": 86,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 7.4,
+      "hispanic": 17.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 35.9,
+      "someCollege": 21.2,
+      "associates": 10.5,
+      "bachelors": 14.1,
+      "graduate": 7.4
+    },
+    "medianIncome": 71294,
+    "meanIncome": 85422
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "31",
+    "name": "Douglas County, Nebraska",
+    "population": 585461,
+    "medianAge": 35.5,
+    "race": {
+      "white": 70.8,
+      "black": 10.6,
+      "asian": 4.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 4.5,
+      "twoOrMore": 9.1,
+      "hispanic": 14.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 20.3,
+      "someCollege": 21,
+      "associates": 7.9,
+      "bachelors": 26.6,
+      "graduate": 15.7
+    },
+    "medianIncome": 79081,
+    "meanIncome": 111694
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "31",
+    "name": "Dundy County, Nebraska",
+    "population": 1811,
+    "medianAge": 45.6,
+    "race": {
+      "white": 96.1,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 1.2,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 29.1,
+      "someCollege": 30.4,
+      "associates": 12.4,
+      "bachelors": 13.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 56563,
+    "meanIncome": 80081
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "31",
+    "name": "Fillmore County, Nebraska",
+    "population": 5551,
+    "medianAge": 46.3,
+    "race": {
+      "white": 94.8,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.1,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 34.9,
+      "someCollege": 22.9,
+      "associates": 14.9,
+      "bachelors": 13.7,
+      "graduate": 8.2
+    },
+    "medianIncome": 76354,
+    "meanIncome": 105116
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "31",
+    "name": "Franklin County, Nebraska",
+    "population": 2868,
+    "medianAge": 49,
+    "race": {
+      "white": 94.3,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.9,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 32.6,
+      "someCollege": 27.9,
+      "associates": 13.7,
+      "bachelors": 12,
+      "graduate": 8
+    },
+    "medianIncome": 57692,
+    "meanIncome": 83438
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "31",
+    "name": "Frontier County, Nebraska",
+    "population": 2562,
+    "medianAge": 42.8,
+    "race": {
+      "white": 93.2,
+      "black": 1.2,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 3.8,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 27.1,
+      "someCollege": 24.4,
+      "associates": 15.2,
+      "bachelors": 18.7,
+      "graduate": 7.4
+    },
+    "medianIncome": 68207,
+    "meanIncome": 75783
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "31",
+    "name": "Furnas County, Nebraska",
+    "population": 4605,
+    "medianAge": 46.4,
+    "race": {
+      "white": 94.6,
+      "black": 0.3,
+      "asian": 0.1,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 2.5,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 32.1,
+      "someCollege": 22.9,
+      "associates": 13.3,
+      "bachelors": 15.6,
+      "graduate": 6.6
+    },
+    "medianIncome": 60625,
+    "meanIncome": 74885
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "31",
+    "name": "Gage County, Nebraska",
+    "population": 21646,
+    "medianAge": 42.8,
+    "race": {
+      "white": 94.8,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.5,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 35.8,
+      "someCollege": 20.7,
+      "associates": 14.1,
+      "bachelors": 16.6,
+      "graduate": 5.5
+    },
+    "medianIncome": 64426,
+    "meanIncome": 82250
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "31",
+    "name": "Garden County, Nebraska",
+    "population": 1620,
+    "medianAge": 54.1,
+    "race": {
+      "white": 94.8,
+      "black": 0.1,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 1.7,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 32.2,
+      "someCollege": 26,
+      "associates": 16.3,
+      "bachelors": 13.9,
+      "graduate": 6.8
+    },
+    "medianIncome": 44777,
+    "meanIncome": 62118
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "31",
+    "name": "Garfield County, Nebraska",
+    "population": 1797,
+    "medianAge": 45,
+    "race": {
+      "white": 97.4,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 1.1,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 26.8,
+      "someCollege": 26,
+      "associates": 10,
+      "bachelors": 23.8,
+      "graduate": 8.9
+    },
+    "medianIncome": 68611,
+    "meanIncome": 82834
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "31",
+    "name": "Gosper County, Nebraska",
+    "population": 1929,
+    "medianAge": 49.2,
+    "race": {
+      "white": 95,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.4,
+      "other": 0.1,
+      "twoOrMore": 4.1,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 26.8,
+      "someCollege": 23.6,
+      "associates": 16.3,
+      "bachelors": 19.8,
+      "graduate": 9
+    },
+    "medianIncome": 79145,
+    "meanIncome": 89464
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "31",
+    "name": "Grant County, Nebraska",
+    "population": 695,
+    "medianAge": 37.8,
+    "race": {
+      "white": 94.5,
+      "black": 0.3,
+      "asian": 0.7,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 2,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 24.4,
+      "someCollege": 28.8,
+      "associates": 10.1,
+      "bachelors": 23.7,
+      "graduate": 5.7
+    },
+    "medianIncome": 69063,
+    "meanIncome": 81805
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "31",
+    "name": "Greeley County, Nebraska",
+    "population": 2211,
+    "medianAge": 44.5,
+    "race": {
+      "white": 92.8,
+      "black": 0.6,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 4,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 37.7,
+      "someCollege": 19.3,
+      "associates": 18.1,
+      "bachelors": 12.8,
+      "graduate": 5.6
+    },
+    "medianIncome": 58894,
+    "meanIncome": 71584
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "31",
+    "name": "Hall County, Nebraska",
+    "population": 62431,
+    "medianAge": 36,
+    "race": {
+      "white": 68.2,
+      "black": 3.6,
+      "asian": 1.1,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.1,
+      "other": 16.6,
+      "twoOrMore": 9.3,
+      "hispanic": 31.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 32.2,
+      "someCollege": 22.8,
+      "associates": 8.6,
+      "bachelors": 13.3,
+      "graduate": 7.8
+    },
+    "medianIncome": 67549,
+    "meanIncome": 87509
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "31",
+    "name": "Hamilton County, Nebraska",
+    "population": 9438,
+    "medianAge": 41.3,
+    "race": {
+      "white": 93.5,
+      "black": 0.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 2.9,
+      "highSchool": 28.1,
+      "someCollege": 26.4,
+      "associates": 13.1,
+      "bachelors": 21.4,
+      "graduate": 8.1
+    },
+    "medianIncome": 79884,
+    "meanIncome": 97863
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "31",
+    "name": "Harlan County, Nebraska",
+    "population": 3006,
+    "medianAge": 47.1,
+    "race": {
+      "white": 94.1,
+      "black": 0.2,
+      "asian": 1.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.9,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 28.7,
+      "someCollege": 24.7,
+      "associates": 15,
+      "bachelors": 17.2,
+      "graduate": 7
+    },
+    "medianIncome": 70536,
+    "meanIncome": 96144
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "31",
+    "name": "Hayes County, Nebraska",
+    "population": 854,
+    "medianAge": 48.7,
+    "race": {
+      "white": 92.7,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.4,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 37.2,
+      "someCollege": 24.2,
+      "associates": 17.3,
+      "bachelors": 13.8,
+      "graduate": 2.2
+    },
+    "medianIncome": 60313,
+    "meanIncome": 79177
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "31",
+    "name": "Hitchcock County, Nebraska",
+    "population": 2601,
+    "medianAge": 44.7,
+    "race": {
+      "white": 95.1,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.5,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 29.8,
+      "someCollege": 32.1,
+      "associates": 11.6,
+      "bachelors": 14.6,
+      "graduate": 5.2
+    },
+    "medianIncome": 52016,
+    "meanIncome": 70098
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "31",
+    "name": "Holt County, Nebraska",
+    "population": 10093,
+    "medianAge": 41.8,
+    "race": {
+      "white": 93.7,
+      "black": 0.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 2.9,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 33.7,
+      "someCollege": 18.5,
+      "associates": 13.9,
+      "bachelors": 19.3,
+      "graduate": 7.8
+    },
+    "medianIncome": 67225,
+    "meanIncome": 88396
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "31",
+    "name": "Hooker County, Nebraska",
+    "population": 613,
+    "medianAge": 44.8,
+    "race": {
+      "white": 87.1,
+      "black": 1.8,
+      "asian": 0,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 8,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 45.9,
+      "someCollege": 18.6,
+      "associates": 8.4,
+      "bachelors": 20.5,
+      "graduate": 0.2
+    },
+    "medianIncome": 45854,
+    "meanIncome": 61851
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "31",
+    "name": "Howard County, Nebraska",
+    "population": 6492,
+    "medianAge": 42.3,
+    "race": {
+      "white": 93.4,
+      "black": 0.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 35.9,
+      "someCollege": 24.3,
+      "associates": 12,
+      "bachelors": 19,
+      "graduate": 3.9
+    },
+    "medianIncome": 74508,
+    "meanIncome": 87091
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "31",
+    "name": "Jefferson County, Nebraska",
+    "population": 7155,
+    "medianAge": 44.7,
+    "race": {
+      "white": 93.4,
+      "black": 0.6,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.8,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 39.8,
+      "someCollege": 19.7,
+      "associates": 13.9,
+      "bachelors": 14.8,
+      "graduate": 4.9
+    },
+    "medianIncome": 60568,
+    "meanIncome": 73820
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "31",
+    "name": "Johnson County, Nebraska",
+    "population": 5263,
+    "medianAge": 40.1,
+    "race": {
+      "white": 79.9,
+      "black": 4.7,
+      "asian": 1.1,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 6.7,
+      "twoOrMore": 6.3,
+      "hispanic": 11.7
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 42.4,
+      "someCollege": 17.4,
+      "associates": 9.6,
+      "bachelors": 13.1,
+      "graduate": 5.8
+    },
+    "medianIncome": 59457,
+    "meanIncome": 73510
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "31",
+    "name": "Kearney County, Nebraska",
+    "population": 6697,
+    "medianAge": 40.3,
+    "race": {
+      "white": 93.1,
+      "black": 0,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 3.4,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 24.9,
+      "someCollege": 22.6,
+      "associates": 13.6,
+      "bachelors": 27.4,
+      "graduate": 5.5
+    },
+    "medianIncome": 79167,
+    "meanIncome": 104859
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "31",
+    "name": "Keith County, Nebraska",
+    "population": 8239,
+    "medianAge": 49,
+    "race": {
+      "white": 88.3,
+      "black": 1.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 7.3,
+      "hispanic": 9
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 30.1,
+      "someCollege": 27,
+      "associates": 12.4,
+      "bachelors": 14.8,
+      "graduate": 6.5
+    },
+    "medianIncome": 58132,
+    "meanIncome": 75280
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "31",
+    "name": "Keya Paha County, Nebraska",
+    "population": 939,
+    "medianAge": 49,
+    "race": {
+      "white": 93.8,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 3.8,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 3.2,
+      "highSchool": 32.5,
+      "someCollege": 25.9,
+      "associates": 12.7,
+      "bachelors": 19.7,
+      "graduate": 6
+    },
+    "medianIncome": 60313,
+    "meanIncome": 84909
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "31",
+    "name": "Kimball County, Nebraska",
+    "population": 3348,
+    "medianAge": 48.5,
+    "race": {
+      "white": 87.1,
+      "black": 1.3,
+      "asian": 0.4,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 9.4,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 37.4,
+      "someCollege": 26.2,
+      "associates": 11.3,
+      "bachelors": 10.5,
+      "graduate": 3.8
+    },
+    "medianIncome": 59438,
+    "meanIncome": 74329
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "31",
+    "name": "Knox County, Nebraska",
+    "population": 8362,
+    "medianAge": 44.5,
+    "race": {
+      "white": 86.1,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 9,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.4,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 35,
+      "someCollege": 22.1,
+      "associates": 15.9,
+      "bachelors": 13.7,
+      "graduate": 6
+    },
+    "medianIncome": 64821,
+    "meanIncome": 79345
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "31",
+    "name": "Lancaster County, Nebraska",
+    "population": 323673,
+    "medianAge": 34.3,
+    "race": {
+      "white": 82.3,
+      "black": 3.8,
+      "asian": 4.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 7,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 20.5,
+      "someCollege": 20.2,
+      "associates": 11.7,
+      "bachelors": 26.4,
+      "graduate": 14.7
+    },
+    "medianIncome": 72625,
+    "meanIncome": 99064
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "31",
+    "name": "Lincoln County, Nebraska",
+    "population": 34122,
+    "medianAge": 42.4,
+    "race": {
+      "white": 89.5,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 5.2,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 29.4,
+      "someCollege": 29,
+      "associates": 14.7,
+      "bachelors": 13.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 64342,
+    "meanIncome": 78527
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "31",
+    "name": "Logan County, Nebraska",
+    "population": 812,
+    "medianAge": 44.8,
+    "race": {
+      "white": 90.1,
+      "black": 1.6,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 6,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 1.8,
+      "highSchool": 27.3,
+      "someCollege": 28.4,
+      "associates": 15.8,
+      "bachelors": 22.9,
+      "graduate": 3.8
+    },
+    "medianIncome": 71650,
+    "meanIncome": 104642
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "31",
+    "name": "Loup County, Nebraska",
+    "population": 564,
+    "medianAge": 47.1,
+    "race": {
+      "white": 86.2,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 12.9,
+      "hispanic": 9.4
+    },
+    "education": {
+      "lessThanHighSchool": 0,
+      "highSchool": 33.3,
+      "someCollege": 20.5,
+      "associates": 20.2,
+      "bachelors": 17.9,
+      "graduate": 8.1
+    },
+    "medianIncome": 60156,
+    "meanIncome": 66439
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "31",
+    "name": "McPherson County, Nebraska",
+    "population": 463,
+    "medianAge": 46.6,
+    "race": {
+      "white": 99.4,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 0.6,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 3.6,
+      "highSchool": 22.9,
+      "someCollege": 18.7,
+      "associates": 30.4,
+      "bachelors": 20.8,
+      "graduate": 3.6
+    },
+    "medianIncome": 61316,
+    "meanIncome": 80734
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "31",
+    "name": "Madison County, Nebraska",
+    "population": 35535,
+    "medianAge": 37.1,
+    "race": {
+      "white": 81.4,
+      "black": 0.9,
+      "asian": 1.2,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0,
+      "other": 5.3,
+      "twoOrMore": 9.5,
+      "hispanic": 15.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 31.2,
+      "someCollege": 22.4,
+      "associates": 15.2,
+      "bachelors": 15.5,
+      "graduate": 8
+    },
+    "medianIncome": 64637,
+    "meanIncome": 88101
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "31",
+    "name": "Merrick County, Nebraska",
+    "population": 7696,
+    "medianAge": 42.8,
+    "race": {
+      "white": 92.6,
+      "black": 0.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 4.4,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 36.6,
+      "someCollege": 27.6,
+      "associates": 10.7,
+      "bachelors": 11.1,
+      "graduate": 6.5
+    },
+    "medianIncome": 62849,
+    "meanIncome": 80526
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "31",
+    "name": "Morrill County, Nebraska",
+    "population": 4544,
+    "medianAge": 41.3,
+    "race": {
+      "white": 85.3,
+      "black": 0.1,
+      "asian": 1.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 10.6,
+      "hispanic": 14.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 32.9,
+      "someCollege": 24.2,
+      "associates": 12,
+      "bachelors": 15,
+      "graduate": 6.8
+    },
+    "medianIncome": 59773,
+    "meanIncome": 78536
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "31",
+    "name": "Nance County, Nebraska",
+    "population": 3342,
+    "medianAge": 43.6,
+    "race": {
+      "white": 95.1,
+      "black": 0.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.2,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 33.2,
+      "someCollege": 25.6,
+      "associates": 15.4,
+      "bachelors": 12.5,
+      "graduate": 5.9
+    },
+    "medianIncome": 65438,
+    "meanIncome": 81309
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "31",
+    "name": "Nemaha County, Nebraska",
+    "population": 7035,
+    "medianAge": 39,
+    "race": {
+      "white": 90.3,
+      "black": 1.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 6.6,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 30.6,
+      "someCollege": 19.7,
+      "associates": 9.9,
+      "bachelors": 19.1,
+      "graduate": 10
+    },
+    "medianIncome": 60132,
+    "meanIncome": 88735
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "31",
+    "name": "Nuckolls County, Nebraska",
+    "population": 4089,
+    "medianAge": 50.5,
+    "race": {
+      "white": 94.3,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 1.2,
+      "twoOrMore": 3.9,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 29.6,
+      "someCollege": 21.7,
+      "associates": 14.2,
+      "bachelors": 18.5,
+      "graduate": 8.1
+    },
+    "medianIncome": 70201,
+    "meanIncome": 90509
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "31",
+    "name": "Otoe County, Nebraska",
+    "population": 16075,
+    "medianAge": 41.8,
+    "race": {
+      "white": 88.3,
+      "black": 0.8,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 6,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 33.4,
+      "someCollege": 20.1,
+      "associates": 12.8,
+      "bachelors": 18.7,
+      "graduate": 8.5
+    },
+    "medianIncome": 81430,
+    "meanIncome": 100837
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "31",
+    "name": "Pawnee County, Nebraska",
+    "population": 2539,
+    "medianAge": 47.1,
+    "race": {
+      "white": 95.4,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.1,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 39.6,
+      "someCollege": 18.9,
+      "associates": 9,
+      "bachelors": 13.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 54926,
+    "meanIncome": 68894
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "31",
+    "name": "Perkins County, Nebraska",
+    "population": 2835,
+    "medianAge": 41,
+    "race": {
+      "white": 91.7,
+      "black": 0,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 6.6,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 26.2,
+      "someCollege": 27.3,
+      "associates": 13.4,
+      "bachelors": 21.2,
+      "graduate": 4.5
+    },
+    "medianIncome": 67500,
+    "meanIncome": 85470
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "31",
+    "name": "Phelps County, Nebraska",
+    "population": 8983,
+    "medianAge": 40.7,
+    "race": {
+      "white": 92.8,
+      "black": 0.8,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 5.2,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 27.7,
+      "someCollege": 25.5,
+      "associates": 12.2,
+      "bachelors": 19.8,
+      "graduate": 6.9
+    },
+    "medianIncome": 65988,
+    "meanIncome": 90370
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "31",
+    "name": "Pierce County, Nebraska",
+    "population": 7312,
+    "medianAge": 39.7,
+    "race": {
+      "white": 95.3,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.4,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 30.2,
+      "someCollege": 20.4,
+      "associates": 20.9,
+      "bachelors": 17.1,
+      "graduate": 5.8
+    },
+    "medianIncome": 75938,
+    "meanIncome": 88305
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "31",
+    "name": "Platte County, Nebraska",
+    "population": 34358,
+    "medianAge": 38.4,
+    "race": {
+      "white": 79.6,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 13,
+      "hispanic": 22.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 30.6,
+      "someCollege": 21.3,
+      "associates": 13.8,
+      "bachelors": 17.4,
+      "graduate": 6.6
+    },
+    "medianIncome": 72335,
+    "meanIncome": 92116
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "31",
+    "name": "Polk County, Nebraska",
+    "population": 5209,
+    "medianAge": 43.7,
+    "race": {
+      "white": 92.2,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 5.2,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 36.1,
+      "someCollege": 24.1,
+      "associates": 14.6,
+      "bachelors": 12.7,
+      "graduate": 5.9
+    },
+    "medianIncome": 71771,
+    "meanIncome": 89903
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "31",
+    "name": "Red Willow County, Nebraska",
+    "population": 10611,
+    "medianAge": 41.2,
+    "race": {
+      "white": 90.2,
+      "black": 0.8,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 5.4,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 30.7,
+      "someCollege": 26.7,
+      "associates": 11.9,
+      "bachelors": 18.6,
+      "graduate": 7.4
+    },
+    "medianIncome": 60000,
+    "meanIncome": 83794
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "31",
+    "name": "Richardson County, Nebraska",
+    "population": 7797,
+    "medianAge": 45.9,
+    "race": {
+      "white": 91.6,
+      "black": 1.2,
+      "asian": 0,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 5.7,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 40.9,
+      "someCollege": 17.2,
+      "associates": 11.2,
+      "bachelors": 16,
+      "graduate": 6.3
+    },
+    "medianIncome": 55578,
+    "meanIncome": 77469
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "31",
+    "name": "Rock County, Nebraska",
+    "population": 1335,
+    "medianAge": 45.2,
+    "race": {
+      "white": 98.5,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 0.6,
+      "hispanic": 0.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 34.3,
+      "someCollege": 21.1,
+      "associates": 9.9,
+      "bachelors": 22.1,
+      "graduate": 6.9
+    },
+    "medianIncome": 57500,
+    "meanIncome": 84098
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "31",
+    "name": "Saline County, Nebraska",
+    "population": 14642,
+    "medianAge": 37.4,
+    "race": {
+      "white": 72.8,
+      "black": 0.5,
+      "asian": 2.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 15.1,
+      "twoOrMore": 8.5,
+      "hispanic": 28.7
+    },
+    "education": {
+      "lessThanHighSchool": 20.2,
+      "highSchool": 29,
+      "someCollege": 18.3,
+      "associates": 12.4,
+      "bachelors": 15.2,
+      "graduate": 5
+    },
+    "medianIncome": 77027,
+    "meanIncome": 90911
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "31",
+    "name": "Sarpy County, Nebraska",
+    "population": 194051,
+    "medianAge": 35.5,
+    "race": {
+      "white": 81.7,
+      "black": 4.1,
+      "asian": 2.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 3.5,
+      "twoOrMore": 7.4,
+      "hispanic": 11.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 19.9,
+      "someCollege": 22.7,
+      "associates": 11.2,
+      "bachelors": 26.5,
+      "graduate": 15.4
+    },
+    "medianIncome": 101402,
+    "meanIncome": 121934
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "31",
+    "name": "Saunders County, Nebraska",
+    "population": 22761,
+    "medianAge": 40.4,
+    "race": {
+      "white": 94.1,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.1,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 29.6,
+      "someCollege": 21.7,
+      "associates": 14.5,
+      "bachelors": 19.3,
+      "graduate": 11
+    },
+    "medianIncome": 89395,
+    "meanIncome": 106904
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "31",
+    "name": "Scotts Bluff County, Nebraska",
+    "population": 35937,
+    "medianAge": 39.8,
+    "race": {
+      "white": 79.7,
+      "black": 0.6,
+      "asian": 0.7,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 11.8,
+      "hispanic": 23.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 27.3,
+      "someCollege": 26.1,
+      "associates": 10.2,
+      "bachelors": 17.3,
+      "graduate": 8.6
+    },
+    "medianIncome": 60960,
+    "meanIncome": 78307
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "31",
+    "name": "Seward County, Nebraska",
+    "population": 17636,
+    "medianAge": 37.6,
+    "race": {
+      "white": 95.2,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.5,
+      "twoOrMore": 3,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 28.2,
+      "someCollege": 19.8,
+      "associates": 15.3,
+      "bachelors": 22.3,
+      "graduate": 9.3
+    },
+    "medianIncome": 81122,
+    "meanIncome": 99411
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "31",
+    "name": "Sheridan County, Nebraska",
+    "population": 5058,
+    "medianAge": 46.6,
+    "race": {
+      "white": 82.1,
+      "black": 0.6,
+      "asian": 1.3,
+      "nativeAmerican": 10.6,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 4,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 32.6,
+      "someCollege": 25,
+      "associates": 10.6,
+      "bachelors": 17.2,
+      "graduate": 4.6
+    },
+    "medianIncome": 56900,
+    "meanIncome": 83528
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "31",
+    "name": "Sherman County, Nebraska",
+    "population": 2974,
+    "medianAge": 47.9,
+    "race": {
+      "white": 93.9,
+      "black": 0.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.5,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 35.6,
+      "someCollege": 25.9,
+      "associates": 10.9,
+      "bachelors": 13.3,
+      "graduate": 5.6
+    },
+    "medianIncome": 61935,
+    "meanIncome": 73202
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "31",
+    "name": "Sioux County, Nebraska",
+    "population": 1197,
+    "medianAge": 41.5,
+    "race": {
+      "white": 94.7,
+      "black": 0.3,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 1.6,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 25.3,
+      "someCollege": 36.5,
+      "associates": 8.6,
+      "bachelors": 18.4,
+      "graduate": 6.7
+    },
+    "medianIncome": 54076,
+    "meanIncome": 73691
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "31",
+    "name": "Stanton County, Nebraska",
+    "population": 5835,
+    "medianAge": 42,
+    "race": {
+      "white": 91.1,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 3.6,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 31.6,
+      "someCollege": 21.2,
+      "associates": 20.1,
+      "bachelors": 16.5,
+      "graduate": 5.9
+    },
+    "medianIncome": 78275,
+    "meanIncome": 97831
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "31",
+    "name": "Thayer County, Nebraska",
+    "population": 4938,
+    "medianAge": 46.2,
+    "race": {
+      "white": 94.2,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4.8,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 34.9,
+      "someCollege": 22.4,
+      "associates": 14.1,
+      "bachelors": 16.5,
+      "graduate": 6.5
+    },
+    "medianIncome": 63095,
+    "meanIncome": 80688
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "31",
+    "name": "Thomas County, Nebraska",
+    "population": 626,
+    "medianAge": 45.1,
+    "race": {
+      "white": 88.2,
+      "black": 1.3,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 10.5,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 25,
+      "someCollege": 20.2,
+      "associates": 21,
+      "bachelors": 21.8,
+      "graduate": 5.1
+    },
+    "medianIncome": 72708,
+    "meanIncome": 83742
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "31",
+    "name": "Thurston County, Nebraska",
+    "population": 6666,
+    "medianAge": 28.7,
+    "race": {
+      "white": 36.9,
+      "black": 0.2,
+      "asian": 0.9,
+      "nativeAmerican": 56.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.8,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 33.9,
+      "someCollege": 22.6,
+      "associates": 15.6,
+      "bachelors": 14.1,
+      "graduate": 6.2
+    },
+    "medianIncome": 64838,
+    "meanIncome": 78288
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "31",
+    "name": "Valley County, Nebraska",
+    "population": 4094,
+    "medianAge": 45.4,
+    "race": {
+      "white": 96.3,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 0.8,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 32.7,
+      "someCollege": 23,
+      "associates": 11.1,
+      "bachelors": 20.6,
+      "graduate": 7
+    },
+    "medianIncome": 58902,
+    "meanIncome": 86425
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "31",
+    "name": "Washington County, Nebraska",
+    "population": 20989,
+    "medianAge": 42.6,
+    "race": {
+      "white": 94.7,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.8,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 25.3,
+      "someCollege": 22.5,
+      "associates": 11.6,
+      "bachelors": 25.7,
+      "graduate": 10.8
+    },
+    "medianIncome": 90188,
+    "meanIncome": 112711
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "31",
+    "name": "Wayne County, Nebraska",
+    "population": 9786,
+    "medianAge": 31.6,
+    "race": {
+      "white": 89.7,
+      "black": 1,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 5.7,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 32.7,
+      "someCollege": 18.4,
+      "associates": 14.7,
+      "bachelors": 18.6,
+      "graduate": 10.8
+    },
+    "medianIncome": 67687,
+    "meanIncome": 80553
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "31",
+    "name": "Webster County, Nebraska",
+    "population": 3385,
+    "medianAge": 44.6,
+    "race": {
+      "white": 93.6,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.2,
+      "other": 0.5,
+      "twoOrMore": 4.7,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 33.7,
+      "someCollege": 21.4,
+      "associates": 17,
+      "bachelors": 14.8,
+      "graduate": 7.1
+    },
+    "medianIncome": 65197,
+    "meanIncome": 84246
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "31",
+    "name": "Wheeler County, Nebraska",
+    "population": 785,
+    "medianAge": 59.9,
+    "race": {
+      "white": 97.3,
+      "black": 0,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 2.2,
+      "highSchool": 31.6,
+      "someCollege": 24.5,
+      "associates": 12,
+      "bachelors": 21.2,
+      "graduate": 8.4
+    },
+    "medianIncome": 55893,
+    "meanIncome": 83605
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "31",
+    "name": "York County, Nebraska",
+    "population": 14231,
+    "medianAge": 39,
+    "race": {
+      "white": 90.3,
+      "black": 1.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 6.2,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 29.5,
+      "someCollege": 23.3,
+      "associates": 15.1,
+      "bachelors": 15.6,
+      "graduate": 8.2
+    },
+    "medianIncome": 74058,
+    "meanIncome": 91015
+  }
+]

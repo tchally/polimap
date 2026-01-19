@@ -1,0 +1,1811 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "01",
+    "name": "Autauga County, Alabama",
+    "population": 59285,
+    "medianAge": 39.2,
+    "race": {
+      "white": 73.6,
+      "black": 20,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.6,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 32.7,
+      "someCollege": 21.4,
+      "associates": 7.9,
+      "bachelors": 16,
+      "graduate": 12.3
+    },
+    "medianIncome": 69841,
+    "meanIncome": 93367
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "01",
+    "name": "Baldwin County, Alabama",
+    "population": 239945,
+    "medianAge": 43.7,
+    "race": {
+      "white": 82.8,
+      "black": 8,
+      "asian": 0.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 5.5,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 27.5,
+      "someCollege": 21.4,
+      "associates": 10,
+      "bachelors": 20.6,
+      "graduate": 12.2
+    },
+    "medianIncome": 75019,
+    "meanIncome": 100105
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "01",
+    "name": "Barbour County, Alabama",
+    "population": 24757,
+    "medianAge": 40.7,
+    "race": {
+      "white": 44,
+      "black": 46.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 3,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 37.6,
+      "someCollege": 20.1,
+      "associates": 8.6,
+      "bachelors": 6.7,
+      "graduate": 4.8
+    },
+    "medianIncome": 44290,
+    "meanIncome": 64745
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "01",
+    "name": "Bibb County, Alabama",
+    "population": 22152,
+    "medianAge": 41.3,
+    "race": {
+      "white": 75.1,
+      "black": 20.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.8,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 19.7,
+      "highSchool": 41.1,
+      "someCollege": 19.6,
+      "associates": 8.2,
+      "bachelors": 7,
+      "graduate": 4.4
+    },
+    "medianIncome": 51215,
+    "meanIncome": 67735
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "01",
+    "name": "Blount County, Alabama",
+    "population": 59292,
+    "medianAge": 40.9,
+    "race": {
+      "white": 89.5,
+      "black": 1.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.5,
+      "twoOrMore": 5.2,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.3,
+      "highSchool": 35.6,
+      "someCollege": 20.5,
+      "associates": 11,
+      "bachelors": 10,
+      "graduate": 5.6
+    },
+    "medianIncome": 61096,
+    "meanIncome": 79203
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "01",
+    "name": "Bullock County, Alabama",
+    "population": 10157,
+    "medianAge": 40.4,
+    "race": {
+      "white": 22.9,
+      "black": 71.2,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 2.2,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 26,
+      "highSchool": 40.6,
+      "someCollege": 21.4,
+      "associates": 3,
+      "bachelors": 6.7,
+      "graduate": 2.3
+    },
+    "medianIncome": 36723,
+    "meanIncome": 51121
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "01",
+    "name": "Butler County, Alabama",
+    "population": 18807,
+    "medianAge": 42.2,
+    "race": {
+      "white": 51.2,
+      "black": 44.7,
+      "asian": 1.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 47,
+      "someCollege": 18,
+      "associates": 8.9,
+      "bachelors": 7.9,
+      "graduate": 5.8
+    },
+    "medianIncome": 44881,
+    "meanIncome": 69162
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "01",
+    "name": "Calhoun County, Alabama",
+    "population": 116141,
+    "medianAge": 39,
+    "race": {
+      "white": 71,
+      "black": 22,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 2.1,
+      "twoOrMore": 3.7,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 34.5,
+      "someCollege": 22.7,
+      "associates": 8.4,
+      "bachelors": 12.5,
+      "graduate": 8
+    },
+    "medianIncome": 55826,
+    "meanIncome": 71879
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "01",
+    "name": "Chambers County, Alabama",
+    "population": 34450,
+    "medianAge": 41.5,
+    "race": {
+      "white": 55.4,
+      "black": 39.8,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 2.1,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 38.5,
+      "someCollege": 20.1,
+      "associates": 10.5,
+      "bachelors": 9.7,
+      "graduate": 4.8
+    },
+    "medianIncome": 49295,
+    "meanIncome": 65673
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "01",
+    "name": "Cherokee County, Alabama",
+    "population": 25224,
+    "medianAge": 47.4,
+    "race": {
+      "white": 91.3,
+      "black": 3.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.8,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 37.4,
+      "someCollege": 18.8,
+      "associates": 11.8,
+      "bachelors": 9.2,
+      "graduate": 6.8
+    },
+    "medianIncome": 50769,
+    "meanIncome": 71062
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "01",
+    "name": "Chilton County, Alabama",
+    "population": 45500,
+    "medianAge": 39.5,
+    "race": {
+      "white": 80.9,
+      "black": 9.2,
+      "asian": 0.5,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.3,
+      "other": 3,
+      "twoOrMore": 4.7,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 41.2,
+      "someCollege": 19.5,
+      "associates": 8.2,
+      "bachelors": 9.3,
+      "graduate": 6
+    },
+    "medianIncome": 61873,
+    "meanIncome": 75680
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "01",
+    "name": "Choctaw County, Alabama",
+    "population": 12525,
+    "medianAge": 47,
+    "race": {
+      "white": 56.7,
+      "black": 38.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.4,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 40.5,
+      "someCollege": 22.2,
+      "associates": 7.6,
+      "bachelors": 9.9,
+      "graduate": 4
+    },
+    "medianIncome": 44483,
+    "meanIncome": 63315
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "01",
+    "name": "Clarke County, Alabama",
+    "population": 22802,
+    "medianAge": 42.5,
+    "race": {
+      "white": 51.5,
+      "black": 45.4,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 1.7,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 42.4,
+      "someCollege": 20,
+      "associates": 7.5,
+      "bachelors": 9.7,
+      "graduate": 5.7
+    },
+    "medianIncome": 49167,
+    "meanIncome": 73965
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "01",
+    "name": "Clay County, Alabama",
+    "population": 14188,
+    "medianAge": 43.8,
+    "race": {
+      "white": 80.5,
+      "black": 13,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.9,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 37,
+      "someCollege": 20.6,
+      "associates": 10,
+      "bachelors": 11.2,
+      "graduate": 4
+    },
+    "medianIncome": 51852,
+    "meanIncome": 71247
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "01",
+    "name": "Cleburne County, Alabama",
+    "population": 15254,
+    "medianAge": 42.3,
+    "race": {
+      "white": 92.8,
+      "black": 3.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 1.5,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 38.9,
+      "someCollege": 20.3,
+      "associates": 7.9,
+      "bachelors": 11.1,
+      "graduate": 7.2
+    },
+    "medianIncome": 53319,
+    "meanIncome": 73100
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "01",
+    "name": "Coffee County, Alabama",
+    "population": 54231,
+    "medianAge": 38.8,
+    "race": {
+      "white": 71.5,
+      "black": 16.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 8,
+      "hispanic": 9.4
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 29.1,
+      "someCollege": 22.6,
+      "associates": 12.8,
+      "bachelors": 12.2,
+      "graduate": 9.3
+    },
+    "medianIncome": 64672,
+    "meanIncome": 81266
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "01",
+    "name": "Colbert County, Alabama",
+    "population": 57648,
+    "medianAge": 42.3,
+    "race": {
+      "white": 78,
+      "black": 15.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 3.8,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 34.6,
+      "someCollege": 22.8,
+      "associates": 10,
+      "bachelors": 12.9,
+      "graduate": 7.4
+    },
+    "medianIncome": 56736,
+    "meanIncome": 74264
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "01",
+    "name": "Conecuh County, Alabama",
+    "population": 11411,
+    "medianAge": 46.3,
+    "race": {
+      "white": 50.2,
+      "black": 45.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.4,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 48.1,
+      "someCollege": 19.6,
+      "associates": 6.6,
+      "bachelors": 7,
+      "graduate": 6.2
+    },
+    "medianIncome": 42266,
+    "meanIncome": 61553
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "01",
+    "name": "Coosa County, Alabama",
+    "population": 10323,
+    "medianAge": 50.3,
+    "race": {
+      "white": 64.6,
+      "black": 29.7,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.6,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 39.5,
+      "someCollege": 20.2,
+      "associates": 8.2,
+      "bachelors": 10.3,
+      "graduate": 4.6
+    },
+    "medianIncome": 57063,
+    "meanIncome": 69698
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "01",
+    "name": "Covington County, Alabama",
+    "population": 37647,
+    "medianAge": 42.8,
+    "race": {
+      "white": 83.2,
+      "black": 11.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.8,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 36.8,
+      "someCollege": 20.2,
+      "associates": 12,
+      "bachelors": 9.8,
+      "graduate": 7.4
+    },
+    "medianIncome": 50886,
+    "meanIncome": 73109
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "01",
+    "name": "Crenshaw County, Alabama",
+    "population": 13144,
+    "medianAge": 42.4,
+    "race": {
+      "white": 70.6,
+      "black": 23.4,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.8,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 41.3,
+      "someCollege": 16.4,
+      "associates": 8.1,
+      "bachelors": 11.5,
+      "graduate": 5.3
+    },
+    "medianIncome": 49040,
+    "meanIncome": 70635
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "01",
+    "name": "Cullman County, Alabama",
+    "population": 89463,
+    "medianAge": 41.1,
+    "race": {
+      "white": 91,
+      "black": 1.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 5,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 31,
+      "someCollege": 23.1,
+      "associates": 11.8,
+      "bachelors": 12.4,
+      "graduate": 6.7
+    },
+    "medianIncome": 60916,
+    "meanIncome": 78002
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "01",
+    "name": "Dale County, Alabama",
+    "population": 49516,
+    "medianAge": 38,
+    "race": {
+      "white": 68.6,
+      "black": 21.2,
+      "asian": 1.3,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 2.5,
+      "twoOrMore": 5.6,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 31.2,
+      "someCollege": 24.8,
+      "associates": 10.4,
+      "bachelors": 12.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 53955,
+    "meanIncome": 69759
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "01",
+    "name": "Dallas County, Alabama",
+    "population": 37536,
+    "medianAge": 40.3,
+    "race": {
+      "white": 27.2,
+      "black": 70.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 1.3,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 39,
+      "someCollege": 20.5,
+      "associates": 10.5,
+      "bachelors": 11.2,
+      "graduate": 5.8
+    },
+    "medianIncome": 36810,
+    "meanIncome": 55600
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "01",
+    "name": "DeKalb County, Alabama",
+    "population": 71946,
+    "medianAge": 39.6,
+    "race": {
+      "white": 81.3,
+      "black": 1.3,
+      "asian": 0.2,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.6,
+      "other": 9.5,
+      "twoOrMore": 5.7,
+      "hispanic": 16.7
+    },
+    "education": {
+      "lessThanHighSchool": 21.1,
+      "highSchool": 33.6,
+      "someCollege": 20.1,
+      "associates": 11.3,
+      "bachelors": 8.5,
+      "graduate": 5.4
+    },
+    "medianIncome": 51149,
+    "meanIncome": 65789
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "01",
+    "name": "Elmore County, Alabama",
+    "population": 88669,
+    "medianAge": 38.9,
+    "race": {
+      "white": 73.3,
+      "black": 21.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.9,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 34.5,
+      "someCollege": 20.9,
+      "associates": 9.9,
+      "bachelors": 16.1,
+      "graduate": 8.3
+    },
+    "medianIncome": 75553,
+    "meanIncome": 96359
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "01",
+    "name": "Escambia County, Alabama",
+    "population": 36695,
+    "medianAge": 40.5,
+    "race": {
+      "white": 61,
+      "black": 30.7,
+      "asian": 0.3,
+      "nativeAmerican": 3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.8,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 43.2,
+      "someCollege": 17.8,
+      "associates": 9,
+      "bachelors": 8.2,
+      "graduate": 4.3
+    },
+    "medianIncome": 44447,
+    "meanIncome": 60177
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "01",
+    "name": "Etowah County, Alabama",
+    "population": 103208,
+    "medianAge": 41.8,
+    "race": {
+      "white": 77.3,
+      "black": 15,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 4,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 34,
+      "someCollege": 23.6,
+      "associates": 10.7,
+      "bachelors": 10.6,
+      "graduate": 6.9
+    },
+    "medianIncome": 53070,
+    "meanIncome": 73124
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "01",
+    "name": "Fayette County, Alabama",
+    "population": 16173,
+    "medianAge": 42.8,
+    "race": {
+      "white": 84.5,
+      "black": 12.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 2.6,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 37.9,
+      "someCollege": 22.4,
+      "associates": 9.3,
+      "bachelors": 9.9,
+      "graduate": 5.7
+    },
+    "medianIncome": 50733,
+    "meanIncome": 69566
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "01",
+    "name": "Franklin County, Alabama",
+    "population": 31978,
+    "medianAge": 38.6,
+    "race": {
+      "white": 75.7,
+      "black": 4,
+      "asian": 0.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 13.5,
+      "twoOrMore": 5.8,
+      "hispanic": 19.8
+    },
+    "education": {
+      "lessThanHighSchool": 20.5,
+      "highSchool": 39.4,
+      "someCollege": 18.6,
+      "associates": 6.6,
+      "bachelors": 9.6,
+      "graduate": 5.3
+    },
+    "medianIncome": 51493,
+    "meanIncome": 67215
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "01",
+    "name": "Geneva County, Alabama",
+    "population": 26726,
+    "medianAge": 44,
+    "race": {
+      "white": 84.3,
+      "black": 8.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 4.3,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 37.4,
+      "someCollege": 22.1,
+      "associates": 10.4,
+      "bachelors": 9.6,
+      "graduate": 3.8
+    },
+    "medianIncome": 50951,
+    "meanIncome": 66098
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "01",
+    "name": "Greene County, Alabama",
+    "population": 7589,
+    "medianAge": 44.4,
+    "race": {
+      "white": 17.9,
+      "black": 81.5,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 0.1,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 45.6,
+      "someCollege": 16.3,
+      "associates": 7.6,
+      "bachelors": 7.5,
+      "graduate": 5
+    },
+    "medianIncome": 31495,
+    "meanIncome": 48047
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "01",
+    "name": "Hale County, Alabama",
+    "population": 14749,
+    "medianAge": 41,
+    "race": {
+      "white": 38.4,
+      "black": 55.8,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.9,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 38.2,
+      "someCollege": 16.8,
+      "associates": 10.1,
+      "bachelors": 11,
+      "graduate": 5.7
+    },
+    "medianIncome": 41325,
+    "meanIncome": 61740
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "01",
+    "name": "Henry County, Alabama",
+    "population": 17450,
+    "medianAge": 45,
+    "race": {
+      "white": 71,
+      "black": 25.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 2.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.8,
+      "highSchool": 32.4,
+      "someCollege": 19,
+      "associates": 9.1,
+      "bachelors": 14.2,
+      "graduate": 7.5
+    },
+    "medianIncome": 60135,
+    "meanIncome": 78795
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "01",
+    "name": "Houston County, Alabama",
+    "population": 107628,
+    "medianAge": 40.3,
+    "race": {
+      "white": 65.5,
+      "black": 27.2,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.7,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 32.1,
+      "someCollege": 22.8,
+      "associates": 9.8,
+      "bachelors": 14.3,
+      "graduate": 8.5
+    },
+    "medianIncome": 57531,
+    "meanIncome": 80048
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "01",
+    "name": "Jackson County, Alabama",
+    "population": 52839,
+    "medianAge": 43.4,
+    "race": {
+      "white": 89,
+      "black": 3,
+      "asian": 0.3,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 4.5,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.9,
+      "highSchool": 37.9,
+      "someCollege": 19.5,
+      "associates": 9.1,
+      "bachelors": 9.5,
+      "graduate": 6.1
+    },
+    "medianIncome": 49454,
+    "meanIncome": 67768
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "01",
+    "name": "Jefferson County, Alabama",
+    "population": 669744,
+    "medianAge": 37.8,
+    "race": {
+      "white": 49.3,
+      "black": 42.5,
+      "asian": 1.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 3.8,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 25.9,
+      "someCollege": 21,
+      "associates": 8.2,
+      "bachelors": 21.3,
+      "graduate": 14.7
+    },
+    "medianIncome": 64589,
+    "meanIncome": 97165
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "01",
+    "name": "Lamar County, Alabama",
+    "population": 13809,
+    "medianAge": 44.5,
+    "race": {
+      "white": 86.6,
+      "black": 9.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.2,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 41,
+      "someCollege": 22.4,
+      "associates": 8.9,
+      "bachelors": 6.9,
+      "graduate": 4.7
+    },
+    "medianIncome": 47447,
+    "meanIncome": 60489
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "01",
+    "name": "Lauderdale County, Alabama",
+    "population": 95037,
+    "medianAge": 40.7,
+    "race": {
+      "white": 83.5,
+      "black": 9.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.7,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 33.6,
+      "someCollege": 20.5,
+      "associates": 8.1,
+      "bachelors": 16.4,
+      "graduate": 10.6
+    },
+    "medianIncome": 59082,
+    "meanIncome": 78675
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "01",
+    "name": "Lawrence County, Alabama",
+    "population": 33182,
+    "medianAge": 42.8,
+    "race": {
+      "white": 76.1,
+      "black": 9.9,
+      "asian": 0.4,
+      "nativeAmerican": 4,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 7.8,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 41.1,
+      "someCollege": 19.9,
+      "associates": 7.9,
+      "bachelors": 10.4,
+      "graduate": 5.3
+    },
+    "medianIncome": 60040,
+    "meanIncome": 76640
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "01",
+    "name": "Lee County, Alabama",
+    "population": 177663,
+    "medianAge": 33.6,
+    "race": {
+      "white": 67.7,
+      "black": 22.3,
+      "asian": 4.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 3.8,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 21.8,
+      "someCollege": 19.1,
+      "associates": 9.2,
+      "bachelors": 22.6,
+      "graduate": 18.7
+    },
+    "medianIncome": 61123,
+    "meanIncome": 86713
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "01",
+    "name": "Limestone County, Alabama",
+    "population": 107577,
+    "medianAge": 40.5,
+    "race": {
+      "white": 75.3,
+      "black": 12.8,
+      "asian": 1.8,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.1,
+      "other": 2.7,
+      "twoOrMore": 6.3,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 26.4,
+      "someCollege": 21.5,
+      "associates": 9.3,
+      "bachelors": 19.1,
+      "graduate": 11.3
+    },
+    "medianIncome": 83534,
+    "meanIncome": 105108
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "01",
+    "name": "Lowndes County, Alabama",
+    "population": 10008,
+    "medianAge": 42.7,
+    "race": {
+      "white": 24.5,
+      "black": 74.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 44,
+      "someCollege": 14.8,
+      "associates": 10.5,
+      "bachelors": 9.1,
+      "graduate": 4.8
+    },
+    "medianIncome": 35160,
+    "meanIncome": 58417
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "01",
+    "name": "Macon County, Alabama",
+    "population": 18951,
+    "medianAge": 37.8,
+    "race": {
+      "white": 17.1,
+      "black": 78.3,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.9,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 31.7,
+      "someCollege": 24.8,
+      "associates": 7,
+      "bachelors": 11.2,
+      "graduate": 9.5
+    },
+    "medianIncome": 45951,
+    "meanIncome": 61698
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "01",
+    "name": "Madison County, Alabama",
+    "population": 397135,
+    "medianAge": 38.2,
+    "race": {
+      "white": 64.2,
+      "black": 24.3,
+      "asian": 2.6,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 6.2,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 19.2,
+      "someCollege": 20.1,
+      "associates": 7.6,
+      "bachelors": 27.1,
+      "graduate": 18.6
+    },
+    "medianIncome": 83528,
+    "meanIncome": 111962
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "01",
+    "name": "Marengo County, Alabama",
+    "population": 19027,
+    "medianAge": 41.1,
+    "race": {
+      "white": 45,
+      "black": 51.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.2,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 34.4,
+      "someCollege": 20.4,
+      "associates": 10.3,
+      "bachelors": 12.1,
+      "graduate": 8.3
+    },
+    "medianIncome": 44205,
+    "meanIncome": 67077
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "01",
+    "name": "Marion County, Alabama",
+    "population": 29190,
+    "medianAge": 43.8,
+    "race": {
+      "white": 91.4,
+      "black": 3.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.1,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 17.9,
+      "highSchool": 36.1,
+      "someCollege": 21.8,
+      "associates": 11.4,
+      "bachelors": 8.4,
+      "graduate": 4.4
+    },
+    "medianIncome": 50714,
+    "meanIncome": 66253
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "01",
+    "name": "Marshall County, Alabama",
+    "population": 98712,
+    "medianAge": 38.6,
+    "race": {
+      "white": 82.1,
+      "black": 2.6,
+      "asian": 0.6,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.1,
+      "other": 6.2,
+      "twoOrMore": 7,
+      "hispanic": 16.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 32.7,
+      "someCollege": 19.9,
+      "associates": 10.5,
+      "bachelors": 14.5,
+      "graduate": 6.8
+    },
+    "medianIncome": 60946,
+    "meanIncome": 82099
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "01",
+    "name": "Mobile County, Alabama",
+    "population": 413162,
+    "medianAge": 38.4,
+    "race": {
+      "white": 56.1,
+      "black": 36,
+      "asian": 2.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.1,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 33.8,
+      "someCollege": 21.3,
+      "associates": 8.7,
+      "bachelors": 16.2,
+      "graduate": 8.9
+    },
+    "medianIncome": 58119,
+    "meanIncome": 79051
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "01",
+    "name": "Monroe County, Alabama",
+    "population": 19580,
+    "medianAge": 43.9,
+    "race": {
+      "white": 53.7,
+      "black": 42.2,
+      "asian": 0.3,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.2,
+      "other": 0.1,
+      "twoOrMore": 2.4,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 45.6,
+      "someCollege": 18.9,
+      "associates": 7.8,
+      "bachelors": 6.2,
+      "graduate": 5.1
+    },
+    "medianIncome": 40225,
+    "meanIncome": 57308
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "01",
+    "name": "Montgomery County, Alabama",
+    "population": 227197,
+    "medianAge": 36.9,
+    "race": {
+      "white": 31.8,
+      "black": 58.8,
+      "asian": 3.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.5,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 26.2,
+      "someCollege": 20.9,
+      "associates": 7.5,
+      "bachelors": 19.9,
+      "graduate": 14.3
+    },
+    "medianIncome": 58153,
+    "meanIncome": 80704
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "01",
+    "name": "Morgan County, Alabama",
+    "population": 123742,
+    "medianAge": 40.3,
+    "race": {
+      "white": 75.4,
+      "black": 13.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 6.4,
+      "hispanic": 10.2
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 31.5,
+      "someCollege": 22.1,
+      "associates": 8.3,
+      "bachelors": 15.3,
+      "graduate": 8
+    },
+    "medianIncome": 64858,
+    "meanIncome": 86044
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "01",
+    "name": "Perry County, Alabama",
+    "population": 8231,
+    "medianAge": 42.5,
+    "race": {
+      "white": 28,
+      "black": 71,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 0.8,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 17.8,
+      "highSchool": 42.6,
+      "someCollege": 16.1,
+      "associates": 6.6,
+      "bachelors": 10.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 34368,
+    "meanIncome": 42730
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "01",
+    "name": "Pickens County, Alabama",
+    "population": 18843,
+    "medianAge": 42.5,
+    "race": {
+      "white": 58.2,
+      "black": 39.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 1.6,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 43,
+      "someCollege": 18,
+      "associates": 9.1,
+      "bachelors": 9.1,
+      "graduate": 4.6
+    },
+    "medianIncome": 47014,
+    "meanIncome": 66646
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "01",
+    "name": "Pike County, Alabama",
+    "population": 32953,
+    "medianAge": 31.7,
+    "race": {
+      "white": 56.1,
+      "black": 37.4,
+      "asian": 2.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 3.4,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 34,
+      "someCollege": 19.5,
+      "associates": 6.8,
+      "bachelors": 16,
+      "graduate": 11.3
+    },
+    "medianIncome": 47961,
+    "meanIncome": 69002
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "01",
+    "name": "Randolph County, Alabama",
+    "population": 22310,
+    "medianAge": 44,
+    "race": {
+      "white": 75.6,
+      "black": 16.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 6.4,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 35.6,
+      "someCollege": 16.8,
+      "associates": 10.7,
+      "bachelors": 12.1,
+      "graduate": 8.4
+    },
+    "medianIncome": 51551,
+    "meanIncome": 70749
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "01",
+    "name": "Russell County, Alabama",
+    "population": 58858,
+    "medianAge": 37.2,
+    "race": {
+      "white": 46.6,
+      "black": 45.5,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 5.1,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 31.1,
+      "someCollege": 25.6,
+      "associates": 12.3,
+      "bachelors": 10.8,
+      "graduate": 6
+    },
+    "medianIncome": 50046,
+    "meanIncome": 65547
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "01",
+    "name": "St. Clair County, Alabama",
+    "population": 92903,
+    "medianAge": 41,
+    "race": {
+      "white": 84.3,
+      "black": 9.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 3.8,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 34.7,
+      "someCollege": 24,
+      "associates": 9,
+      "bachelors": 13.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 78993,
+    "meanIncome": 92258
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "01",
+    "name": "Shelby County, Alabama",
+    "population": 226955,
+    "medianAge": 40,
+    "race": {
+      "white": 76.5,
+      "black": 13.2,
+      "asian": 2.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 5,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 20.5,
+      "someCollege": 19.4,
+      "associates": 8,
+      "bachelors": 30.1,
+      "graduate": 16.1
+    },
+    "medianIncome": 93543,
+    "meanIncome": 123911
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "01",
+    "name": "Sumter County, Alabama",
+    "population": 12020,
+    "medianAge": 34.9,
+    "race": {
+      "white": 25.9,
+      "black": 71.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.3,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 34.1,
+      "someCollege": 28.6,
+      "associates": 6.2,
+      "bachelors": 10.6,
+      "graduate": 8.5
+    },
+    "medianIncome": 37981,
+    "meanIncome": 50405
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "01",
+    "name": "Talladega County, Alabama",
+    "population": 81170,
+    "medianAge": 42.2,
+    "race": {
+      "white": 62.7,
+      "black": 31.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 3.6,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 35.8,
+      "someCollege": 23.1,
+      "associates": 8.8,
+      "bachelors": 9.2,
+      "graduate": 7.6
+    },
+    "medianIncome": 56249,
+    "meanIncome": 72746
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "01",
+    "name": "Tallapoosa County, Alabama",
+    "population": 41070,
+    "medianAge": 45.4,
+    "race": {
+      "white": 68.7,
+      "black": 23.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 6.1,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 32.7,
+      "someCollege": 23.2,
+      "associates": 9.1,
+      "bachelors": 12,
+      "graduate": 6.8
+    },
+    "medianIncome": 57185,
+    "meanIncome": 75764
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "01",
+    "name": "Tuscaloosa County, Alabama",
+    "population": 234036,
+    "medianAge": 33,
+    "race": {
+      "white": 60.9,
+      "black": 32,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.9,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 28.9,
+      "someCollege": 21.4,
+      "associates": 9.2,
+      "bachelors": 18.3,
+      "graduate": 13
+    },
+    "medianIncome": 63947,
+    "meanIncome": 85068
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "01",
+    "name": "Walker County, Alabama",
+    "population": 64886,
+    "medianAge": 41.3,
+    "race": {
+      "white": 87.9,
+      "black": 6.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 3.5,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.1,
+      "highSchool": 34.3,
+      "someCollege": 22.3,
+      "associates": 10.3,
+      "bachelors": 9.6,
+      "graduate": 6.4
+    },
+    "medianIncome": 54509,
+    "meanIncome": 69909
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "01",
+    "name": "Washington County, Alabama",
+    "population": 15270,
+    "medianAge": 44.1,
+    "race": {
+      "white": 66.9,
+      "black": 22.7,
+      "asian": 0.3,
+      "nativeAmerican": 6.4,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.6,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 40.9,
+      "someCollege": 22.2,
+      "associates": 9.4,
+      "bachelors": 8.5,
+      "graduate": 7.7
+    },
+    "medianIncome": 60503,
+    "meanIncome": 80526
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "01",
+    "name": "Wilcox County, Alabama",
+    "population": 10347,
+    "medianAge": 42,
+    "race": {
+      "white": 27.6,
+      "black": 70.7,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.6,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 22.1,
+      "highSchool": 39.1,
+      "someCollege": 19.3,
+      "associates": 7.2,
+      "bachelors": 8,
+      "graduate": 4.3
+    },
+    "medianIncome": 42236,
+    "meanIncome": 56527
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "01",
+    "name": "Winston County, Alabama",
+    "population": 23637,
+    "medianAge": 45.3,
+    "race": {
+      "white": 92.8,
+      "black": 1.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 3.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 21.2,
+      "highSchool": 40.1,
+      "someCollege": 17.8,
+      "associates": 7.5,
+      "bachelors": 8.3,
+      "graduate": 5.1
+    },
+    "medianIncome": 48032,
+    "meanIncome": 66939
+  }
+]

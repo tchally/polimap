@@ -1,0 +1,2756 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "17",
+    "name": "Adams County, Illinois",
+    "population": 65166,
+    "medianAge": 41.1,
+    "race": {
+      "white": 91,
+      "black": 3.6,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.3,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 34.9,
+      "someCollege": 21.9,
+      "associates": 9.7,
+      "bachelors": 18.1,
+      "graduate": 8.9
+    },
+    "medianIncome": 64962,
+    "meanIncome": 83547
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "17",
+    "name": "Alexander County, Illinois",
+    "population": 5042,
+    "medianAge": 45.8,
+    "race": {
+      "white": 63.2,
+      "black": 32.6,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.9,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 40.9,
+      "someCollege": 25.3,
+      "associates": 7.9,
+      "bachelors": 7.3,
+      "graduate": 5.3
+    },
+    "medianIncome": 43523,
+    "meanIncome": 59752
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "17",
+    "name": "Bond County, Illinois",
+    "population": 16627,
+    "medianAge": 40.4,
+    "race": {
+      "white": 88.8,
+      "black": 6.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.7,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 32.1,
+      "someCollege": 27,
+      "associates": 9,
+      "bachelors": 12.3,
+      "graduate": 9
+    },
+    "medianIncome": 61603,
+    "meanIncome": 84409
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "17",
+    "name": "Boone County, Illinois",
+    "population": 53316,
+    "medianAge": 39.5,
+    "race": {
+      "white": 74.2,
+      "black": 2.5,
+      "asian": 1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 12.6,
+      "twoOrMore": 9.3,
+      "hispanic": 24.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 30.4,
+      "someCollege": 23.7,
+      "associates": 8.3,
+      "bachelors": 14.4,
+      "graduate": 8.8
+    },
+    "medianIncome": 81638,
+    "meanIncome": 103936
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "17",
+    "name": "Brown County, Illinois",
+    "population": 6320,
+    "medianAge": 40.9,
+    "race": {
+      "white": 75.6,
+      "black": 17.3,
+      "asian": 0,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 3.2,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 20.4,
+      "highSchool": 40.3,
+      "someCollege": 16.5,
+      "associates": 7.7,
+      "bachelors": 11.7,
+      "graduate": 3.4
+    },
+    "medianIncome": 72288,
+    "meanIncome": 83413
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "17",
+    "name": "Bureau County, Illinois",
+    "population": 33027,
+    "medianAge": 44.1,
+    "race": {
+      "white": 89,
+      "black": 0.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 5.7,
+      "hispanic": 9.8
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 34.7,
+      "someCollege": 24.4,
+      "associates": 10.5,
+      "bachelors": 14.3,
+      "graduate": 7.1
+    },
+    "medianIncome": 65894,
+    "meanIncome": 85291
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "17",
+    "name": "Calhoun County, Illinois",
+    "population": 4406,
+    "medianAge": 48.5,
+    "race": {
+      "white": 94.9,
+      "black": 1,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.8,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 33.3,
+      "someCollege": 20.1,
+      "associates": 21.6,
+      "bachelors": 13.2,
+      "graduate": 5.1
+    },
+    "medianIncome": 92095,
+    "meanIncome": 105411
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "17",
+    "name": "Carroll County, Illinois",
+    "population": 15621,
+    "medianAge": 44.9,
+    "race": {
+      "white": 90.8,
+      "black": 3.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.5,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 35.8,
+      "someCollege": 23.7,
+      "associates": 10,
+      "bachelors": 13.4,
+      "graduate": 4.8
+    },
+    "medianIncome": 60871,
+    "meanIncome": 79017
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "17",
+    "name": "Cass County, Illinois",
+    "population": 12826,
+    "medianAge": 38.1,
+    "race": {
+      "white": 77.7,
+      "black": 3.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.6,
+      "other": 8.7,
+      "twoOrMore": 8,
+      "hispanic": 21.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 42.4,
+      "someCollege": 17.7,
+      "associates": 6.7,
+      "bachelors": 15,
+      "graduate": 4.9
+    },
+    "medianIncome": 64907,
+    "meanIncome": 78834
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "17",
+    "name": "Champaign County, Illinois",
+    "population": 206098,
+    "medianAge": 30.9,
+    "race": {
+      "white": 66.3,
+      "black": 13.4,
+      "asian": 10.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 7.6,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 22.3,
+      "someCollege": 17.7,
+      "associates": 8.6,
+      "bachelors": 21,
+      "graduate": 25.5
+    },
+    "medianIncome": 63091,
+    "meanIncome": 89697
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "17",
+    "name": "Christian County, Illinois",
+    "population": 33684,
+    "medianAge": 42.7,
+    "race": {
+      "white": 93,
+      "black": 2.6,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.7,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 44.1,
+      "someCollege": 19.4,
+      "associates": 10.8,
+      "bachelors": 11.5,
+      "graduate": 5.1
+    },
+    "medianIncome": 59253,
+    "meanIncome": 74729
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "17",
+    "name": "Clark County, Illinois",
+    "population": 15328,
+    "medianAge": 42,
+    "race": {
+      "white": 95.9,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 35.3,
+      "someCollege": 18.1,
+      "associates": 14.4,
+      "bachelors": 14.3,
+      "graduate": 9.9
+    },
+    "medianIncome": 70625,
+    "meanIncome": 83186
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "17",
+    "name": "Clay County, Illinois",
+    "population": 13173,
+    "medianAge": 41.5,
+    "race": {
+      "white": 95.4,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.2,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 36.6,
+      "someCollege": 18.5,
+      "associates": 17.1,
+      "bachelors": 10,
+      "graduate": 5.6
+    },
+    "medianIncome": 57266,
+    "meanIncome": 79425
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "17",
+    "name": "Clinton County, Illinois",
+    "population": 36899,
+    "medianAge": 41.4,
+    "race": {
+      "white": 91.4,
+      "black": 3.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.8,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 32.1,
+      "someCollege": 19.4,
+      "associates": 16.1,
+      "bachelors": 17,
+      "graduate": 7.4
+    },
+    "medianIncome": 82314,
+    "meanIncome": 104928
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "17",
+    "name": "Coles County, Illinois",
+    "population": 46689,
+    "medianAge": 38.2,
+    "race": {
+      "white": 90.3,
+      "black": 3.8,
+      "asian": 1.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.6,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 30.7,
+      "someCollege": 21.6,
+      "associates": 12,
+      "bachelors": 16.6,
+      "graduate": 10.5
+    },
+    "medianIncome": 56040,
+    "meanIncome": 77632
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "17",
+    "name": "Cook County, Illinois",
+    "population": 5185812,
+    "medianAge": 37.8,
+    "race": {
+      "white": 46.4,
+      "black": 22.5,
+      "asian": 7.8,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 11.4,
+      "twoOrMore": 11.1,
+      "hispanic": 26.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 22.2,
+      "someCollege": 17.5,
+      "associates": 6.7,
+      "bachelors": 24.4,
+      "graduate": 17.6
+    },
+    "medianIncome": 81797,
+    "meanIncome": 117699
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "17",
+    "name": "Crawford County, Illinois",
+    "population": 18588,
+    "medianAge": 42.4,
+    "race": {
+      "white": 91.1,
+      "black": 3.5,
+      "asian": 0.2,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.8,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 29.4,
+      "someCollege": 21.3,
+      "associates": 16.8,
+      "bachelors": 14.3,
+      "graduate": 6.3
+    },
+    "medianIncome": 67614,
+    "meanIncome": 85713
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "17",
+    "name": "Cumberland County, Illinois",
+    "population": 10378,
+    "medianAge": 42.3,
+    "race": {
+      "white": 96,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.7,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 38.6,
+      "someCollege": 20.1,
+      "associates": 16.6,
+      "bachelors": 12.7,
+      "graduate": 5.9
+    },
+    "medianIncome": 69826,
+    "meanIncome": 88805
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "17",
+    "name": "DeKalb County, Illinois",
+    "population": 100512,
+    "medianAge": 32.6,
+    "race": {
+      "white": 76.3,
+      "black": 7.8,
+      "asian": 2.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 8.7,
+      "hispanic": 14
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 25.9,
+      "someCollege": 23.9,
+      "associates": 9.9,
+      "bachelors": 20,
+      "graduate": 12.7
+    },
+    "medianIncome": 69022,
+    "meanIncome": 87946
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "17",
+    "name": "De Witt County, Illinois",
+    "population": 15461,
+    "medianAge": 44,
+    "race": {
+      "white": 94.5,
+      "black": 1,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.5,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 40,
+      "someCollege": 23.9,
+      "associates": 7.4,
+      "bachelors": 14.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 64802,
+    "meanIncome": 83717
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "17",
+    "name": "Douglas County, Illinois",
+    "population": 19686,
+    "medianAge": 38.9,
+    "race": {
+      "white": 90.5,
+      "black": 1.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 5.7,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 33,
+      "someCollege": 19.9,
+      "associates": 13,
+      "bachelors": 13.9,
+      "graduate": 6.3
+    },
+    "medianIncome": 74186,
+    "meanIncome": 87643
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "17",
+    "name": "DuPage County, Illinois",
+    "population": 927263,
+    "medianAge": 40,
+    "race": {
+      "white": 67.2,
+      "black": 5,
+      "asian": 12.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 9.3,
+      "hispanic": 15.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 18.1,
+      "someCollege": 16.4,
+      "associates": 7.2,
+      "bachelors": 30.5,
+      "graduate": 21
+    },
+    "medianIncome": 110502,
+    "meanIncome": 149370
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "17",
+    "name": "Edgar County, Illinois",
+    "population": 16637,
+    "medianAge": 46.4,
+    "race": {
+      "white": 96.3,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.2,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 41.5,
+      "someCollege": 19.4,
+      "associates": 9,
+      "bachelors": 15.1,
+      "graduate": 5.1
+    },
+    "medianIncome": 56909,
+    "meanIncome": 74074
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "17",
+    "name": "Edwards County, Illinois",
+    "population": 6118,
+    "medianAge": 44.6,
+    "race": {
+      "white": 95.6,
+      "black": 0.2,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.4,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 36.2,
+      "someCollege": 22.9,
+      "associates": 18.8,
+      "bachelors": 8.9,
+      "graduate": 5
+    },
+    "medianIncome": 59386,
+    "meanIncome": 72815
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "17",
+    "name": "Effingham County, Illinois",
+    "population": 34505,
+    "medianAge": 39.5,
+    "race": {
+      "white": 95.9,
+      "black": 0.7,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 1.8,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 31.6,
+      "someCollege": 20.7,
+      "associates": 14.8,
+      "bachelors": 17.8,
+      "graduate": 8.2
+    },
+    "medianIncome": 75380,
+    "meanIncome": 95615
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "17",
+    "name": "Fayette County, Illinois",
+    "population": 21380,
+    "medianAge": 41.7,
+    "race": {
+      "white": 89.4,
+      "black": 3.8,
+      "asian": 0.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 0.3,
+      "twoOrMore": 5.7,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 40.5,
+      "someCollege": 18.7,
+      "associates": 11.5,
+      "bachelors": 11.6,
+      "graduate": 5
+    },
+    "medianIncome": 57113,
+    "meanIncome": 77408
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "17",
+    "name": "Ford County, Illinois",
+    "population": 13396,
+    "medianAge": 42.5,
+    "race": {
+      "white": 91.5,
+      "black": 0.8,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 4.7,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 36.1,
+      "someCollege": 24.7,
+      "associates": 11.6,
+      "bachelors": 12.5,
+      "graduate": 7
+    },
+    "medianIncome": 60782,
+    "meanIncome": 76631
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "17",
+    "name": "Franklin County, Illinois",
+    "population": 37541,
+    "medianAge": 43.4,
+    "race": {
+      "white": 94.8,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.8,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 32.3,
+      "someCollege": 27.1,
+      "associates": 12.7,
+      "bachelors": 11.7,
+      "graduate": 5.4
+    },
+    "medianIncome": 53471,
+    "meanIncome": 69811
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "17",
+    "name": "Fulton County, Illinois",
+    "population": 33259,
+    "medianAge": 43.7,
+    "race": {
+      "white": 92.9,
+      "black": 2.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.9,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 37.7,
+      "someCollege": 23.4,
+      "associates": 12.2,
+      "bachelors": 12.1,
+      "graduate": 5.6
+    },
+    "medianIncome": 58617,
+    "meanIncome": 79511
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "17",
+    "name": "Gallatin County, Illinois",
+    "population": 4857,
+    "medianAge": 47.3,
+    "race": {
+      "white": 96.1,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.6,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 35.3,
+      "someCollege": 23.4,
+      "associates": 12.4,
+      "bachelors": 9.6,
+      "graduate": 5.7
+    },
+    "medianIncome": 54626,
+    "meanIncome": 88438
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "17",
+    "name": "Greene County, Illinois",
+    "population": 11837,
+    "medianAge": 43.1,
+    "race": {
+      "white": 96.1,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.4,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 44.1,
+      "someCollege": 19.5,
+      "associates": 10.5,
+      "bachelors": 11.2,
+      "graduate": 5.1
+    },
+    "medianIncome": 60976,
+    "meanIncome": 81696
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "17",
+    "name": "Grundy County, Illinois",
+    "population": 52920,
+    "medianAge": 38.6,
+    "race": {
+      "white": 88.4,
+      "black": 2.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 6.2,
+      "hispanic": 11.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 34,
+      "someCollege": 25.7,
+      "associates": 10.3,
+      "bachelors": 16.3,
+      "graduate": 7.9
+    },
+    "medianIncome": 93060,
+    "meanIncome": 111929
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "17",
+    "name": "Hamilton County, Illinois",
+    "population": 7972,
+    "medianAge": 43.5,
+    "race": {
+      "white": 96,
+      "black": 0.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.5,
+      "other": 0.5,
+      "twoOrMore": 2.1,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 31.9,
+      "someCollege": 22.6,
+      "associates": 16,
+      "bachelors": 11.5,
+      "graduate": 7
+    },
+    "medianIncome": 61520,
+    "meanIncome": 85365
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "17",
+    "name": "Hancock County, Illinois",
+    "population": 17434,
+    "medianAge": 46.3,
+    "race": {
+      "white": 95,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.8,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 33.8,
+      "someCollege": 23.5,
+      "associates": 12.6,
+      "bachelors": 17.1,
+      "graduate": 7.1
+    },
+    "medianIncome": 65044,
+    "meanIncome": 83931
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "17",
+    "name": "Hardin County, Illinois",
+    "population": 3623,
+    "medianAge": 55,
+    "race": {
+      "white": 96.3,
+      "black": 1.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 1.8,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 40.7,
+      "someCollege": 23.6,
+      "associates": 11.9,
+      "bachelors": 6.9,
+      "graduate": 5.2
+    },
+    "medianIncome": 57155,
+    "meanIncome": 64711
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "17",
+    "name": "Henderson County, Illinois",
+    "population": 6284,
+    "medianAge": 49.8,
+    "race": {
+      "white": 95.2,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 43.4,
+      "someCollege": 19.9,
+      "associates": 9.4,
+      "bachelors": 14.3,
+      "graduate": 4.9
+    },
+    "medianIncome": 65651,
+    "meanIncome": 75442
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "17",
+    "name": "Henry County, Illinois",
+    "population": 48948,
+    "medianAge": 43.4,
+    "race": {
+      "white": 88.5,
+      "black": 2.2,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 6.3,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 33.7,
+      "someCollege": 22.1,
+      "associates": 11.9,
+      "bachelors": 16.6,
+      "graduate": 7.7
+    },
+    "medianIncome": 69912,
+    "meanIncome": 91842
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "17",
+    "name": "Iroquois County, Illinois",
+    "population": 26746,
+    "medianAge": 44.4,
+    "race": {
+      "white": 89.6,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 5,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 39.8,
+      "someCollege": 22.5,
+      "associates": 10.1,
+      "bachelors": 11.9,
+      "graduate": 4.9
+    },
+    "medianIncome": 62439,
+    "meanIncome": 81382
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "17",
+    "name": "Jackson County, Illinois",
+    "population": 52706,
+    "medianAge": 32.9,
+    "race": {
+      "white": 73.6,
+      "black": 14.4,
+      "asian": 3.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 3.1,
+      "twoOrMore": 4.9,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 22.9,
+      "someCollege": 25.3,
+      "associates": 8.8,
+      "bachelors": 18.2,
+      "graduate": 16.8
+    },
+    "medianIncome": 45572,
+    "meanIncome": 69513
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "17",
+    "name": "Jasper County, Illinois",
+    "population": 9233,
+    "medianAge": 44.2,
+    "race": {
+      "white": 97.1,
+      "black": 0.1,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.2,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 34.4,
+      "someCollege": 18.6,
+      "associates": 19.5,
+      "bachelors": 14,
+      "graduate": 6.5
+    },
+    "medianIncome": 71094,
+    "meanIncome": 90366
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "17",
+    "name": "Jefferson County, Illinois",
+    "population": 36808,
+    "medianAge": 41.1,
+    "race": {
+      "white": 84.9,
+      "black": 6.5,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 6.7,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 32.7,
+      "someCollege": 27,
+      "associates": 13.3,
+      "bachelors": 11.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 61102,
+    "meanIncome": 77553
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "17",
+    "name": "Jersey County, Illinois",
+    "population": 21336,
+    "medianAge": 43.2,
+    "race": {
+      "white": 95.3,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 3.3,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 37.4,
+      "someCollege": 23,
+      "associates": 12.8,
+      "bachelors": 13.5,
+      "graduate": 7
+    },
+    "medianIncome": 79104,
+    "meanIncome": 97570
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "17",
+    "name": "Jo Daviess County, Illinois",
+    "population": 21918,
+    "medianAge": 50.9,
+    "race": {
+      "white": 94,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 3.5,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 31.6,
+      "someCollege": 21.6,
+      "associates": 11.5,
+      "bachelors": 19.1,
+      "graduate": 9.6
+    },
+    "medianIncome": 74954,
+    "meanIncome": 92828
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "17",
+    "name": "Johnson County, Illinois",
+    "population": 13350,
+    "medianAge": 42.7,
+    "race": {
+      "white": 82.2,
+      "black": 7.6,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 9.3,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 14.1,
+      "highSchool": 32.7,
+      "someCollege": 23.7,
+      "associates": 10.7,
+      "bachelors": 12.2,
+      "graduate": 6.6
+    },
+    "medianIncome": 65203,
+    "meanIncome": 77971
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "17",
+    "name": "Kane County, Illinois",
+    "population": 516097,
+    "medianAge": 38.6,
+    "race": {
+      "white": 61.7,
+      "black": 5.1,
+      "asian": 4,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.1,
+      "other": 13.2,
+      "twoOrMore": 14.8,
+      "hispanic": 33.1
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 22.7,
+      "someCollege": 19.5,
+      "associates": 7.3,
+      "bachelors": 24.1,
+      "graduate": 13.4
+    },
+    "medianIncome": 100678,
+    "meanIncome": 128682
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "17",
+    "name": "Kankakee County, Illinois",
+    "population": 106833,
+    "medianAge": 39,
+    "race": {
+      "white": 74.5,
+      "black": 14.6,
+      "asian": 1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 6.2,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 35.8,
+      "someCollege": 24.7,
+      "associates": 10,
+      "bachelors": 12.4,
+      "graduate": 7.9
+    },
+    "medianIncome": 68325,
+    "meanIncome": 90248
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "17",
+    "name": "Kendall County, Illinois",
+    "population": 135053,
+    "medianAge": 36,
+    "race": {
+      "white": 69.1,
+      "black": 8.3,
+      "asian": 3.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 5.8,
+      "twoOrMore": 13.2,
+      "hispanic": 21.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 23.5,
+      "someCollege": 22.8,
+      "associates": 10.8,
+      "bachelors": 23.4,
+      "graduate": 13
+    },
+    "medianIncome": 110474,
+    "meanIncome": 127433
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "17",
+    "name": "Knox County, Illinois",
+    "population": 49294,
+    "medianAge": 42.4,
+    "race": {
+      "white": 83.3,
+      "black": 7.8,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 5.8,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 34.9,
+      "someCollege": 21.1,
+      "associates": 13,
+      "bachelors": 13.1,
+      "graduate": 7.2
+    },
+    "medianIncome": 53291,
+    "meanIncome": 69635
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "17",
+    "name": "Lake County, Illinois",
+    "population": 711885,
+    "medianAge": 38.9,
+    "race": {
+      "white": 64,
+      "black": 6.6,
+      "asian": 8.5,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 8.3,
+      "twoOrMore": 11.6,
+      "hispanic": 24.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 19.7,
+      "someCollege": 17.6,
+      "associates": 6.4,
+      "bachelors": 27.4,
+      "graduate": 19.5
+    },
+    "medianIncome": 108917,
+    "meanIncome": 152447
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "17",
+    "name": "LaSalle County, Illinois",
+    "population": 109049,
+    "medianAge": 42.1,
+    "race": {
+      "white": 86.8,
+      "black": 2.7,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 5.4,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 36,
+      "someCollege": 25,
+      "associates": 11.6,
+      "bachelors": 12.8,
+      "graduate": 6
+    },
+    "medianIncome": 72281,
+    "meanIncome": 90125
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "17",
+    "name": "Lawrence County, Illinois",
+    "population": 15137,
+    "medianAge": 40.6,
+    "race": {
+      "white": 85.3,
+      "black": 6.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 6.3,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 35,
+      "someCollege": 21.7,
+      "associates": 13.9,
+      "bachelors": 8.8,
+      "graduate": 5.8
+    },
+    "medianIncome": 53438,
+    "meanIncome": 78332
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "17",
+    "name": "Lee County, Illinois",
+    "population": 34058,
+    "medianAge": 43,
+    "race": {
+      "white": 86.8,
+      "black": 5.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 6.1,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 37.2,
+      "someCollege": 24.6,
+      "associates": 9.3,
+      "bachelors": 12.3,
+      "graduate": 7
+    },
+    "medianIncome": 68459,
+    "meanIncome": 88472
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "17",
+    "name": "Livingston County, Illinois",
+    "population": 35659,
+    "medianAge": 41.9,
+    "race": {
+      "white": 90.3,
+      "black": 3.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.7,
+      "twoOrMore": 3.8,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 40.4,
+      "someCollege": 22.5,
+      "associates": 9,
+      "bachelors": 12.6,
+      "graduate": 5.9
+    },
+    "medianIncome": 70796,
+    "meanIncome": 88369
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "17",
+    "name": "Logan County, Illinois",
+    "population": 27870,
+    "medianAge": 40.5,
+    "race": {
+      "white": 88.1,
+      "black": 6,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 40.4,
+      "someCollege": 23.2,
+      "associates": 8.1,
+      "bachelors": 13.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 64188,
+    "meanIncome": 83185
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "17",
+    "name": "McDonough County, Illinois",
+    "population": 27102,
+    "medianAge": 35.1,
+    "race": {
+      "white": 87.1,
+      "black": 5.8,
+      "asian": 2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.9,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 32.7,
+      "someCollege": 19.5,
+      "associates": 10.2,
+      "bachelors": 16.7,
+      "graduate": 15.1
+    },
+    "medianIncome": 50434,
+    "meanIncome": 69045
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "17",
+    "name": "McHenry County, Illinois",
+    "population": 311366,
+    "medianAge": 40.4,
+    "race": {
+      "white": 82.4,
+      "black": 1.6,
+      "asian": 2.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 9.4,
+      "hispanic": 15.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 26.9,
+      "someCollege": 22.3,
+      "associates": 9.3,
+      "bachelors": 23.3,
+      "graduate": 11.9
+    },
+    "medianIncome": 102836,
+    "meanIncome": 128231
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "17",
+    "name": "McLean County, Illinois",
+    "population": 170882,
+    "medianAge": 34.2,
+    "race": {
+      "white": 79.3,
+      "black": 8.4,
+      "asian": 4.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5.6,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 22.8,
+      "someCollege": 18,
+      "associates": 8.1,
+      "bachelors": 31.2,
+      "graduate": 15.7
+    },
+    "medianIncome": 78329,
+    "meanIncome": 103921
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "17",
+    "name": "Macon County, Illinois",
+    "population": 102591,
+    "medianAge": 40.9,
+    "race": {
+      "white": 75.2,
+      "black": 17.1,
+      "asian": 1.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 5.3,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 37.5,
+      "someCollege": 22.6,
+      "associates": 8.8,
+      "bachelors": 16,
+      "graduate": 8.1
+    },
+    "medianIncome": 62449,
+    "meanIncome": 83784
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "17",
+    "name": "Macoupin County, Illinois",
+    "population": 44566,
+    "medianAge": 44.3,
+    "race": {
+      "white": 94.6,
+      "black": 1.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.1,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 39.9,
+      "someCollege": 20.5,
+      "associates": 11.6,
+      "bachelors": 13.2,
+      "graduate": 5.6
+    },
+    "medianIncome": 68518,
+    "meanIncome": 85962
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "17",
+    "name": "Madison County, Illinois",
+    "population": 264631,
+    "medianAge": 40.2,
+    "race": {
+      "white": 84,
+      "black": 8.6,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.3,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 28.3,
+      "someCollege": 23.6,
+      "associates": 11,
+      "bachelors": 19.6,
+      "graduate": 11.2
+    },
+    "medianIncome": 74800,
+    "meanIncome": 97667
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "17",
+    "name": "Marion County, Illinois",
+    "population": 37294,
+    "medianAge": 41.3,
+    "race": {
+      "white": 90.4,
+      "black": 4.2,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 36.1,
+      "someCollege": 25.1,
+      "associates": 11.8,
+      "bachelors": 11.8,
+      "graduate": 5.5
+    },
+    "medianIncome": 60839,
+    "meanIncome": 76720
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "17",
+    "name": "Marshall County, Illinois",
+    "population": 11715,
+    "medianAge": 45.9,
+    "race": {
+      "white": 93.7,
+      "black": 0.4,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 4.4,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 37.4,
+      "someCollege": 22.8,
+      "associates": 12,
+      "bachelors": 13,
+      "graduate": 5.7
+    },
+    "medianIncome": 69818,
+    "meanIncome": 83438
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "17",
+    "name": "Mason County, Illinois",
+    "population": 12878,
+    "medianAge": 45.5,
+    "race": {
+      "white": 96,
+      "black": 0.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.4,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 38.1,
+      "someCollege": 23.9,
+      "associates": 13,
+      "bachelors": 12.4,
+      "graduate": 4.7
+    },
+    "medianIncome": 62127,
+    "meanIncome": 78688
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "17",
+    "name": "Massac County, Illinois",
+    "population": 13958,
+    "medianAge": 45,
+    "race": {
+      "white": 87.9,
+      "black": 6.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 5.2,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 34.3,
+      "someCollege": 25.3,
+      "associates": 13.4,
+      "bachelors": 11.4,
+      "graduate": 4.9
+    },
+    "medianIncome": 62584,
+    "meanIncome": 74853
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "17",
+    "name": "Menard County, Illinois",
+    "population": 12169,
+    "medianAge": 42.8,
+    "race": {
+      "white": 95.7,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.4,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 33.5,
+      "someCollege": 22.8,
+      "associates": 11.4,
+      "bachelors": 16,
+      "graduate": 10.5
+    },
+    "medianIncome": 81334,
+    "meanIncome": 97365
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "17",
+    "name": "Mercer County, Illinois",
+    "population": 15619,
+    "medianAge": 44.5,
+    "race": {
+      "white": 94.8,
+      "black": 0.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.4,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 40.2,
+      "someCollege": 22.8,
+      "associates": 11.4,
+      "bachelors": 12.6,
+      "graduate": 6.3
+    },
+    "medianIncome": 71710,
+    "meanIncome": 87773
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "17",
+    "name": "Monroe County, Illinois",
+    "population": 34969,
+    "medianAge": 42.5,
+    "race": {
+      "white": 96.1,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 1.9,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 24.2,
+      "someCollege": 22.6,
+      "associates": 10.7,
+      "bachelors": 24.2,
+      "graduate": 14
+    },
+    "medianIncome": 101635,
+    "meanIncome": 122572
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "17",
+    "name": "Montgomery County, Illinois",
+    "population": 28078,
+    "medianAge": 42.6,
+    "race": {
+      "white": 93.4,
+      "black": 2.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.8,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 41.2,
+      "someCollege": 21.7,
+      "associates": 8.8,
+      "bachelors": 11.8,
+      "graduate": 6.4
+    },
+    "medianIncome": 61863,
+    "meanIncome": 80654
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "17",
+    "name": "Morgan County, Illinois",
+    "population": 32621,
+    "medianAge": 41.5,
+    "race": {
+      "white": 88.4,
+      "black": 5.3,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.8,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 39.4,
+      "someCollege": 19.9,
+      "associates": 7,
+      "bachelors": 16.1,
+      "graduate": 7.1
+    },
+    "medianIncome": 65175,
+    "meanIncome": 85288
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "17",
+    "name": "Moultrie County, Illinois",
+    "population": 14469,
+    "medianAge": 40.4,
+    "race": {
+      "white": 96,
+      "black": 1.1,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.1,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 34.6,
+      "someCollege": 22.4,
+      "associates": 9.8,
+      "bachelors": 13,
+      "graduate": 5.8
+    },
+    "medianIncome": 71676,
+    "meanIncome": 88053
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "17",
+    "name": "Ogle County, Illinois",
+    "population": 51536,
+    "medianAge": 42,
+    "race": {
+      "white": 87.7,
+      "black": 1.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 7.8,
+      "hispanic": 11.5
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 32.9,
+      "someCollege": 22.7,
+      "associates": 11.4,
+      "bachelors": 15.5,
+      "graduate": 8.6
+    },
+    "medianIncome": 79244,
+    "meanIncome": 93293
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "17",
+    "name": "Peoria County, Illinois",
+    "population": 179831,
+    "medianAge": 38.1,
+    "race": {
+      "white": 68.6,
+      "black": 17.5,
+      "asian": 4.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 6.8,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 27.7,
+      "someCollege": 21.5,
+      "associates": 9.7,
+      "bachelors": 20.8,
+      "graduate": 13.7
+    },
+    "medianIncome": 64938,
+    "meanIncome": 92111
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "17",
+    "name": "Perry County, Illinois",
+    "population": 20810,
+    "medianAge": 42.2,
+    "race": {
+      "white": 86.5,
+      "black": 8,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.6,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 33.8,
+      "someCollege": 26.6,
+      "associates": 12.7,
+      "bachelors": 8.2,
+      "graduate": 4.1
+    },
+    "medianIncome": 59286,
+    "meanIncome": 75024
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "17",
+    "name": "Piatt County, Illinois",
+    "population": 16702,
+    "medianAge": 42.5,
+    "race": {
+      "white": 95.6,
+      "black": 1.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.3,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 4,
+      "highSchool": 33.2,
+      "someCollege": 19.8,
+      "associates": 11.1,
+      "bachelors": 20.6,
+      "graduate": 11.3
+    },
+    "medianIncome": 87516,
+    "meanIncome": 106362
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "17",
+    "name": "Pike County, Illinois",
+    "population": 14625,
+    "medianAge": 42.9,
+    "race": {
+      "white": 96.1,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.7,
+      "other": 0.6,
+      "twoOrMore": 1.8,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 42.4,
+      "someCollege": 21.3,
+      "associates": 9.3,
+      "bachelors": 14.1,
+      "graduate": 4.7
+    },
+    "medianIncome": 58029,
+    "meanIncome": 72468
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "17",
+    "name": "Pope County, Illinois",
+    "population": 3757,
+    "medianAge": 50.8,
+    "race": {
+      "white": 89.6,
+      "black": 5,
+      "asian": 0,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.5,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 38.1,
+      "someCollege": 25.2,
+      "associates": 11.5,
+      "bachelors": 11,
+      "graduate": 5.9
+    },
+    "medianIncome": 62500,
+    "meanIncome": 78018
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "17",
+    "name": "Pulaski County, Illinois",
+    "population": 5074,
+    "medianAge": 42.7,
+    "race": {
+      "white": 62.8,
+      "black": 32.3,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.6,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 42.3,
+      "someCollege": 24.6,
+      "associates": 8.6,
+      "bachelors": 7.2,
+      "graduate": 4.8
+    },
+    "medianIncome": 43227,
+    "meanIncome": 56889
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "17",
+    "name": "Putnam County, Illinois",
+    "population": 5600,
+    "medianAge": 47.2,
+    "race": {
+      "white": 92.9,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 2.8,
+      "twoOrMore": 3.2,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 34.9,
+      "someCollege": 21.4,
+      "associates": 12.8,
+      "bachelors": 16.1,
+      "graduate": 8.5
+    },
+    "medianIncome": 77526,
+    "meanIncome": 90990
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "17",
+    "name": "Randolph County, Illinois",
+    "population": 30142,
+    "medianAge": 43,
+    "race": {
+      "white": 86.9,
+      "black": 8,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 2.9,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 39.6,
+      "someCollege": 24.1,
+      "associates": 10,
+      "bachelors": 9.4,
+      "graduate": 4.8
+    },
+    "medianIncome": 68870,
+    "meanIncome": 81359
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "17",
+    "name": "Richland County, Illinois",
+    "population": 15675,
+    "medianAge": 42.5,
+    "race": {
+      "white": 94.1,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.8,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 33.1,
+      "someCollege": 21.4,
+      "associates": 18.6,
+      "bachelors": 12.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 60404,
+    "meanIncome": 75635
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "17",
+    "name": "Rock Island County, Illinois",
+    "population": 142995,
+    "medianAge": 40.3,
+    "race": {
+      "white": 73,
+      "black": 11,
+      "asian": 2.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 4.5,
+      "twoOrMore": 8.4,
+      "hispanic": 14
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 30.7,
+      "someCollege": 24.8,
+      "associates": 10.6,
+      "bachelors": 15.1,
+      "graduate": 9
+    },
+    "medianIncome": 66768,
+    "meanIncome": 83668
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "17",
+    "name": "St. Clair County, Illinois",
+    "population": 254777,
+    "medianAge": 39.5,
+    "race": {
+      "white": 61.2,
+      "black": 28,
+      "asian": 1.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 7.1,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 27,
+      "someCollege": 23.9,
+      "associates": 11.1,
+      "bachelors": 17.6,
+      "graduate": 13.2
+    },
+    "medianIncome": 70178,
+    "meanIncome": 92847
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "17",
+    "name": "Saline County, Illinois",
+    "population": 23387,
+    "medianAge": 43.2,
+    "race": {
+      "white": 92.4,
+      "black": 2.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 30.6,
+      "someCollege": 23.7,
+      "associates": 14.3,
+      "bachelors": 14.5,
+      "graduate": 5.8
+    },
+    "medianIncome": 54945,
+    "meanIncome": 82789
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "17",
+    "name": "Sangamon County, Illinois",
+    "population": 195217,
+    "medianAge": 40.8,
+    "race": {
+      "white": 79.1,
+      "black": 12.7,
+      "asian": 2.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.1,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 28.2,
+      "someCollege": 21.4,
+      "associates": 9,
+      "bachelors": 20.9,
+      "graduate": 14.2
+    },
+    "medianIncome": 74114,
+    "meanIncome": 97695
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "17",
+    "name": "Schuyler County, Illinois",
+    "population": 6826,
+    "medianAge": 48.8,
+    "race": {
+      "white": 92.3,
+      "black": 4.7,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 40,
+      "someCollege": 23.7,
+      "associates": 9.4,
+      "bachelors": 12.6,
+      "graduate": 6.3
+    },
+    "medianIncome": 66059,
+    "meanIncome": 82651
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "17",
+    "name": "Scott County, Illinois",
+    "population": 4847,
+    "medianAge": 44.3,
+    "race": {
+      "white": 95.7,
+      "black": 1.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 1.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 45.4,
+      "someCollege": 15.6,
+      "associates": 10,
+      "bachelors": 17.7,
+      "graduate": 4.5
+    },
+    "medianIncome": 73013,
+    "meanIncome": 86063
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "17",
+    "name": "Shelby County, Illinois",
+    "population": 20867,
+    "medianAge": 45.5,
+    "race": {
+      "white": 96.8,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 1.9,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 42.5,
+      "someCollege": 22.2,
+      "associates": 12.2,
+      "bachelors": 13.2,
+      "graduate": 4.4
+    },
+    "medianIncome": 68457,
+    "meanIncome": 79115
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "17",
+    "name": "Stark County, Illinois",
+    "population": 5324,
+    "medianAge": 44.6,
+    "race": {
+      "white": 93.1,
+      "black": 1,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.3,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 38.1,
+      "someCollege": 21.6,
+      "associates": 12.8,
+      "bachelors": 14.9,
+      "graduate": 4.4
+    },
+    "medianIncome": 62284,
+    "meanIncome": 80641
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "17",
+    "name": "Stephenson County, Illinois",
+    "population": 44042,
+    "medianAge": 45.2,
+    "race": {
+      "white": 82.1,
+      "black": 8.4,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 7.3,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 32,
+      "someCollege": 25.8,
+      "associates": 12,
+      "bachelors": 14.1,
+      "graduate": 7.6
+    },
+    "medianIncome": 61943,
+    "meanIncome": 78072
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "17",
+    "name": "Tazewell County, Illinois",
+    "population": 130555,
+    "medianAge": 41.7,
+    "race": {
+      "white": 93.9,
+      "black": 1.4,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.1,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 30.3,
+      "someCollege": 23.6,
+      "associates": 11.7,
+      "bachelors": 19.5,
+      "graduate": 8.8
+    },
+    "medianIncome": 76704,
+    "meanIncome": 95638
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "17",
+    "name": "Union County, Illinois",
+    "population": 16972,
+    "medianAge": 44.3,
+    "race": {
+      "white": 90.5,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 7.6,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 34.9,
+      "someCollege": 22.7,
+      "associates": 8.6,
+      "bachelors": 14.1,
+      "graduate": 6.8
+    },
+    "medianIncome": 56420,
+    "meanIncome": 75913
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "17",
+    "name": "Vermilion County, Illinois",
+    "population": 73179,
+    "medianAge": 41.2,
+    "race": {
+      "white": 78.9,
+      "black": 14.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.3,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 41.5,
+      "someCollege": 20.7,
+      "associates": 12.3,
+      "bachelors": 9.6,
+      "graduate": 6.6
+    },
+    "medianIncome": 54537,
+    "meanIncome": 72146
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "17",
+    "name": "Wabash County, Illinois",
+    "population": 11199,
+    "medianAge": 43,
+    "race": {
+      "white": 93.9,
+      "black": 1,
+      "asian": 1.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.3,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 32.3,
+      "someCollege": 21.1,
+      "associates": 20.7,
+      "bachelors": 12.4,
+      "graduate": 6.3
+    },
+    "medianIncome": 53650,
+    "meanIncome": 82337
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "17",
+    "name": "Warren County, Illinois",
+    "population": 16576,
+    "medianAge": 38.7,
+    "race": {
+      "white": 84.9,
+      "black": 2.8,
+      "asian": 2.4,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.4,
+      "other": 4.6,
+      "twoOrMore": 3.7,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 34.4,
+      "someCollege": 19,
+      "associates": 11.2,
+      "bachelors": 14.2,
+      "graduate": 7.8
+    },
+    "medianIncome": 64650,
+    "meanIncome": 82733
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "17",
+    "name": "Washington County, Illinois",
+    "population": 13682,
+    "medianAge": 44.2,
+    "race": {
+      "white": 95.6,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 31.8,
+      "someCollege": 21.3,
+      "associates": 15.7,
+      "bachelors": 16.4,
+      "graduate": 8
+    },
+    "medianIncome": 75652,
+    "meanIncome": 89742
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "17",
+    "name": "Wayne County, Illinois",
+    "population": 15994,
+    "medianAge": 43.1,
+    "race": {
+      "white": 96,
+      "black": 0.3,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.1,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 33.7,
+      "someCollege": 23.4,
+      "associates": 16.9,
+      "bachelors": 11,
+      "graduate": 5.2
+    },
+    "medianIncome": 53107,
+    "meanIncome": 72646
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "17",
+    "name": "White County, Illinois",
+    "population": 13708,
+    "medianAge": 44.4,
+    "race": {
+      "white": 96.3,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.2,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 34.4,
+      "someCollege": 22.3,
+      "associates": 14.9,
+      "bachelors": 9.7,
+      "graduate": 5.2
+    },
+    "medianIncome": 53097,
+    "meanIncome": 70653
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "17",
+    "name": "Whiteside County, Illinois",
+    "population": 55192,
+    "medianAge": 43.4,
+    "race": {
+      "white": 87.9,
+      "black": 1.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 8.1,
+      "hispanic": 13.1
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 37.8,
+      "someCollege": 22.3,
+      "associates": 10.8,
+      "bachelors": 12.5,
+      "graduate": 7.6
+    },
+    "medianIncome": 64536,
+    "meanIncome": 84990
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "17",
+    "name": "Will County, Illinois",
+    "population": 698450,
+    "medianAge": 38.9,
+    "race": {
+      "white": 65,
+      "black": 11.8,
+      "asian": 6.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 6.9,
+      "twoOrMore": 9.7,
+      "hispanic": 19.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 25.7,
+      "someCollege": 20.8,
+      "associates": 8.6,
+      "bachelors": 22.7,
+      "graduate": 13.7
+    },
+    "medianIncome": 107799,
+    "meanIncome": 131203
+  },
+  {
+    "countyFips": "199",
+    "stateFips": "17",
+    "name": "Williamson County, Illinois",
+    "population": 66902,
+    "medianAge": 41.4,
+    "race": {
+      "white": 89.2,
+      "black": 3.5,
+      "asian": 1.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4.9,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 28.1,
+      "someCollege": 25.4,
+      "associates": 11.5,
+      "bachelors": 16.5,
+      "graduate": 11
+    },
+    "medianIncome": 65521,
+    "meanIncome": 85557
+  },
+  {
+    "countyFips": "201",
+    "stateFips": "17",
+    "name": "Winnebago County, Illinois",
+    "population": 283289,
+    "medianAge": 39.7,
+    "race": {
+      "white": 69.1,
+      "black": 13.3,
+      "asian": 2.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 9.2,
+      "hispanic": 15
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 30.8,
+      "someCollege": 23.6,
+      "associates": 9.7,
+      "bachelors": 15.6,
+      "graduate": 9
+    },
+    "medianIncome": 64363,
+    "meanIncome": 84470
+  },
+  {
+    "countyFips": "203",
+    "stateFips": "17",
+    "name": "Woodford County, Illinois",
+    "population": 38348,
+    "medianAge": 40.5,
+    "race": {
+      "white": 95,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.5,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 27.1,
+      "someCollege": 19.8,
+      "associates": 11.9,
+      "bachelors": 23.7,
+      "graduate": 12.4
+    },
+    "medianIncome": 85629,
+    "meanIncome": 108426
+  }
+]

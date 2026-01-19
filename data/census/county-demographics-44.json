@@ -1,0 +1,137 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "44",
+    "name": "Bristol County, Rhode Island",
+    "population": 50568,
+    "medianAge": 44.1,
+    "race": {
+      "white": 90.4,
+      "black": 1.1,
+      "asian": 2.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 20.9,
+      "someCollege": 14,
+      "associates": 6.9,
+      "bachelors": 27.6,
+      "graduate": 24.1
+    },
+    "medianIncome": 110926,
+    "meanIncome": 148308
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "44",
+    "name": "Kent County, Rhode Island",
+    "population": 170658,
+    "medianAge": 43.6,
+    "race": {
+      "white": 86.6,
+      "black": 2.1,
+      "asian": 3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 6.3,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 28.2,
+      "someCollege": 19.8,
+      "associates": 10.5,
+      "bachelors": 21.3,
+      "graduate": 13
+    },
+    "medianIncome": 91278,
+    "meanIncome": 115863
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "44",
+    "name": "Newport County, Rhode Island",
+    "population": 85095,
+    "medianAge": 46.4,
+    "race": {
+      "white": 84.9,
+      "black": 3.8,
+      "asian": 1.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 7,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 19.7,
+      "someCollege": 16.1,
+      "associates": 6.6,
+      "bachelors": 30.8,
+      "graduate": 22.2
+    },
+    "medianIncome": 100859,
+    "meanIncome": 139007
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "44",
+    "name": "Providence County, Rhode Island",
+    "population": 658977,
+    "medianAge": 37.9,
+    "race": {
+      "white": 62.1,
+      "black": 8.3,
+      "asian": 4.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 10.8,
+      "twoOrMore": 13.9,
+      "hispanic": 24.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 28.7,
+      "someCollege": 17.6,
+      "associates": 7.8,
+      "bachelors": 19.7,
+      "graduate": 12.5
+    },
+    "medianIncome": 78204,
+    "meanIncome": 101714
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "44",
+    "name": "Washington County, Rhode Island",
+    "population": 130073,
+    "medianAge": 45.3,
+    "race": {
+      "white": 90.4,
+      "black": 1.3,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.8,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 20.2,
+      "someCollege": 16.5,
+      "associates": 8,
+      "bachelors": 28.4,
+      "graduate": 22.1
+    },
+    "medianIncome": 102478,
+    "meanIncome": 130358
+  }
+]

@@ -1,6 +1,7 @@
 /**
  * Election data loader and accessor functions
  * Loads data from countypres_2000-2024.tab file
+ * Works in both server and client environments
  */
 
 import { parseElectionData, CountyElectionData, ElectionResult, calculatePoliticalLean } from '@/utils/electionDataParser';
@@ -11,6 +12,7 @@ let electionDataCache: CountyElectionData[] | null = null;
 /**
  * Load election data from the .tab file
  * This will be called once and cached
+ * Works in both server and client environments
  */
 export async function loadElectionData(): Promise<CountyElectionData[]> {
   if (electionDataCache) {
@@ -18,14 +20,27 @@ export async function loadElectionData(): Promise<CountyElectionData[]> {
   }
 
   try {
-    // Fetch from public directory
-    const response = await fetch('/data/countypres_2000-2024.tab');
-    if (!response.ok) {
-      console.warn(`Failed to load election data: ${response.statusText}. Using empty data.`);
-      return [];
+    let fileContent: string;
+
+    // Check if we're on the server (Node.js environment)
+    if (typeof window === 'undefined') {
+      // Server-side: use fs to read from public directory
+      // Use dynamic import to avoid bundling fs for client
+      const fs = await import('fs');
+      const path = await import('path');
+      const filePath = path.join(process.cwd(), 'public', 'data', 'countypres_2000-2024.tab');
+      fileContent = fs.readFileSync(filePath, 'utf-8');
+    } else {
+      // Client-side: use fetch with relative URL
+      const response = await fetch('/data/countypres_2000-2024.tab');
+      if (!response.ok) {
+        console.warn(`Failed to load election data: ${response.statusText}. Using empty data.`);
+        return [];
+      }
+      
+      fileContent = await response.text();
     }
     
-    const fileContent = await response.text();
     electionDataCache = await parseElectionData(fileContent);
     return electionDataCache;
   } catch (error) {

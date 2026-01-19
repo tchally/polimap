@@ -1,0 +1,2567 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "47",
+    "name": "Anderson County, Tennessee",
+    "population": 78175,
+    "medianAge": 42,
+    "race": {
+      "white": 87.7,
+      "black": 3.4,
+      "asian": 1.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 5.8,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 33.2,
+      "someCollege": 21.8,
+      "associates": 10,
+      "bachelors": 15.2,
+      "graduate": 11.1
+    },
+    "medianIncome": 63171,
+    "meanIncome": 85124
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "47",
+    "name": "Bedford County, Tennessee",
+    "population": 51291,
+    "medianAge": 37.6,
+    "race": {
+      "white": 79.6,
+      "black": 7.1,
+      "asian": 0.7,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 8.4,
+      "hispanic": 15.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 41.2,
+      "someCollege": 21.1,
+      "associates": 5.5,
+      "bachelors": 11.8,
+      "graduate": 5.1
+    },
+    "medianIncome": 62197,
+    "meanIncome": 78968
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "47",
+    "name": "Benton County, Tennessee",
+    "population": 15948,
+    "medianAge": 47.5,
+    "race": {
+      "white": 92.5,
+      "black": 1.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.5,
+      "other": 0.2,
+      "twoOrMore": 3.8,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.8,
+      "highSchool": 48.3,
+      "someCollege": 18.9,
+      "associates": 7.6,
+      "bachelors": 7.5,
+      "graduate": 4.9
+    },
+    "medianIncome": 50435,
+    "meanIncome": 63604
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "47",
+    "name": "Bledsoe County, Tennessee",
+    "population": 14905,
+    "medianAge": 44.9,
+    "race": {
+      "white": 88.5,
+      "black": 5.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 5,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 20.4,
+      "highSchool": 50.5,
+      "someCollege": 15.2,
+      "associates": 5.1,
+      "bachelors": 5,
+      "graduate": 3.8
+    },
+    "medianIncome": 49655,
+    "meanIncome": 62764
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "47",
+    "name": "Blount County, Tennessee",
+    "population": 137747,
+    "medianAge": 43.9,
+    "race": {
+      "white": 90.4,
+      "black": 2.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.2,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 35.4,
+      "someCollege": 19.8,
+      "associates": 8.7,
+      "bachelors": 17.1,
+      "graduate": 9.6
+    },
+    "medianIncome": 74607,
+    "meanIncome": 95542
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "47",
+    "name": "Bradley County, Tennessee",
+    "population": 109743,
+    "medianAge": 39.3,
+    "race": {
+      "white": 84.9,
+      "black": 5.2,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 5.7,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 30.8,
+      "someCollege": 23.2,
+      "associates": 9.7,
+      "bachelors": 15.1,
+      "graduate": 9.6
+    },
+    "medianIncome": 63789,
+    "meanIncome": 82060
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "47",
+    "name": "Campbell County, Tennessee",
+    "population": 39568,
+    "medianAge": 44.2,
+    "race": {
+      "white": 96.1,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.1,
+      "highSchool": 41.6,
+      "someCollege": 21.6,
+      "associates": 6.4,
+      "bachelors": 7.8,
+      "graduate": 5.4
+    },
+    "medianIncome": 50260,
+    "meanIncome": 67185
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "47",
+    "name": "Cannon County, Tennessee",
+    "population": 14661,
+    "medianAge": 40.8,
+    "race": {
+      "white": 94.1,
+      "black": 2.4,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.6,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 41.5,
+      "someCollege": 17.4,
+      "associates": 8.4,
+      "bachelors": 11.7,
+      "graduate": 5.2
+    },
+    "medianIncome": 58092,
+    "meanIncome": 73507
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "47",
+    "name": "Carroll County, Tennessee",
+    "population": 28461,
+    "medianAge": 41.6,
+    "race": {
+      "white": 85.7,
+      "black": 8.9,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.5,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 41.9,
+      "someCollege": 20.4,
+      "associates": 7.5,
+      "bachelors": 11,
+      "graduate": 7.9
+    },
+    "medianIncome": 50391,
+    "meanIncome": 67708
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "47",
+    "name": "Carter County, Tennessee",
+    "population": 56462,
+    "medianAge": 45.8,
+    "race": {
+      "white": 94.3,
+      "black": 2,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.6,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 37.9,
+      "someCollege": 20.5,
+      "associates": 9.7,
+      "bachelors": 13.8,
+      "graduate": 6.8
+    },
+    "medianIncome": 48435,
+    "meanIncome": 64727
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "47",
+    "name": "Cheatham County, Tennessee",
+    "population": 41500,
+    "medianAge": 41.4,
+    "race": {
+      "white": 90.4,
+      "black": 2.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 4.4,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 36.8,
+      "someCollege": 21,
+      "associates": 7.5,
+      "bachelors": 16.6,
+      "graduate": 8.4
+    },
+    "medianIncome": 82015,
+    "meanIncome": 97824
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "47",
+    "name": "Chester County, Tennessee",
+    "population": 17452,
+    "medianAge": 37.8,
+    "race": {
+      "white": 85,
+      "black": 9.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.4,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 40,
+      "someCollege": 20.3,
+      "associates": 6.3,
+      "bachelors": 11.8,
+      "graduate": 7.4
+    },
+    "medianIncome": 60543,
+    "meanIncome": 72399
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "47",
+    "name": "Claiborne County, Tennessee",
+    "population": 32221,
+    "medianAge": 42.5,
+    "race": {
+      "white": 94.9,
+      "black": 0.7,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.5,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 39.9,
+      "someCollege": 17.2,
+      "associates": 8.7,
+      "bachelors": 9.7,
+      "graduate": 7.7
+    },
+    "medianIncome": 46587,
+    "meanIncome": 63952
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "47",
+    "name": "Clay County, Tennessee",
+    "population": 7621,
+    "medianAge": 48.8,
+    "race": {
+      "white": 94.5,
+      "black": 0.9,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 1.7,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 48.1,
+      "someCollege": 16.7,
+      "associates": 7,
+      "bachelors": 6.3,
+      "graduate": 5.7
+    },
+    "medianIncome": 44712,
+    "meanIncome": 55826
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "47",
+    "name": "Cocke County, Tennessee",
+    "population": 36503,
+    "medianAge": 45.4,
+    "race": {
+      "white": 93.5,
+      "black": 1.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 3.3,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 16.3,
+      "highSchool": 47.4,
+      "someCollege": 18.7,
+      "associates": 5.9,
+      "bachelors": 7.5,
+      "graduate": 4.1
+    },
+    "medianIncome": 48416,
+    "meanIncome": 63075
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "47",
+    "name": "Coffee County, Tennessee",
+    "population": 58940,
+    "medianAge": 39.2,
+    "race": {
+      "white": 87.5,
+      "black": 4.1,
+      "asian": 1.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.3,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 37.9,
+      "someCollege": 18.9,
+      "associates": 7.7,
+      "bachelors": 13,
+      "graduate": 9.9
+    },
+    "medianIncome": 60656,
+    "meanIncome": 74417
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "47",
+    "name": "Crockett County, Tennessee",
+    "population": 13937,
+    "medianAge": 40.2,
+    "race": {
+      "white": 73.5,
+      "black": 10.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 5,
+      "twoOrMore": 9.6,
+      "hispanic": 11.2
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 42.2,
+      "someCollege": 21.2,
+      "associates": 6.9,
+      "bachelors": 10.6,
+      "graduate": 5.1
+    },
+    "medianIncome": 59049,
+    "meanIncome": 79436
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "47",
+    "name": "Cumberland County, Tennessee",
+    "population": 62529,
+    "medianAge": 53,
+    "race": {
+      "white": 94.9,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.4,
+      "other": 0.3,
+      "twoOrMore": 2.7,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 39.8,
+      "someCollege": 23.2,
+      "associates": 8.1,
+      "bachelors": 10.8,
+      "graduate": 7.7
+    },
+    "medianIncome": 58475,
+    "meanIncome": 73753
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "47",
+    "name": "Davidson County, Tennessee",
+    "population": 709846,
+    "medianAge": 34.6,
+    "race": {
+      "white": 57.1,
+      "black": 25.2,
+      "asian": 3.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.8,
+      "twoOrMore": 9.1,
+      "hispanic": 13.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 20.1,
+      "someCollege": 16.9,
+      "associates": 6,
+      "bachelors": 29.3,
+      "graduate": 18.1
+    },
+    "medianIncome": 75664,
+    "meanIncome": 110098
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "47",
+    "name": "Decatur County, Tennessee",
+    "population": 11499,
+    "medianAge": 45.9,
+    "race": {
+      "white": 91.6,
+      "black": 3.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.8,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 45.3,
+      "someCollege": 16.1,
+      "associates": 7.7,
+      "bachelors": 12.5,
+      "graduate": 2.5
+    },
+    "medianIncome": 46190,
+    "meanIncome": 62272
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "47",
+    "name": "DeKalb County, Tennessee",
+    "population": 20551,
+    "medianAge": 42.2,
+    "race": {
+      "white": 88.8,
+      "black": 1.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 3.8,
+      "hispanic": 7.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.3,
+      "highSchool": 39.4,
+      "someCollege": 17.3,
+      "associates": 6,
+      "bachelors": 12.9,
+      "graduate": 7.1
+    },
+    "medianIncome": 48484,
+    "meanIncome": 66814
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "47",
+    "name": "Dickson County, Tennessee",
+    "population": 55197,
+    "medianAge": 39,
+    "race": {
+      "white": 89.9,
+      "black": 4,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.6,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 39,
+      "someCollege": 21,
+      "associates": 7.8,
+      "bachelors": 14,
+      "graduate": 7.4
+    },
+    "medianIncome": 73223,
+    "meanIncome": 93410
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "47",
+    "name": "Dyer County, Tennessee",
+    "population": 36681,
+    "medianAge": 40,
+    "race": {
+      "white": 77.8,
+      "black": 14.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.2,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 40.6,
+      "someCollege": 19.4,
+      "associates": 7.4,
+      "bachelors": 13.3,
+      "graduate": 8.3
+    },
+    "medianIncome": 54973,
+    "meanIncome": 89280
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "47",
+    "name": "Fayette County, Tennessee",
+    "population": 42653,
+    "medianAge": 47.2,
+    "race": {
+      "white": 66.6,
+      "black": 27,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 3.6,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 33,
+      "someCollege": 23.4,
+      "associates": 7.7,
+      "bachelors": 18.2,
+      "graduate": 8.7
+    },
+    "medianIncome": 84764,
+    "meanIncome": 105471
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "47",
+    "name": "Fentress County, Tennessee",
+    "population": 18948,
+    "medianAge": 47,
+    "race": {
+      "white": 95.1,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 3.9,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 42.2,
+      "someCollege": 18.6,
+      "associates": 7.2,
+      "bachelors": 9.8,
+      "graduate": 5.5
+    },
+    "medianIncome": 50865,
+    "meanIncome": 56885
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "47",
+    "name": "Franklin County, Tennessee",
+    "population": 43478,
+    "medianAge": 42.7,
+    "race": {
+      "white": 88.6,
+      "black": 4.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.2,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 40.5,
+      "someCollege": 19.3,
+      "associates": 8,
+      "bachelors": 14.3,
+      "graduate": 8.7
+    },
+    "medianIncome": 61553,
+    "meanIncome": 80473
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "47",
+    "name": "Gibson County, Tennessee",
+    "population": 50610,
+    "medianAge": 39.8,
+    "race": {
+      "white": 76.1,
+      "black": 15,
+      "asian": 0.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6.8,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 41.3,
+      "someCollege": 21.5,
+      "associates": 6.4,
+      "bachelors": 12.2,
+      "graduate": 6.9
+    },
+    "medianIncome": 59009,
+    "meanIncome": 72720
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "47",
+    "name": "Giles County, Tennessee",
+    "population": 30442,
+    "medianAge": 43.6,
+    "race": {
+      "white": 84.6,
+      "black": 8.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.1,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 42.4,
+      "someCollege": 18,
+      "associates": 7.9,
+      "bachelors": 12.6,
+      "graduate": 6.7
+    },
+    "medianIncome": 61476,
+    "meanIncome": 83628
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "47",
+    "name": "Grainger County, Tennessee",
+    "population": 23929,
+    "medianAge": 45.7,
+    "race": {
+      "white": 96,
+      "black": 1.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.5,
+      "other": 0.1,
+      "twoOrMore": 1.9,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 42.6,
+      "someCollege": 19.8,
+      "associates": 6.5,
+      "bachelors": 8.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 51351,
+    "meanIncome": 68952
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "47",
+    "name": "Greene County, Tennessee",
+    "population": 70919,
+    "medianAge": 44.6,
+    "race": {
+      "white": 92.2,
+      "black": 1.9,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 4.2,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 42.9,
+      "someCollege": 18.5,
+      "associates": 7.6,
+      "bachelors": 11.1,
+      "graduate": 6.5
+    },
+    "medianIncome": 54071,
+    "meanIncome": 72597
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "47",
+    "name": "Grundy County, Tennessee",
+    "population": 13665,
+    "medianAge": 42.9,
+    "race": {
+      "white": 94.5,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 4.6,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 20,
+      "highSchool": 44.8,
+      "someCollege": 16.8,
+      "associates": 5.9,
+      "bachelors": 6,
+      "graduate": 6.4
+    },
+    "medianIncome": 45573,
+    "meanIncome": 61536
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "47",
+    "name": "Hamblen County, Tennessee",
+    "population": 64930,
+    "medianAge": 40.8,
+    "race": {
+      "white": 82.1,
+      "black": 2.7,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.7,
+      "other": 3.8,
+      "twoOrMore": 9.4,
+      "hispanic": 14.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 38.7,
+      "someCollege": 20.3,
+      "associates": 8,
+      "bachelors": 11.8,
+      "graduate": 8.3
+    },
+    "medianIncome": 52794,
+    "meanIncome": 74136
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "47",
+    "name": "Hamilton County, Tennessee",
+    "population": 370913,
+    "medianAge": 39.5,
+    "race": {
+      "white": 71.1,
+      "black": 17.6,
+      "asian": 1.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 6.2,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 23.3,
+      "someCollege": 22,
+      "associates": 8.8,
+      "bachelors": 23.2,
+      "graduate": 13.8
+    },
+    "medianIncome": 72568,
+    "meanIncome": 103813
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "47",
+    "name": "Hancock County, Tennessee",
+    "population": 6790,
+    "medianAge": 41.9,
+    "race": {
+      "white": 96.8,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 21.2,
+      "highSchool": 41.7,
+      "someCollege": 23.7,
+      "associates": 4.8,
+      "bachelors": 4.4,
+      "graduate": 4.2
+    },
+    "medianIncome": 31995,
+    "meanIncome": 57797
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "47",
+    "name": "Hardeman County, Tennessee",
+    "population": 25477,
+    "medianAge": 40.4,
+    "race": {
+      "white": 54.1,
+      "black": 40.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 44.1,
+      "someCollege": 21.1,
+      "associates": 6.1,
+      "bachelors": 7.3,
+      "graduate": 4
+    },
+    "medianIncome": 46173,
+    "meanIncome": 61126
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "47",
+    "name": "Hardin County, Tennessee",
+    "population": 26939,
+    "medianAge": 45.4,
+    "race": {
+      "white": 92.5,
+      "black": 3,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.8,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 44,
+      "someCollege": 19,
+      "associates": 6.6,
+      "bachelors": 9.3,
+      "graduate": 5.5
+    },
+    "medianIncome": 49149,
+    "meanIncome": 66579
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "47",
+    "name": "Hawkins County, Tennessee",
+    "population": 57446,
+    "medianAge": 45.9,
+    "race": {
+      "white": 94.5,
+      "black": 1.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.4,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 42.9,
+      "someCollege": 19,
+      "associates": 7.7,
+      "bachelors": 11.1,
+      "graduate": 5.7
+    },
+    "medianIncome": 55278,
+    "meanIncome": 70133
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "47",
+    "name": "Haywood County, Tennessee",
+    "population": 17672,
+    "medianAge": 43.1,
+    "race": {
+      "white": 43.6,
+      "black": 50.1,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 2.4,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 46.2,
+      "someCollege": 17.7,
+      "associates": 5.8,
+      "bachelors": 8.2,
+      "graduate": 4.9
+    },
+    "medianIncome": 43513,
+    "meanIncome": 60977
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "47",
+    "name": "Henderson County, Tennessee",
+    "population": 27906,
+    "medianAge": 40.3,
+    "race": {
+      "white": 87.8,
+      "black": 7.6,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.5,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 49.6,
+      "someCollege": 18,
+      "associates": 7.3,
+      "bachelors": 9.8,
+      "graduate": 4.6
+    },
+    "medianIncome": 53471,
+    "meanIncome": 68265
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "47",
+    "name": "Henry County, Tennessee",
+    "population": 32345,
+    "medianAge": 45.8,
+    "race": {
+      "white": 87.4,
+      "black": 7.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 3.4,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 45.3,
+      "someCollege": 18.9,
+      "associates": 5.6,
+      "bachelors": 12,
+      "graduate": 6.6
+    },
+    "medianIncome": 48540,
+    "meanIncome": 67325
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "47",
+    "name": "Hickman County, Tennessee",
+    "population": 25229,
+    "medianAge": 41.7,
+    "race": {
+      "white": 90.8,
+      "black": 3.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.1,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 42.4,
+      "someCollege": 19.9,
+      "associates": 8.7,
+      "bachelors": 9.4,
+      "graduate": 4.1
+    },
+    "medianIncome": 57223,
+    "meanIncome": 77088
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "47",
+    "name": "Houston County, Tennessee",
+    "population": 8293,
+    "medianAge": 44.2,
+    "race": {
+      "white": 93,
+      "black": 2.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.2,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 46,
+      "someCollege": 16.7,
+      "associates": 11,
+      "bachelors": 8.8,
+      "graduate": 4.9
+    },
+    "medianIncome": 54475,
+    "meanIncome": 68009
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "47",
+    "name": "Humphreys County, Tennessee",
+    "population": 19074,
+    "medianAge": 43.7,
+    "race": {
+      "white": 90.6,
+      "black": 1.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 4.5,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 42.2,
+      "someCollege": 18.4,
+      "associates": 10.6,
+      "bachelors": 10.2,
+      "graduate": 6.2
+    },
+    "medianIncome": 59333,
+    "meanIncome": 78658
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "47",
+    "name": "Jackson County, Tennessee",
+    "population": 11882,
+    "medianAge": 48,
+    "race": {
+      "white": 93.3,
+      "black": 0.5,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 5.6,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 46,
+      "someCollege": 16.2,
+      "associates": 6.8,
+      "bachelors": 9.9,
+      "graduate": 3.6
+    },
+    "medianIncome": 41475,
+    "meanIncome": 63542
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "47",
+    "name": "Jefferson County, Tennessee",
+    "population": 55835,
+    "medianAge": 44.1,
+    "race": {
+      "white": 91.7,
+      "black": 1.5,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 1.2,
+      "twoOrMore": 4.9,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 36.4,
+      "someCollege": 21.5,
+      "associates": 9.9,
+      "bachelors": 12.8,
+      "graduate": 8.2
+    },
+    "medianIncome": 63084,
+    "meanIncome": 87614
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "47",
+    "name": "Johnson County, Tennessee",
+    "population": 18073,
+    "medianAge": 46.4,
+    "race": {
+      "white": 89.1,
+      "black": 3.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.5,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 18.7,
+      "highSchool": 38.3,
+      "someCollege": 19.8,
+      "associates": 7.6,
+      "bachelors": 11.2,
+      "graduate": 4.5
+    },
+    "medianIncome": 52152,
+    "meanIncome": 69081
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "47",
+    "name": "Knox County, Tennessee",
+    "population": 487401,
+    "medianAge": 37.3,
+    "race": {
+      "white": 81.2,
+      "black": 8.1,
+      "asian": 2.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 6.2,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 24.6,
+      "someCollege": 18.6,
+      "associates": 8.9,
+      "bachelors": 24.4,
+      "graduate": 15.7
+    },
+    "medianIncome": 71662,
+    "meanIncome": 101286
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "47",
+    "name": "Lake County, Tennessee",
+    "population": 6691,
+    "medianAge": 41.6,
+    "race": {
+      "white": 66.1,
+      "black": 22.3,
+      "asian": 0.3,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.3,
+      "other": 1.5,
+      "twoOrMore": 8.4,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 28.2,
+      "highSchool": 43.1,
+      "someCollege": 15.7,
+      "associates": 3.7,
+      "bachelors": 5.2,
+      "graduate": 4.2
+    },
+    "medianIncome": 30500,
+    "meanIncome": 48831
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "47",
+    "name": "Lauderdale County, Tennessee",
+    "population": 24933,
+    "medianAge": 39.4,
+    "race": {
+      "white": 59.7,
+      "black": 33.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.2,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 48,
+      "someCollege": 17.1,
+      "associates": 6.8,
+      "bachelors": 6.9,
+      "graduate": 4.1
+    },
+    "medianIncome": 49205,
+    "meanIncome": 66056
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "47",
+    "name": "Lawrence County, Tennessee",
+    "population": 44901,
+    "medianAge": 39,
+    "race": {
+      "white": 93.4,
+      "black": 1.3,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.5,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.5,
+      "highSchool": 42.2,
+      "someCollege": 20.8,
+      "associates": 7,
+      "bachelors": 9.5,
+      "graduate": 6
+    },
+    "medianIncome": 53233,
+    "meanIncome": 69737
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "47",
+    "name": "Lewis County, Tennessee",
+    "population": 12784,
+    "medianAge": 42.2,
+    "race": {
+      "white": 93.3,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.7,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 39.8,
+      "someCollege": 24.9,
+      "associates": 9.7,
+      "bachelors": 7.7,
+      "graduate": 3.2
+    },
+    "medianIncome": 49477,
+    "meanIncome": 69487
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "47",
+    "name": "Lincoln County, Tennessee",
+    "population": 35617,
+    "medianAge": 43,
+    "race": {
+      "white": 86.9,
+      "black": 5.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.6,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 43.3,
+      "someCollege": 16.5,
+      "associates": 8,
+      "bachelors": 11.5,
+      "graduate": 7.8
+    },
+    "medianIncome": 63115,
+    "meanIncome": 84108
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "47",
+    "name": "Loudon County, Tennessee",
+    "population": 56996,
+    "medianAge": 48.7,
+    "race": {
+      "white": 88.4,
+      "black": 1.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 7.9,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 30.8,
+      "someCollege": 21.1,
+      "associates": 8.5,
+      "bachelors": 17.8,
+      "graduate": 10.8
+    },
+    "medianIncome": 80296,
+    "meanIncome": 101958
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "47",
+    "name": "McMinn County, Tennessee",
+    "population": 54135,
+    "medianAge": 42.5,
+    "race": {
+      "white": 89.3,
+      "black": 3.1,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.1,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 39,
+      "someCollege": 20.5,
+      "associates": 9.2,
+      "bachelors": 11.4,
+      "graduate": 6.1
+    },
+    "medianIncome": 59674,
+    "meanIncome": 76417
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "47",
+    "name": "McNairy County, Tennessee",
+    "population": 25933,
+    "medianAge": 43.1,
+    "race": {
+      "white": 90.9,
+      "black": 5.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.9,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 48.5,
+      "someCollege": 18.9,
+      "associates": 8.2,
+      "bachelors": 7.8,
+      "graduate": 4
+    },
+    "medianIncome": 50714,
+    "meanIncome": 68636
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "47",
+    "name": "Macon County, Tennessee",
+    "population": 25793,
+    "medianAge": 38.3,
+    "race": {
+      "white": 90.3,
+      "black": 0.8,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 7.1,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 49.3,
+      "someCollege": 14.9,
+      "associates": 5.6,
+      "bachelors": 7.9,
+      "graduate": 3.9
+    },
+    "medianIncome": 56269,
+    "meanIncome": 72710
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "47",
+    "name": "Madison County, Tennessee",
+    "population": 98845,
+    "medianAge": 38.3,
+    "race": {
+      "white": 54.5,
+      "black": 36.6,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.9,
+      "twoOrMore": 4.7,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 34.7,
+      "someCollege": 22.6,
+      "associates": 7,
+      "bachelors": 15.9,
+      "graduate": 10.1
+    },
+    "medianIncome": 58189,
+    "meanIncome": 78567
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "47",
+    "name": "Marion County, Tennessee",
+    "population": 29010,
+    "medianAge": 43.7,
+    "race": {
+      "white": 91.3,
+      "black": 2.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.2,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 17.7,
+      "highSchool": 37.9,
+      "someCollege": 20.2,
+      "associates": 7.8,
+      "bachelors": 10.1,
+      "graduate": 6.4
+    },
+    "medianIncome": 58103,
+    "meanIncome": 73573
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "47",
+    "name": "Marshall County, Tennessee",
+    "population": 35276,
+    "medianAge": 39.6,
+    "race": {
+      "white": 87.6,
+      "black": 4.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 4.8,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 37.1,
+      "someCollege": 22.6,
+      "associates": 9.8,
+      "bachelors": 14.8,
+      "graduate": 6.1
+    },
+    "medianIncome": 70829,
+    "meanIncome": 92668
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "47",
+    "name": "Maury County, Tennessee",
+    "population": 104855,
+    "medianAge": 39.2,
+    "race": {
+      "white": 80.1,
+      "black": 10.6,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 7,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 34,
+      "someCollege": 21.9,
+      "associates": 10.1,
+      "bachelors": 18.6,
+      "graduate": 7.9
+    },
+    "medianIncome": 74162,
+    "meanIncome": 92848
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "47",
+    "name": "Meigs County, Tennessee",
+    "population": 13076,
+    "medianAge": 45.5,
+    "race": {
+      "white": 90.7,
+      "black": 2.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5.8,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 17.1,
+      "highSchool": 45.3,
+      "someCollege": 19.6,
+      "associates": 6.1,
+      "bachelors": 8,
+      "graduate": 3.9
+    },
+    "medianIncome": 58395,
+    "meanIncome": 75683
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "47",
+    "name": "Monroe County, Tennessee",
+    "population": 47054,
+    "medianAge": 44.8,
+    "race": {
+      "white": 89,
+      "black": 1.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 6.8,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 40.9,
+      "someCollege": 20.4,
+      "associates": 9.3,
+      "bachelors": 10.6,
+      "graduate": 5.2
+    },
+    "medianIncome": 56648,
+    "meanIncome": 70427
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "47",
+    "name": "Montgomery County, Tennessee",
+    "population": 227957,
+    "medianAge": 31.7,
+    "race": {
+      "white": 64.3,
+      "black": 20,
+      "asian": 2.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.3,
+      "other": 2.3,
+      "twoOrMore": 10.3,
+      "hispanic": 11
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 27.3,
+      "someCollege": 23.6,
+      "associates": 11.8,
+      "bachelors": 19.4,
+      "graduate": 12.4
+    },
+    "medianIncome": 72365,
+    "meanIncome": 88167
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "47",
+    "name": "Moore County, Tennessee",
+    "population": 6611,
+    "medianAge": 46.2,
+    "race": {
+      "white": 92.2,
+      "black": 2.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 2.8,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 36.8,
+      "someCollege": 17.1,
+      "associates": 10.6,
+      "bachelors": 16.3,
+      "graduate": 8.4
+    },
+    "medianIncome": 66687,
+    "meanIncome": 89343
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "47",
+    "name": "Morgan County, Tennessee",
+    "population": 21193,
+    "medianAge": 42.5,
+    "race": {
+      "white": 92.6,
+      "black": 4.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 1.8,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 43.2,
+      "someCollege": 18.9,
+      "associates": 7.7,
+      "bachelors": 8.4,
+      "graduate": 5.3
+    },
+    "medianIncome": 57408,
+    "meanIncome": 79735
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "47",
+    "name": "Obion County, Tennessee",
+    "population": 30570,
+    "medianAge": 41.9,
+    "race": {
+      "white": 80.2,
+      "black": 10.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 6.6,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 44.3,
+      "someCollege": 17.5,
+      "associates": 5.2,
+      "bachelors": 10.9,
+      "graduate": 7.1
+    },
+    "medianIncome": 53102,
+    "meanIncome": 71392
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "47",
+    "name": "Overton County, Tennessee",
+    "population": 22807,
+    "medianAge": 43.1,
+    "race": {
+      "white": 95.9,
+      "black": 1.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 18.2,
+      "highSchool": 45,
+      "someCollege": 18.1,
+      "associates": 5.2,
+      "bachelors": 8.9,
+      "graduate": 4.6
+    },
+    "medianIncome": 46159,
+    "meanIncome": 72901
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "47",
+    "name": "Perry County, Tennessee",
+    "population": 8561,
+    "medianAge": 41.6,
+    "race": {
+      "white": 92.2,
+      "black": 0.5,
+      "asian": 1.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5.1,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 47.3,
+      "someCollege": 13.5,
+      "associates": 8.9,
+      "bachelors": 9.7,
+      "graduate": 3
+    },
+    "medianIncome": 50489,
+    "meanIncome": 64784
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "47",
+    "name": "Pickett County, Tennessee",
+    "population": 5062,
+    "medianAge": 51.7,
+    "race": {
+      "white": 96,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.5,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 40,
+      "someCollege": 19.6,
+      "associates": 4.7,
+      "bachelors": 10.6,
+      "graduate": 6.5
+    },
+    "medianIncome": 44591,
+    "meanIncome": 60117
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "47",
+    "name": "Polk County, Tennessee",
+    "population": 17702,
+    "medianAge": 46.2,
+    "race": {
+      "white": 90.9,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 7.3,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 38,
+      "someCollege": 21.8,
+      "associates": 11.2,
+      "bachelors": 9.2,
+      "graduate": 5.5
+    },
+    "medianIncome": 60227,
+    "meanIncome": 81605
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "47",
+    "name": "Putnam County, Tennessee",
+    "population": 81366,
+    "medianAge": 36.1,
+    "race": {
+      "white": 87.7,
+      "black": 2.5,
+      "asian": 1.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 5.4,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 33.1,
+      "someCollege": 20.6,
+      "associates": 5.9,
+      "bachelors": 18.4,
+      "graduate": 10.8
+    },
+    "medianIncome": 56537,
+    "meanIncome": 75297
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "47",
+    "name": "Rhea County, Tennessee",
+    "population": 33299,
+    "medianAge": 41,
+    "race": {
+      "white": 89.1,
+      "black": 1.6,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 41.4,
+      "someCollege": 18.8,
+      "associates": 6.6,
+      "bachelors": 11.8,
+      "graduate": 5.6
+    },
+    "medianIncome": 58133,
+    "meanIncome": 70688
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "47",
+    "name": "Roane County, Tennessee",
+    "population": 54403,
+    "medianAge": 47.4,
+    "race": {
+      "white": 91.9,
+      "black": 2.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.3,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 37.4,
+      "someCollege": 21.4,
+      "associates": 8.4,
+      "bachelors": 12.8,
+      "graduate": 9.3
+    },
+    "medianIncome": 66218,
+    "meanIncome": 86288
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "47",
+    "name": "Robertson County, Tennessee",
+    "population": 74291,
+    "medianAge": 39.1,
+    "race": {
+      "white": 81.5,
+      "black": 7,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 5.8,
+      "hispanic": 9.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 39.6,
+      "someCollege": 20.2,
+      "associates": 8,
+      "bachelors": 15.5,
+      "graduate": 5.6
+    },
+    "medianIncome": 78439,
+    "meanIncome": 95255
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "47",
+    "name": "Rutherford County, Tennessee",
+    "population": 351591,
+    "medianAge": 34,
+    "race": {
+      "white": 68,
+      "black": 15,
+      "asian": 3.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 4,
+      "twoOrMore": 9.1,
+      "hispanic": 11.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 28.1,
+      "someCollege": 22,
+      "associates": 7.9,
+      "bachelors": 23.4,
+      "graduate": 10.9
+    },
+    "medianIncome": 82588,
+    "meanIncome": 101352
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "47",
+    "name": "Scott County, Tennessee",
+    "population": 21969,
+    "medianAge": 40.7,
+    "race": {
+      "white": 96.6,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.2,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 19.5,
+      "highSchool": 48.3,
+      "someCollege": 15.6,
+      "associates": 6.4,
+      "bachelors": 5.8,
+      "graduate": 4.4
+    },
+    "medianIncome": 42679,
+    "meanIncome": 55691
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "47",
+    "name": "Sequatchie County, Tennessee",
+    "population": 16409,
+    "medianAge": 44.7,
+    "race": {
+      "white": 93.3,
+      "black": 0.5,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 3,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 18.3,
+      "highSchool": 37.5,
+      "someCollege": 18.5,
+      "associates": 6.9,
+      "bachelors": 12.2,
+      "graduate": 6.7
+    },
+    "medianIncome": 52260,
+    "meanIncome": 68308
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "47",
+    "name": "Sevier County, Tennessee",
+    "population": 98802,
+    "medianAge": 43.6,
+    "race": {
+      "white": 87.7,
+      "black": 0.9,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 4.3,
+      "twoOrMore": 5.6,
+      "hispanic": 8.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 35.3,
+      "someCollege": 22.4,
+      "associates": 8.7,
+      "bachelors": 14.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 63829,
+    "meanIncome": 84059
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "47",
+    "name": "Shelby County, Tennessee",
+    "population": 922195,
+    "medianAge": 35.8,
+    "race": {
+      "white": 35,
+      "black": 52.8,
+      "asian": 2.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 4.1,
+      "twoOrMore": 4.8,
+      "hispanic": 8.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 27.4,
+      "someCollege": 21.6,
+      "associates": 6.6,
+      "bachelors": 20.1,
+      "graduate": 14.1
+    },
+    "medianIncome": 62337,
+    "meanIncome": 93795
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "47",
+    "name": "Smith County, Tennessee",
+    "population": 20196,
+    "medianAge": 40.7,
+    "race": {
+      "white": 90.8,
+      "black": 1.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.5,
+      "twoOrMore": 5,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 41.5,
+      "someCollege": 21.6,
+      "associates": 6.4,
+      "bachelors": 12.6,
+      "graduate": 5.4
+    },
+    "medianIncome": 62799,
+    "meanIncome": 85700
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "47",
+    "name": "Stewart County, Tennessee",
+    "population": 13859,
+    "medianAge": 44.6,
+    "race": {
+      "white": 93.2,
+      "black": 1.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 4.7,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 46.5,
+      "someCollege": 18.7,
+      "associates": 8.4,
+      "bachelors": 11.6,
+      "graduate": 4.6
+    },
+    "medianIncome": 62052,
+    "meanIncome": 73864
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "47",
+    "name": "Sullivan County, Tennessee",
+    "population": 159693,
+    "medianAge": 45,
+    "race": {
+      "white": 93.1,
+      "black": 2,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.3,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 32.6,
+      "someCollege": 20.4,
+      "associates": 10,
+      "bachelors": 17.7,
+      "graduate": 8.9
+    },
+    "medianIncome": 56802,
+    "meanIncome": 80669
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "47",
+    "name": "Sumner County, Tennessee",
+    "population": 200553,
+    "medianAge": 39.7,
+    "race": {
+      "white": 80.9,
+      "black": 8.6,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 5.8,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 29,
+      "someCollege": 20.9,
+      "associates": 9.2,
+      "bachelors": 22,
+      "graduate": 10.6
+    },
+    "medianIncome": 86005,
+    "meanIncome": 108835
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "47",
+    "name": "Tipton County, Tennessee",
+    "population": 61339,
+    "medianAge": 38.7,
+    "race": {
+      "white": 74.7,
+      "black": 18.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.6,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 36.4,
+      "someCollege": 23.8,
+      "associates": 10.6,
+      "bachelors": 11.7,
+      "graduate": 6.7
+    },
+    "medianIncome": 71736,
+    "meanIncome": 87322
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "47",
+    "name": "Trousdale County, Tennessee",
+    "population": 11805,
+    "medianAge": 34.6,
+    "race": {
+      "white": 80.5,
+      "black": 11.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 5.7,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 52.2,
+      "someCollege": 17.4,
+      "associates": 5.3,
+      "bachelors": 6.4,
+      "graduate": 3.7
+    },
+    "medianIncome": 63190,
+    "meanIncome": 75095
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "47",
+    "name": "Unicoi County, Tennessee",
+    "population": 17779,
+    "medianAge": 47.4,
+    "race": {
+      "white": 92.5,
+      "black": 0.5,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 5.9,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 37.6,
+      "someCollege": 22.4,
+      "associates": 7.9,
+      "bachelors": 12.4,
+      "graduate": 7.6
+    },
+    "medianIncome": 50381,
+    "meanIncome": 65839
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "47",
+    "name": "Union County, Tennessee",
+    "population": 20141,
+    "medianAge": 42.4,
+    "race": {
+      "white": 95.2,
+      "black": 0.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 43.4,
+      "someCollege": 16.7,
+      "associates": 8.7,
+      "bachelors": 9,
+      "graduate": 5.6
+    },
+    "medianIncome": 61858,
+    "meanIncome": 76005
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "47",
+    "name": "Van Buren County, Tennessee",
+    "population": 6293,
+    "medianAge": 47.2,
+    "race": {
+      "white": 95.1,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.9,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 42.8,
+      "someCollege": 19.8,
+      "associates": 7.6,
+      "bachelors": 8.6,
+      "graduate": 5.3
+    },
+    "medianIncome": 60281,
+    "meanIncome": 69959
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "47",
+    "name": "Warren County, Tennessee",
+    "population": 41587,
+    "medianAge": 40,
+    "race": {
+      "white": 86.1,
+      "black": 2.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 4.3,
+      "twoOrMore": 6,
+      "hispanic": 9.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 47.3,
+      "someCollege": 16,
+      "associates": 6.4,
+      "bachelors": 10.3,
+      "graduate": 4.8
+    },
+    "medianIncome": 54088,
+    "meanIncome": 72310
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "47",
+    "name": "Washington County, Tennessee",
+    "population": 134693,
+    "medianAge": 40.3,
+    "race": {
+      "white": 87.7,
+      "black": 3.8,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.4,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 29.4,
+      "someCollege": 20.5,
+      "associates": 7.7,
+      "bachelors": 19,
+      "graduate": 14.6
+    },
+    "medianIncome": 61051,
+    "meanIncome": 85716
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "47",
+    "name": "Wayne County, Tennessee",
+    "population": 16251,
+    "medianAge": 44.3,
+    "race": {
+      "white": 89.2,
+      "black": 4.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 0.7,
+      "twoOrMore": 5.5,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.5,
+      "highSchool": 46.1,
+      "someCollege": 18.9,
+      "associates": 6,
+      "bachelors": 8.4,
+      "graduate": 4.1
+    },
+    "medianIncome": 52824,
+    "meanIncome": 76998
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "47",
+    "name": "Weakley County, Tennessee",
+    "population": 32959,
+    "medianAge": 37.9,
+    "race": {
+      "white": 86.7,
+      "black": 7.4,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.8,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 45.4,
+      "someCollege": 16.3,
+      "associates": 4.6,
+      "bachelors": 13.2,
+      "graduate": 8.5
+    },
+    "medianIncome": 49502,
+    "meanIncome": 63928
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "47",
+    "name": "White County, Tennessee",
+    "population": 27764,
+    "medianAge": 43.3,
+    "race": {
+      "white": 93.1,
+      "black": 1.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.3,
+      "other": 0.6,
+      "twoOrMore": 4,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 40,
+      "someCollege": 21.5,
+      "associates": 7.7,
+      "bachelors": 9.5,
+      "graduate": 4.6
+    },
+    "medianIncome": 52206,
+    "meanIncome": 70030
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "47",
+    "name": "Williamson County, Tennessee",
+    "population": 254609,
+    "medianAge": 40.3,
+    "race": {
+      "white": 82.8,
+      "black": 3.8,
+      "asian": 5.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6.7,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 13.2,
+      "someCollege": 14.2,
+      "associates": 6.6,
+      "bachelors": 38.3,
+      "graduate": 23.5
+    },
+    "medianIncome": 131202,
+    "meanIncome": 177673
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "47",
+    "name": "Wilson County, Tennessee",
+    "population": 153587,
+    "medianAge": 39.9,
+    "race": {
+      "white": 82.1,
+      "black": 7.2,
+      "asian": 2.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 5.8,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 28.8,
+      "someCollege": 19.3,
+      "associates": 8.2,
+      "bachelors": 24.9,
+      "graduate": 12.3
+    },
+    "medianIncome": 94048,
+    "meanIncome": 120719
+  }
+]

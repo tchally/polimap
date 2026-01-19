@@ -1,0 +1,2837 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "20",
+    "name": "Allen County, Kansas",
+    "population": 12491,
+    "medianAge": 41.3,
+    "race": {
+      "white": 91.1,
+      "black": 1.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.9,
+      "other": 0.6,
+      "twoOrMore": 4.1,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 35.3,
+      "someCollege": 25.7,
+      "associates": 11.3,
+      "bachelors": 14.3,
+      "graduate": 7
+    },
+    "medianIncome": 57618,
+    "meanIncome": 69378
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "20",
+    "name": "Anderson County, Kansas",
+    "population": 7819,
+    "medianAge": 40.4,
+    "race": {
+      "white": 92.1,
+      "black": 0.9,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 6.5,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 44.5,
+      "someCollege": 19.6,
+      "associates": 9.5,
+      "bachelors": 8.6,
+      "graduate": 7.2
+    },
+    "medianIncome": 64925,
+    "meanIncome": 74313
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "20",
+    "name": "Atchison County, Kansas",
+    "population": 16211,
+    "medianAge": 36.4,
+    "race": {
+      "white": 87.5,
+      "black": 4.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 6.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 40.7,
+      "someCollege": 23.4,
+      "associates": 7.3,
+      "bachelors": 14,
+      "graduate": 8.9
+    },
+    "medianIncome": 62164,
+    "meanIncome": 78019
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "20",
+    "name": "Barber County, Kansas",
+    "population": 4153,
+    "medianAge": 42.6,
+    "race": {
+      "white": 92.8,
+      "black": 0.2,
+      "asian": 0.5,
+      "nativeAmerican": 2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.9,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 32.3,
+      "someCollege": 24.4,
+      "associates": 10.3,
+      "bachelors": 21.8,
+      "graduate": 5.3
+    },
+    "medianIncome": 57615,
+    "meanIncome": 78910
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "20",
+    "name": "Barton County, Kansas",
+    "population": 25275,
+    "medianAge": 38.8,
+    "race": {
+      "white": 83.6,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 11.3,
+      "hispanic": 16.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 28.2,
+      "someCollege": 28.1,
+      "associates": 12.3,
+      "bachelors": 16.3,
+      "graduate": 5.4
+    },
+    "medianIncome": 56733,
+    "meanIncome": 73254
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "20",
+    "name": "Bourbon County, Kansas",
+    "population": 14384,
+    "medianAge": 38.8,
+    "race": {
+      "white": 90.5,
+      "black": 2.2,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5.3,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 31.4,
+      "someCollege": 26.2,
+      "associates": 9.2,
+      "bachelors": 16.6,
+      "graduate": 7.7
+    },
+    "medianIncome": 67555,
+    "meanIncome": 77037
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "20",
+    "name": "Brown County, Kansas",
+    "population": 9415,
+    "medianAge": 42,
+    "race": {
+      "white": 83.3,
+      "black": 1.4,
+      "asian": 0.3,
+      "nativeAmerican": 7.5,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.9,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 38.9,
+      "someCollege": 26.1,
+      "associates": 11.8,
+      "bachelors": 12.8,
+      "graduate": 5.5
+    },
+    "medianIncome": 58886,
+    "meanIncome": 76674
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "20",
+    "name": "Butler County, Kansas",
+    "population": 67916,
+    "medianAge": 38.3,
+    "race": {
+      "white": 88.3,
+      "black": 2.2,
+      "asian": 1.6,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 5.6,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 28.2,
+      "someCollege": 23,
+      "associates": 10.4,
+      "bachelors": 20.6,
+      "graduate": 12
+    },
+    "medianIncome": 80375,
+    "meanIncome": 98834
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "20",
+    "name": "Chase County, Kansas",
+    "population": 2579,
+    "medianAge": 44.5,
+    "race": {
+      "white": 89,
+      "black": 1.2,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 8.7,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 32.4,
+      "someCollege": 21.6,
+      "associates": 9.3,
+      "bachelors": 22.3,
+      "graduate": 7
+    },
+    "medianIncome": 54518,
+    "meanIncome": 72786
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "20",
+    "name": "Chautauqua County, Kansas",
+    "population": 3370,
+    "medianAge": 45.3,
+    "race": {
+      "white": 83.3,
+      "black": 0.9,
+      "asian": 0.4,
+      "nativeAmerican": 4.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 10,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 38.7,
+      "someCollege": 21.8,
+      "associates": 10.5,
+      "bachelors": 13.5,
+      "graduate": 4.8
+    },
+    "medianIncome": 54592,
+    "meanIncome": 72939
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "20",
+    "name": "Cherokee County, Kansas",
+    "population": 19236,
+    "medianAge": 42,
+    "race": {
+      "white": 87.6,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.3,
+      "other": 1.4,
+      "twoOrMore": 7.4,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 34.4,
+      "someCollege": 27.5,
+      "associates": 9,
+      "bachelors": 13.9,
+      "graduate": 6.2
+    },
+    "medianIncome": 58274,
+    "meanIncome": 70814
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "20",
+    "name": "Cheyenne County, Kansas",
+    "population": 2628,
+    "medianAge": 39.8,
+    "race": {
+      "white": 88.6,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 6.6,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 29.9,
+      "someCollege": 26.1,
+      "associates": 10.3,
+      "bachelors": 15.8,
+      "graduate": 5.8
+    },
+    "medianIncome": 55765,
+    "meanIncome": 71088
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "20",
+    "name": "Clark County, Kansas",
+    "population": 1987,
+    "medianAge": 46.5,
+    "race": {
+      "white": 85.3,
+      "black": 0,
+      "asian": 1.9,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 8.3,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 26.4,
+      "someCollege": 23.1,
+      "associates": 12,
+      "bachelors": 23,
+      "graduate": 8
+    },
+    "medianIncome": 65515,
+    "meanIncome": 83979
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "20",
+    "name": "Clay County, Kansas",
+    "population": 8071,
+    "medianAge": 43.1,
+    "race": {
+      "white": 94.3,
+      "black": 2.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 35.1,
+      "someCollege": 24.6,
+      "associates": 10.1,
+      "bachelors": 17.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 63136,
+    "meanIncome": 78647
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "20",
+    "name": "Cloud County, Kansas",
+    "population": 8973,
+    "medianAge": 39.4,
+    "race": {
+      "white": 92.1,
+      "black": 0.8,
+      "asian": 0.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 1.6,
+      "other": 0.6,
+      "twoOrMore": 4.3,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 30.9,
+      "someCollege": 27.5,
+      "associates": 15,
+      "bachelors": 14.2,
+      "graduate": 8.2
+    },
+    "medianIncome": 57333,
+    "meanIncome": 70287
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "20",
+    "name": "Coffey County, Kansas",
+    "population": 8304,
+    "medianAge": 44,
+    "race": {
+      "white": 93.7,
+      "black": 0.5,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.1,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 32.5,
+      "someCollege": 28.2,
+      "associates": 10.3,
+      "bachelors": 14.3,
+      "graduate": 6.9
+    },
+    "medianIncome": 67377,
+    "meanIncome": 86049
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "20",
+    "name": "Comanche County, Kansas",
+    "population": 1685,
+    "medianAge": 50.8,
+    "race": {
+      "white": 96.5,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.8,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 30.8,
+      "someCollege": 34.7,
+      "associates": 10.4,
+      "bachelors": 15,
+      "graduate": 4.2
+    },
+    "medianIncome": 49417,
+    "meanIncome": 64129
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "20",
+    "name": "Cowley County, Kansas",
+    "population": 34487,
+    "medianAge": 38.1,
+    "race": {
+      "white": 82.6,
+      "black": 2.3,
+      "asian": 1.9,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.2,
+      "other": 2.3,
+      "twoOrMore": 9.3,
+      "hispanic": 11.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 31,
+      "someCollege": 23.8,
+      "associates": 12.5,
+      "bachelors": 15.5,
+      "graduate": 8.8
+    },
+    "medianIncome": 58263,
+    "meanIncome": 77057
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "20",
+    "name": "Crawford County, Kansas",
+    "population": 38963,
+    "medianAge": 33.8,
+    "race": {
+      "white": 88.5,
+      "black": 2.2,
+      "asian": 1.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 5.3,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 28.8,
+      "someCollege": 24.3,
+      "associates": 9.1,
+      "bachelors": 20.3,
+      "graduate": 11.7
+    },
+    "medianIncome": 50311,
+    "meanIncome": 68884
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "20",
+    "name": "Decatur County, Kansas",
+    "population": 2746,
+    "medianAge": 52.1,
+    "race": {
+      "white": 92.7,
+      "black": 1.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 2.9,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 29.5,
+      "someCollege": 24.6,
+      "associates": 12.2,
+      "bachelors": 21.9,
+      "graduate": 5.9
+    },
+    "medianIncome": 52030,
+    "meanIncome": 71773
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "20",
+    "name": "Dickinson County, Kansas",
+    "population": 18423,
+    "medianAge": 42.1,
+    "race": {
+      "white": 91.8,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5.8,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 31.9,
+      "someCollege": 27.6,
+      "associates": 11,
+      "bachelors": 15.3,
+      "graduate": 6.6
+    },
+    "medianIncome": 67982,
+    "meanIncome": 83526
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "20",
+    "name": "Doniphan County, Kansas",
+    "population": 7492,
+    "medianAge": 41.3,
+    "race": {
+      "white": 90.7,
+      "black": 3.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 5.2,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 35.3,
+      "someCollege": 26.4,
+      "associates": 9.7,
+      "bachelors": 11.1,
+      "graduate": 10.4
+    },
+    "medianIncome": 72833,
+    "meanIncome": 85580
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "20",
+    "name": "Douglas County, Kansas",
+    "population": 119547,
+    "medianAge": 31.3,
+    "race": {
+      "white": 79.2,
+      "black": 4.2,
+      "asian": 4.6,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 9.5,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 19.5,
+      "someCollege": 18.5,
+      "associates": 5.9,
+      "bachelors": 29,
+      "graduate": 23.1
+    },
+    "medianIncome": 68756,
+    "meanIncome": 93634
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "20",
+    "name": "Edwards County, Kansas",
+    "population": 2817,
+    "medianAge": 44.3,
+    "race": {
+      "white": 83,
+      "black": 0.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 10.4,
+      "hispanic": 22
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 32.8,
+      "someCollege": 23.9,
+      "associates": 10.3,
+      "bachelors": 14.8,
+      "graduate": 5.9
+    },
+    "medianIncome": 53792,
+    "meanIncome": 75339
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "20",
+    "name": "Elk County, Kansas",
+    "population": 2464,
+    "medianAge": 49.6,
+    "race": {
+      "white": 90.8,
+      "black": 0.1,
+      "asian": 0.4,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 6.3,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 37.6,
+      "someCollege": 27.9,
+      "associates": 5.9,
+      "bachelors": 14.4,
+      "graduate": 6.1
+    },
+    "medianIncome": 56087,
+    "meanIncome": 66434
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "20",
+    "name": "Ellis County, Kansas",
+    "population": 28870,
+    "medianAge": 32.5,
+    "race": {
+      "white": 90.1,
+      "black": 1.8,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 4.2,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 27.6,
+      "someCollege": 18.7,
+      "associates": 9.4,
+      "bachelors": 24.9,
+      "graduate": 14.6
+    },
+    "medianIncome": 59889,
+    "meanIncome": 89458
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "20",
+    "name": "Ellsworth County, Kansas",
+    "population": 6366,
+    "medianAge": 43.7,
+    "race": {
+      "white": 86.8,
+      "black": 3.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 8.2,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 33.6,
+      "someCollege": 28.8,
+      "associates": 8.7,
+      "bachelors": 14.6,
+      "graduate": 7.5
+    },
+    "medianIncome": 66792,
+    "meanIncome": 83519
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "20",
+    "name": "Finney County, Kansas",
+    "population": 38001,
+    "medianAge": 32.1,
+    "race": {
+      "white": 53.5,
+      "black": 4.5,
+      "asian": 4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 14.8,
+      "twoOrMore": 22.5,
+      "hispanic": 52.4
+    },
+    "education": {
+      "lessThanHighSchool": 28.9,
+      "highSchool": 22.9,
+      "someCollege": 19.3,
+      "associates": 9.2,
+      "bachelors": 13.1,
+      "graduate": 6.6
+    },
+    "medianIncome": 72437,
+    "meanIncome": 89602
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "20",
+    "name": "Ford County, Kansas",
+    "population": 34133,
+    "medianAge": 31.9,
+    "race": {
+      "white": 56.3,
+      "black": 3.1,
+      "asian": 0.8,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.3,
+      "other": 17.8,
+      "twoOrMore": 20.6,
+      "hispanic": 58.2
+    },
+    "education": {
+      "lessThanHighSchool": 23,
+      "highSchool": 28,
+      "someCollege": 18.9,
+      "associates": 9.4,
+      "bachelors": 14.2,
+      "graduate": 6.5
+    },
+    "medianIncome": 70495,
+    "meanIncome": 85037
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "20",
+    "name": "Franklin County, Kansas",
+    "population": 25994,
+    "medianAge": 40.1,
+    "race": {
+      "white": 91.1,
+      "black": 0.9,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 1.1,
+      "twoOrMore": 5.6,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 35.1,
+      "someCollege": 23.7,
+      "associates": 8.1,
+      "bachelors": 15.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 72142,
+    "meanIncome": 85098
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "20",
+    "name": "Geary County, Kansas",
+    "population": 35895,
+    "medianAge": 27.1,
+    "race": {
+      "white": 60.5,
+      "black": 16.2,
+      "asian": 3.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 4.9,
+      "twoOrMore": 14.5,
+      "hispanic": 16.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 25.6,
+      "someCollege": 30.9,
+      "associates": 12.6,
+      "bachelors": 15.5,
+      "graduate": 8.9
+    },
+    "medianIncome": 57344,
+    "meanIncome": 68988
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "20",
+    "name": "Gove County, Kansas",
+    "population": 2796,
+    "medianAge": 41.7,
+    "race": {
+      "white": 95.6,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.7,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 37.9,
+      "someCollege": 22.5,
+      "associates": 13,
+      "bachelors": 15.4,
+      "graduate": 5.5
+    },
+    "medianIncome": 63203,
+    "meanIncome": 82068
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "20",
+    "name": "Graham County, Kansas",
+    "population": 2406,
+    "medianAge": 46.1,
+    "race": {
+      "white": 90.9,
+      "black": 3.7,
+      "asian": 1.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 4.2,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 30.5,
+      "someCollege": 25.3,
+      "associates": 12.1,
+      "bachelors": 18.7,
+      "graduate": 8.7
+    },
+    "medianIncome": 52909,
+    "meanIncome": 67115
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "20",
+    "name": "Grant County, Kansas",
+    "population": 7284,
+    "medianAge": 32.9,
+    "race": {
+      "white": 66.2,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 28.4,
+      "hispanic": 52.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.9,
+      "highSchool": 30.4,
+      "someCollege": 17.9,
+      "associates": 7.2,
+      "bachelors": 16,
+      "graduate": 9.6
+    },
+    "medianIncome": 72484,
+    "meanIncome": 111074
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "20",
+    "name": "Gray County, Kansas",
+    "population": 5696,
+    "medianAge": 36.6,
+    "race": {
+      "white": 92.2,
+      "black": 0,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.8,
+      "hispanic": 16.1
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 23.8,
+      "someCollege": 20.8,
+      "associates": 8.2,
+      "bachelors": 20.5,
+      "graduate": 4.4
+    },
+    "medianIncome": 77885,
+    "meanIncome": 96744
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "20",
+    "name": "Greeley County, Kansas",
+    "population": 1296,
+    "medianAge": 39.9,
+    "race": {
+      "white": 88,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 8,
+      "twoOrMore": 1.5,
+      "hispanic": 17.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 22.3,
+      "someCollege": 19.5,
+      "associates": 14.3,
+      "bachelors": 21.6,
+      "graduate": 11.9
+    },
+    "medianIncome": 78819,
+    "meanIncome": 94983
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "20",
+    "name": "Greenwood County, Kansas",
+    "population": 5956,
+    "medianAge": 48.4,
+    "race": {
+      "white": 92.9,
+      "black": 0.6,
+      "asian": 0.1,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.9,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 37.2,
+      "someCollege": 29.6,
+      "associates": 6.7,
+      "bachelors": 12.8,
+      "graduate": 6.2
+    },
+    "medianIncome": 58276,
+    "meanIncome": 80201
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "20",
+    "name": "Hamilton County, Kansas",
+    "population": 2485,
+    "medianAge": 36.4,
+    "race": {
+      "white": 67,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 10.4,
+      "twoOrMore": 22.6,
+      "hispanic": 41.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 36.6,
+      "someCollege": 20.3,
+      "associates": 8.2,
+      "bachelors": 16.7,
+      "graduate": 4.2
+    },
+    "medianIncome": 61929,
+    "meanIncome": 79656
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "20",
+    "name": "Harper County, Kansas",
+    "population": 5446,
+    "medianAge": 40.8,
+    "race": {
+      "white": 90.7,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 2.5,
+      "twoOrMore": 5.3,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 37.3,
+      "someCollege": 24.5,
+      "associates": 6.2,
+      "bachelors": 15.5,
+      "graduate": 6.1
+    },
+    "medianIncome": 55417,
+    "meanIncome": 71347
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "20",
+    "name": "Harvey County, Kansas",
+    "population": 33823,
+    "medianAge": 40.2,
+    "race": {
+      "white": 85.3,
+      "black": 1.1,
+      "asian": 0.8,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 8.4,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 25.2,
+      "someCollege": 23.3,
+      "associates": 11.8,
+      "bachelors": 21.1,
+      "graduate": 10.4
+    },
+    "medianIncome": 73269,
+    "meanIncome": 86664
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "20",
+    "name": "Haskell County, Kansas",
+    "population": 3695,
+    "medianAge": 38,
+    "race": {
+      "white": 70.9,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 17.6,
+      "twoOrMore": 10.3,
+      "hispanic": 30.1
+    },
+    "education": {
+      "lessThanHighSchool": 25.2,
+      "highSchool": 23.9,
+      "someCollege": 20.9,
+      "associates": 7.8,
+      "bachelors": 14.3,
+      "graduate": 8
+    },
+    "medianIncome": 69138,
+    "meanIncome": 87442
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "20",
+    "name": "Hodgeman County, Kansas",
+    "population": 1676,
+    "medianAge": 45.9,
+    "race": {
+      "white": 95.2,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.4,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 29.8,
+      "someCollege": 23.5,
+      "associates": 13.6,
+      "bachelors": 23.7,
+      "graduate": 4.7
+    },
+    "medianIncome": 63125,
+    "meanIncome": 86249
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "20",
+    "name": "Jackson County, Kansas",
+    "population": 13277,
+    "medianAge": 41,
+    "race": {
+      "white": 84.5,
+      "black": 0.9,
+      "asian": 0.4,
+      "nativeAmerican": 6.3,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 6,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 38.3,
+      "someCollege": 26.3,
+      "associates": 8.3,
+      "bachelors": 12.9,
+      "graduate": 8.2
+    },
+    "medianIncome": 72703,
+    "meanIncome": 85712
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "20",
+    "name": "Jefferson County, Kansas",
+    "population": 18391,
+    "medianAge": 43.8,
+    "race": {
+      "white": 93.2,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 35.6,
+      "someCollege": 26.4,
+      "associates": 8.7,
+      "bachelors": 15.4,
+      "graduate": 9.1
+    },
+    "medianIncome": 77393,
+    "meanIncome": 95339
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "20",
+    "name": "Jewell County, Kansas",
+    "population": 2909,
+    "medianAge": 50.3,
+    "race": {
+      "white": 93.1,
+      "black": 0.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.5,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 35.7,
+      "someCollege": 26,
+      "associates": 13.2,
+      "bachelors": 14.6,
+      "graduate": 4.2
+    },
+    "medianIncome": 52344,
+    "meanIncome": 72764
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "20",
+    "name": "Johnson County, Kansas",
+    "population": 614764,
+    "medianAge": 38.3,
+    "race": {
+      "white": 80.2,
+      "black": 4.9,
+      "asian": 5.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 7.4,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 3.5,
+      "highSchool": 14.1,
+      "someCollege": 18.2,
+      "associates": 7.2,
+      "bachelors": 34.4,
+      "graduate": 22.4
+    },
+    "medianIncome": 107261,
+    "meanIncome": 142699
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "20",
+    "name": "Kearny County, Kansas",
+    "population": 3910,
+    "medianAge": 37.5,
+    "race": {
+      "white": 75.3,
+      "black": 1.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 9.7,
+      "twoOrMore": 12.6,
+      "hispanic": 35.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 39.7,
+      "someCollege": 21.6,
+      "associates": 9.4,
+      "bachelors": 11.4,
+      "graduate": 3.2
+    },
+    "medianIncome": 74135,
+    "meanIncome": 89951
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "20",
+    "name": "Kingman County, Kansas",
+    "population": 7284,
+    "medianAge": 43.4,
+    "race": {
+      "white": 93.1,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.8,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 28.9,
+      "someCollege": 26.9,
+      "associates": 11,
+      "bachelors": 16.8,
+      "graduate": 7
+    },
+    "medianIncome": 59819,
+    "meanIncome": 78018
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "20",
+    "name": "Kiowa County, Kansas",
+    "population": 2422,
+    "medianAge": 41.2,
+    "race": {
+      "white": 90.3,
+      "black": 0.8,
+      "asian": 2.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 5.5,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 27.8,
+      "someCollege": 23.3,
+      "associates": 10.7,
+      "bachelors": 21.1,
+      "graduate": 6.4
+    },
+    "medianIncome": 73214,
+    "meanIncome": 101036
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "20",
+    "name": "Labette County, Kansas",
+    "population": 19949,
+    "medianAge": 41.4,
+    "race": {
+      "white": 85.2,
+      "black": 3.4,
+      "asian": 0.1,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 8,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 31.7,
+      "someCollege": 24.5,
+      "associates": 12.5,
+      "bachelors": 14.4,
+      "graduate": 6.7
+    },
+    "medianIncome": 55439,
+    "meanIncome": 70700
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "20",
+    "name": "Lane County, Kansas",
+    "population": 1497,
+    "medianAge": 48.9,
+    "race": {
+      "white": 90.1,
+      "black": 0.3,
+      "asian": 1.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 2.6,
+      "hispanic": 15.4
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 22,
+      "someCollege": 35.4,
+      "associates": 13,
+      "bachelors": 17.2,
+      "graduate": 7.4
+    },
+    "medianIncome": 53042,
+    "meanIncome": 81118
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "20",
+    "name": "Leavenworth County, Kansas",
+    "population": 82493,
+    "medianAge": 38.3,
+    "race": {
+      "white": 80.5,
+      "black": 7.4,
+      "asian": 1.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 7.7,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 26.9,
+      "someCollege": 21.6,
+      "associates": 8.3,
+      "bachelors": 21.3,
+      "graduate": 15.3
+    },
+    "medianIncome": 86906,
+    "meanIncome": 104102
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "20",
+    "name": "Lincoln County, Kansas",
+    "population": 2924,
+    "medianAge": 44.1,
+    "race": {
+      "white": 93.9,
+      "black": 0.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.5,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 3.8,
+      "highSchool": 27.5,
+      "someCollege": 33.4,
+      "associates": 13.8,
+      "bachelors": 14.1,
+      "graduate": 7.4
+    },
+    "medianIncome": 53546,
+    "meanIncome": 72920
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "20",
+    "name": "Linn County, Kansas",
+    "population": 9723,
+    "medianAge": 45.5,
+    "race": {
+      "white": 93.6,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 0.7,
+      "twoOrMore": 4.1,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 37,
+      "someCollege": 27,
+      "associates": 7.7,
+      "bachelors": 15.6,
+      "graduate": 6.9
+    },
+    "medianIncome": 59200,
+    "meanIncome": 82270
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "20",
+    "name": "Logan County, Kansas",
+    "population": 2720,
+    "medianAge": 41.1,
+    "race": {
+      "white": 90.8,
+      "black": 0,
+      "asian": 0.5,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 5.1,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 29.5,
+      "someCollege": 22.3,
+      "associates": 13.8,
+      "bachelors": 20.2,
+      "graduate": 6.5
+    },
+    "medianIncome": 71389,
+    "meanIncome": 91409
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "20",
+    "name": "Lyon County, Kansas",
+    "population": 32145,
+    "medianAge": 33.1,
+    "race": {
+      "white": 75,
+      "black": 1.6,
+      "asian": 1.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 17.3,
+      "hispanic": 23.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 33.4,
+      "someCollege": 20.7,
+      "associates": 7.4,
+      "bachelors": 15.5,
+      "graduate": 12.2
+    },
+    "medianIncome": 59078,
+    "meanIncome": 72659
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "20",
+    "name": "McPherson County, Kansas",
+    "population": 30130,
+    "medianAge": 39.1,
+    "race": {
+      "white": 93,
+      "black": 1.7,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.9,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 24.1,
+      "someCollege": 24.2,
+      "associates": 10.9,
+      "bachelors": 21.5,
+      "graduate": 11.6
+    },
+    "medianIncome": 77701,
+    "meanIncome": 88756
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "20",
+    "name": "Marion County, Kansas",
+    "population": 11795,
+    "medianAge": 43.7,
+    "race": {
+      "white": 93.3,
+      "black": 1.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.1,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 31.3,
+      "someCollege": 22.6,
+      "associates": 9.6,
+      "bachelors": 19.4,
+      "graduate": 9.3
+    },
+    "medianIncome": 63438,
+    "meanIncome": 85216
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "20",
+    "name": "Marshall County, Kansas",
+    "population": 10001,
+    "medianAge": 42.6,
+    "race": {
+      "white": 94.9,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.7,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 38.9,
+      "someCollege": 20.9,
+      "associates": 12.2,
+      "bachelors": 13.1,
+      "graduate": 5.8
+    },
+    "medianIncome": 70828,
+    "meanIncome": 83404
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "20",
+    "name": "Meade County, Kansas",
+    "population": 3949,
+    "medianAge": 37.5,
+    "race": {
+      "white": 80.6,
+      "black": 1.3,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 9.2,
+      "twoOrMore": 8.3,
+      "hispanic": 23.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 24.7,
+      "someCollege": 25.4,
+      "associates": 11.8,
+      "bachelors": 13.5,
+      "graduate": 9.2
+    },
+    "medianIncome": 74868,
+    "meanIncome": 111777
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "20",
+    "name": "Miami County, Kansas",
+    "population": 34625,
+    "medianAge": 41.8,
+    "race": {
+      "white": 92,
+      "black": 1.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.4,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 31.5,
+      "someCollege": 21.4,
+      "associates": 9.7,
+      "bachelors": 21,
+      "graduate": 11.1
+    },
+    "medianIncome": 88000,
+    "meanIncome": 106267
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "20",
+    "name": "Mitchell County, Kansas",
+    "population": 5767,
+    "medianAge": 43.3,
+    "race": {
+      "white": 93.9,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.7,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 26.1,
+      "someCollege": 30.1,
+      "associates": 12.7,
+      "bachelors": 17.5,
+      "graduate": 7.9
+    },
+    "medianIncome": 58233,
+    "meanIncome": 79841
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "20",
+    "name": "Montgomery County, Kansas",
+    "population": 31143,
+    "medianAge": 40.3,
+    "race": {
+      "white": 79.4,
+      "black": 4.3,
+      "asian": 0.2,
+      "nativeAmerican": 2.7,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 11,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 31.6,
+      "someCollege": 24.3,
+      "associates": 12.7,
+      "bachelors": 14.4,
+      "graduate": 6.9
+    },
+    "medianIncome": 53242,
+    "meanIncome": 67132
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "20",
+    "name": "Morris County, Kansas",
+    "population": 5388,
+    "medianAge": 48.7,
+    "race": {
+      "white": 92.8,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.4,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 35.3,
+      "someCollege": 19.2,
+      "associates": 11.1,
+      "bachelors": 19.7,
+      "graduate": 7.6
+    },
+    "medianIncome": 56716,
+    "meanIncome": 76802
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "20",
+    "name": "Morton County, Kansas",
+    "population": 2647,
+    "medianAge": 43.7,
+    "race": {
+      "white": 78.1,
+      "black": 1.3,
+      "asian": 1.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 16.9,
+      "hispanic": 23.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 40.9,
+      "someCollege": 19.8,
+      "associates": 9.5,
+      "bachelors": 12.5,
+      "graduate": 4
+    },
+    "medianIncome": 65625,
+    "meanIncome": 76315
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "20",
+    "name": "Nemaha County, Kansas",
+    "population": 10213,
+    "medianAge": 40,
+    "race": {
+      "white": 95,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.2,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 36.1,
+      "someCollege": 16.1,
+      "associates": 11.4,
+      "bachelors": 21.1,
+      "graduate": 9.1
+    },
+    "medianIncome": 77375,
+    "meanIncome": 98052
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "20",
+    "name": "Neosho County, Kansas",
+    "population": 15715,
+    "medianAge": 40.3,
+    "race": {
+      "white": 91.8,
+      "black": 1.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.8,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 30.2,
+      "someCollege": 26.2,
+      "associates": 14.2,
+      "bachelors": 15.2,
+      "graduate": 6.6
+    },
+    "medianIncome": 55704,
+    "meanIncome": 71143
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "20",
+    "name": "Ness County, Kansas",
+    "population": 2659,
+    "medianAge": 46.1,
+    "race": {
+      "white": 80.6,
+      "black": 0,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 11.7,
+      "twoOrMore": 7.4,
+      "hispanic": 15.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 35.4,
+      "someCollege": 22.4,
+      "associates": 10.7,
+      "bachelors": 18.8,
+      "graduate": 4.3
+    },
+    "medianIncome": 66107,
+    "meanIncome": 99145
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "20",
+    "name": "Norton County, Kansas",
+    "population": 5392,
+    "medianAge": 40.2,
+    "race": {
+      "white": 89.6,
+      "black": 2.7,
+      "asian": 0.1,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 34.4,
+      "someCollege": 23.9,
+      "associates": 14.6,
+      "bachelors": 14.5,
+      "graduate": 4.9
+    },
+    "medianIncome": 50305,
+    "meanIncome": 65945
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "20",
+    "name": "Osage County, Kansas",
+    "population": 15780,
+    "medianAge": 42.8,
+    "race": {
+      "white": 93.7,
+      "black": 0.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 39.7,
+      "someCollege": 21.6,
+      "associates": 10.1,
+      "bachelors": 14.6,
+      "graduate": 6.4
+    },
+    "medianIncome": 70216,
+    "meanIncome": 81759
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "20",
+    "name": "Osborne County, Kansas",
+    "population": 3473,
+    "medianAge": 46.8,
+    "race": {
+      "white": 92.9,
+      "black": 0.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 4,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 30.2,
+      "someCollege": 24,
+      "associates": 18,
+      "bachelors": 17,
+      "graduate": 6
+    },
+    "medianIncome": 59408,
+    "meanIncome": 76525
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "20",
+    "name": "Ottawa County, Kansas",
+    "population": 5782,
+    "medianAge": 42.5,
+    "race": {
+      "white": 93.7,
+      "black": 0.7,
+      "asian": 0.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.1,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 31.5,
+      "someCollege": 28.3,
+      "associates": 10.7,
+      "bachelors": 18.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 76755,
+    "meanIncome": 89408
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "20",
+    "name": "Pawnee County, Kansas",
+    "population": 6220,
+    "medianAge": 44.9,
+    "race": {
+      "white": 87.5,
+      "black": 6.8,
+      "asian": 0,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.8,
+      "hispanic": 8.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 28.7,
+      "someCollege": 29.9,
+      "associates": 12,
+      "bachelors": 12.8,
+      "graduate": 6
+    },
+    "medianIncome": 63625,
+    "meanIncome": 90081
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "20",
+    "name": "Phillips County, Kansas",
+    "population": 4874,
+    "medianAge": 44.6,
+    "race": {
+      "white": 94.2,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.8,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 33.2,
+      "someCollege": 25.8,
+      "associates": 11,
+      "bachelors": 16,
+      "graduate": 6.3
+    },
+    "medianIncome": 61235,
+    "meanIncome": 75789
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "20",
+    "name": "Pottawatomie County, Kansas",
+    "population": 25808,
+    "medianAge": 36.2,
+    "race": {
+      "white": 90.1,
+      "black": 1.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 6.5,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 3.7,
+      "highSchool": 26.4,
+      "someCollege": 21.2,
+      "associates": 12.1,
+      "bachelors": 23.3,
+      "graduate": 13.3
+    },
+    "medianIncome": 87694,
+    "meanIncome": 103077
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "20",
+    "name": "Pratt County, Kansas",
+    "population": 9120,
+    "medianAge": 38.2,
+    "race": {
+      "white": 88.8,
+      "black": 2.1,
+      "asian": 0.2,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6.5,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 30,
+      "someCollege": 25.9,
+      "associates": 9.7,
+      "bachelors": 17,
+      "graduate": 9.6
+    },
+    "medianIncome": 64348,
+    "meanIncome": 83123
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "20",
+    "name": "Rawlins County, Kansas",
+    "population": 2533,
+    "medianAge": 47,
+    "race": {
+      "white": 93.6,
+      "black": 0,
+      "asian": 0.5,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3.6,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 27.8,
+      "someCollege": 34.3,
+      "associates": 16.1,
+      "bachelors": 13.5,
+      "graduate": 3.8
+    },
+    "medianIncome": 65000,
+    "meanIncome": 72855
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "20",
+    "name": "Reno County, Kansas",
+    "population": 61693,
+    "medianAge": 40.7,
+    "race": {
+      "white": 87,
+      "black": 2.3,
+      "asian": 0.6,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.4,
+      "other": 1.6,
+      "twoOrMore": 7.1,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 30.9,
+      "someCollege": 27.5,
+      "associates": 12.2,
+      "bachelors": 14.1,
+      "graduate": 6.4
+    },
+    "medianIncome": 60498,
+    "meanIncome": 76600
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "20",
+    "name": "Republic County, Kansas",
+    "population": 4662,
+    "medianAge": 46,
+    "race": {
+      "white": 95,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.6,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 30.7,
+      "someCollege": 24.8,
+      "associates": 14,
+      "bachelors": 16.6,
+      "graduate": 8.8
+    },
+    "medianIncome": 53611,
+    "meanIncome": 68213
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "20",
+    "name": "Rice County, Kansas",
+    "population": 9389,
+    "medianAge": 39,
+    "race": {
+      "white": 80.5,
+      "black": 1.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 11.9,
+      "hispanic": 13.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 29.1,
+      "someCollege": 27.2,
+      "associates": 12.4,
+      "bachelors": 16,
+      "graduate": 8.3
+    },
+    "medianIncome": 63947,
+    "meanIncome": 78776
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "20",
+    "name": "Riley County, Kansas",
+    "population": 71710,
+    "medianAge": 25.2,
+    "race": {
+      "white": 77.9,
+      "black": 6.3,
+      "asian": 4.1,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.3,
+      "other": 2.2,
+      "twoOrMore": 8.1,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 17.1,
+      "someCollege": 22,
+      "associates": 9,
+      "bachelors": 26.3,
+      "graduate": 21.7
+    },
+    "medianIncome": 59560,
+    "meanIncome": 82458
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "20",
+    "name": "Rooks County, Kansas",
+    "population": 4869,
+    "medianAge": 46,
+    "race": {
+      "white": 92.9,
+      "black": 2.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.7,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 32.3,
+      "someCollege": 21.5,
+      "associates": 14.4,
+      "bachelors": 17.9,
+      "graduate": 6.2
+    },
+    "medianIncome": 61596,
+    "meanIncome": 78805
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "20",
+    "name": "Rush County, Kansas",
+    "population": 2957,
+    "medianAge": 46,
+    "race": {
+      "white": 90.4,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 7.9,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 30.7,
+      "someCollege": 29.7,
+      "associates": 9.5,
+      "bachelors": 16.1,
+      "graduate": 5.4
+    },
+    "medianIncome": 60288,
+    "meanIncome": 93181
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "20",
+    "name": "Russell County, Kansas",
+    "population": 6717,
+    "medianAge": 45.3,
+    "race": {
+      "white": 90.4,
+      "black": 0,
+      "asian": 0.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 7,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 30.9,
+      "someCollege": 28.7,
+      "associates": 14.9,
+      "bachelors": 12.6,
+      "graduate": 5.5
+    },
+    "medianIncome": 53902,
+    "meanIncome": 69802
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "20",
+    "name": "Saline County, Kansas",
+    "population": 53801,
+    "medianAge": 39.8,
+    "race": {
+      "white": 84.8,
+      "black": 3.7,
+      "asian": 2.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 7.2,
+      "hispanic": 12.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 29.4,
+      "someCollege": 24.2,
+      "associates": 10.1,
+      "bachelors": 19.4,
+      "graduate": 9.7
+    },
+    "medianIncome": 63316,
+    "meanIncome": 80637
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "20",
+    "name": "Scott County, Kansas",
+    "population": 5071,
+    "medianAge": 39.3,
+    "race": {
+      "white": 84.7,
+      "black": 0,
+      "asian": 1.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 8.9,
+      "twoOrMore": 5,
+      "hispanic": 20.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 23.5,
+      "someCollege": 29.1,
+      "associates": 3.2,
+      "bachelors": 22,
+      "graduate": 11.4
+    },
+    "medianIncome": 67788,
+    "meanIncome": 83157
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "20",
+    "name": "Sedgwick County, Kansas",
+    "population": 524810,
+    "medianAge": 35.9,
+    "race": {
+      "white": 71.2,
+      "black": 7.9,
+      "asian": 4.2,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 4.8,
+      "twoOrMore": 11,
+      "hispanic": 16.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 25.9,
+      "someCollege": 23.4,
+      "associates": 8.6,
+      "bachelors": 20.2,
+      "graduate": 11.3
+    },
+    "medianIncome": 67675,
+    "meanIncome": 91563
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "20",
+    "name": "Seward County, Kansas",
+    "population": 21640,
+    "medianAge": 31,
+    "race": {
+      "white": 40.5,
+      "black": 2.7,
+      "asian": 2.4,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.2,
+      "other": 25.1,
+      "twoOrMore": 27.5,
+      "hispanic": 66.6
+    },
+    "education": {
+      "lessThanHighSchool": 28.1,
+      "highSchool": 27.9,
+      "someCollege": 21.3,
+      "associates": 10.1,
+      "bachelors": 9.6,
+      "graduate": 3.1
+    },
+    "medianIncome": 62269,
+    "meanIncome": 78653
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "20",
+    "name": "Shawnee County, Kansas",
+    "population": 178315,
+    "medianAge": 39.6,
+    "race": {
+      "white": 76.1,
+      "black": 7.6,
+      "asian": 1.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 4.7,
+      "twoOrMore": 9.4,
+      "hispanic": 13.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 30.3,
+      "someCollege": 22.6,
+      "associates": 8.2,
+      "bachelors": 20.2,
+      "graduate": 12.2
+    },
+    "medianIncome": 66043,
+    "meanIncome": 87070
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "20",
+    "name": "Sheridan County, Kansas",
+    "population": 2442,
+    "medianAge": 43.4,
+    "race": {
+      "white": 93.1,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 3.5,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 3.5,
+      "highSchool": 33.9,
+      "someCollege": 24.4,
+      "associates": 14,
+      "bachelors": 16.8,
+      "graduate": 7.4
+    },
+    "medianIncome": 70000,
+    "meanIncome": 105689
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "20",
+    "name": "Sherman County, Kansas",
+    "population": 5919,
+    "medianAge": 38.9,
+    "race": {
+      "white": 81.7,
+      "black": 3.9,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 7.1,
+      "twoOrMore": 7.3,
+      "hispanic": 12.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 26.7,
+      "someCollege": 26.1,
+      "associates": 13.8,
+      "bachelors": 18.7,
+      "graduate": 6.5
+    },
+    "medianIncome": 64444,
+    "meanIncome": 107922
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "20",
+    "name": "Smith County, Kansas",
+    "population": 3579,
+    "medianAge": 50,
+    "race": {
+      "white": 94.2,
+      "black": 0.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.1,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 37.9,
+      "someCollege": 21.1,
+      "associates": 11.3,
+      "bachelors": 18.6,
+      "graduate": 6
+    },
+    "medianIncome": 57024,
+    "meanIncome": 78567
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "20",
+    "name": "Stafford County, Kansas",
+    "population": 4004,
+    "medianAge": 42.1,
+    "race": {
+      "white": 86.7,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 8.6,
+      "hispanic": 13.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 28.2,
+      "someCollege": 23.9,
+      "associates": 14.2,
+      "bachelors": 19.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 63786,
+    "meanIncome": 87716
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "20",
+    "name": "Stanton County, Kansas",
+    "population": 2018,
+    "medianAge": 36.5,
+    "race": {
+      "white": 73.5,
+      "black": 0,
+      "asian": 0.2,
+      "nativeAmerican": 5.2,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 15.7,
+      "hispanic": 45
+    },
+    "education": {
+      "lessThanHighSchool": 23.6,
+      "highSchool": 29.3,
+      "someCollege": 13.7,
+      "associates": 9.7,
+      "bachelors": 16.6,
+      "graduate": 7.1
+    },
+    "medianIncome": 70361,
+    "meanIncome": 89018
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "20",
+    "name": "Stevens County, Kansas",
+    "population": 5212,
+    "medianAge": 38,
+    "race": {
+      "white": 68.1,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 13,
+      "twoOrMore": 18.4,
+      "hispanic": 38.7
+    },
+    "education": {
+      "lessThanHighSchool": 26.2,
+      "highSchool": 31.1,
+      "someCollege": 20.1,
+      "associates": 6.4,
+      "bachelors": 11.1,
+      "graduate": 5.1
+    },
+    "medianIncome": 61909,
+    "meanIncome": 90085
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "20",
+    "name": "Sumner County, Kansas",
+    "population": 22386,
+    "medianAge": 41.2,
+    "race": {
+      "white": 89.9,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5.8,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 33.6,
+      "someCollege": 24.2,
+      "associates": 9.5,
+      "bachelors": 17.5,
+      "graduate": 9.2
+    },
+    "medianIncome": 60348,
+    "meanIncome": 78544
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "20",
+    "name": "Thomas County, Kansas",
+    "population": 7913,
+    "medianAge": 35.3,
+    "race": {
+      "white": 92.5,
+      "black": 1.3,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 2.9,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 20.9,
+      "someCollege": 26.5,
+      "associates": 15.8,
+      "bachelors": 21.2,
+      "graduate": 9.1
+    },
+    "medianIncome": 73575,
+    "meanIncome": 96561
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "20",
+    "name": "Trego County, Kansas",
+    "population": 2778,
+    "medianAge": 47.7,
+    "race": {
+      "white": 96.1,
+      "black": 0.1,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.1,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 3.6,
+      "highSchool": 30.1,
+      "someCollege": 19.6,
+      "associates": 18,
+      "bachelors": 21.9,
+      "graduate": 6.9
+    },
+    "medianIncome": 73375,
+    "meanIncome": 91101
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "20",
+    "name": "Wabaunsee County, Kansas",
+    "population": 6961,
+    "medianAge": 43.2,
+    "race": {
+      "white": 91.8,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 5.2,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 3.7,
+      "highSchool": 36.9,
+      "someCollege": 21.4,
+      "associates": 11.3,
+      "bachelors": 17,
+      "graduate": 9.7
+    },
+    "medianIncome": 70536,
+    "meanIncome": 85958
+  },
+  {
+    "countyFips": "199",
+    "stateFips": "20",
+    "name": "Wallace County, Kansas",
+    "population": 1459,
+    "medianAge": 47.2,
+    "race": {
+      "white": 90.8,
+      "black": 0.7,
+      "asian": 1.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 4.1,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 31,
+      "someCollege": 23.7,
+      "associates": 14.9,
+      "bachelors": 18.5,
+      "graduate": 4.2
+    },
+    "medianIncome": 60263,
+    "meanIncome": 78237
+  },
+  {
+    "countyFips": "201",
+    "stateFips": "20",
+    "name": "Washington County, Kansas",
+    "population": 5519,
+    "medianAge": 43.9,
+    "race": {
+      "white": 92.9,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 3.1,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 38,
+      "someCollege": 20.1,
+      "associates": 13.1,
+      "bachelors": 15.9,
+      "graduate": 7.4
+    },
+    "medianIncome": 62452,
+    "meanIncome": 79440
+  },
+  {
+    "countyFips": "203",
+    "stateFips": "20",
+    "name": "Wichita County, Kansas",
+    "population": 2115,
+    "medianAge": 38.7,
+    "race": {
+      "white": 75.1,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 7.7,
+      "twoOrMore": 16.7,
+      "hispanic": 29.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 28.9,
+      "someCollege": 29.5,
+      "associates": 10.5,
+      "bachelors": 13.8,
+      "graduate": 5.1
+    },
+    "medianIncome": 71282,
+    "meanIncome": 91654
+  },
+  {
+    "countyFips": "205",
+    "stateFips": "20",
+    "name": "Wilson County, Kansas",
+    "population": 8559,
+    "medianAge": 42.3,
+    "race": {
+      "white": 93.7,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 5.3,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 36.8,
+      "someCollege": 22.4,
+      "associates": 11.1,
+      "bachelors": 15.9,
+      "graduate": 5.4
+    },
+    "medianIncome": 57056,
+    "meanIncome": 76102
+  },
+  {
+    "countyFips": "207",
+    "stateFips": "20",
+    "name": "Woodson County, Kansas",
+    "population": 3118,
+    "medianAge": 49.9,
+    "race": {
+      "white": 92.7,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 6.2,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 36.3,
+      "someCollege": 24.4,
+      "associates": 7.9,
+      "bachelors": 15.9,
+      "graduate": 6.7
+    },
+    "medianIncome": 48152,
+    "meanIncome": 68097
+  },
+  {
+    "countyFips": "209",
+    "stateFips": "20",
+    "name": "Wyandotte County, Kansas",
+    "population": 167277,
+    "medianAge": 34.2,
+    "race": {
+      "white": 46.5,
+      "black": 19.3,
+      "asian": 5.2,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.2,
+      "other": 14.7,
+      "twoOrMore": 12.7,
+      "hispanic": 33.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 32.3,
+      "someCollege": 20.6,
+      "associates": 8.5,
+      "bachelors": 12.9,
+      "graduate": 7.6
+    },
+    "medianIncome": 60582,
+    "meanIncome": 75022
+  }
+]

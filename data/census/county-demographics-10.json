@@ -1,0 +1,83 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "10",
+    "name": "Kent County, Delaware",
+    "population": 185043,
+    "medianAge": 38.5,
+    "race": {
+      "white": 59.9,
+      "black": 27,
+      "asian": 2.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 8.4,
+      "hispanic": 7.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 33.7,
+      "someCollege": 21,
+      "associates": 8.8,
+      "bachelors": 16.4,
+      "graduate": 10.4
+    },
+    "medianIncome": 72872,
+    "meanIncome": 89176
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "10",
+    "name": "New Castle County, Delaware",
+    "population": 573030,
+    "medianAge": 39.2,
+    "race": {
+      "white": 56.5,
+      "black": 25.3,
+      "asian": 5.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 7.4,
+      "hispanic": 11.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 27.3,
+      "someCollege": 18.3,
+      "associates": 7.8,
+      "bachelors": 22.3,
+      "graduate": 17
+    },
+    "medianIncome": 89901,
+    "meanIncome": 118003
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "10",
+    "name": "Sussex County, Delaware",
+    "population": 247799,
+    "medianAge": 51.4,
+    "race": {
+      "white": 75.6,
+      "black": 10.5,
+      "asian": 1.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 7.6,
+      "hispanic": 11.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 29.6,
+      "someCollege": 18.2,
+      "associates": 9.3,
+      "bachelors": 18.8,
+      "graduate": 13.8
+    },
+    "medianIncome": 78162,
+    "meanIncome": 105000
+  }
+]

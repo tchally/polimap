@@ -1,0 +1,434 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "23",
+    "name": "Androscoggin County, Maine",
+    "population": 112323,
+    "medianAge": 40.8,
+    "race": {
+      "white": 88.7,
+      "black": 4.7,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.6,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 36.4,
+      "someCollege": 19.9,
+      "associates": 12.7,
+      "bachelors": 15.8,
+      "graduate": 7.6
+    },
+    "medianIncome": 67298,
+    "meanIncome": 85807
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "23",
+    "name": "Aroostook County, Maine",
+    "population": 67227,
+    "medianAge": 48.4,
+    "race": {
+      "white": 93.4,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 3.6,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 38.8,
+      "someCollege": 19.1,
+      "associates": 10.9,
+      "bachelors": 15.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 54254,
+    "meanIncome": 73148
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "23",
+    "name": "Cumberland County, Maine",
+    "population": 305940,
+    "medianAge": 42.1,
+    "race": {
+      "white": 87.6,
+      "black": 3.3,
+      "asian": 2.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 6,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 3.5,
+      "highSchool": 20.2,
+      "someCollege": 15.6,
+      "associates": 8.5,
+      "bachelors": 31.2,
+      "graduate": 21
+    },
+    "medianIncome": 92983,
+    "meanIncome": 125434
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "23",
+    "name": "Franklin County, Maine",
+    "population": 30145,
+    "medianAge": 46.1,
+    "race": {
+      "white": 94.4,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.8,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 35.5,
+      "someCollege": 19.1,
+      "associates": 9.4,
+      "bachelors": 19.7,
+      "graduate": 10.2
+    },
+    "medianIncome": 58522,
+    "meanIncome": 80168
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "23",
+    "name": "Hancock County, Maine",
+    "population": 56084,
+    "medianAge": 49.1,
+    "race": {
+      "white": 93.9,
+      "black": 0.9,
+      "asian": 0.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.3,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 28.5,
+      "someCollege": 18.4,
+      "associates": 8.8,
+      "bachelors": 24.6,
+      "graduate": 14.6
+    },
+    "medianIncome": 69630,
+    "meanIncome": 91525
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "23",
+    "name": "Kennebec County, Maine",
+    "population": 125614,
+    "medianAge": 44,
+    "race": {
+      "white": 93.4,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.1,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 34,
+      "someCollege": 19.5,
+      "associates": 10.5,
+      "bachelors": 19.1,
+      "graduate": 11.8
+    },
+    "medianIncome": 65062,
+    "meanIncome": 85256
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "23",
+    "name": "Knox County, Maine",
+    "population": 40860,
+    "medianAge": 49.2,
+    "race": {
+      "white": 94.7,
+      "black": 0.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 30.1,
+      "someCollege": 17.5,
+      "associates": 7.6,
+      "bachelors": 24.6,
+      "graduate": 14.5
+    },
+    "medianIncome": 71903,
+    "meanIncome": 95678
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "23",
+    "name": "Lincoln County, Maine",
+    "population": 35840,
+    "medianAge": 51.1,
+    "race": {
+      "white": 94,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.3,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 29.8,
+      "someCollege": 16.5,
+      "associates": 8.6,
+      "bachelors": 24.1,
+      "graduate": 15.9
+    },
+    "medianIncome": 72026,
+    "meanIncome": 98711
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "23",
+    "name": "Oxford County, Maine",
+    "population": 58728,
+    "medianAge": 48.3,
+    "race": {
+      "white": 93.7,
+      "black": 0.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.7,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 41.2,
+      "someCollege": 17.2,
+      "associates": 11.7,
+      "bachelors": 14.7,
+      "graduate": 7.8
+    },
+    "medianIncome": 57933,
+    "meanIncome": 78431
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "23",
+    "name": "Penobscot County, Maine",
+    "population": 153571,
+    "medianAge": 42.5,
+    "race": {
+      "white": 92.1,
+      "black": 1,
+      "asian": 1.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.9,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 32.4,
+      "someCollege": 20.1,
+      "associates": 11.6,
+      "bachelors": 18.9,
+      "graduate": 11.6
+    },
+    "medianIncome": 63248,
+    "meanIncome": 84825
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "23",
+    "name": "Piscataquis County, Maine",
+    "population": 17125,
+    "medianAge": 51.4,
+    "race": {
+      "white": 93.4,
+      "black": 0.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 37.5,
+      "someCollege": 22,
+      "associates": 10.8,
+      "bachelors": 15.7,
+      "graduate": 6.1
+    },
+    "medianIncome": 55234,
+    "meanIncome": 74961
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "23",
+    "name": "Sagadahoc County, Maine",
+    "population": 37093,
+    "medianAge": 47.3,
+    "race": {
+      "white": 93.5,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.4,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 27.7,
+      "someCollege": 15.6,
+      "associates": 10.3,
+      "bachelors": 24,
+      "graduate": 17.1
+    },
+    "medianIncome": 82080,
+    "meanIncome": 101281
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "23",
+    "name": "Somerset County, Maine",
+    "population": 50852,
+    "medianAge": 46.9,
+    "race": {
+      "white": 95.1,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.5,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 41.4,
+      "someCollege": 19.2,
+      "associates": 11.9,
+      "bachelors": 14.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 56199,
+    "meanIncome": 72900
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "23",
+    "name": "Waldo County, Maine",
+    "population": 40006,
+    "medianAge": 46.9,
+    "race": {
+      "white": 93.9,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 31.6,
+      "someCollege": 18.1,
+      "associates": 9.2,
+      "bachelors": 20,
+      "graduate": 14.8
+    },
+    "medianIncome": 68441,
+    "meanIncome": 86416
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "23",
+    "name": "Washington County, Maine",
+    "population": 31261,
+    "medianAge": 48.6,
+    "race": {
+      "white": 88.5,
+      "black": 1,
+      "asian": 0.3,
+      "nativeAmerican": 4.8,
+      "pacificIslander": 0.1,
+      "other": 0.5,
+      "twoOrMore": 4.9,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 34.8,
+      "someCollege": 21.2,
+      "associates": 10.3,
+      "bachelors": 16.2,
+      "graduate": 8.7
+    },
+    "medianIncome": 52237,
+    "meanIncome": 71586
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "23",
+    "name": "York County, Maine",
+    "population": 214731,
+    "medianAge": 45.3,
+    "race": {
+      "white": 91.4,
+      "black": 1.1,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 5.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 29.8,
+      "someCollege": 18.9,
+      "associates": 11.8,
+      "bachelors": 22,
+      "graduate": 12.6
+    },
+    "medianIncome": 82904,
+    "meanIncome": 104151
+  }
+]

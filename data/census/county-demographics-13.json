@@ -1,0 +1,4295 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "13",
+    "name": "Appling County, Georgia",
+    "population": 18426,
+    "medianAge": 39.9,
+    "race": {
+      "white": 69.8,
+      "black": 17.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.8,
+      "twoOrMore": 6.7,
+      "hispanic": 10.4
+    },
+    "education": {
+      "lessThanHighSchool": 19,
+      "highSchool": 41.1,
+      "someCollege": 21.6,
+      "associates": 8.4,
+      "bachelors": 5,
+      "graduate": 4.9
+    },
+    "medianIncome": 43728,
+    "meanIncome": 60995
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "13",
+    "name": "Atkinson County, Georgia",
+    "population": 8261,
+    "medianAge": 36.2,
+    "race": {
+      "white": 64.1,
+      "black": 15.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 10.2,
+      "twoOrMore": 10.5,
+      "hispanic": 26.4
+    },
+    "education": {
+      "lessThanHighSchool": 28.4,
+      "highSchool": 33.4,
+      "someCollege": 21.4,
+      "associates": 7,
+      "bachelors": 5.3,
+      "graduate": 4.5
+    },
+    "medianIncome": 38438,
+    "meanIncome": 58228
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "13",
+    "name": "Bacon County, Georgia",
+    "population": 11129,
+    "medianAge": 39,
+    "race": {
+      "white": 73.9,
+      "black": 15,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 6.6,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 41.7,
+      "someCollege": 23.5,
+      "associates": 8.4,
+      "bachelors": 5.8,
+      "graduate": 5.2
+    },
+    "medianIncome": 50310,
+    "meanIncome": 67308
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "13",
+    "name": "Baker County, Georgia",
+    "population": 2830,
+    "medianAge": 48.1,
+    "race": {
+      "white": 49,
+      "black": 40.7,
+      "asian": 5.7,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.2,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 41.7,
+      "someCollege": 18,
+      "associates": 14,
+      "bachelors": 10,
+      "graduate": 6.9
+    },
+    "medianIncome": 44405,
+    "meanIncome": 61584
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "13",
+    "name": "Baldwin County, Georgia",
+    "population": 43669,
+    "medianAge": 36.4,
+    "race": {
+      "white": 52.5,
+      "black": 41.8,
+      "asian": 1.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 1,
+      "twoOrMore": 2.8,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 33.7,
+      "someCollege": 19.8,
+      "associates": 7.6,
+      "bachelors": 14,
+      "graduate": 10.2
+    },
+    "medianIncome": 55413,
+    "meanIncome": 85755
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "13",
+    "name": "Banks County, Georgia",
+    "population": 18757,
+    "medianAge": 42.4,
+    "race": {
+      "white": 87,
+      "black": 1.7,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 7,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 17.7,
+      "highSchool": 34.3,
+      "someCollege": 22.3,
+      "associates": 8.3,
+      "bachelors": 11.7,
+      "graduate": 5.7
+    },
+    "medianIncome": 68830,
+    "meanIncome": 82882
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "13",
+    "name": "Barrow County, Georgia",
+    "population": 86982,
+    "medianAge": 36.4,
+    "race": {
+      "white": 69.3,
+      "black": 13.2,
+      "asian": 4.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 8.7,
+      "hispanic": 14.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 34.2,
+      "someCollege": 23.4,
+      "associates": 9,
+      "bachelors": 13.9,
+      "graduate": 7.1
+    },
+    "medianIncome": 77477,
+    "meanIncome": 90487
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "13",
+    "name": "Bartow County, Georgia",
+    "population": 111153,
+    "medianAge": 38,
+    "race": {
+      "white": 78.2,
+      "black": 11,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 3.1,
+      "twoOrMore": 6.5,
+      "hispanic": 10.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 36.9,
+      "someCollege": 20.7,
+      "associates": 8.1,
+      "bachelors": 15.4,
+      "graduate": 7.5
+    },
+    "medianIncome": 79431,
+    "meanIncome": 94388
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "13",
+    "name": "Ben Hill County, Georgia",
+    "population": 17138,
+    "medianAge": 38.5,
+    "race": {
+      "white": 57.3,
+      "black": 37.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 2.3,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 48.8,
+      "someCollege": 13.7,
+      "associates": 9.7,
+      "bachelors": 8,
+      "graduate": 4.1
+    },
+    "medianIncome": 39081,
+    "meanIncome": 56280
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "13",
+    "name": "Berrien County, Georgia",
+    "population": 18257,
+    "medianAge": 39.8,
+    "race": {
+      "white": 81.3,
+      "black": 10.6,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 5.4,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 37.9,
+      "someCollege": 21.5,
+      "associates": 10.6,
+      "bachelors": 8.2,
+      "graduate": 4.6
+    },
+    "medianIncome": 50414,
+    "meanIncome": 67230
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "13",
+    "name": "Bibb County, Georgia",
+    "population": 156543,
+    "medianAge": 36.6,
+    "race": {
+      "white": 36,
+      "black": 54.5,
+      "asian": 2.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.7,
+      "twoOrMore": 4.3,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 31.2,
+      "someCollege": 22.2,
+      "associates": 8.1,
+      "bachelors": 12.9,
+      "graduate": 13.1
+    },
+    "medianIncome": 50747,
+    "meanIncome": 77463
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "13",
+    "name": "Bleckley County, Georgia",
+    "population": 12414,
+    "medianAge": 37.4,
+    "race": {
+      "white": 68.9,
+      "black": 26,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 2.4,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 33.7,
+      "someCollege": 27.8,
+      "associates": 8.2,
+      "bachelors": 11.2,
+      "graduate": 7.1
+    },
+    "medianIncome": 53005,
+    "meanIncome": 76532
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "13",
+    "name": "Brantley County, Georgia",
+    "population": 18171,
+    "medianAge": 40.9,
+    "race": {
+      "white": 92.4,
+      "black": 2.9,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.2,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 18.8,
+      "highSchool": 43.6,
+      "someCollege": 17.2,
+      "associates": 9.5,
+      "bachelors": 5.2,
+      "graduate": 5.7
+    },
+    "medianIncome": 47801,
+    "meanIncome": 62571
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "13",
+    "name": "Brooks County, Georgia",
+    "population": 16285,
+    "medianAge": 43,
+    "race": {
+      "white": 57.4,
+      "black": 34.7,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 3,
+      "twoOrMore": 3.9,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 17,
+      "highSchool": 38.9,
+      "someCollege": 22.6,
+      "associates": 7.9,
+      "bachelors": 8.6,
+      "graduate": 5
+    },
+    "medianIncome": 47656,
+    "meanIncome": 67055
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "13",
+    "name": "Bryan County, Georgia",
+    "population": 46681,
+    "medianAge": 34.7,
+    "race": {
+      "white": 72.3,
+      "black": 14,
+      "asian": 2.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 7.8,
+      "hispanic": 7.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 25.1,
+      "someCollege": 23.7,
+      "associates": 9.4,
+      "bachelors": 22.1,
+      "graduate": 12.5
+    },
+    "medianIncome": 94234,
+    "meanIncome": 124970
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "13",
+    "name": "Bulloch County, Georgia",
+    "population": 81372,
+    "medianAge": 30.2,
+    "race": {
+      "white": 62.8,
+      "black": 28.3,
+      "asian": 1.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5.7,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 28.6,
+      "someCollege": 21.5,
+      "associates": 8.6,
+      "bachelors": 18.6,
+      "graduate": 12.2
+    },
+    "medianIncome": 56832,
+    "meanIncome": 79142
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "13",
+    "name": "Burke County, Georgia",
+    "population": 24427,
+    "medianAge": 38.4,
+    "race": {
+      "white": 50.1,
+      "black": 45.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.1,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 37.5,
+      "someCollege": 22.1,
+      "associates": 10.3,
+      "bachelors": 10.9,
+      "graduate": 3.4
+    },
+    "medianIncome": 50739,
+    "meanIncome": 81112
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "13",
+    "name": "Butts County, Georgia",
+    "population": 26074,
+    "medianAge": 38.5,
+    "race": {
+      "white": 65.5,
+      "black": 27.6,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5.6,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 41.1,
+      "someCollege": 22.3,
+      "associates": 6.4,
+      "bachelors": 8,
+      "graduate": 5.9
+    },
+    "medianIncome": 59221,
+    "meanIncome": 77092
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "13",
+    "name": "Calhoun County, Georgia",
+    "population": 5528,
+    "medianAge": 39.7,
+    "race": {
+      "white": 34,
+      "black": 59.6,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.6,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 22.9,
+      "highSchool": 41.8,
+      "someCollege": 18.7,
+      "associates": 4.6,
+      "bachelors": 6.7,
+      "graduate": 5.4
+    },
+    "medianIncome": 55714,
+    "meanIncome": 69405
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "13",
+    "name": "Camden County, Georgia",
+    "population": 56036,
+    "medianAge": 34.6,
+    "race": {
+      "white": 70.7,
+      "black": 18.2,
+      "asian": 1.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 7.8,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 31.9,
+      "someCollege": 28,
+      "associates": 10.2,
+      "bachelors": 14.3,
+      "graduate": 8.1
+    },
+    "medianIncome": 72399,
+    "meanIncome": 85169
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "13",
+    "name": "Candler County, Georgia",
+    "population": 10972,
+    "medianAge": 41,
+    "race": {
+      "white": 60.7,
+      "black": 22.6,
+      "asian": 0.6,
+      "nativeAmerican": 2.9,
+      "pacificIslander": 0,
+      "other": 6.7,
+      "twoOrMore": 6.5,
+      "hispanic": 12.7
+    },
+    "education": {
+      "lessThanHighSchool": 20.9,
+      "highSchool": 35,
+      "someCollege": 24.1,
+      "associates": 6.3,
+      "bachelors": 7.8,
+      "graduate": 5.8
+    },
+    "medianIncome": 50431,
+    "meanIncome": 67496
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "13",
+    "name": "Carroll County, Georgia",
+    "population": 122187,
+    "medianAge": 35.3,
+    "race": {
+      "white": 69.8,
+      "black": 20.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 5.1,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 33.2,
+      "someCollege": 21.4,
+      "associates": 7.8,
+      "bachelors": 13.7,
+      "graduate": 8.7
+    },
+    "medianIncome": 72327,
+    "meanIncome": 87579
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "13",
+    "name": "Catoosa County, Georgia",
+    "population": 68356,
+    "medianAge": 40.8,
+    "race": {
+      "white": 89.1,
+      "black": 2.3,
+      "asian": 1.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 5.3,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 30.8,
+      "someCollege": 25.5,
+      "associates": 9.1,
+      "bachelors": 15.4,
+      "graduate": 9.1
+    },
+    "medianIncome": 72425,
+    "meanIncome": 90614
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "13",
+    "name": "Charlton County, Georgia",
+    "population": 12711,
+    "medianAge": 38,
+    "race": {
+      "white": 56.9,
+      "black": 25,
+      "asian": 0.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 15.1,
+      "hispanic": 15.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 43.7,
+      "someCollege": 24.9,
+      "associates": 5.3,
+      "bachelors": 8.4,
+      "graduate": 3
+    },
+    "medianIncome": 48534,
+    "meanIncome": 67272
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "13",
+    "name": "Chatham County, Georgia",
+    "population": 298143,
+    "medianAge": 37.1,
+    "race": {
+      "white": 47.7,
+      "black": 39.4,
+      "asian": 2.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 3.4,
+      "twoOrMore": 6.2,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 24.6,
+      "someCollege": 22.4,
+      "associates": 7.4,
+      "bachelors": 22,
+      "graduate": 14.7
+    },
+    "medianIncome": 69575,
+    "meanIncome": 95384
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "13",
+    "name": "Chattahoochee County, Georgia",
+    "population": 9181,
+    "medianAge": 23.9,
+    "race": {
+      "white": 59.1,
+      "black": 18.5,
+      "asian": 3.3,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.7,
+      "other": 5.8,
+      "twoOrMore": 11.4,
+      "hispanic": 17.4
+    },
+    "education": {
+      "lessThanHighSchool": 2.9,
+      "highSchool": 26.2,
+      "someCollege": 33.6,
+      "associates": 9.8,
+      "bachelors": 17.4,
+      "graduate": 10.2
+    },
+    "medianIncome": 59221,
+    "meanIncome": 69011
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "13",
+    "name": "Chattooga County, Georgia",
+    "population": 24975,
+    "medianAge": 41.1,
+    "race": {
+      "white": 82.1,
+      "black": 9.5,
+      "asian": 0.1,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 5.3,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 25.8,
+      "highSchool": 35.9,
+      "someCollege": 19.6,
+      "associates": 8,
+      "bachelors": 5.9,
+      "graduate": 4.8
+    },
+    "medianIncome": 47785,
+    "meanIncome": 59859
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "13",
+    "name": "Cherokee County, Georgia",
+    "population": 274539,
+    "medianAge": 40,
+    "race": {
+      "white": 78.2,
+      "black": 7.2,
+      "asian": 2.1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 3.6,
+      "twoOrMore": 7.7,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 23,
+      "someCollege": 21.6,
+      "associates": 8.1,
+      "bachelors": 27.4,
+      "graduate": 12.1
+    },
+    "medianIncome": 105442,
+    "meanIncome": 128400
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "13",
+    "name": "Clarke County, Georgia",
+    "population": 129267,
+    "medianAge": 29.4,
+    "race": {
+      "white": 57.7,
+      "black": 26.3,
+      "asian": 4.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 8,
+      "hispanic": 11.4
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 17.8,
+      "someCollege": 16.5,
+      "associates": 7.1,
+      "bachelors": 24.2,
+      "graduate": 24.4
+    },
+    "medianIncome": 52267,
+    "meanIncome": 76893
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "13",
+    "name": "Clay County, Georgia",
+    "population": 2853,
+    "medianAge": 46.1,
+    "race": {
+      "white": 39.8,
+      "black": 59.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 0.7,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 31.1,
+      "someCollege": 21.1,
+      "associates": 10.6,
+      "bachelors": 13,
+      "graduate": 9.5
+    },
+    "medianIncome": 48715,
+    "meanIncome": 63155
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "13",
+    "name": "Clayton County, Georgia",
+    "population": 298771,
+    "medianAge": 33.3,
+    "race": {
+      "white": 11.5,
+      "black": 69.8,
+      "asian": 5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 6.4,
+      "twoOrMore": 7,
+      "hispanic": 14.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 32.6,
+      "someCollege": 21.7,
+      "associates": 9.1,
+      "bachelors": 14.1,
+      "graduate": 7.3
+    },
+    "medianIncome": 58507,
+    "meanIncome": 74004
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "13",
+    "name": "Clinch County, Georgia",
+    "population": 6722,
+    "medianAge": 38.8,
+    "race": {
+      "white": 65.3,
+      "black": 25.6,
+      "asian": 0.2,
+      "nativeAmerican": 2,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 4.1,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 18.8,
+      "highSchool": 44.6,
+      "someCollege": 17.5,
+      "associates": 6,
+      "bachelors": 9.1,
+      "graduate": 3.9
+    },
+    "medianIncome": 55549,
+    "meanIncome": 67216
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "13",
+    "name": "Cobb County, Georgia",
+    "population": 769152,
+    "medianAge": 37.4,
+    "race": {
+      "white": 50.5,
+      "black": 27,
+      "asian": 5.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 7.2,
+      "twoOrMore": 9.3,
+      "hispanic": 14.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 17.7,
+      "someCollege": 17.5,
+      "associates": 7.2,
+      "bachelors": 31.8,
+      "graduate": 18.6
+    },
+    "medianIncome": 98712,
+    "meanIncome": 131991
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "13",
+    "name": "Coffee County, Georgia",
+    "population": 43161,
+    "medianAge": 36.6,
+    "race": {
+      "white": 60.7,
+      "black": 28.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 8.6,
+      "hispanic": 12.9
+    },
+    "education": {
+      "lessThanHighSchool": 20.4,
+      "highSchool": 39.8,
+      "someCollege": 17.8,
+      "associates": 8.5,
+      "bachelors": 8.5,
+      "graduate": 5
+    },
+    "medianIncome": 50175,
+    "meanIncome": 63068
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "13",
+    "name": "Colquitt County, Georgia",
+    "population": 45907,
+    "medianAge": 37.2,
+    "race": {
+      "white": 57.3,
+      "black": 22.8,
+      "asian": 0.8,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 12.1,
+      "twoOrMore": 5.8,
+      "hispanic": 19.7
+    },
+    "education": {
+      "lessThanHighSchool": 20.3,
+      "highSchool": 36.9,
+      "someCollege": 18.4,
+      "associates": 8.8,
+      "bachelors": 8.6,
+      "graduate": 7.1
+    },
+    "medianIncome": 49691,
+    "meanIncome": 71702
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "13",
+    "name": "Columbia County, Georgia",
+    "population": 159638,
+    "medianAge": 37.5,
+    "race": {
+      "white": 67.6,
+      "black": 18,
+      "asian": 4.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 7,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 22.1,
+      "someCollege": 20,
+      "associates": 13.1,
+      "bachelors": 21.5,
+      "graduate": 16.3
+    },
+    "medianIncome": 96122,
+    "meanIncome": 118347
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "13",
+    "name": "Cook County, Georgia",
+    "population": 17363,
+    "medianAge": 37.5,
+    "race": {
+      "white": 65.3,
+      "black": 27.9,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.3,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 37.2,
+      "someCollege": 19.8,
+      "associates": 9.6,
+      "bachelors": 10.6,
+      "graduate": 6.2
+    },
+    "medianIncome": 50133,
+    "meanIncome": 68892
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "13",
+    "name": "Coweta County, Georgia",
+    "population": 150071,
+    "medianAge": 39,
+    "race": {
+      "white": 71.4,
+      "black": 18.5,
+      "asian": 2.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 5.7,
+      "hispanic": 7.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 25.7,
+      "someCollege": 21.7,
+      "associates": 9.8,
+      "bachelors": 21.9,
+      "graduate": 12.7
+    },
+    "medianIncome": 94142,
+    "meanIncome": 116087
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "13",
+    "name": "Crawford County, Georgia",
+    "population": 12183,
+    "medianAge": 46,
+    "race": {
+      "white": 73.4,
+      "black": 21.5,
+      "asian": 0,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 2.6,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 44.4,
+      "someCollege": 16.8,
+      "associates": 8.3,
+      "bachelors": 7.9,
+      "graduate": 6.1
+    },
+    "medianIncome": 60905,
+    "meanIncome": 85248
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "13",
+    "name": "Crisp County, Georgia",
+    "population": 19995,
+    "medianAge": 40.4,
+    "race": {
+      "white": 50.9,
+      "black": 45,
+      "asian": 1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.8,
+      "highSchool": 37.2,
+      "someCollege": 21.8,
+      "associates": 9.7,
+      "bachelors": 9.3,
+      "graduate": 6.2
+    },
+    "medianIncome": 42745,
+    "meanIncome": 65205
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "13",
+    "name": "Dade County, Georgia",
+    "population": 16196,
+    "medianAge": 42.2,
+    "race": {
+      "white": 92.1,
+      "black": 1.6,
+      "asian": 1.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 5,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 37.7,
+      "someCollege": 21.2,
+      "associates": 10.5,
+      "bachelors": 13.4,
+      "graduate": 5.6
+    },
+    "medianIncome": 58936,
+    "meanIncome": 83822
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "13",
+    "name": "Dawson County, Georgia",
+    "population": 28704,
+    "medianAge": 43.9,
+    "race": {
+      "white": 88.9,
+      "black": 1.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 7,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 23.2,
+      "someCollege": 23.4,
+      "associates": 6.9,
+      "bachelors": 24.4,
+      "graduate": 11.3
+    },
+    "medianIncome": 88986,
+    "meanIncome": 111715
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "13",
+    "name": "Decatur County, Georgia",
+    "population": 29118,
+    "medianAge": 38.7,
+    "race": {
+      "white": 50,
+      "black": 42,
+      "asian": 0.7,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 3.9,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 33.6,
+      "someCollege": 22.6,
+      "associates": 12.4,
+      "bachelors": 8.9,
+      "graduate": 5.7
+    },
+    "medianIncome": 50485,
+    "meanIncome": 67257
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "13",
+    "name": "DeKalb County, Georgia",
+    "population": 762105,
+    "medianAge": 36.3,
+    "race": {
+      "white": 30.1,
+      "black": 51.5,
+      "asian": 6.1,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 3.6,
+      "twoOrMore": 7.9,
+      "hispanic": 10.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 20.1,
+      "someCollege": 16.2,
+      "associates": 7.7,
+      "bachelors": 25.8,
+      "graduate": 20.9
+    },
+    "medianIncome": 77683,
+    "meanIncome": 115757
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "13",
+    "name": "Dodge County, Georgia",
+    "population": 19909,
+    "medianAge": 42.4,
+    "race": {
+      "white": 65.7,
+      "black": 30.8,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 1.7,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 42.1,
+      "someCollege": 23.5,
+      "associates": 5.3,
+      "bachelors": 9.3,
+      "graduate": 5.9
+    },
+    "medianIncome": 50152,
+    "meanIncome": 67688
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "13",
+    "name": "Dooly County, Georgia",
+    "population": 11026,
+    "medianAge": 45.9,
+    "race": {
+      "white": 41.8,
+      "black": 47.9,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 6.6,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 17,
+      "highSchool": 42.4,
+      "someCollege": 18.2,
+      "associates": 9.1,
+      "bachelors": 9.1,
+      "graduate": 4.3
+    },
+    "medianIncome": 56545,
+    "meanIncome": 77693
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "13",
+    "name": "Dougherty County, Georgia",
+    "population": 83915,
+    "medianAge": 36.6,
+    "race": {
+      "white": 23.9,
+      "black": 70.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 3,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 30.8,
+      "someCollege": 22.1,
+      "associates": 9.2,
+      "bachelors": 11.9,
+      "graduate": 11.4
+    },
+    "medianIncome": 46784,
+    "meanIncome": 63592
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "13",
+    "name": "Douglas County, Georgia",
+    "population": 146141,
+    "medianAge": 36.8,
+    "race": {
+      "white": 36.4,
+      "black": 49.2,
+      "asian": 1.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 7.5,
+      "hispanic": 11.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 30.5,
+      "someCollege": 21.4,
+      "associates": 8.7,
+      "bachelors": 19,
+      "graduate": 11.8
+    },
+    "medianIncome": 80764,
+    "meanIncome": 98426
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "13",
+    "name": "Early County, Georgia",
+    "population": 10683,
+    "medianAge": 40.7,
+    "race": {
+      "white": 43.3,
+      "black": 51.9,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.3,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 19,
+      "highSchool": 38.4,
+      "someCollege": 18.9,
+      "associates": 7.6,
+      "bachelors": 9,
+      "graduate": 7.2
+    },
+    "medianIncome": 53750,
+    "meanIncome": 69338
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "13",
+    "name": "Echols County, Georgia",
+    "population": 3705,
+    "medianAge": 31.2,
+    "race": {
+      "white": 67.6,
+      "black": 4.2,
+      "asian": 6.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 7.5,
+      "twoOrMore": 14.2,
+      "hispanic": 27.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.5,
+      "highSchool": 42,
+      "someCollege": 17.4,
+      "associates": 7.6,
+      "bachelors": 8.4,
+      "graduate": 6
+    },
+    "medianIncome": 61723,
+    "meanIncome": 76146
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "13",
+    "name": "Effingham County, Georgia",
+    "population": 67265,
+    "medianAge": 36.6,
+    "race": {
+      "white": 76.4,
+      "black": 14.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.7,
+      "twoOrMore": 6.6,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 32.6,
+      "someCollege": 21.3,
+      "associates": 10,
+      "bachelors": 19.1,
+      "graduate": 7.7
+    },
+    "medianIncome": 85465,
+    "meanIncome": 104190
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "13",
+    "name": "Elbert County, Georgia",
+    "population": 19725,
+    "medianAge": 42.4,
+    "race": {
+      "white": 64.8,
+      "black": 25.7,
+      "asian": 1.2,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.8,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 40.2,
+      "someCollege": 22.6,
+      "associates": 7.2,
+      "bachelors": 9,
+      "graduate": 5.9
+    },
+    "medianIncome": 49727,
+    "meanIncome": 66048
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "13",
+    "name": "Emanuel County, Georgia",
+    "population": 22961,
+    "medianAge": 38.6,
+    "race": {
+      "white": 59.7,
+      "black": 32.4,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.3,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 20.6,
+      "highSchool": 41.5,
+      "someCollege": 17.5,
+      "associates": 7.6,
+      "bachelors": 7.5,
+      "graduate": 5.3
+    },
+    "medianIncome": 50053,
+    "meanIncome": 62724
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "13",
+    "name": "Evans County, Georgia",
+    "population": 10740,
+    "medianAge": 36.9,
+    "race": {
+      "white": 55.3,
+      "black": 27.3,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 6.4,
+      "twoOrMore": 9.7,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 40.4,
+      "someCollege": 20,
+      "associates": 6.9,
+      "bachelors": 9.3,
+      "graduate": 5.8
+    },
+    "medianIncome": 53908,
+    "meanIncome": 69872
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "13",
+    "name": "Fannin County, Georgia",
+    "population": 25605,
+    "medianAge": 54,
+    "race": {
+      "white": 93.3,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.2,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 34.9,
+      "someCollege": 21.3,
+      "associates": 9.5,
+      "bachelors": 13.3,
+      "graduate": 9.3
+    },
+    "medianIncome": 58073,
+    "meanIncome": 85986
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "13",
+    "name": "Fayette County, Georgia",
+    "population": 120689,
+    "medianAge": 43.3,
+    "race": {
+      "white": 59,
+      "black": 25.5,
+      "asian": 4.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 3.9,
+      "twoOrMore": 6.6,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 19.7,
+      "someCollege": 18.8,
+      "associates": 8.4,
+      "bachelors": 29.8,
+      "graduate": 18.3
+    },
+    "medianIncome": 108986,
+    "meanIncome": 140838
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "13",
+    "name": "Floyd County, Georgia",
+    "population": 98985,
+    "medianAge": 37.8,
+    "race": {
+      "white": 72.7,
+      "black": 13.7,
+      "asian": 1.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 4.2,
+      "twoOrMore": 7.6,
+      "hispanic": 12
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 30.7,
+      "someCollege": 21.7,
+      "associates": 7.6,
+      "bachelors": 14.2,
+      "graduate": 10.8
+    },
+    "medianIncome": 62540,
+    "meanIncome": 85081
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "13",
+    "name": "Forsyth County, Georgia",
+    "population": 260062,
+    "medianAge": 39.4,
+    "race": {
+      "white": 66.3,
+      "black": 4.1,
+      "asian": 18,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 8.4,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 14.5,
+      "someCollege": 15.8,
+      "associates": 7.2,
+      "bachelors": 34.9,
+      "graduate": 21.7
+    },
+    "medianIncome": 138000,
+    "meanIncome": 164032
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "13",
+    "name": "Franklin County, Georgia",
+    "population": 23840,
+    "medianAge": 40.2,
+    "race": {
+      "white": 82.5,
+      "black": 8.4,
+      "asian": 1.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 5.4,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 32.9,
+      "someCollege": 21.9,
+      "associates": 10.3,
+      "bachelors": 9.8,
+      "graduate": 7.1
+    },
+    "medianIncome": 52264,
+    "meanIncome": 73834
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "13",
+    "name": "Fulton County, Georgia",
+    "population": 1068507,
+    "medianAge": 36.2,
+    "race": {
+      "white": 39.4,
+      "black": 43.1,
+      "asian": 7.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 6.5,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 15.4,
+      "someCollege": 14.4,
+      "associates": 5.8,
+      "bachelors": 33.6,
+      "graduate": 24.4
+    },
+    "medianIncome": 91490,
+    "meanIncome": 141480
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "13",
+    "name": "Gilmer County, Georgia",
+    "population": 31976,
+    "medianAge": 50,
+    "race": {
+      "white": 87.8,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 6.7,
+      "hispanic": 12
+    },
+    "education": {
+      "lessThanHighSchool": 14.1,
+      "highSchool": 34.9,
+      "someCollege": 18.8,
+      "associates": 9.5,
+      "bachelors": 14.7,
+      "graduate": 8.1
+    },
+    "medianIncome": 72542,
+    "meanIncome": 84887
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "13",
+    "name": "Glascock County, Georgia",
+    "population": 2913,
+    "medianAge": 43.2,
+    "race": {
+      "white": 86.9,
+      "black": 11.8,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.4,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 39.9,
+      "someCollege": 18.2,
+      "associates": 10.8,
+      "bachelors": 13.8,
+      "graduate": 1
+    },
+    "medianIncome": 55250,
+    "meanIncome": 69633
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "13",
+    "name": "Glynn County, Georgia",
+    "population": 84987,
+    "medianAge": 43.3,
+    "race": {
+      "white": 64.6,
+      "black": 24.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 3.1,
+      "twoOrMore": 6.3,
+      "hispanic": 7.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 28.4,
+      "someCollege": 21,
+      "associates": 9.8,
+      "bachelors": 18.2,
+      "graduate": 12.2
+    },
+    "medianIncome": 68546,
+    "meanIncome": 100024
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "13",
+    "name": "Gordon County, Georgia",
+    "population": 58336,
+    "medianAge": 38.8,
+    "race": {
+      "white": 80.9,
+      "black": 3.7,
+      "asian": 1.2,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0.2,
+      "other": 4.8,
+      "twoOrMore": 7.3,
+      "hispanic": 16.1
+    },
+    "education": {
+      "lessThanHighSchool": 20.5,
+      "highSchool": 34.6,
+      "someCollege": 20.2,
+      "associates": 7.1,
+      "bachelors": 10.3,
+      "graduate": 7.3
+    },
+    "medianIncome": 61997,
+    "meanIncome": 84572
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "13",
+    "name": "Grady County, Georgia",
+    "population": 26056,
+    "medianAge": 39.4,
+    "race": {
+      "white": 60.7,
+      "black": 30.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 4.4,
+      "hispanic": 12.9
+    },
+    "education": {
+      "lessThanHighSchool": 19.6,
+      "highSchool": 35.6,
+      "someCollege": 21.5,
+      "associates": 8,
+      "bachelors": 9.2,
+      "graduate": 6.1
+    },
+    "medianIncome": 54312,
+    "meanIncome": 72324
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "13",
+    "name": "Greene County, Georgia",
+    "population": 19586,
+    "medianAge": 52.3,
+    "race": {
+      "white": 60,
+      "black": 30.7,
+      "asian": 1.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 4.2,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 27.4,
+      "someCollege": 17.5,
+      "associates": 8.8,
+      "bachelors": 23.3,
+      "graduate": 13.1
+    },
+    "medianIncome": 84530,
+    "meanIncome": 138416
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "13",
+    "name": "Gwinnett County, Georgia",
+    "population": 966972,
+    "medianAge": 35.9,
+    "race": {
+      "white": 36.1,
+      "black": 28.4,
+      "asian": 12.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 10.6,
+      "twoOrMore": 11.6,
+      "hispanic": 23.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 22.8,
+      "someCollege": 17.1,
+      "associates": 9.3,
+      "bachelors": 25.2,
+      "graduate": 13.6
+    },
+    "medianIncome": 84823,
+    "meanIncome": 110170
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "13",
+    "name": "Habersham County, Georgia",
+    "population": 46948,
+    "medianAge": 39.6,
+    "race": {
+      "white": 79.3,
+      "black": 3.4,
+      "asian": 2.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 5.7,
+      "twoOrMore": 8.7,
+      "hispanic": 15.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.7,
+      "highSchool": 32.6,
+      "someCollege": 19.3,
+      "associates": 6.2,
+      "bachelors": 14.4,
+      "graduate": 9.8
+    },
+    "medianIncome": 65622,
+    "meanIncome": 84261
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "13",
+    "name": "Hall County, Georgia",
+    "population": 208395,
+    "medianAge": 38.2,
+    "race": {
+      "white": 67.4,
+      "black": 6.8,
+      "asian": 2.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 8.4,
+      "twoOrMore": 14.9,
+      "hispanic": 28.6
+    },
+    "education": {
+      "lessThanHighSchool": 18.7,
+      "highSchool": 27.7,
+      "someCollege": 19.3,
+      "associates": 7.6,
+      "bachelors": 16.7,
+      "graduate": 10
+    },
+    "medianIncome": 77430,
+    "meanIncome": 104904
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "13",
+    "name": "Hancock County, Georgia",
+    "population": 8630,
+    "medianAge": 47.3,
+    "race": {
+      "white": 26.4,
+      "black": 71.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 1,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 26.1,
+      "highSchool": 39.4,
+      "someCollege": 18.9,
+      "associates": 7.3,
+      "bachelors": 5.7,
+      "graduate": 2.7
+    },
+    "medianIncome": 33182,
+    "meanIncome": 56721
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "13",
+    "name": "Haralson County, Georgia",
+    "population": 30720,
+    "medianAge": 38.8,
+    "race": {
+      "white": 90.6,
+      "black": 4.7,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.2,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 39.5,
+      "someCollege": 21.8,
+      "associates": 5.9,
+      "bachelors": 10.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 65016,
+    "meanIncome": 86278
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "13",
+    "name": "Harris County, Georgia",
+    "population": 35509,
+    "medianAge": 43.3,
+    "race": {
+      "white": 76.3,
+      "black": 15.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 4.4,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 25,
+      "someCollege": 23.8,
+      "associates": 9.4,
+      "bachelors": 19.2,
+      "graduate": 15.4
+    },
+    "medianIncome": 89184,
+    "meanIncome": 115910
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "13",
+    "name": "Hart County, Georgia",
+    "population": 26484,
+    "medianAge": 44.7,
+    "race": {
+      "white": 74.9,
+      "black": 17.2,
+      "asian": 1.4,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.3,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 35.3,
+      "someCollege": 21.7,
+      "associates": 10,
+      "bachelors": 13,
+      "graduate": 5.1
+    },
+    "medianIncome": 57241,
+    "meanIncome": 76891
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "13",
+    "name": "Heard County, Georgia",
+    "population": 11616,
+    "medianAge": 41.2,
+    "race": {
+      "white": 85.1,
+      "black": 7.9,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.9,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.1,
+      "highSchool": 43.8,
+      "someCollege": 24.9,
+      "associates": 5.9,
+      "bachelors": 8,
+      "graduate": 3.4
+    },
+    "medianIncome": 62907,
+    "meanIncome": 84725
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "13",
+    "name": "Henry County, Georgia",
+    "population": 245417,
+    "medianAge": 37,
+    "race": {
+      "white": 36.7,
+      "black": 50.8,
+      "asian": 3.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 7.1,
+      "hispanic": 8
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 30.3,
+      "someCollege": 22.9,
+      "associates": 11.2,
+      "bachelors": 18.4,
+      "graduate": 9.6
+    },
+    "medianIncome": 81612,
+    "meanIncome": 100936
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "13",
+    "name": "Houston County, Georgia",
+    "population": 166902,
+    "medianAge": 36.2,
+    "race": {
+      "white": 55,
+      "black": 31.6,
+      "asian": 3.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 1.6,
+      "twoOrMore": 8.3,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 27.2,
+      "someCollege": 22.3,
+      "associates": 11.5,
+      "bachelors": 18.9,
+      "graduate": 13.4
+    },
+    "medianIncome": 80743,
+    "meanIncome": 95174
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "13",
+    "name": "Irwin County, Georgia",
+    "population": 9385,
+    "medianAge": 40.4,
+    "race": {
+      "white": 68,
+      "black": 25.3,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 5.1,
+      "twoOrMore": 1.4,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 35.9,
+      "someCollege": 21.8,
+      "associates": 9.3,
+      "bachelors": 7.2,
+      "graduate": 9.4
+    },
+    "medianIncome": 53915,
+    "meanIncome": 65968
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "13",
+    "name": "Jackson County, Georgia",
+    "population": 80640,
+    "medianAge": 38.1,
+    "race": {
+      "white": 79.8,
+      "black": 7.7,
+      "asian": 2.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 6.8,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 31.6,
+      "someCollege": 20.3,
+      "associates": 8.4,
+      "bachelors": 18.6,
+      "graduate": 8.7
+    },
+    "medianIncome": 85012,
+    "meanIncome": 103982
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "13",
+    "name": "Jasper County, Georgia",
+    "population": 15345,
+    "medianAge": 43.1,
+    "race": {
+      "white": 74.8,
+      "black": 17.1,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 4.6,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 44.4,
+      "someCollege": 19.6,
+      "associates": 5.2,
+      "bachelors": 11.3,
+      "graduate": 8.6
+    },
+    "medianIncome": 59574,
+    "meanIncome": 84289
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "13",
+    "name": "Jeff Davis County, Georgia",
+    "population": 14838,
+    "medianAge": 40.5,
+    "race": {
+      "white": 70.6,
+      "black": 13.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.5,
+      "other": 1.6,
+      "twoOrMore": 12.7,
+      "hispanic": 13.7
+    },
+    "education": {
+      "lessThanHighSchool": 22,
+      "highSchool": 37.8,
+      "someCollege": 22.7,
+      "associates": 6.1,
+      "bachelors": 7,
+      "graduate": 4.5
+    },
+    "medianIncome": 40879,
+    "meanIncome": 60733
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "13",
+    "name": "Jefferson County, Georgia",
+    "population": 15468,
+    "medianAge": 40.7,
+    "race": {
+      "white": 43.1,
+      "black": 52.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 1.5,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 42.7,
+      "someCollege": 20.9,
+      "associates": 6.6,
+      "bachelors": 8.1,
+      "graduate": 3
+    },
+    "medianIncome": 46561,
+    "meanIncome": 64222
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "13",
+    "name": "Jenkins County, Georgia",
+    "population": 8674,
+    "medianAge": 42.3,
+    "race": {
+      "white": 57.4,
+      "black": 38,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4.3,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 18.9,
+      "highSchool": 43.9,
+      "someCollege": 22.7,
+      "associates": 6.7,
+      "bachelors": 3.6,
+      "graduate": 4.2
+    },
+    "medianIncome": 36906,
+    "meanIncome": 56984
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "13",
+    "name": "Johnson County, Georgia",
+    "population": 9192,
+    "medianAge": 44.1,
+    "race": {
+      "white": 62.4,
+      "black": 33.4,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 24.7,
+      "highSchool": 43.4,
+      "someCollege": 14.8,
+      "associates": 7.9,
+      "bachelors": 4.7,
+      "graduate": 4.4
+    },
+    "medianIncome": 54183,
+    "meanIncome": 65552
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "13",
+    "name": "Jones County, Georgia",
+    "population": 28526,
+    "medianAge": 41.4,
+    "race": {
+      "white": 70.7,
+      "black": 25.1,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.8,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 41.7,
+      "someCollege": 19.5,
+      "associates": 12.1,
+      "bachelors": 11.8,
+      "graduate": 6.6
+    },
+    "medianIncome": 68259,
+    "meanIncome": 88177
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "13",
+    "name": "Lamar County, Georgia",
+    "population": 19098,
+    "medianAge": 38.7,
+    "race": {
+      "white": 66.5,
+      "black": 28.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.1,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 35.2,
+      "someCollege": 25.3,
+      "associates": 9.7,
+      "bachelors": 11.1,
+      "graduate": 8.4
+    },
+    "medianIncome": 68457,
+    "meanIncome": 87323
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "13",
+    "name": "Lanier County, Georgia",
+    "population": 10094,
+    "medianAge": 36.7,
+    "race": {
+      "white": 66.6,
+      "black": 24.5,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 3.1,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 40.3,
+      "someCollege": 20.6,
+      "associates": 9.6,
+      "bachelors": 11.9,
+      "graduate": 7.1
+    },
+    "medianIncome": 44361,
+    "meanIncome": 67210
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "13",
+    "name": "Laurens County, Georgia",
+    "population": 49619,
+    "medianAge": 39.9,
+    "race": {
+      "white": 57.1,
+      "black": 37.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 2.2,
+      "twoOrMore": 1.7,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 40.2,
+      "someCollege": 19.7,
+      "associates": 8.4,
+      "bachelors": 9.3,
+      "graduate": 8.6
+    },
+    "medianIncome": 49705,
+    "meanIncome": 76337
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "13",
+    "name": "Lee County, Georgia",
+    "population": 33337,
+    "medianAge": 37.2,
+    "race": {
+      "white": 68.1,
+      "black": 23.4,
+      "asian": 2.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 5.2,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 26.7,
+      "someCollege": 19.6,
+      "associates": 11.8,
+      "bachelors": 18.2,
+      "graduate": 15.3
+    },
+    "medianIncome": 88024,
+    "meanIncome": 102982
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "13",
+    "name": "Liberty County, Georgia",
+    "population": 66826,
+    "medianAge": 28.7,
+    "race": {
+      "white": 39.7,
+      "black": 42.9,
+      "asian": 1.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.4,
+      "other": 3.2,
+      "twoOrMore": 11.5,
+      "hispanic": 12.4
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 31.7,
+      "someCollege": 28.6,
+      "associates": 11.8,
+      "bachelors": 13.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 59013,
+    "meanIncome": 73038
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "13",
+    "name": "Lincoln County, Georgia",
+    "population": 7773,
+    "medianAge": 48.3,
+    "race": {
+      "white": 68.6,
+      "black": 27.3,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.4,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 43,
+      "someCollege": 18.8,
+      "associates": 8.9,
+      "bachelors": 9.6,
+      "graduate": 6.5
+    },
+    "medianIncome": 50688,
+    "meanIncome": 72199
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "13",
+    "name": "Long County, Georgia",
+    "population": 17512,
+    "medianAge": 33.6,
+    "race": {
+      "white": 55.7,
+      "black": 26,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.5,
+      "other": 8.2,
+      "twoOrMore": 9.4,
+      "hispanic": 12.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 45.1,
+      "someCollege": 19.8,
+      "associates": 8.1,
+      "bachelors": 8,
+      "graduate": 4.8
+    },
+    "medianIncome": 64747,
+    "meanIncome": 74088
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "13",
+    "name": "Lowndes County, Georgia",
+    "population": 119055,
+    "medianAge": 31.3,
+    "race": {
+      "white": 52.7,
+      "black": 37.1,
+      "asian": 1.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 5.4,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 31.2,
+      "someCollege": 21.7,
+      "associates": 9.8,
+      "bachelors": 16.5,
+      "graduate": 10.6
+    },
+    "medianIncome": 55887,
+    "meanIncome": 75646
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "13",
+    "name": "Lumpkin County, Georgia",
+    "population": 33931,
+    "medianAge": 36.9,
+    "race": {
+      "white": 90.6,
+      "black": 1.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 1.4,
+      "twoOrMore": 4.7,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 30.5,
+      "someCollege": 20.6,
+      "associates": 6.5,
+      "bachelors": 18.8,
+      "graduate": 12.7
+    },
+    "medianIncome": 72388,
+    "meanIncome": 101512
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "13",
+    "name": "McDuffie County, Georgia",
+    "population": 21687,
+    "medianAge": 39.1,
+    "race": {
+      "white": 55,
+      "black": 41.1,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.3,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 40.4,
+      "someCollege": 18.6,
+      "associates": 8.7,
+      "bachelors": 11.2,
+      "graduate": 6.6
+    },
+    "medianIncome": 54058,
+    "meanIncome": 70384
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "13",
+    "name": "McIntosh County, Georgia",
+    "population": 11187,
+    "medianAge": 52.1,
+    "race": {
+      "white": 63.3,
+      "black": 29.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 6.5,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 33.6,
+      "someCollege": 22.6,
+      "associates": 6.7,
+      "bachelors": 12.4,
+      "graduate": 6.2
+    },
+    "medianIncome": 50348,
+    "meanIncome": 67198
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "13",
+    "name": "Macon County, Georgia",
+    "population": 11953,
+    "medianAge": 39.9,
+    "race": {
+      "white": 33.5,
+      "black": 59.1,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 2.3,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 23.8,
+      "highSchool": 39.4,
+      "someCollege": 19.9,
+      "associates": 5.9,
+      "bachelors": 7.6,
+      "graduate": 3.4
+    },
+    "medianIncome": 37177,
+    "meanIncome": 72277
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "13",
+    "name": "Madison County, Georgia",
+    "population": 30914,
+    "medianAge": 39.8,
+    "race": {
+      "white": 79.4,
+      "black": 9.2,
+      "asian": 1.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 5.7,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.1,
+      "highSchool": 33.7,
+      "someCollege": 19.4,
+      "associates": 8.6,
+      "bachelors": 9.9,
+      "graduate": 10.3
+    },
+    "medianIncome": 58784,
+    "meanIncome": 75794
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "13",
+    "name": "Marion County, Georgia",
+    "population": 7474,
+    "medianAge": 43.9,
+    "race": {
+      "white": 59.1,
+      "black": 28.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 5.8,
+      "twoOrMore": 4.8,
+      "hispanic": 7.9
+    },
+    "education": {
+      "lessThanHighSchool": 23.8,
+      "highSchool": 33.9,
+      "someCollege": 19.6,
+      "associates": 9,
+      "bachelors": 10.4,
+      "graduate": 3.2
+    },
+    "medianIncome": 50484,
+    "meanIncome": 65397
+  },
+  {
+    "countyFips": "199",
+    "stateFips": "13",
+    "name": "Meriwether County, Georgia",
+    "population": 20757,
+    "medianAge": 43.6,
+    "race": {
+      "white": 57.7,
+      "black": 38.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.8,
+      "highSchool": 43.2,
+      "someCollege": 20.8,
+      "associates": 5.3,
+      "bachelors": 7.9,
+      "graduate": 5.1
+    },
+    "medianIncome": 56458,
+    "meanIncome": 68412
+  },
+  {
+    "countyFips": "201",
+    "stateFips": "13",
+    "name": "Miller County, Georgia",
+    "population": 5873,
+    "medianAge": 42.8,
+    "race": {
+      "white": 65.6,
+      "black": 27.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.7,
+      "other": 0.5,
+      "twoOrMore": 4.4,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.4,
+      "highSchool": 28.2,
+      "someCollege": 19.8,
+      "associates": 13.7,
+      "bachelors": 13.6,
+      "graduate": 8.3
+    },
+    "medianIncome": 58407,
+    "meanIncome": 74105
+  },
+  {
+    "countyFips": "205",
+    "stateFips": "13",
+    "name": "Mitchell County, Georgia",
+    "population": 21441,
+    "medianAge": 39.9,
+    "race": {
+      "white": 47.2,
+      "black": 46,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 3.6,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 15.5,
+      "highSchool": 37.1,
+      "someCollege": 25.3,
+      "associates": 9.3,
+      "bachelors": 6.5,
+      "graduate": 6.3
+    },
+    "medianIncome": 51908,
+    "meanIncome": 64690
+  },
+  {
+    "countyFips": "207",
+    "stateFips": "13",
+    "name": "Monroe County, Georgia",
+    "population": 28919,
+    "medianAge": 42.5,
+    "race": {
+      "white": 73.4,
+      "black": 21.6,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.8,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 35.3,
+      "someCollege": 18.5,
+      "associates": 8.4,
+      "bachelors": 15.3,
+      "graduate": 13.4
+    },
+    "medianIncome": 82863,
+    "meanIncome": 117125
+  },
+  {
+    "countyFips": "209",
+    "stateFips": "13",
+    "name": "Montgomery County, Georgia",
+    "population": 8675,
+    "medianAge": 38.2,
+    "race": {
+      "white": 67.6,
+      "black": 23,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 4.6,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 37.3,
+      "someCollege": 16.9,
+      "associates": 10.8,
+      "bachelors": 10.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 51188,
+    "meanIncome": 76175
+  },
+  {
+    "countyFips": "211",
+    "stateFips": "13",
+    "name": "Morgan County, Georgia",
+    "population": 20614,
+    "medianAge": 42.3,
+    "race": {
+      "white": 73.4,
+      "black": 21.7,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.3,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 38.8,
+      "someCollege": 15.4,
+      "associates": 6.9,
+      "bachelors": 18.8,
+      "graduate": 11.3
+    },
+    "medianIncome": 85692,
+    "meanIncome": 105629
+  },
+  {
+    "countyFips": "213",
+    "stateFips": "13",
+    "name": "Murray County, Georgia",
+    "population": 40282,
+    "medianAge": 39.3,
+    "race": {
+      "white": 87.3,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.3,
+      "other": 3.9,
+      "twoOrMore": 6.7,
+      "hispanic": 15.6
+    },
+    "education": {
+      "lessThanHighSchool": 21.3,
+      "highSchool": 35.1,
+      "someCollege": 21.9,
+      "associates": 8,
+      "bachelors": 8.8,
+      "graduate": 4.9
+    },
+    "medianIncome": 67880,
+    "meanIncome": 82563
+  },
+  {
+    "countyFips": "215",
+    "stateFips": "13",
+    "name": "Muscogee County, Georgia",
+    "population": 204383,
+    "medianAge": 35.1,
+    "race": {
+      "white": 39.3,
+      "black": 46.7,
+      "asian": 2.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 3.6,
+      "twoOrMore": 7.5,
+      "hispanic": 8.3
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 26.8,
+      "someCollege": 22.8,
+      "associates": 9.6,
+      "bachelors": 17.6,
+      "graduate": 12.2
+    },
+    "medianIncome": 56622,
+    "meanIncome": 80102
+  },
+  {
+    "countyFips": "217",
+    "stateFips": "13",
+    "name": "Newton County, Georgia",
+    "population": 115530,
+    "medianAge": 36.4,
+    "race": {
+      "white": 42,
+      "black": 47.4,
+      "asian": 1.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 7,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 31.7,
+      "someCollege": 25.3,
+      "associates": 9,
+      "bachelors": 14.3,
+      "graduate": 9.3
+    },
+    "medianIncome": 73732,
+    "meanIncome": 88991
+  },
+  {
+    "countyFips": "219",
+    "stateFips": "13",
+    "name": "Oconee County, Georgia",
+    "population": 42788,
+    "medianAge": 40.7,
+    "race": {
+      "white": 83.7,
+      "black": 3.3,
+      "asian": 4.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.9,
+      "other": 1.3,
+      "twoOrMore": 6,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 3.8,
+      "highSchool": 15.9,
+      "someCollege": 18.3,
+      "associates": 7.2,
+      "bachelors": 27.6,
+      "graduate": 27.3
+    },
+    "medianIncome": 115925,
+    "meanIncome": 161413
+  },
+  {
+    "countyFips": "221",
+    "stateFips": "13",
+    "name": "Oglethorpe County, Georgia",
+    "population": 15221,
+    "medianAge": 42.6,
+    "race": {
+      "white": 75.2,
+      "black": 15.9,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 3.4,
+      "twoOrMore": 4.4,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 36.1,
+      "someCollege": 18.3,
+      "associates": 8.7,
+      "bachelors": 15,
+      "graduate": 9.6
+    },
+    "medianIncome": 69784,
+    "meanIncome": 84257
+  },
+  {
+    "countyFips": "223",
+    "stateFips": "13",
+    "name": "Paulding County, Georgia",
+    "population": 174292,
+    "medianAge": 36.7,
+    "race": {
+      "white": 66.1,
+      "black": 22,
+      "asian": 1.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 7.8,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 29.1,
+      "someCollege": 25.8,
+      "associates": 9.1,
+      "bachelors": 18.3,
+      "graduate": 9.1
+    },
+    "medianIncome": 94557,
+    "meanIncome": 107510
+  },
+  {
+    "countyFips": "225",
+    "stateFips": "13",
+    "name": "Peach County, Georgia",
+    "population": 28269,
+    "medianAge": 37.8,
+    "race": {
+      "white": 46.8,
+      "black": 43.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.3,
+      "other": 2.8,
+      "twoOrMore": 5.8,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 32,
+      "someCollege": 18.7,
+      "associates": 12.6,
+      "bachelors": 12.2,
+      "graduate": 12.2
+    },
+    "medianIncome": 68365,
+    "meanIncome": 89113
+  },
+  {
+    "countyFips": "227",
+    "stateFips": "13",
+    "name": "Pickens County, Georgia",
+    "population": 34197,
+    "medianAge": 46.1,
+    "race": {
+      "white": 93.1,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 4.8,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 34.4,
+      "someCollege": 22.4,
+      "associates": 8.3,
+      "bachelors": 17,
+      "graduate": 7.9
+    },
+    "medianIncome": 75293,
+    "meanIncome": 94217
+  },
+  {
+    "countyFips": "229",
+    "stateFips": "13",
+    "name": "Pierce County, Georgia",
+    "population": 19996,
+    "medianAge": 40.3,
+    "race": {
+      "white": 84.7,
+      "black": 9.8,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 41.1,
+      "someCollege": 17.2,
+      "associates": 10.2,
+      "bachelors": 8.8,
+      "graduate": 9.5
+    },
+    "medianIncome": 56691,
+    "meanIncome": 78059
+  },
+  {
+    "countyFips": "231",
+    "stateFips": "13",
+    "name": "Pike County, Georgia",
+    "population": 19540,
+    "medianAge": 39.9,
+    "race": {
+      "white": 87.7,
+      "black": 8.5,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 37.6,
+      "someCollege": 22.3,
+      "associates": 8.7,
+      "bachelors": 13.6,
+      "graduate": 7.8
+    },
+    "medianIncome": 84184,
+    "meanIncome": 102353
+  },
+  {
+    "countyFips": "233",
+    "stateFips": "13",
+    "name": "Polk County, Georgia",
+    "population": 43365,
+    "medianAge": 38.5,
+    "race": {
+      "white": 75.5,
+      "black": 11.9,
+      "asian": 1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 7,
+      "hispanic": 13.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.9,
+      "highSchool": 40.4,
+      "someCollege": 19.7,
+      "associates": 7.6,
+      "bachelors": 8.8,
+      "graduate": 5.6
+    },
+    "medianIncome": 55308,
+    "meanIncome": 74563
+  },
+  {
+    "countyFips": "235",
+    "stateFips": "13",
+    "name": "Pulaski County, Georgia",
+    "population": 9893,
+    "medianAge": 43.7,
+    "race": {
+      "white": 58,
+      "black": 33.2,
+      "asian": 1.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 6.6,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 19.9,
+      "highSchool": 35.1,
+      "someCollege": 24.6,
+      "associates": 8.5,
+      "bachelors": 7.2,
+      "graduate": 4.8
+    },
+    "medianIncome": 47688,
+    "meanIncome": 65781
+  },
+  {
+    "countyFips": "237",
+    "stateFips": "13",
+    "name": "Putnam County, Georgia",
+    "population": 22524,
+    "medianAge": 47.4,
+    "race": {
+      "white": 66.8,
+      "black": 25.6,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.3,
+      "other": 2.2,
+      "twoOrMore": 4.4,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 29.7,
+      "someCollege": 21.3,
+      "associates": 8.6,
+      "bachelors": 18.1,
+      "graduate": 10.2
+    },
+    "medianIncome": 64163,
+    "meanIncome": 96575
+  },
+  {
+    "countyFips": "239",
+    "stateFips": "13",
+    "name": "Quitman County, Georgia",
+    "population": 2092,
+    "medianAge": 59.4,
+    "race": {
+      "white": 48.4,
+      "black": 49.9,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.7,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 17.8,
+      "highSchool": 49.2,
+      "someCollege": 15.3,
+      "associates": 8.8,
+      "bachelors": 5.1,
+      "graduate": 3.9
+    },
+    "medianIncome": 36838,
+    "meanIncome": 53721
+  },
+  {
+    "countyFips": "241",
+    "stateFips": "13",
+    "name": "Rabun County, Georgia",
+    "population": 17107,
+    "medianAge": 49.9,
+    "race": {
+      "white": 88.5,
+      "black": 0.9,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 7.1,
+      "hispanic": 8.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 29.3,
+      "someCollege": 21.9,
+      "associates": 8.9,
+      "bachelors": 17.2,
+      "graduate": 12.7
+    },
+    "medianIncome": 61466,
+    "meanIncome": 89324
+  },
+  {
+    "countyFips": "243",
+    "stateFips": "13",
+    "name": "Randolph County, Georgia",
+    "population": 6270,
+    "medianAge": 37.6,
+    "race": {
+      "white": 27.4,
+      "black": 67.7,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.6,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 31.6,
+      "someCollege": 26.4,
+      "associates": 10.3,
+      "bachelors": 9.2,
+      "graduate": 5.8
+    },
+    "medianIncome": 25425,
+    "meanIncome": 43795
+  },
+  {
+    "countyFips": "245",
+    "stateFips": "13",
+    "name": "Richmond County, Georgia",
+    "population": 206040,
+    "medianAge": 35,
+    "race": {
+      "white": 33.4,
+      "black": 56.1,
+      "asian": 1.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 2.5,
+      "twoOrMore": 6,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 31.8,
+      "someCollege": 22.3,
+      "associates": 9.6,
+      "bachelors": 14.7,
+      "graduate": 9.4
+    },
+    "medianIncome": 53197,
+    "meanIncome": 73646
+  },
+  {
+    "countyFips": "247",
+    "stateFips": "13",
+    "name": "Rockdale County, Georgia",
+    "population": 94293,
+    "medianAge": 39.2,
+    "race": {
+      "white": 28.3,
+      "black": 57.7,
+      "asian": 1.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 4.1,
+      "twoOrMore": 7.8,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 28.2,
+      "someCollege": 24.1,
+      "associates": 8.6,
+      "bachelors": 17.6,
+      "graduate": 11.5
+    },
+    "medianIncome": 72349,
+    "meanIncome": 93791
+  },
+  {
+    "countyFips": "249",
+    "stateFips": "13",
+    "name": "Schley County, Georgia",
+    "population": 4539,
+    "medianAge": 41.6,
+    "race": {
+      "white": 78.3,
+      "black": 17.2,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.1,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 33.1,
+      "someCollege": 21.8,
+      "associates": 10.8,
+      "bachelors": 10.8,
+      "graduate": 8.2
+    },
+    "medianIncome": 59647,
+    "meanIncome": 79111
+  },
+  {
+    "countyFips": "251",
+    "stateFips": "13",
+    "name": "Screven County, Georgia",
+    "population": 14057,
+    "medianAge": 42.7,
+    "race": {
+      "white": 56,
+      "black": 39.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 4.3,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 40.5,
+      "someCollege": 21.6,
+      "associates": 7.9,
+      "bachelors": 7.8,
+      "graduate": 6.9
+    },
+    "medianIncome": 53017,
+    "meanIncome": 74726
+  },
+  {
+    "countyFips": "253",
+    "stateFips": "13",
+    "name": "Seminole County, Georgia",
+    "population": 9117,
+    "medianAge": 45.7,
+    "race": {
+      "white": 63.1,
+      "black": 33.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.7,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 41.5,
+      "someCollege": 21.9,
+      "associates": 10.1,
+      "bachelors": 10.5,
+      "graduate": 5.3
+    },
+    "medianIncome": 49559,
+    "meanIncome": 69449
+  },
+  {
+    "countyFips": "255",
+    "stateFips": "13",
+    "name": "Spalding County, Georgia",
+    "population": 68215,
+    "medianAge": 39.2,
+    "race": {
+      "white": 56.9,
+      "black": 35.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.1,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 40.7,
+      "someCollege": 17,
+      "associates": 9.8,
+      "bachelors": 11,
+      "graduate": 6.8
+    },
+    "medianIncome": 60217,
+    "meanIncome": 93487
+  },
+  {
+    "countyFips": "257",
+    "stateFips": "13",
+    "name": "Stephens County, Georgia",
+    "population": 26842,
+    "medianAge": 41.2,
+    "race": {
+      "white": 81.3,
+      "black": 10.6,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 2.6,
+      "twoOrMore": 3.9,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 40.9,
+      "someCollege": 22.7,
+      "associates": 5.3,
+      "bachelors": 9.3,
+      "graduate": 5.6
+    },
+    "medianIncome": 52264,
+    "meanIncome": 68056
+  },
+  {
+    "countyFips": "259",
+    "stateFips": "13",
+    "name": "Stewart County, Georgia",
+    "population": 4978,
+    "medianAge": 36.7,
+    "race": {
+      "white": 27.4,
+      "black": 60.5,
+      "asian": 1.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 7.4,
+      "twoOrMore": 2.6,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 27.1,
+      "highSchool": 38.9,
+      "someCollege": 16.2,
+      "associates": 5.4,
+      "bachelors": 8.1,
+      "graduate": 4.3
+    },
+    "medianIncome": 35000,
+    "meanIncome": 52615
+  },
+  {
+    "countyFips": "261",
+    "stateFips": "13",
+    "name": "Sumter County, Georgia",
+    "population": 29174,
+    "medianAge": 37,
+    "race": {
+      "white": 41.4,
+      "black": 49.8,
+      "asian": 1.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 1,
+      "twoOrMore": 6,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 35.7,
+      "someCollege": 18.9,
+      "associates": 8.4,
+      "bachelors": 12,
+      "graduate": 9.3
+    },
+    "medianIncome": 41877,
+    "meanIncome": 61974
+  },
+  {
+    "countyFips": "263",
+    "stateFips": "13",
+    "name": "Talbot County, Georgia",
+    "population": 5753,
+    "medianAge": 50.5,
+    "race": {
+      "white": 40.7,
+      "black": 55.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.9,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.1,
+      "highSchool": 41.9,
+      "someCollege": 17,
+      "associates": 8.9,
+      "bachelors": 8.5,
+      "graduate": 6.6
+    },
+    "medianIncome": 45098,
+    "meanIncome": 66411
+  },
+  {
+    "countyFips": "265",
+    "stateFips": "13",
+    "name": "Taliaferro County, Georgia",
+    "population": 1740,
+    "medianAge": 44.8,
+    "race": {
+      "white": 41.7,
+      "black": 44.7,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 7.8,
+      "twoOrMore": 5.6,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.5,
+      "highSchool": 44.4,
+      "someCollege": 26,
+      "associates": 3.1,
+      "bachelors": 5.1,
+      "graduate": 4.8
+    },
+    "medianIncome": 48036,
+    "meanIncome": 59531
+  },
+  {
+    "countyFips": "267",
+    "stateFips": "13",
+    "name": "Tattnall County, Georgia",
+    "population": 24215,
+    "medianAge": 38.1,
+    "race": {
+      "white": 58.2,
+      "black": 27.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 9.2,
+      "twoOrMore": 4.4,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 19.2,
+      "highSchool": 39.6,
+      "someCollege": 18.4,
+      "associates": 8.1,
+      "bachelors": 8.1,
+      "graduate": 6.5
+    },
+    "medianIncome": 52351,
+    "meanIncome": 65203
+  },
+  {
+    "countyFips": "269",
+    "stateFips": "13",
+    "name": "Taylor County, Georgia",
+    "population": 7786,
+    "medianAge": 42.9,
+    "race": {
+      "white": 58.6,
+      "black": 38.7,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 1.9,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 22.3,
+      "highSchool": 38.1,
+      "someCollege": 15.2,
+      "associates": 6.3,
+      "bachelors": 11.2,
+      "graduate": 6.9
+    },
+    "medianIncome": 41743,
+    "meanIncome": 61978
+  },
+  {
+    "countyFips": "271",
+    "stateFips": "13",
+    "name": "Telfair County, Georgia",
+    "population": 12174,
+    "medianAge": 39.4,
+    "race": {
+      "white": 51.8,
+      "black": 36.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 8,
+      "hispanic": 15.5
+    },
+    "education": {
+      "lessThanHighSchool": 21.5,
+      "highSchool": 46.5,
+      "someCollege": 16,
+      "associates": 5.9,
+      "bachelors": 5.6,
+      "graduate": 4.5
+    },
+    "medianIncome": 44948,
+    "meanIncome": 60824
+  },
+  {
+    "countyFips": "273",
+    "stateFips": "13",
+    "name": "Terrell County, Georgia",
+    "population": 8941,
+    "medianAge": 41.4,
+    "race": {
+      "white": 36.4,
+      "black": 59.9,
+      "asian": 1.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 0.7,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 35.7,
+      "someCollege": 25.9,
+      "associates": 4.8,
+      "bachelors": 6.7,
+      "graduate": 4.8
+    },
+    "medianIncome": 43812,
+    "meanIncome": 65679
+  },
+  {
+    "countyFips": "275",
+    "stateFips": "13",
+    "name": "Thomas County, Georgia",
+    "population": 45696,
+    "medianAge": 39.9,
+    "race": {
+      "white": 58.3,
+      "black": 35.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.5,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 32.9,
+      "someCollege": 19.4,
+      "associates": 12.1,
+      "bachelors": 15.2,
+      "graduate": 8.4
+    },
+    "medianIncome": 60140,
+    "meanIncome": 80709
+  },
+  {
+    "countyFips": "277",
+    "stateFips": "13",
+    "name": "Tift County, Georgia",
+    "population": 41322,
+    "medianAge": 37.3,
+    "race": {
+      "white": 57.2,
+      "black": 29,
+      "asian": 1.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 8.9,
+      "hispanic": 12.9
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 33.9,
+      "someCollege": 17.1,
+      "associates": 14.4,
+      "bachelors": 10,
+      "graduate": 10.2
+    },
+    "medianIncome": 53165,
+    "meanIncome": 74905
+  },
+  {
+    "countyFips": "279",
+    "stateFips": "13",
+    "name": "Toombs County, Georgia",
+    "population": 26943,
+    "medianAge": 37.2,
+    "race": {
+      "white": 63.3,
+      "black": 23.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 7.9,
+      "hispanic": 11.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 35.7,
+      "someCollege": 21,
+      "associates": 7.8,
+      "bachelors": 11.3,
+      "graduate": 8.2
+    },
+    "medianIncome": 54130,
+    "meanIncome": 71820
+  },
+  {
+    "countyFips": "281",
+    "stateFips": "13",
+    "name": "Towns County, Georgia",
+    "population": 12739,
+    "medianAge": 56.9,
+    "race": {
+      "white": 93.5,
+      "black": 1.7,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 26.1,
+      "someCollege": 23.5,
+      "associates": 10.6,
+      "bachelors": 17.8,
+      "graduate": 15
+    },
+    "medianIncome": 58400,
+    "meanIncome": 87056
+  },
+  {
+    "countyFips": "283",
+    "stateFips": "13",
+    "name": "Treutlen County, Georgia",
+    "population": 6387,
+    "medianAge": 39.6,
+    "race": {
+      "white": 64.5,
+      "black": 31.3,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 4.1,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 25.2,
+      "highSchool": 44.3,
+      "someCollege": 10.4,
+      "associates": 7.2,
+      "bachelors": 10.3,
+      "graduate": 2.5
+    },
+    "medianIncome": 43750,
+    "meanIncome": 64270
+  },
+  {
+    "countyFips": "285",
+    "stateFips": "13",
+    "name": "Troup County, Georgia",
+    "population": 69821,
+    "medianAge": 37.2,
+    "race": {
+      "white": 55.8,
+      "black": 36.5,
+      "asian": 2.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 2.4,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 35.8,
+      "someCollege": 19.9,
+      "associates": 9.8,
+      "bachelors": 12.7,
+      "graduate": 9.8
+    },
+    "medianIncome": 54905,
+    "meanIncome": 80636
+  },
+  {
+    "countyFips": "287",
+    "stateFips": "13",
+    "name": "Turner County, Georgia",
+    "population": 8915,
+    "medianAge": 37.4,
+    "race": {
+      "white": 55.9,
+      "black": 37.6,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 3.3,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 19.4,
+      "highSchool": 37.4,
+      "someCollege": 20.4,
+      "associates": 11.8,
+      "bachelors": 8.1,
+      "graduate": 3
+    },
+    "medianIncome": 39565,
+    "meanIncome": 58694
+  },
+  {
+    "countyFips": "289",
+    "stateFips": "13",
+    "name": "Twiggs County, Georgia",
+    "population": 7869,
+    "medianAge": 47.2,
+    "race": {
+      "white": 55.4,
+      "black": 40.6,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.1,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 42.5,
+      "someCollege": 18.3,
+      "associates": 6.2,
+      "bachelors": 6.9,
+      "graduate": 4.1
+    },
+    "medianIncome": 55439,
+    "meanIncome": 82871
+  },
+  {
+    "countyFips": "291",
+    "stateFips": "13",
+    "name": "Union County, Georgia",
+    "population": 25598,
+    "medianAge": 55.9,
+    "race": {
+      "white": 93.5,
+      "black": 0.9,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 32.1,
+      "someCollege": 20.3,
+      "associates": 10.7,
+      "bachelors": 16.4,
+      "graduate": 9.4
+    },
+    "medianIncome": 65697,
+    "meanIncome": 93705
+  },
+  {
+    "countyFips": "293",
+    "stateFips": "13",
+    "name": "Upson County, Georgia",
+    "population": 27856,
+    "medianAge": 41.4,
+    "race": {
+      "white": 67.7,
+      "black": 26.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 4.3,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 14.5,
+      "highSchool": 40.2,
+      "someCollege": 21.7,
+      "associates": 8.8,
+      "bachelors": 9.8,
+      "graduate": 5
+    },
+    "medianIncome": 50904,
+    "meanIncome": 74428
+  },
+  {
+    "countyFips": "295",
+    "stateFips": "13",
+    "name": "Walker County, Georgia",
+    "population": 68449,
+    "medianAge": 41.8,
+    "race": {
+      "white": 90.5,
+      "black": 4.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.6,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 35.5,
+      "someCollege": 22.7,
+      "associates": 7,
+      "bachelors": 12.4,
+      "graduate": 7.7
+    },
+    "medianIncome": 55887,
+    "meanIncome": 76404
+  },
+  {
+    "countyFips": "297",
+    "stateFips": "13",
+    "name": "Walton County, Georgia",
+    "population": 100361,
+    "medianAge": 39.7,
+    "race": {
+      "white": 72.1,
+      "black": 19.7,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 4.3,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 32.6,
+      "someCollege": 21.7,
+      "associates": 8.1,
+      "bachelors": 15.9,
+      "graduate": 9
+    },
+    "medianIncome": 82381,
+    "meanIncome": 103621
+  },
+  {
+    "countyFips": "299",
+    "stateFips": "13",
+    "name": "Ware County, Georgia",
+    "population": 35958,
+    "medianAge": 38,
+    "race": {
+      "white": 62.1,
+      "black": 29.9,
+      "asian": 1.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.5,
+      "twoOrMore": 5,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.5,
+      "highSchool": 39.5,
+      "someCollege": 21,
+      "associates": 6,
+      "bachelors": 10.3,
+      "graduate": 4.7
+    },
+    "medianIncome": 44833,
+    "meanIncome": 60583
+  },
+  {
+    "countyFips": "301",
+    "stateFips": "13",
+    "name": "Warren County, Georgia",
+    "population": 5175,
+    "medianAge": 45.3,
+    "race": {
+      "white": 39.4,
+      "black": 57.6,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.6,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 37.9,
+      "someCollege": 20,
+      "associates": 7.2,
+      "bachelors": 9.3,
+      "graduate": 3.4
+    },
+    "medianIncome": 46776,
+    "meanIncome": 58075
+  },
+  {
+    "countyFips": "303",
+    "stateFips": "13",
+    "name": "Washington County, Georgia",
+    "population": 19893,
+    "medianAge": 40.6,
+    "race": {
+      "white": 42.3,
+      "black": 51.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 44.2,
+      "someCollege": 16.1,
+      "associates": 7,
+      "bachelors": 12.3,
+      "graduate": 5.2
+    },
+    "medianIncome": 44009,
+    "meanIncome": 64971
+  },
+  {
+    "countyFips": "305",
+    "stateFips": "13",
+    "name": "Wayne County, Georgia",
+    "population": 30519,
+    "medianAge": 38.9,
+    "race": {
+      "white": 72,
+      "black": 19.9,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 3.8,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 44.3,
+      "someCollege": 19.7,
+      "associates": 8.3,
+      "bachelors": 8.4,
+      "graduate": 5.6
+    },
+    "medianIncome": 49562,
+    "meanIncome": 65837
+  },
+  {
+    "countyFips": "307",
+    "stateFips": "13",
+    "name": "Webster County, Georgia",
+    "population": 2348,
+    "medianAge": 42.8,
+    "race": {
+      "white": 46,
+      "black": 49,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 5,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 35.3,
+      "someCollege": 26.7,
+      "associates": 10.8,
+      "bachelors": 8.5,
+      "graduate": 2.8
+    },
+    "medianIncome": 40764,
+    "meanIncome": 58415
+  },
+  {
+    "countyFips": "309",
+    "stateFips": "13",
+    "name": "Wheeler County, Georgia",
+    "population": 7434,
+    "medianAge": 39.5,
+    "race": {
+      "white": 59,
+      "black": 38.5,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 1.2,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 23.3,
+      "highSchool": 44.7,
+      "someCollege": 14.5,
+      "associates": 5.3,
+      "bachelors": 10.9,
+      "graduate": 1.3
+    },
+    "medianIncome": 45262,
+    "meanIncome": 55443
+  },
+  {
+    "countyFips": "311",
+    "stateFips": "13",
+    "name": "White County, Georgia",
+    "population": 28454,
+    "medianAge": 45.4,
+    "race": {
+      "white": 90.7,
+      "black": 2,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 4.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 30.9,
+      "someCollege": 22.1,
+      "associates": 7.1,
+      "bachelors": 13.2,
+      "graduate": 11
+    },
+    "medianIncome": 69747,
+    "meanIncome": 89020
+  },
+  {
+    "countyFips": "313",
+    "stateFips": "13",
+    "name": "Whitfield County, Georgia",
+    "population": 103118,
+    "medianAge": 36.6,
+    "race": {
+      "white": 69.7,
+      "black": 3.4,
+      "asian": 1.5,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0,
+      "other": 14.1,
+      "twoOrMore": 9.7,
+      "hispanic": 36.6
+    },
+    "education": {
+      "lessThanHighSchool": 24.6,
+      "highSchool": 31,
+      "someCollege": 18.8,
+      "associates": 6.3,
+      "bachelors": 10.9,
+      "graduate": 8.4
+    },
+    "medianIncome": 64262,
+    "meanIncome": 85577
+  },
+  {
+    "countyFips": "315",
+    "stateFips": "13",
+    "name": "Wilcox County, Georgia",
+    "population": 8784,
+    "medianAge": 41.3,
+    "race": {
+      "white": 61.3,
+      "black": 33.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.7,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 21.1,
+      "highSchool": 39,
+      "someCollege": 18.9,
+      "associates": 6.9,
+      "bachelors": 7.2,
+      "graduate": 6.9
+    },
+    "medianIncome": 48036,
+    "meanIncome": 62360
+  },
+  {
+    "countyFips": "317",
+    "stateFips": "13",
+    "name": "Wilkes County, Georgia",
+    "population": 9553,
+    "medianAge": 46.3,
+    "race": {
+      "white": 52,
+      "black": 41,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 4.1,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 41.5,
+      "someCollege": 17.7,
+      "associates": 7,
+      "bachelors": 11.9,
+      "graduate": 3.8
+    },
+    "medianIncome": 52542,
+    "meanIncome": 72273
+  },
+  {
+    "countyFips": "319",
+    "stateFips": "13",
+    "name": "Wilkinson County, Georgia",
+    "population": 8795,
+    "medianAge": 43.2,
+    "race": {
+      "white": 55.4,
+      "black": 38.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 3.1,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 47,
+      "someCollege": 19.9,
+      "associates": 10,
+      "bachelors": 7.8,
+      "graduate": 4.8
+    },
+    "medianIncome": 46673,
+    "meanIncome": 60298
+  },
+  {
+    "countyFips": "321",
+    "stateFips": "13",
+    "name": "Worth County, Georgia",
+    "population": 20575,
+    "medianAge": 43,
+    "race": {
+      "white": 67.6,
+      "black": 24.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5.8,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 44.8,
+      "someCollege": 20.3,
+      "associates": 10.1,
+      "bachelors": 7.9,
+      "graduate": 3.4
+    },
+    "medianIncome": 57201,
+    "meanIncome": 70790
+  }
+]

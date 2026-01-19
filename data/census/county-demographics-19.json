@@ -1,0 +1,2675 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "19",
+    "name": "Adair County, Iowa",
+    "population": 7471,
+    "medianAge": 42.6,
+    "race": {
+      "white": 94.9,
+      "black": 1.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 2,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 40.5,
+      "someCollege": 21.1,
+      "associates": 12.9,
+      "bachelors": 14.9,
+      "graduate": 5.1
+    },
+    "medianIncome": 66176,
+    "meanIncome": 89076
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "19",
+    "name": "Adams County, Iowa",
+    "population": 3641,
+    "medianAge": 46.6,
+    "race": {
+      "white": 95.4,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.6,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 34.4,
+      "someCollege": 19.8,
+      "associates": 13.9,
+      "bachelors": 19.8,
+      "graduate": 4.7
+    },
+    "medianIncome": 68828,
+    "meanIncome": 97667
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "19",
+    "name": "Allamakee County, Iowa",
+    "population": 14038,
+    "medianAge": 43.1,
+    "race": {
+      "white": 90.4,
+      "black": 1.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 4.6,
+      "hispanic": 8.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 41.2,
+      "someCollege": 18.7,
+      "associates": 12.7,
+      "bachelors": 13.9,
+      "graduate": 5.9
+    },
+    "medianIncome": 66000,
+    "meanIncome": 84448
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "19",
+    "name": "Appanoose County, Iowa",
+    "population": 12242,
+    "medianAge": 45.5,
+    "race": {
+      "white": 95.1,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.4,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 36.7,
+      "someCollege": 21,
+      "associates": 12.7,
+      "bachelors": 15.2,
+      "graduate": 4.1
+    },
+    "medianIncome": 51146,
+    "meanIncome": 68465
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "19",
+    "name": "Audubon County, Iowa",
+    "population": 5622,
+    "medianAge": 47.4,
+    "race": {
+      "white": 95.2,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.2,
+      "twoOrMore": 3,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 36.2,
+      "someCollege": 23.1,
+      "associates": 12,
+      "bachelors": 16.2,
+      "graduate": 4.5
+    },
+    "medianIncome": 54152,
+    "meanIncome": 74605
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "19",
+    "name": "Benton County, Iowa",
+    "population": 25698,
+    "medianAge": 43.3,
+    "race": {
+      "white": 95.3,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.9,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 33.2,
+      "someCollege": 20.3,
+      "associates": 16.3,
+      "bachelors": 17,
+      "graduate": 8
+    },
+    "medianIncome": 84742,
+    "meanIncome": 99622
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "19",
+    "name": "Black Hawk County, Iowa",
+    "population": 130693,
+    "medianAge": 35.7,
+    "race": {
+      "white": 80.4,
+      "black": 9.6,
+      "asian": 2.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.5,
+      "other": 2,
+      "twoOrMore": 4.5,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 30.8,
+      "someCollege": 20.7,
+      "associates": 11.6,
+      "bachelors": 19.3,
+      "graduate": 10.8
+    },
+    "medianIncome": 64581,
+    "meanIncome": 89098
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "19",
+    "name": "Boone County, Iowa",
+    "population": 26669,
+    "medianAge": 42.2,
+    "race": {
+      "white": 94.4,
+      "black": 1.3,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.3,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 31.5,
+      "someCollege": 20.3,
+      "associates": 15.2,
+      "bachelors": 19.7,
+      "graduate": 9.1
+    },
+    "medianIncome": 79741,
+    "meanIncome": 97592
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "19",
+    "name": "Bremer County, Iowa",
+    "population": 25118,
+    "medianAge": 38.6,
+    "race": {
+      "white": 93.2,
+      "black": 1.1,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.4,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 30.5,
+      "someCollege": 17.3,
+      "associates": 12.8,
+      "bachelors": 24.1,
+      "graduate": 11.1
+    },
+    "medianIncome": 83343,
+    "meanIncome": 102529
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "19",
+    "name": "Buchanan County, Iowa",
+    "population": 20645,
+    "medianAge": 39.9,
+    "race": {
+      "white": 96.4,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 2.1,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 36.1,
+      "someCollege": 22.6,
+      "associates": 13.7,
+      "bachelors": 15.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 78430,
+    "meanIncome": 92603
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "19",
+    "name": "Buena Vista County, Iowa",
+    "population": 20684,
+    "medianAge": 35.7,
+    "race": {
+      "white": 65.9,
+      "black": 3.1,
+      "asian": 10.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 2.5,
+      "other": 9.1,
+      "twoOrMore": 9,
+      "hispanic": 28.6
+    },
+    "education": {
+      "lessThanHighSchool": 19.5,
+      "highSchool": 31.8,
+      "someCollege": 15.3,
+      "associates": 11.4,
+      "bachelors": 15.1,
+      "graduate": 7
+    },
+    "medianIncome": 66564,
+    "meanIncome": 89885
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "19",
+    "name": "Butler County, Iowa",
+    "population": 14301,
+    "medianAge": 43.7,
+    "race": {
+      "white": 95.3,
+      "black": 0.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.5,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 36.9,
+      "someCollege": 20.8,
+      "associates": 15.4,
+      "bachelors": 15.6,
+      "graduate": 4.8
+    },
+    "medianIncome": 69651,
+    "meanIncome": 84585
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "19",
+    "name": "Calhoun County, Iowa",
+    "population": 9858,
+    "medianAge": 42.7,
+    "race": {
+      "white": 92.5,
+      "black": 1.5,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.8,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 35.6,
+      "someCollege": 21.9,
+      "associates": 14.8,
+      "bachelors": 15,
+      "graduate": 6.5
+    },
+    "medianIncome": 66875,
+    "meanIncome": 86678
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "19",
+    "name": "Carroll County, Iowa",
+    "population": 20677,
+    "medianAge": 41.8,
+    "race": {
+      "white": 93.6,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.7,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 38.6,
+      "someCollege": 19.3,
+      "associates": 13.7,
+      "bachelors": 17.8,
+      "graduate": 5.6
+    },
+    "medianIncome": 68528,
+    "meanIncome": 86355
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "19",
+    "name": "Cass County, Iowa",
+    "population": 13115,
+    "medianAge": 44,
+    "race": {
+      "white": 96.1,
+      "black": 0.9,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.3,
+      "other": 0.5,
+      "twoOrMore": 1.7,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 37.5,
+      "someCollege": 24.1,
+      "associates": 9.9,
+      "bachelors": 15.9,
+      "graduate": 5.6
+    },
+    "medianIncome": 61657,
+    "meanIncome": 82873
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "19",
+    "name": "Cedar County, Iowa",
+    "population": 18427,
+    "medianAge": 43.8,
+    "race": {
+      "white": 95.4,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 41,
+      "someCollege": 18.6,
+      "associates": 14.7,
+      "bachelors": 15.8,
+      "graduate": 5.7
+    },
+    "medianIncome": 79080,
+    "meanIncome": 92611
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "19",
+    "name": "Cerro Gordo County, Iowa",
+    "population": 42785,
+    "medianAge": 43.9,
+    "race": {
+      "white": 91,
+      "black": 2.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.4,
+      "other": 0.7,
+      "twoOrMore": 4.2,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 35.9,
+      "someCollege": 19.8,
+      "associates": 14.6,
+      "bachelors": 16.4,
+      "graduate": 7.9
+    },
+    "medianIncome": 65537,
+    "meanIncome": 89519
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "19",
+    "name": "Cherokee County, Iowa",
+    "population": 11587,
+    "medianAge": 44.5,
+    "race": {
+      "white": 90.9,
+      "black": 2.2,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.3,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 39.5,
+      "someCollege": 18.8,
+      "associates": 13.1,
+      "bachelors": 14.3,
+      "graduate": 7.3
+    },
+    "medianIncome": 64478,
+    "meanIncome": 83796
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "19",
+    "name": "Chickasaw County, Iowa",
+    "population": 11868,
+    "medianAge": 43.5,
+    "race": {
+      "white": 95.4,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.8,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 42.4,
+      "someCollege": 18.1,
+      "associates": 13.6,
+      "bachelors": 14.1,
+      "graduate": 4.9
+    },
+    "medianIncome": 73421,
+    "meanIncome": 87139
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "19",
+    "name": "Clarke County, Iowa",
+    "population": 9690,
+    "medianAge": 38.4,
+    "race": {
+      "white": 85.9,
+      "black": 0,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 6.4,
+      "twoOrMore": 7,
+      "hispanic": 16.3
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 42.9,
+      "someCollege": 14.7,
+      "associates": 12.4,
+      "bachelors": 10.7,
+      "graduate": 5.3
+    },
+    "medianIncome": 66821,
+    "meanIncome": 85744
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "19",
+    "name": "Clay County, Iowa",
+    "population": 16446,
+    "medianAge": 41.8,
+    "race": {
+      "white": 94.6,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.8,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 32.7,
+      "someCollege": 22.6,
+      "associates": 13.5,
+      "bachelors": 18.6,
+      "graduate": 7.4
+    },
+    "medianIncome": 64082,
+    "meanIncome": 83566
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "19",
+    "name": "Clayton County, Iowa",
+    "population": 17069,
+    "medianAge": 46.4,
+    "race": {
+      "white": 95.9,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.5,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 43.8,
+      "someCollege": 19.7,
+      "associates": 11.6,
+      "bachelors": 11.6,
+      "graduate": 4.2
+    },
+    "medianIncome": 62326,
+    "meanIncome": 81457
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "19",
+    "name": "Clinton County, Iowa",
+    "population": 46383,
+    "medianAge": 42.5,
+    "race": {
+      "white": 90.3,
+      "black": 2.9,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 36.2,
+      "someCollege": 21.5,
+      "associates": 12.9,
+      "bachelors": 15.6,
+      "graduate": 6.5
+    },
+    "medianIncome": 65177,
+    "meanIncome": 85010
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "19",
+    "name": "Crawford County, Iowa",
+    "population": 16289,
+    "medianAge": 37.9,
+    "race": {
+      "white": 70.1,
+      "black": 1.9,
+      "asian": 2.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 9.5,
+      "twoOrMore": 15.8,
+      "hispanic": 30.1
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 35.7,
+      "someCollege": 20.9,
+      "associates": 9.1,
+      "bachelors": 14.3,
+      "graduate": 3.9
+    },
+    "medianIncome": 65039,
+    "meanIncome": 83966
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "19",
+    "name": "Dallas County, Iowa",
+    "population": 104136,
+    "medianAge": 35.8,
+    "race": {
+      "white": 84.9,
+      "black": 2.5,
+      "asian": 4.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 6.1,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 18,
+      "someCollege": 17,
+      "associates": 9.4,
+      "bachelors": 34.1,
+      "graduate": 17.5
+    },
+    "medianIncome": 102349,
+    "meanIncome": 134691
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "19",
+    "name": "Davis County, Iowa",
+    "population": 9127,
+    "medianAge": 36.2,
+    "race": {
+      "white": 95.7,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 2.5,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 19.7,
+      "highSchool": 31.9,
+      "someCollege": 18.8,
+      "associates": 12,
+      "bachelors": 12.5,
+      "graduate": 5.1
+    },
+    "medianIncome": 79505,
+    "meanIncome": 94991
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "19",
+    "name": "Decatur County, Iowa",
+    "population": 7669,
+    "medianAge": 36.2,
+    "race": {
+      "white": 92.9,
+      "black": 1.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.6,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 37.5,
+      "someCollege": 18.5,
+      "associates": 8.8,
+      "bachelors": 14.2,
+      "graduate": 10.1
+    },
+    "medianIncome": 57146,
+    "meanIncome": 70495
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "19",
+    "name": "Delaware County, Iowa",
+    "population": 17549,
+    "medianAge": 44,
+    "race": {
+      "white": 95.6,
+      "black": 0,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.5,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 43.6,
+      "someCollege": 15.3,
+      "associates": 13.5,
+      "bachelors": 13.8,
+      "graduate": 6
+    },
+    "medianIncome": 76205,
+    "meanIncome": 95969
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "19",
+    "name": "Des Moines County, Iowa",
+    "population": 38597,
+    "medianAge": 42.2,
+    "race": {
+      "white": 86.3,
+      "black": 4.2,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 7.4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 36.3,
+      "someCollege": 20.6,
+      "associates": 13.3,
+      "bachelors": 15.8,
+      "graduate": 8
+    },
+    "medianIncome": 60662,
+    "meanIncome": 81543
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "19",
+    "name": "Dickinson County, Iowa",
+    "population": 17844,
+    "medianAge": 48.1,
+    "race": {
+      "white": 94.5,
+      "black": 0.1,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.2,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 2.7,
+      "highSchool": 27.3,
+      "someCollege": 23.8,
+      "associates": 13.9,
+      "bachelors": 24,
+      "graduate": 8.3
+    },
+    "medianIncome": 74570,
+    "meanIncome": 98855
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "19",
+    "name": "Dubuque County, Iowa",
+    "population": 98948,
+    "medianAge": 38.8,
+    "race": {
+      "white": 89.9,
+      "black": 2.9,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.8,
+      "other": 1,
+      "twoOrMore": 4.1,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 32.5,
+      "someCollege": 17.8,
+      "associates": 10.9,
+      "bachelors": 21.7,
+      "graduate": 11.2
+    },
+    "medianIncome": 75919,
+    "meanIncome": 98871
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "19",
+    "name": "Emmet County, Iowa",
+    "population": 9316,
+    "medianAge": 43.3,
+    "race": {
+      "white": 88.6,
+      "black": 2.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 7,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 34.5,
+      "someCollege": 20.4,
+      "associates": 17.2,
+      "bachelors": 11.3,
+      "graduate": 4.3
+    },
+    "medianIncome": 65181,
+    "meanIncome": 77881
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "19",
+    "name": "Fayette County, Iowa",
+    "population": 19393,
+    "medianAge": 43.7,
+    "race": {
+      "white": 92.7,
+      "black": 0.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.9,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 43.6,
+      "someCollege": 18.8,
+      "associates": 12.8,
+      "bachelors": 12.7,
+      "graduate": 5.5
+    },
+    "medianIncome": 58764,
+    "meanIncome": 75669
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "19",
+    "name": "Floyd County, Iowa",
+    "population": 15502,
+    "medianAge": 44.2,
+    "race": {
+      "white": 90.4,
+      "black": 1.2,
+      "asian": 1.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 6.4,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 42.9,
+      "someCollege": 18.8,
+      "associates": 14.5,
+      "bachelors": 13.2,
+      "graduate": 5.3
+    },
+    "medianIncome": 64500,
+    "meanIncome": 83597
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "19",
+    "name": "Franklin County, Iowa",
+    "population": 9977,
+    "medianAge": 41.9,
+    "race": {
+      "white": 87,
+      "black": 0.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 8.9,
+      "hispanic": 16.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 37.8,
+      "someCollege": 22.4,
+      "associates": 13.2,
+      "bachelors": 13.5,
+      "graduate": 4.7
+    },
+    "medianIncome": 63648,
+    "meanIncome": 76293
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "19",
+    "name": "Fremont County, Iowa",
+    "population": 6570,
+    "medianAge": 46.4,
+    "race": {
+      "white": 93.5,
+      "black": 0.6,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.4,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 35.2,
+      "someCollege": 23.5,
+      "associates": 15.1,
+      "bachelors": 17.2,
+      "graduate": 3.9
+    },
+    "medianIncome": 73750,
+    "meanIncome": 93275
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "19",
+    "name": "Greene County, Iowa",
+    "population": 8722,
+    "medianAge": 44.8,
+    "race": {
+      "white": 93.8,
+      "black": 0.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.3,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 31.9,
+      "someCollege": 23.1,
+      "associates": 18.2,
+      "bachelors": 14.7,
+      "graduate": 5.1
+    },
+    "medianIncome": 59159,
+    "meanIncome": 78888
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "19",
+    "name": "Grundy County, Iowa",
+    "population": 12352,
+    "medianAge": 41.5,
+    "race": {
+      "white": 96.1,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 1.6,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 2.8,
+      "highSchool": 34.6,
+      "someCollege": 20.9,
+      "associates": 17,
+      "bachelors": 18.4,
+      "graduate": 6.3
+    },
+    "medianIncome": 83617,
+    "meanIncome": 95092
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "19",
+    "name": "Guthrie County, Iowa",
+    "population": 10646,
+    "medianAge": 46.5,
+    "race": {
+      "white": 93.9,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.2,
+      "twoOrMore": 3.8,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 32.9,
+      "someCollege": 23.1,
+      "associates": 14.6,
+      "bachelors": 16.4,
+      "graduate": 7.8
+    },
+    "medianIncome": 79981,
+    "meanIncome": 100399
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "19",
+    "name": "Hamilton County, Iowa",
+    "population": 14893,
+    "medianAge": 42.2,
+    "race": {
+      "white": 87.4,
+      "black": 1.2,
+      "asian": 1.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 2.6,
+      "twoOrMore": 6.4,
+      "hispanic": 9.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 31.9,
+      "someCollege": 23.7,
+      "associates": 15,
+      "bachelors": 16.1,
+      "graduate": 5.9
+    },
+    "medianIncome": 71750,
+    "meanIncome": 88499
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "19",
+    "name": "Hancock County, Iowa",
+    "population": 10718,
+    "medianAge": 44.6,
+    "race": {
+      "white": 93.7,
+      "black": 0.9,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 2.8,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 34.9,
+      "someCollege": 20.1,
+      "associates": 15.2,
+      "bachelors": 17,
+      "graduate": 4.4
+    },
+    "medianIncome": 70212,
+    "meanIncome": 86063
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "19",
+    "name": "Hardin County, Iowa",
+    "population": 16729,
+    "medianAge": 45.2,
+    "race": {
+      "white": 92.1,
+      "black": 1,
+      "asian": 1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 3.1,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 33.6,
+      "someCollege": 22.9,
+      "associates": 16,
+      "bachelors": 15.5,
+      "graduate": 5.7
+    },
+    "medianIncome": 64906,
+    "meanIncome": 76468
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "19",
+    "name": "Harrison County, Iowa",
+    "population": 14645,
+    "medianAge": 41.9,
+    "race": {
+      "white": 96.2,
+      "black": 0.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 38.9,
+      "someCollege": 23.8,
+      "associates": 9.6,
+      "bachelors": 15.6,
+      "graduate": 5.6
+    },
+    "medianIncome": 77027,
+    "meanIncome": 95657
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "19",
+    "name": "Henry County, Iowa",
+    "population": 20228,
+    "medianAge": 40.5,
+    "race": {
+      "white": 88,
+      "black": 2.7,
+      "asian": 1.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 5.6,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 33.5,
+      "someCollege": 23.1,
+      "associates": 12.3,
+      "bachelors": 15.4,
+      "graduate": 7.2
+    },
+    "medianIncome": 64604,
+    "meanIncome": 77833
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "19",
+    "name": "Howard County, Iowa",
+    "population": 9459,
+    "medianAge": 39.3,
+    "race": {
+      "white": 93.8,
+      "black": 0.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 3.6,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 41,
+      "someCollege": 18.7,
+      "associates": 13.3,
+      "bachelors": 14.9,
+      "graduate": 3.8
+    },
+    "medianIncome": 67336,
+    "meanIncome": 84023
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "19",
+    "name": "Humboldt County, Iowa",
+    "population": 9573,
+    "medianAge": 41.8,
+    "race": {
+      "white": 91.9,
+      "black": 0.3,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.8,
+      "other": 0.6,
+      "twoOrMore": 5.4,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 35.4,
+      "someCollege": 20.1,
+      "associates": 18.8,
+      "bachelors": 14.8,
+      "graduate": 4.5
+    },
+    "medianIncome": 66994,
+    "meanIncome": 86372
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "19",
+    "name": "Ida County, Iowa",
+    "population": 6944,
+    "medianAge": 42.3,
+    "race": {
+      "white": 94.2,
+      "black": 0.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.1,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 38.2,
+      "someCollege": 20.5,
+      "associates": 14,
+      "bachelors": 16.2,
+      "graduate": 4.5
+    },
+    "medianIncome": 62841,
+    "meanIncome": 81453
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "19",
+    "name": "Iowa County, Iowa",
+    "population": 16547,
+    "medianAge": 42.2,
+    "race": {
+      "white": 94.9,
+      "black": 0.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.8,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 34.7,
+      "someCollege": 22.7,
+      "associates": 13.1,
+      "bachelors": 17.5,
+      "graduate": 6.8
+    },
+    "medianIncome": 72185,
+    "meanIncome": 94049
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "19",
+    "name": "Jackson County, Iowa",
+    "population": 19429,
+    "medianAge": 44.2,
+    "race": {
+      "white": 95.9,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 0.5,
+      "twoOrMore": 2,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 41.6,
+      "someCollege": 22,
+      "associates": 11.9,
+      "bachelors": 13.8,
+      "graduate": 4.5
+    },
+    "medianIncome": 71605,
+    "meanIncome": 89865
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "19",
+    "name": "Jasper County, Iowa",
+    "population": 37864,
+    "medianAge": 41.4,
+    "race": {
+      "white": 92.8,
+      "black": 1.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 1.5,
+      "twoOrMore": 3.3,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 39.9,
+      "someCollege": 20.8,
+      "associates": 12.8,
+      "bachelors": 13.3,
+      "graduate": 6.6
+    },
+    "medianIncome": 70128,
+    "meanIncome": 93350
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "19",
+    "name": "Jefferson County, Iowa",
+    "population": 15676,
+    "medianAge": 43.5,
+    "race": {
+      "white": 84.6,
+      "black": 5.9,
+      "asian": 4.6,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.1,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 23.6,
+      "someCollege": 17.7,
+      "associates": 12.5,
+      "bachelors": 23.3,
+      "graduate": 18.3
+    },
+    "medianIncome": 56824,
+    "meanIncome": 78591
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "19",
+    "name": "Johnson County, Iowa",
+    "population": 154881,
+    "medianAge": 30.8,
+    "race": {
+      "white": 77.6,
+      "black": 7.6,
+      "asian": 5.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6.7,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 3.8,
+      "highSchool": 15.8,
+      "someCollege": 17.3,
+      "associates": 8.6,
+      "bachelors": 30.6,
+      "graduate": 24
+    },
+    "medianIncome": 74721,
+    "meanIncome": 108967
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "19",
+    "name": "Jones County, Iowa",
+    "population": 20799,
+    "medianAge": 43,
+    "race": {
+      "white": 92.4,
+      "black": 2,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.9,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 39.3,
+      "someCollege": 20.5,
+      "associates": 13.8,
+      "bachelors": 14.4,
+      "graduate": 6.4
+    },
+    "medianIncome": 73071,
+    "meanIncome": 86601
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "19",
+    "name": "Keokuk County, Iowa",
+    "population": 9964,
+    "medianAge": 42.8,
+    "race": {
+      "white": 95.9,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.5,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 44.3,
+      "someCollege": 21.4,
+      "associates": 12.7,
+      "bachelors": 11.4,
+      "graduate": 4.5
+    },
+    "medianIncome": 60856,
+    "meanIncome": 80199
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "19",
+    "name": "Kossuth County, Iowa",
+    "population": 14610,
+    "medianAge": 45,
+    "race": {
+      "white": 93.1,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 3.4,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 33.1,
+      "someCollege": 23.8,
+      "associates": 15.6,
+      "bachelors": 16.3,
+      "graduate": 5.9
+    },
+    "medianIncome": 65656,
+    "meanIncome": 83589
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "19",
+    "name": "Lee County, Iowa",
+    "population": 33175,
+    "medianAge": 43.7,
+    "race": {
+      "white": 91.6,
+      "black": 2.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.5,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 37.6,
+      "someCollege": 21,
+      "associates": 14.5,
+      "bachelors": 15.6,
+      "graduate": 5.4
+    },
+    "medianIncome": 59803,
+    "meanIncome": 74428
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "19",
+    "name": "Linn County, Iowa",
+    "population": 229463,
+    "medianAge": 38.5,
+    "race": {
+      "white": 84.6,
+      "black": 5.8,
+      "asian": 2.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5.9,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 26.1,
+      "someCollege": 20.8,
+      "associates": 13.6,
+      "bachelors": 23.5,
+      "graduate": 11.3
+    },
+    "medianIncome": 76421,
+    "meanIncome": 101721
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "19",
+    "name": "Louisa County, Iowa",
+    "population": 10710,
+    "medianAge": 41.8,
+    "race": {
+      "white": 82.5,
+      "black": 0.6,
+      "asian": 1.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 8.4,
+      "twoOrMore": 6.4,
+      "hispanic": 16.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 39.4,
+      "someCollege": 19.8,
+      "associates": 12,
+      "bachelors": 13.9,
+      "graduate": 2.6
+    },
+    "medianIncome": 80223,
+    "meanIncome": 95468
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "19",
+    "name": "Lucas County, Iowa",
+    "population": 8685,
+    "medianAge": 43.3,
+    "race": {
+      "white": 96,
+      "black": 0.2,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.9,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 47.3,
+      "someCollege": 21.3,
+      "associates": 9.5,
+      "bachelors": 9.9,
+      "graduate": 4.6
+    },
+    "medianIncome": 67921,
+    "meanIncome": 77148
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "19",
+    "name": "Lyon County, Iowa",
+    "population": 12087,
+    "medianAge": 38.1,
+    "race": {
+      "white": 94.6,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.6,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 40.9,
+      "someCollege": 18.2,
+      "associates": 15.5,
+      "bachelors": 16.8,
+      "graduate": 3.9
+    },
+    "medianIncome": 72881,
+    "meanIncome": 89389
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "19",
+    "name": "Madison County, Iowa",
+    "population": 16760,
+    "medianAge": 41,
+    "race": {
+      "white": 95.7,
+      "black": 1.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 2.2,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 33.7,
+      "someCollege": 24.1,
+      "associates": 12,
+      "bachelors": 19.3,
+      "graduate": 6.2
+    },
+    "medianIncome": 89542,
+    "meanIncome": 103385
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "19",
+    "name": "Mahaska County, Iowa",
+    "population": 22045,
+    "medianAge": 39.1,
+    "race": {
+      "white": 93.2,
+      "black": 1.5,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.4,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 38.7,
+      "someCollege": 19.1,
+      "associates": 13.2,
+      "bachelors": 17,
+      "graduate": 6
+    },
+    "medianIncome": 69019,
+    "meanIncome": 84768
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "19",
+    "name": "Marion County, Iowa",
+    "population": 33551,
+    "medianAge": 39.7,
+    "race": {
+      "white": 94.8,
+      "black": 0.5,
+      "asian": 1.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.6,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 32.7,
+      "someCollege": 17.5,
+      "associates": 11.3,
+      "bachelors": 23,
+      "graduate": 10.1
+    },
+    "medianIncome": 78059,
+    "meanIncome": 100349
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "19",
+    "name": "Marshall County, Iowa",
+    "population": 39971,
+    "medianAge": 38.7,
+    "race": {
+      "white": 74.6,
+      "black": 1.9,
+      "asian": 4.3,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 6.4,
+      "twoOrMore": 11.5,
+      "hispanic": 23.8
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 34.5,
+      "someCollege": 19.4,
+      "associates": 11.7,
+      "bachelors": 14.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 72785,
+    "meanIncome": 84571
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "19",
+    "name": "Mills County, Iowa",
+    "population": 14563,
+    "medianAge": 42.6,
+    "race": {
+      "white": 94.4,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.5,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 4.4,
+      "highSchool": 27.4,
+      "someCollege": 23.3,
+      "associates": 12.9,
+      "bachelors": 22.3,
+      "graduate": 9.8
+    },
+    "medianIncome": 87810,
+    "meanIncome": 109588
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "19",
+    "name": "Mitchell County, Iowa",
+    "population": 10548,
+    "medianAge": 42.2,
+    "race": {
+      "white": 96.8,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 1.3,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 34,
+      "someCollege": 20.5,
+      "associates": 15.7,
+      "bachelors": 16.6,
+      "graduate": 6.1
+    },
+    "medianIncome": 68704,
+    "meanIncome": 90326
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "19",
+    "name": "Monona County, Iowa",
+    "population": 8619,
+    "medianAge": 44.7,
+    "race": {
+      "white": 94.3,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 0.1,
+      "twoOrMore": 4.7,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 39.4,
+      "someCollege": 23.8,
+      "associates": 11.7,
+      "bachelors": 12.7,
+      "graduate": 6
+    },
+    "medianIncome": 62944,
+    "meanIncome": 76738
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "19",
+    "name": "Monroe County, Iowa",
+    "population": 7546,
+    "medianAge": 42.1,
+    "race": {
+      "white": 95.3,
+      "black": 0.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.1,
+      "twoOrMore": 3.3,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 41.3,
+      "someCollege": 19.3,
+      "associates": 14,
+      "bachelors": 15,
+      "graduate": 5
+    },
+    "medianIncome": 72518,
+    "meanIncome": 82429
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "19",
+    "name": "Montgomery County, Iowa",
+    "population": 10254,
+    "medianAge": 43.8,
+    "race": {
+      "white": 93.3,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.5,
+      "other": 1.6,
+      "twoOrMore": 3.1,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 35.5,
+      "someCollege": 23.7,
+      "associates": 14.6,
+      "bachelors": 13.7,
+      "graduate": 5
+    },
+    "medianIncome": 63190,
+    "meanIncome": 83851
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "19",
+    "name": "Muscatine County, Iowa",
+    "population": 42735,
+    "medianAge": 39.1,
+    "race": {
+      "white": 82.1,
+      "black": 2.9,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 8.2,
+      "twoOrMore": 5.8,
+      "hispanic": 18.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 35.2,
+      "someCollege": 20.5,
+      "associates": 12.2,
+      "bachelors": 16,
+      "graduate": 6.7
+    },
+    "medianIncome": 69512,
+    "meanIncome": 87676
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "19",
+    "name": "O'Brien County, Iowa",
+    "population": 14103,
+    "medianAge": 39.8,
+    "race": {
+      "white": 89.9,
+      "black": 1.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.3,
+      "other": 2.7,
+      "twoOrMore": 4.8,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 35.6,
+      "someCollege": 17.4,
+      "associates": 14.9,
+      "bachelors": 17.5,
+      "graduate": 5
+    },
+    "medianIncome": 68216,
+    "meanIncome": 81625
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "19",
+    "name": "Osceola County, Iowa",
+    "population": 6114,
+    "medianAge": 43.5,
+    "race": {
+      "white": 89.7,
+      "black": 0.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 6.6,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 36.2,
+      "someCollege": 19.8,
+      "associates": 14.2,
+      "bachelors": 10.9,
+      "graduate": 4.4
+    },
+    "medianIncome": 69138,
+    "meanIncome": 84494
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "19",
+    "name": "Page County, Iowa",
+    "population": 15168,
+    "medianAge": 45,
+    "race": {
+      "white": 92.6,
+      "black": 1.8,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.9,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 41.8,
+      "someCollege": 21.4,
+      "associates": 11.2,
+      "bachelors": 13,
+      "graduate": 5.8
+    },
+    "medianIncome": 57752,
+    "meanIncome": 74484
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "19",
+    "name": "Palo Alto County, Iowa",
+    "population": 8902,
+    "medianAge": 41.5,
+    "race": {
+      "white": 92.6,
+      "black": 1.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.1,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 32.3,
+      "someCollege": 26.3,
+      "associates": 14.9,
+      "bachelors": 15.5,
+      "graduate": 5
+    },
+    "medianIncome": 68963,
+    "meanIncome": 84394
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "19",
+    "name": "Plymouth County, Iowa",
+    "population": 25699,
+    "medianAge": 41.1,
+    "race": {
+      "white": 90.5,
+      "black": 2.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 3.9,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 36.3,
+      "someCollege": 19.6,
+      "associates": 14.4,
+      "bachelors": 18.4,
+      "graduate": 5.5
+    },
+    "medianIncome": 81600,
+    "meanIncome": 103320
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "19",
+    "name": "Pocahontas County, Iowa",
+    "population": 7040,
+    "medianAge": 43.9,
+    "race": {
+      "white": 91.7,
+      "black": 1.1,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 1,
+      "other": 2.2,
+      "twoOrMore": 3.9,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 36,
+      "someCollege": 23,
+      "associates": 13.8,
+      "bachelors": 15,
+      "graduate": 3.6
+    },
+    "medianIncome": 63423,
+    "meanIncome": 80616
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "19",
+    "name": "Polk County, Iowa",
+    "population": 497441,
+    "medianAge": 36.2,
+    "race": {
+      "white": 77.8,
+      "black": 7.5,
+      "asian": 5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 6.3,
+      "hispanic": 10
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 24.3,
+      "someCollege": 18.7,
+      "associates": 9.9,
+      "bachelors": 26.7,
+      "graduate": 12.8
+    },
+    "medianIncome": 81621,
+    "meanIncome": 106356
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "19",
+    "name": "Pottawattamie County, Iowa",
+    "population": 93407,
+    "medianAge": 40.1,
+    "race": {
+      "white": 89,
+      "black": 1.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.8,
+      "twoOrMore": 6.1,
+      "hispanic": 8.7
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 33.9,
+      "someCollege": 22.2,
+      "associates": 11.4,
+      "bachelors": 16,
+      "graduate": 7.5
+    },
+    "medianIncome": 71446,
+    "meanIncome": 90639
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "19",
+    "name": "Poweshiek County, Iowa",
+    "population": 18582,
+    "medianAge": 40.8,
+    "race": {
+      "white": 91.6,
+      "black": 1.3,
+      "asian": 2.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.7,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 39,
+      "someCollege": 18.6,
+      "associates": 8.8,
+      "bachelors": 16.6,
+      "graduate": 11.6
+    },
+    "medianIncome": 64837,
+    "meanIncome": 86811
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "19",
+    "name": "Ringgold County, Iowa",
+    "population": 4664,
+    "medianAge": 44.6,
+    "race": {
+      "white": 95.9,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 34.9,
+      "someCollege": 22.2,
+      "associates": 11,
+      "bachelors": 18.9,
+      "graduate": 6.3
+    },
+    "medianIncome": 69821,
+    "meanIncome": 91608
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "19",
+    "name": "Sac County, Iowa",
+    "population": 9759,
+    "medianAge": 45.3,
+    "race": {
+      "white": 95,
+      "black": 0.6,
+      "asian": 0.9,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.5,
+      "other": 1.5,
+      "twoOrMore": 1.7,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.8,
+      "highSchool": 33.1,
+      "someCollege": 23,
+      "associates": 14.9,
+      "bachelors": 16,
+      "graduate": 5.2
+    },
+    "medianIncome": 70991,
+    "meanIncome": 90666
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "19",
+    "name": "Scott County, Iowa",
+    "population": 174302,
+    "medianAge": 39,
+    "race": {
+      "white": 80.7,
+      "black": 7.1,
+      "asian": 2.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 7.5,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 25.7,
+      "someCollege": 21,
+      "associates": 11.2,
+      "bachelors": 22.6,
+      "graduate": 13.6
+    },
+    "medianIncome": 76363,
+    "meanIncome": 101656
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "19",
+    "name": "Shelby County, Iowa",
+    "population": 11757,
+    "medianAge": 45.1,
+    "race": {
+      "white": 93.2,
+      "black": 0.5,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.7,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.7,
+      "highSchool": 36.6,
+      "someCollege": 21.4,
+      "associates": 13.9,
+      "bachelors": 16,
+      "graduate": 7.3
+    },
+    "medianIncome": 67690,
+    "meanIncome": 91881
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "19",
+    "name": "Sioux County, Iowa",
+    "population": 35984,
+    "medianAge": 34,
+    "race": {
+      "white": 87.8,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 5,
+      "twoOrMore": 5.7,
+      "hispanic": 13.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 27.6,
+      "someCollege": 17.7,
+      "associates": 14.9,
+      "bachelors": 21.5,
+      "graduate": 8.9
+    },
+    "medianIncome": 84736,
+    "meanIncome": 104234
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "19",
+    "name": "Story County, Iowa",
+    "population": 98592,
+    "medianAge": 27,
+    "race": {
+      "white": 82.8,
+      "black": 2.7,
+      "asian": 6.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 5.2,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 2.9,
+      "highSchool": 15.8,
+      "someCollege": 16.7,
+      "associates": 11.2,
+      "bachelors": 30.5,
+      "graduate": 22.8
+    },
+    "medianIncome": 69006,
+    "meanIncome": 95068
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "19",
+    "name": "Tama County, Iowa",
+    "population": 16982,
+    "medianAge": 41.8,
+    "race": {
+      "white": 81.5,
+      "black": 1.2,
+      "asian": 0.6,
+      "nativeAmerican": 6.8,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 7.8,
+      "hispanic": 11.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 40.3,
+      "someCollege": 18.3,
+      "associates": 13.5,
+      "bachelors": 13.7,
+      "graduate": 5.7
+    },
+    "medianIncome": 67955,
+    "meanIncome": 84210
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "19",
+    "name": "Taylor County, Iowa",
+    "population": 5901,
+    "medianAge": 43.6,
+    "race": {
+      "white": 92.1,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 4.2,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 41.3,
+      "someCollege": 22.6,
+      "associates": 12.6,
+      "bachelors": 11.8,
+      "graduate": 3.7
+    },
+    "medianIncome": 67279,
+    "meanIncome": 83448
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "19",
+    "name": "Union County, Iowa",
+    "population": 12038,
+    "medianAge": 40.6,
+    "race": {
+      "white": 94.2,
+      "black": 0.5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 3.6,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 34,
+      "someCollege": 26,
+      "associates": 9,
+      "bachelors": 17.3,
+      "graduate": 6.8
+    },
+    "medianIncome": 56813,
+    "meanIncome": 73974
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "19",
+    "name": "Van Buren County, Iowa",
+    "population": 7236,
+    "medianAge": 44.8,
+    "race": {
+      "white": 95.8,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.7,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 36.7,
+      "someCollege": 22.2,
+      "associates": 11,
+      "bachelors": 13.5,
+      "graduate": 5.9
+    },
+    "medianIncome": 60183,
+    "meanIncome": 76307
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "19",
+    "name": "Wapello County, Iowa",
+    "population": 35265,
+    "medianAge": 39.9,
+    "race": {
+      "white": 82.7,
+      "black": 3.4,
+      "asian": 1.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 2,
+      "other": 3.5,
+      "twoOrMore": 6.7,
+      "hispanic": 12.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 38.1,
+      "someCollege": 18.8,
+      "associates": 11.4,
+      "bachelors": 11.8,
+      "graduate": 7.6
+    },
+    "medianIncome": 60034,
+    "meanIncome": 80944
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "19",
+    "name": "Warren County, Iowa",
+    "population": 53484,
+    "medianAge": 38.7,
+    "race": {
+      "white": 93.8,
+      "black": 0.7,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 3.3,
+      "highSchool": 29,
+      "someCollege": 21.7,
+      "associates": 13.3,
+      "bachelors": 22.6,
+      "graduate": 10.1
+    },
+    "medianIncome": 92990,
+    "meanIncome": 111116
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "19",
+    "name": "Washington County, Iowa",
+    "population": 22539,
+    "medianAge": 40.3,
+    "race": {
+      "white": 91.3,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 3.8,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 35.8,
+      "someCollege": 21.3,
+      "associates": 11.2,
+      "bachelors": 16.5,
+      "graduate": 8.4
+    },
+    "medianIncome": 71339,
+    "meanIncome": 92270
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "19",
+    "name": "Wayne County, Iowa",
+    "population": 6518,
+    "medianAge": 42,
+    "race": {
+      "white": 94.6,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.2,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 39.5,
+      "someCollege": 19,
+      "associates": 14,
+      "bachelors": 11.4,
+      "graduate": 4.6
+    },
+    "medianIncome": 59118,
+    "meanIncome": 85767
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "19",
+    "name": "Webster County, Iowa",
+    "population": 36848,
+    "medianAge": 39.8,
+    "race": {
+      "white": 86.9,
+      "black": 3.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 6.7,
+      "hispanic": 6
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 32.6,
+      "someCollege": 25.1,
+      "associates": 14.1,
+      "bachelors": 15.3,
+      "graduate": 5.2
+    },
+    "medianIncome": 68054,
+    "meanIncome": 82910
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "19",
+    "name": "Winnebago County, Iowa",
+    "population": 10648,
+    "medianAge": 41.7,
+    "race": {
+      "white": 90.8,
+      "black": 0.9,
+      "asian": 3.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.3,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 30.7,
+      "someCollege": 21.6,
+      "associates": 17.3,
+      "bachelors": 18.8,
+      "graduate": 6.3
+    },
+    "medianIncome": 63719,
+    "meanIncome": 84968
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "19",
+    "name": "Winneshiek County, Iowa",
+    "population": 19972,
+    "medianAge": 42.2,
+    "race": {
+      "white": 94.4,
+      "black": 0.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.9,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 31.8,
+      "someCollege": 16.9,
+      "associates": 15.2,
+      "bachelors": 21.3,
+      "graduate": 10.3
+    },
+    "medianIncome": 75652,
+    "meanIncome": 97497
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "19",
+    "name": "Woodbury County, Iowa",
+    "population": 105760,
+    "medianAge": 36.2,
+    "race": {
+      "white": 74.1,
+      "black": 4.6,
+      "asian": 2.5,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0.4,
+      "other": 3.7,
+      "twoOrMore": 13,
+      "hispanic": 18.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 32.6,
+      "someCollege": 19.8,
+      "associates": 11.4,
+      "bachelors": 15.6,
+      "graduate": 7.8
+    },
+    "medianIncome": 70147,
+    "meanIncome": 88318
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "19",
+    "name": "Worth County, Iowa",
+    "population": 7380,
+    "medianAge": 44.3,
+    "race": {
+      "white": 94.7,
+      "black": 0.9,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.5,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 35,
+      "someCollege": 21.8,
+      "associates": 17.4,
+      "bachelors": 14.8,
+      "graduate": 5.3
+    },
+    "medianIncome": 76875,
+    "meanIncome": 88871
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "19",
+    "name": "Wright County, Iowa",
+    "population": 12817,
+    "medianAge": 39.8,
+    "race": {
+      "white": 83.6,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 10.5,
+      "hispanic": 18.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 35.2,
+      "someCollege": 22.6,
+      "associates": 11.4,
+      "bachelors": 18.2,
+      "graduate": 5.3
+    },
+    "medianIncome": 64033,
+    "meanIncome": 87764
+  }
+]

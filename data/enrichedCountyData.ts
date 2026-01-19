@@ -13,163 +13,104 @@ import { enrichCountiesWithCensus } from './countyDemographicsFromCensus';
 
 /**
  * Get counties for a state with election data and Census demographics
- * Uses real county data from election results for all states
- * Enriches with Census demographic data when available
+ * Uses real county data from election results and Census data only
  */
 export async function getCountiesByStateWithElections(stateId: string): Promise<County[]> {
-  let counties: County[] = [];
-  
   try {
-    // Try to get counties from real election data first
-    console.log(`📥 Loading counties from election data for ${stateId}...`);
-    const countiesFromElections = await getCountiesByStateFromElections(stateId);
-    console.log(`📥 Loaded ${countiesFromElections.length} counties from election data`);
+    // Get counties from real election data
+    const counties = await getCountiesByStateFromElections(stateId);
     
-    if (countiesFromElections.length > 0) {
-      // Use real data - counties already have political leanings calculated
-      counties = countiesFromElections;
-      // Check if FIPS is set
-      const sampleWithFips = counties.find(c => c.fips);
-      const sampleWithoutFips = counties.find(c => !c.fips);
-      console.log(`📊 Sample county with FIPS: ${sampleWithFips?.name} (${sampleWithFips?.fips})`);
-      if (sampleWithoutFips) {
-        console.warn(`⚠️ Sample county without FIPS: ${sampleWithoutFips.name}`);
-      }
+    if (counties.length === 0) {
+      console.warn(`No counties found in election data for ${stateId}`);
+      return [];
+    }
+    
+    // Enrich all counties with Census demographics if available
+    try {
+      const enrichedCounties = await enrichCountiesWithCensus(counties);
+      return enrichedCounties;
+    } catch (error) {
+      console.warn(`Failed to enrich counties with Census data for ${stateId}:`, error);
+      // Return counties without Census data if enrichment fails
+      return counties;
     }
   } catch (error) {
-    console.error(`❌ Failed to load counties from election data for ${stateId}:`, error);
-  }
-  
-  // If no counties from elections, fall back to mock data
-  if (counties.length === 0) {
-    counties = getCountiesByState(stateId);
-    
-    // Enrich mock counties with election data if available
-    counties = await Promise.all(
-      counties.map(async (county) => {
-        // Try to get FIPS by county ID first
-        let fips = getCountyFips(county.id);
-        
-        // If not found, try to match by county name and state
-        if (!fips) {
-          const normalizedName = normalizeCountyName(county.name);
-          const { getElectionDataForState } = await import('./electionData');
-          const stateElectionData = await getElectionDataForState(stateId);
-          
-          const matchingCounty = stateElectionData.find(electionData => {
-            const electionCountyName = normalizeCountyName(electionData.countyName);
-            return electionCountyName === normalizedName;
-          });
-          
-          if (matchingCounty) {
-            fips = matchingCounty.countyFips;
-          }
-        }
-        
-        if (!fips) {
-          return county; // Return original if no FIPS mapping found
-        }
-
-        try {
-          const politicalLean = await getCountyPoliticalLean(fips);
-          
-          return {
-            ...county,
-            politicalLean, // Update with calculated lean from election data
-          };
-        } catch (error) {
-          console.warn(`Failed to load election data for county ${county.id}:`, error);
-          return county; // Return original on error
-        }
-      })
-    );
-  }
-  
-  // Enrich all counties with Census demographics if available
-  console.log(`🔍 About to enrich ${counties.length} counties for ${stateId} with Census data...`);
-  try {
-    const enrichedCounties = await enrichCountiesWithCensus(counties);
-    console.log(`✅ Enrichment complete for ${stateId}. Returning ${enrichedCounties.length} counties.`);
-    // Log a sample to verify income was updated
-    const sample = enrichedCounties.find(c => c.name.includes('Alameda'));
-    if (sample) {
-      console.log(`📊 Sample: ${sample.name} - Income: $${sample.medianIncome.toLocaleString()}`);
-    }
-    return enrichedCounties;
-  } catch (error) {
-    console.error(`❌ Failed to enrich counties with Census data for ${stateId}:`, error);
-    // Return counties without Census data if enrichment fails
-    return counties;
+    console.error(`Failed to load counties from election data for ${stateId}:`, error);
+    return [];
   }
 }
 
 /**
  * Get a single county with election data and Census demographics enriched
- * Tries real data first, falls back to mock data
+ * Uses real election and Census data only
  */
 export async function getCountyByIdWithElections(countyId: string): Promise<County | undefined> {
-  let county: County | undefined;
-  
   try {
-    // Try to find in real election data first
+    // Find county in real election data
+    // Use case-insensitive lookup since county IDs might have inconsistent casing
+    console.log(`[getCountyByIdWithElections] Looking up: ${countyId}`);
     const allCounties = await getAllCountiesFromElections();
-    const countyFromElections = allCounties.find(c => c.id === countyId);
+    console.log(`[getCountyByIdWithElections] Loaded ${allCounties.length} counties from election data`);
     
-    if (countyFromElections) {
-      county = countyFromElections;
-    }
-  } catch (error) {
-    console.warn(`Failed to load county from election data for ${countyId}:`, error);
-  }
-  
-  // Fallback to mock data
-  if (!county) {
-    county = getCountyById(countyId);
-    if (!county) return undefined;
-
-    // Try to get FIPS by county ID first
-    let fips = getCountyFips(countyId);
-    
-    // If not found, try to match by county name and state
-    if (!fips) {
-      const normalizedName = normalizeCountyName(county.name);
-      const { getElectionDataForState } = await import('./electionData');
-      const stateElectionData = await getElectionDataForState(county.stateId);
-      
-      const matchingCounty = stateElectionData.find(electionData => {
-        const electionCountyName = normalizeCountyName(electionData.countyName);
-        return electionCountyName === normalizedName;
-      });
-      
-      if (matchingCounty) {
-        fips = matchingCounty.countyFips;
-      }
+    if (allCounties.length === 0) {
+      console.error(`[getCountyByIdWithElections] No counties loaded from election data! This suggests election data loading failed.`);
+      return undefined;
     }
     
-    if (fips) {
-      try {
-        const politicalLean = await getCountyPoliticalLean(fips);
+    // Try exact match first (case-insensitive)
+    let county = allCounties.find(c => 
+      c.id.toLowerCase() === countyId.toLowerCase() || c.id === countyId
+    );
+    
+    // If not found, try matching by normalizing the county name part
+    // e.g., "CA-HUMBOLDT" might match "CA-Humboldt"
+    if (!county) {
+      const [stateAbbr, ...countyParts] = countyId.split('-');
+      const countyNamePart = countyParts.join('-');
+      
+      console.log(`[getCountyByIdWithElections] Trying normalized match for state: ${stateAbbr}, county part: ${countyNamePart}`);
+      
+      // Try to find by state and normalized county name
+      county = allCounties.find(c => {
+        if (c.stateId.toUpperCase() !== stateAbbr.toUpperCase()) return false;
         
-        county = {
-          ...county,
-          politicalLean, // Update with calculated lean from election data
-        };
-      } catch (error) {
-        console.warn(`Failed to load election data for county ${countyId}:`, error);
-      }
+        // Extract county name from ID (remove state prefix)
+        const cCountyPart = c.id.split('-').slice(1).join('-');
+        return cCountyPart.toLowerCase() === countyNamePart.toLowerCase();
+      });
     }
-  }
-  
-  // Enrich with Census demographics if available
-  if (county) {
+    
+    if (!county) {
+      // Log some sample county IDs for debugging
+      const stateMatch = countyId.match(/^([A-Z]{2})-/i);
+      const stateId = stateMatch ? stateMatch[1].toUpperCase() : null;
+      const sampleCounties = stateId
+        ? allCounties
+            .filter(c => c.stateId === stateId)
+            .slice(0, 10)
+            .map(c => c.id)
+        : allCounties.slice(0, 10).map(c => c.id);
+      console.warn(
+        `County ${countyId} not found in election data. ` +
+        `Total counties: ${allCounties.length}. ` +
+        `Sample IDs for ${stateId || 'all states'}: ${sampleCounties.join(', ')}`
+      );
+      return undefined;
+    }
+    
+    console.log(`[getCountyByIdWithElections] Found county: ${county.name} (${county.id})`);
+    
+    // Enrich with Census demographics if available
     try {
       const enrichedCounties = await enrichCountiesWithCensus([county]);
       return enrichedCounties[0];
     } catch (error) {
       console.warn(`Failed to enrich county with Census data for ${countyId}:`, error);
-      return county; // Return county without Census data if enrichment fails
+      // Return county without Census data if enrichment fails
+      return county;
     }
+  } catch (error) {
+    console.error(`Failed to load county from election data for ${countyId}:`, error);
+    return undefined;
   }
-  
-  return county;
 }

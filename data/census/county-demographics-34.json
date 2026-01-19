@@ -1,0 +1,569 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "34",
+    "name": "Atlantic County, New Jersey",
+    "population": 274704,
+    "medianAge": 42.2,
+    "race": {
+      "white": 58.1,
+      "black": 13.9,
+      "asian": 7.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 9.5,
+      "twoOrMore": 10.2,
+      "hispanic": 19.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 32.1,
+      "someCollege": 18.2,
+      "associates": 7.4,
+      "bachelors": 20.7,
+      "graduate": 10.5
+    },
+    "medianIncome": 76819,
+    "meanIncome": 105691
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "34",
+    "name": "Bergen County, New Jersey",
+    "population": 954717,
+    "medianAge": 42.1,
+    "race": {
+      "white": 58.8,
+      "black": 5.7,
+      "asian": 16.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 7.2,
+      "twoOrMore": 11.3,
+      "hispanic": 22.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 20.1,
+      "someCollege": 13.5,
+      "associates": 6.7,
+      "bachelors": 31.3,
+      "graduate": 21.3
+    },
+    "medianIncome": 123715,
+    "meanIncome": 169191
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "34",
+    "name": "Burlington County, New Jersey",
+    "population": 464226,
+    "medianAge": 41.7,
+    "race": {
+      "white": 66,
+      "black": 16.5,
+      "asian": 5.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 8.3,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 26.1,
+      "someCollege": 18.2,
+      "associates": 8.1,
+      "bachelors": 26.8,
+      "graduate": 15.2
+    },
+    "medianIncome": 105271,
+    "meanIncome": 136507
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "34",
+    "name": "Camden County, New Jersey",
+    "population": 524042,
+    "medianAge": 38.8,
+    "race": {
+      "white": 56.4,
+      "black": 18.9,
+      "asian": 5.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 9.9,
+      "twoOrMore": 8.6,
+      "hispanic": 18.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 29.1,
+      "someCollege": 17.6,
+      "associates": 7.8,
+      "bachelors": 21.5,
+      "graduate": 13.7
+    },
+    "medianIncome": 86384,
+    "meanIncome": 114657
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "34",
+    "name": "Cape May County, New Jersey",
+    "population": 95236,
+    "medianAge": 51.4,
+    "race": {
+      "white": 87,
+      "black": 3.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 5.8,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 31.7,
+      "someCollege": 18,
+      "associates": 7.6,
+      "bachelors": 23.3,
+      "graduate": 14.1
+    },
+    "medianIncome": 88046,
+    "meanIncome": 119743
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "34",
+    "name": "Cumberland County, New Jersey",
+    "population": 152915,
+    "medianAge": 37.6,
+    "race": {
+      "white": 52,
+      "black": 18.1,
+      "asian": 1.4,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 12.2,
+      "twoOrMore": 15.1,
+      "hispanic": 35
+    },
+    "education": {
+      "lessThanHighSchool": 18.7,
+      "highSchool": 39.1,
+      "someCollege": 16.6,
+      "associates": 7.6,
+      "bachelors": 12,
+      "graduate": 6
+    },
+    "medianIncome": 64499,
+    "meanIncome": 94856
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "34",
+    "name": "Essex County, New Jersey",
+    "population": 854130,
+    "medianAge": 37.7,
+    "race": {
+      "white": 33.2,
+      "black": 36.9,
+      "asian": 5.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 12.2,
+      "twoOrMore": 11.4,
+      "hispanic": 24.7
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 27.7,
+      "someCollege": 15.5,
+      "associates": 5.8,
+      "bachelors": 22,
+      "graduate": 15.9
+    },
+    "medianIncome": 76712,
+    "meanIncome": 127323
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "34",
+    "name": "Gloucester County, New Jersey",
+    "population": 304504,
+    "medianAge": 40.1,
+    "race": {
+      "white": 77.1,
+      "black": 10.7,
+      "asian": 3.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 5.9,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 31.1,
+      "someCollege": 17.6,
+      "associates": 9.5,
+      "bachelors": 23.6,
+      "graduate": 12.2
+    },
+    "medianIncome": 102807,
+    "meanIncome": 127093
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "34",
+    "name": "Hudson County, New Jersey",
+    "population": 710478,
+    "medianAge": 35.8,
+    "race": {
+      "white": 37,
+      "black": 12.2,
+      "asian": 16.5,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 15.3,
+      "twoOrMore": 18.1,
+      "hispanic": 40.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.1,
+      "highSchool": 22.7,
+      "someCollege": 12.4,
+      "associates": 4.8,
+      "bachelors": 28.1,
+      "graduate": 19.8
+    },
+    "medianIncome": 90032,
+    "meanIncome": 130880
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "34",
+    "name": "Hunterdon County, New Jersey",
+    "population": 129448,
+    "medianAge": 46.2,
+    "race": {
+      "white": 83.7,
+      "black": 2.6,
+      "asian": 4.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6.9,
+      "hispanic": 8.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.2,
+      "highSchool": 18.9,
+      "someCollege": 13.9,
+      "associates": 6.5,
+      "bachelors": 33.2,
+      "graduate": 23.3
+    },
+    "medianIncome": 139453,
+    "meanIncome": 182668
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "34",
+    "name": "Mercer County, New Jersey",
+    "population": 383286,
+    "medianAge": 39.2,
+    "race": {
+      "white": 49.8,
+      "black": 19.2,
+      "asian": 12.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 9.1,
+      "twoOrMore": 9.1,
+      "hispanic": 22.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 24.5,
+      "someCollege": 14.3,
+      "associates": 6.2,
+      "bachelors": 24.3,
+      "graduate": 20.6
+    },
+    "medianIncome": 96333,
+    "meanIncome": 138732
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "34",
+    "name": "Middlesex County, New Jersey",
+    "population": 861535,
+    "medianAge": 39.4,
+    "race": {
+      "white": 44.2,
+      "black": 10.4,
+      "asian": 25.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 10.5,
+      "twoOrMore": 8.9,
+      "hispanic": 23
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 23.4,
+      "someCollege": 14.2,
+      "associates": 6.6,
+      "bachelors": 26.1,
+      "graduate": 19
+    },
+    "medianIncome": 109028,
+    "meanIncome": 138274
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "34",
+    "name": "Monmouth County, New Jersey",
+    "population": 643615,
+    "medianAge": 43.2,
+    "race": {
+      "white": 76.2,
+      "black": 6.2,
+      "asian": 5.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 7.6,
+      "hispanic": 12.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 21.4,
+      "someCollege": 15,
+      "associates": 7.2,
+      "bachelors": 30.9,
+      "graduate": 19.7
+    },
+    "medianIncome": 122727,
+    "meanIncome": 168016
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "34",
+    "name": "Morris County, New Jersey",
+    "population": 510375,
+    "medianAge": 42.7,
+    "race": {
+      "white": 71,
+      "black": 3.3,
+      "asian": 10.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.9,
+      "twoOrMore": 10.1,
+      "hispanic": 15.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 19,
+      "someCollege": 12.8,
+      "associates": 6.1,
+      "bachelors": 33.6,
+      "graduate": 23.7
+    },
+    "medianIncome": 134929,
+    "meanIncome": 181402
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "34",
+    "name": "Ocean County, New Jersey",
+    "population": 646434,
+    "medianAge": 41.4,
+    "race": {
+      "white": 85,
+      "black": 3,
+      "asian": 1.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 6.3,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 33.1,
+      "someCollege": 18.8,
+      "associates": 7.7,
+      "bachelors": 21.7,
+      "graduate": 12
+    },
+    "medianIncome": 86411,
+    "meanIncome": 115709
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "34",
+    "name": "Passaic County, New Jersey",
+    "population": 518289,
+    "medianAge": 38.1,
+    "race": {
+      "white": 46.7,
+      "black": 10.6,
+      "asian": 5.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 17.3,
+      "twoOrMore": 19.5,
+      "hispanic": 43.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 33.7,
+      "someCollege": 15.6,
+      "associates": 5.5,
+      "bachelors": 20.2,
+      "graduate": 10.1
+    },
+    "medianIncome": 87137,
+    "meanIncome": 116257
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "34",
+    "name": "Salem County, New Jersey",
+    "population": 64973,
+    "medianAge": 41.9,
+    "race": {
+      "white": 74.1,
+      "black": 14.2,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 4.2,
+      "twoOrMore": 6.3,
+      "hispanic": 10.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 38.6,
+      "someCollege": 18,
+      "associates": 9.4,
+      "bachelors": 15.5,
+      "graduate": 8.5
+    },
+    "medianIncome": 78412,
+    "meanIncome": 99663
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "34",
+    "name": "Somerset County, New Jersey",
+    "population": 346203,
+    "medianAge": 41.9,
+    "race": {
+      "white": 54.1,
+      "black": 9.6,
+      "asian": 19.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 7.8,
+      "twoOrMore": 8.9,
+      "hispanic": 17
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 18,
+      "someCollege": 12.4,
+      "associates": 6.1,
+      "bachelors": 31.1,
+      "graduate": 26.3
+    },
+    "medianIncome": 135960,
+    "meanIncome": 186372
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "34",
+    "name": "Sussex County, New Jersey",
+    "population": 145117,
+    "medianAge": 44.1,
+    "race": {
+      "white": 84.8,
+      "black": 2.3,
+      "asian": 1.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 7.8,
+      "hispanic": 11.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 27.7,
+      "someCollege": 19.3,
+      "associates": 8.4,
+      "bachelors": 25.8,
+      "graduate": 14.2
+    },
+    "medianIncome": 114316,
+    "meanIncome": 143320
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "34",
+    "name": "Union County, New Jersey",
+    "population": 572549,
+    "medianAge": 39.1,
+    "race": {
+      "white": 41.7,
+      "black": 20.5,
+      "asian": 5.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 19.7,
+      "twoOrMore": 12.1,
+      "hispanic": 34.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 26.7,
+      "someCollege": 15.3,
+      "associates": 5.7,
+      "bachelors": 22.9,
+      "graduate": 15.6
+    },
+    "medianIncome": 100117,
+    "meanIncome": 145621
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "34",
+    "name": "Warren County, New Jersey",
+    "population": 110238,
+    "medianAge": 43.9,
+    "race": {
+      "white": 80.1,
+      "black": 5.5,
+      "asian": 3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 7.7,
+      "hispanic": 12.1
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 30.8,
+      "someCollege": 17.4,
+      "associates": 9.4,
+      "bachelors": 24.9,
+      "graduate": 11.5
+    },
+    "medianIncome": 99596,
+    "meanIncome": 117781
+  }
+]

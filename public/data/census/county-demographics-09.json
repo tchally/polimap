@@ -1,0 +1,245 @@
+[
+  {
+    "countyFips": "110",
+    "stateFips": "09",
+    "name": "Capitol Planning Region, Connecticut",
+    "population": 969029,
+    "medianAge": 40.2,
+    "race": {
+      "white": 65.8,
+      "black": 12.5,
+      "asian": 5.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 6.6,
+      "twoOrMore": 8.9,
+      "hispanic": 17.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 25.1,
+      "someCollege": 16.4,
+      "associates": 8.2,
+      "bachelors": 22.9,
+      "graduate": 18.6
+    },
+    "medianIncome": 91541,
+    "meanIncome": 122979
+  },
+  {
+    "countyFips": "120",
+    "stateFips": "09",
+    "name": "Greater Bridgeport Planning Region, Connecticut",
+    "population": 326296,
+    "medianAge": 40,
+    "race": {
+      "white": 59.1,
+      "black": 12.6,
+      "asian": 5.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 12.8,
+      "twoOrMore": 9.8,
+      "hispanic": 26.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 24.8,
+      "someCollege": 14.6,
+      "associates": 6.2,
+      "bachelors": 23.6,
+      "graduate": 18
+    },
+    "medianIncome": 87135,
+    "meanIncome": 134912
+  },
+  {
+    "countyFips": "130",
+    "stateFips": "09",
+    "name": "Lower Connecticut River Valley Planning Region, Connecticut",
+    "population": 174983,
+    "medianAge": 45.8,
+    "race": {
+      "white": 82.1,
+      "black": 5.1,
+      "asian": 3.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 7.4,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 24.5,
+      "someCollege": 16.7,
+      "associates": 8.5,
+      "bachelors": 25.3,
+      "graduate": 20.2
+    },
+    "medianIncome": 101117,
+    "meanIncome": 134068
+  },
+  {
+    "countyFips": "140",
+    "stateFips": "09",
+    "name": "Naugatuck Valley Planning Region, Connecticut",
+    "population": 452303,
+    "medianAge": 41.9,
+    "race": {
+      "white": 67,
+      "black": 11.2,
+      "asian": 4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 6.6,
+      "twoOrMore": 11,
+      "hispanic": 19.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 29.5,
+      "someCollege": 18.3,
+      "associates": 8.7,
+      "bachelors": 18.9,
+      "graduate": 14.9
+    },
+    "medianIncome": 86365,
+    "meanIncome": 113511
+  },
+  {
+    "countyFips": "150",
+    "stateFips": "09",
+    "name": "Northeastern Connecticut Planning Region, Connecticut",
+    "population": 95829,
+    "medianAge": 43.9,
+    "race": {
+      "white": 88.6,
+      "black": 1.8,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 6.1,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 35.2,
+      "someCollege": 20.3,
+      "associates": 10.4,
+      "bachelors": 14.9,
+      "graduate": 11.3
+    },
+    "medianIncome": 87564,
+    "meanIncome": 107010
+  },
+  {
+    "countyFips": "160",
+    "stateFips": "09",
+    "name": "Northwest Hills Planning Region, Connecticut",
+    "population": 112848,
+    "medianAge": 47.1,
+    "race": {
+      "white": 85.1,
+      "black": 2.7,
+      "asian": 2.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 6.9,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 28.1,
+      "someCollege": 17.3,
+      "associates": 9.3,
+      "bachelors": 22.7,
+      "graduate": 16.7
+    },
+    "medianIncome": 91035,
+    "meanIncome": 130654
+  },
+  {
+    "countyFips": "170",
+    "stateFips": "09",
+    "name": "South Central Connecticut Planning Region, Connecticut",
+    "population": 566803,
+    "medianAge": 40.2,
+    "race": {
+      "white": 64,
+      "black": 14,
+      "asian": 4.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 8.4,
+      "twoOrMore": 9,
+      "hispanic": 19.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 28,
+      "someCollege": 15.6,
+      "associates": 7,
+      "bachelors": 21.2,
+      "graduate": 19.8
+    },
+    "medianIncome": 86266,
+    "meanIncome": 118110
+  },
+  {
+    "countyFips": "180",
+    "stateFips": "09",
+    "name": "Southeastern Connecticut Planning Region, Connecticut",
+    "population": 279025,
+    "medianAge": 41,
+    "race": {
+      "white": 76.2,
+      "black": 5.5,
+      "asian": 3.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 9.3,
+      "hispanic": 14.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 29.2,
+      "someCollege": 20.2,
+      "associates": 8.7,
+      "bachelors": 19.2,
+      "graduate": 15.4
+    },
+    "medianIncome": 84185,
+    "meanIncome": 108630
+  },
+  {
+    "countyFips": "190",
+    "stateFips": "09",
+    "name": "Western Connecticut Planning Region, Connecticut",
+    "population": 621232,
+    "medianAge": 41.5,
+    "race": {
+      "white": 64.1,
+      "black": 10.3,
+      "asian": 5.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 8.4,
+      "twoOrMore": 11.5,
+      "hispanic": 19.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 18,
+      "someCollege": 12.9,
+      "associates": 5.7,
+      "bachelors": 29.8,
+      "graduate": 25.2
+    },
+    "medianIncome": 124553,
+    "meanIncome": 209168
+  }
+]

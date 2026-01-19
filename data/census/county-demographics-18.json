@@ -1,0 +1,2486 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "18",
+    "name": "Adams County, Indiana",
+    "population": 35995,
+    "medianAge": 33.2,
+    "race": {
+      "white": 94.1,
+      "black": 0.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.4,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 45.7,
+      "someCollege": 15.2,
+      "associates": 10.9,
+      "bachelors": 10.9,
+      "graduate": 4.3
+    },
+    "medianIncome": 63128,
+    "meanIncome": 80264
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "18",
+    "name": "Allen County, Indiana",
+    "population": 388791,
+    "medianAge": 36.2,
+    "race": {
+      "white": 72.7,
+      "black": 10.9,
+      "asian": 5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 3.5,
+      "twoOrMore": 7.6,
+      "hispanic": 8.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 28,
+      "someCollege": 20.8,
+      "associates": 10.4,
+      "bachelors": 20.8,
+      "graduate": 10.3
+    },
+    "medianIncome": 68839,
+    "meanIncome": 90889
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "18",
+    "name": "Bartholomew County, Indiana",
+    "population": 82881,
+    "medianAge": 37.7,
+    "race": {
+      "white": 80.1,
+      "black": 1.8,
+      "asian": 7.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.7,
+      "twoOrMore": 5.7,
+      "hispanic": 9
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 31.4,
+      "someCollege": 17.3,
+      "associates": 8.1,
+      "bachelors": 20.3,
+      "graduate": 15.1
+    },
+    "medianIncome": 80365,
+    "meanIncome": 101323
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "18",
+    "name": "Benton County, Indiana",
+    "population": 8708,
+    "medianAge": 40.3,
+    "race": {
+      "white": 92,
+      "black": 1.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 40.6,
+      "someCollege": 21.9,
+      "associates": 8.2,
+      "bachelors": 15.5,
+      "graduate": 3.3
+    },
+    "medianIncome": 61811,
+    "meanIncome": 83038
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "18",
+    "name": "Blackford County, Indiana",
+    "population": 12007,
+    "medianAge": 44,
+    "race": {
+      "white": 95.2,
+      "black": 0.5,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 49.5,
+      "someCollege": 18.7,
+      "associates": 7.9,
+      "bachelors": 8.9,
+      "graduate": 4.6
+    },
+    "medianIncome": 47560,
+    "meanIncome": 66576
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "18",
+    "name": "Boone County, Indiana",
+    "population": 72827,
+    "medianAge": 38.3,
+    "race": {
+      "white": 88.6,
+      "black": 2.4,
+      "asian": 3.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 4.9,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 19.4,
+      "someCollege": 16.2,
+      "associates": 8.9,
+      "bachelors": 30.3,
+      "graduate": 20.1
+    },
+    "medianIncome": 104865,
+    "meanIncome": 151849
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "18",
+    "name": "Brown County, Indiana",
+    "population": 15543,
+    "medianAge": 50.9,
+    "race": {
+      "white": 94.6,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.3,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 39.2,
+      "someCollege": 17.3,
+      "associates": 11.1,
+      "bachelors": 15.2,
+      "graduate": 10.8
+    },
+    "medianIncome": 72644,
+    "meanIncome": 96976
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "18",
+    "name": "Carroll County, Indiana",
+    "population": 20443,
+    "medianAge": 42.9,
+    "race": {
+      "white": 95,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 2.9,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 44.4,
+      "someCollege": 19.1,
+      "associates": 10.8,
+      "bachelors": 10.1,
+      "graduate": 5.4
+    },
+    "medianIncome": 64003,
+    "meanIncome": 83615
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "18",
+    "name": "Cass County, Indiana",
+    "population": 37703,
+    "medianAge": 41.1,
+    "race": {
+      "white": 80.9,
+      "black": 1.3,
+      "asian": 1.6,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 8.3,
+      "twoOrMore": 7.1,
+      "hispanic": 18.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 43.2,
+      "someCollege": 17.4,
+      "associates": 9.5,
+      "bachelors": 10.2,
+      "graduate": 5.5
+    },
+    "medianIncome": 56525,
+    "meanIncome": 70904
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "18",
+    "name": "Clark County, Indiana",
+    "population": 122800,
+    "medianAge": 39.8,
+    "race": {
+      "white": 83.3,
+      "black": 7,
+      "asian": 1.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 6.5,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 33.1,
+      "someCollege": 21.8,
+      "associates": 10.4,
+      "bachelors": 17.5,
+      "graduate": 8
+    },
+    "medianIncome": 72298,
+    "meanIncome": 88653
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "18",
+    "name": "Clay County, Indiana",
+    "population": 26431,
+    "medianAge": 41.2,
+    "race": {
+      "white": 95,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 3.8,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 42.2,
+      "someCollege": 17.5,
+      "associates": 14.1,
+      "bachelors": 11.8,
+      "graduate": 5.2
+    },
+    "medianIncome": 67676,
+    "meanIncome": 91795
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "18",
+    "name": "Clinton County, Indiana",
+    "population": 32967,
+    "medianAge": 36.5,
+    "race": {
+      "white": 83.4,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 6.3,
+      "twoOrMore": 9.1,
+      "hispanic": 19
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 43.6,
+      "someCollege": 16.7,
+      "associates": 9.3,
+      "bachelors": 11.2,
+      "graduate": 5.6
+    },
+    "medianIncome": 63690,
+    "meanIncome": 78375
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "18",
+    "name": "Crawford County, Indiana",
+    "population": 10494,
+    "medianAge": 45.6,
+    "race": {
+      "white": 95.3,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 46.9,
+      "someCollege": 19.2,
+      "associates": 8.3,
+      "bachelors": 7.1,
+      "graduate": 4.1
+    },
+    "medianIncome": 48993,
+    "meanIncome": 66412
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "18",
+    "name": "Daviess County, Indiana",
+    "population": 33442,
+    "medianAge": 34.7,
+    "race": {
+      "white": 90.3,
+      "black": 1.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 5,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 22.8,
+      "highSchool": 33.8,
+      "someCollege": 15.5,
+      "associates": 12.8,
+      "bachelors": 10.8,
+      "graduate": 4.3
+    },
+    "medianIncome": 68561,
+    "meanIncome": 85989
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "18",
+    "name": "Dearborn County, Indiana",
+    "population": 50828,
+    "medianAge": 41.8,
+    "race": {
+      "white": 95.2,
+      "black": 0.2,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 38,
+      "someCollege": 17.5,
+      "associates": 9.7,
+      "bachelors": 17.3,
+      "graduate": 8.7
+    },
+    "medianIncome": 82693,
+    "meanIncome": 96630
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "18",
+    "name": "Decatur County, Indiana",
+    "population": 26411,
+    "medianAge": 40.4,
+    "race": {
+      "white": 93.7,
+      "black": 0.3,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.8,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 44,
+      "someCollege": 16.3,
+      "associates": 10.2,
+      "bachelors": 14.6,
+      "graduate": 5.5
+    },
+    "medianIncome": 74228,
+    "meanIncome": 92391
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "18",
+    "name": "DeKalb County, Indiana",
+    "population": 43584,
+    "medianAge": 38.4,
+    "race": {
+      "white": 95,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.7,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 42.2,
+      "someCollege": 19.7,
+      "associates": 10.2,
+      "bachelors": 14.1,
+      "graduate": 6
+    },
+    "medianIncome": 70080,
+    "meanIncome": 85064
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "18",
+    "name": "Delaware County, Indiana",
+    "population": 112109,
+    "medianAge": 35.7,
+    "race": {
+      "white": 86.3,
+      "black": 5.3,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.6,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 34.2,
+      "someCollege": 20.9,
+      "associates": 10.2,
+      "bachelors": 15,
+      "graduate": 10.7
+    },
+    "medianIncome": 56932,
+    "meanIncome": 71257
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "18",
+    "name": "Dubois County, Indiana",
+    "population": 43563,
+    "medianAge": 40.1,
+    "race": {
+      "white": 89.6,
+      "black": 1.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 4.6,
+      "hispanic": 9.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 37.4,
+      "someCollege": 16.5,
+      "associates": 11,
+      "bachelors": 17.7,
+      "graduate": 6.7
+    },
+    "medianIncome": 71918,
+    "meanIncome": 89436
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "18",
+    "name": "Elkhart County, Indiana",
+    "population": 206868,
+    "medianAge": 35.5,
+    "race": {
+      "white": 75.3,
+      "black": 4.9,
+      "asian": 1.1,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 9.5,
+      "twoOrMore": 8.6,
+      "hispanic": 19.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.8,
+      "highSchool": 36.9,
+      "someCollege": 18.8,
+      "associates": 6.8,
+      "bachelors": 12.8,
+      "graduate": 6.9
+    },
+    "medianIncome": 65617,
+    "meanIncome": 86727
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "18",
+    "name": "Fayette County, Indiana",
+    "population": 23390,
+    "medianAge": 43.9,
+    "race": {
+      "white": 94.5,
+      "black": 1.1,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.3,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.1,
+      "highSchool": 42.3,
+      "someCollege": 18.6,
+      "associates": 8.5,
+      "bachelors": 12.4,
+      "graduate": 4.1
+    },
+    "medianIncome": 56659,
+    "meanIncome": 70573
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "18",
+    "name": "Floyd County, Indiana",
+    "population": 80512,
+    "medianAge": 40.1,
+    "race": {
+      "white": 86.9,
+      "black": 5.1,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.7,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 30.5,
+      "someCollege": 21.5,
+      "associates": 9.2,
+      "bachelors": 19.3,
+      "graduate": 12
+    },
+    "medianIncome": 78179,
+    "meanIncome": 100571
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "18",
+    "name": "Fountain County, Indiana",
+    "population": 16546,
+    "medianAge": 42.8,
+    "race": {
+      "white": 94.6,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.3,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 44,
+      "someCollege": 22.6,
+      "associates": 9.4,
+      "bachelors": 8.5,
+      "graduate": 5.2
+    },
+    "medianIncome": 62526,
+    "meanIncome": 75131
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "18",
+    "name": "Franklin County, Indiana",
+    "population": 22929,
+    "medianAge": 42.3,
+    "race": {
+      "white": 96.4,
+      "black": 0.1,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.2,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 40.8,
+      "someCollege": 19.4,
+      "associates": 9,
+      "bachelors": 12.8,
+      "graduate": 6.7
+    },
+    "medianIncome": 79702,
+    "meanIncome": 93222
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "18",
+    "name": "Fulton County, Indiana",
+    "population": 20411,
+    "medianAge": 42.2,
+    "race": {
+      "white": 91.2,
+      "black": 0.4,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 4.6,
+      "twoOrMore": 3.6,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 41.7,
+      "someCollege": 21.7,
+      "associates": 7.7,
+      "bachelors": 10.5,
+      "graduate": 5.7
+    },
+    "medianIncome": 62878,
+    "meanIncome": 81697
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "18",
+    "name": "Gibson County, Indiana",
+    "population": 32986,
+    "medianAge": 40.8,
+    "race": {
+      "white": 91.2,
+      "black": 2.2,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 3.8,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 40.3,
+      "someCollege": 18.6,
+      "associates": 12.9,
+      "bachelors": 13.5,
+      "graduate": 5.5
+    },
+    "medianIncome": 67763,
+    "meanIncome": 83521
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "18",
+    "name": "Grant County, Indiana",
+    "population": 66377,
+    "medianAge": 39.3,
+    "race": {
+      "white": 85,
+      "black": 4.9,
+      "asian": 0.9,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 7.6,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 37.3,
+      "someCollege": 21.1,
+      "associates": 10,
+      "bachelors": 12.2,
+      "graduate": 8.2
+    },
+    "medianIncome": 54007,
+    "meanIncome": 70918
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "18",
+    "name": "Greene County, Indiana",
+    "population": 30954,
+    "medianAge": 43.1,
+    "race": {
+      "white": 95.9,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.7,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 39.7,
+      "someCollege": 21.1,
+      "associates": 12.7,
+      "bachelors": 10,
+      "graduate": 4.6
+    },
+    "medianIncome": 59753,
+    "meanIncome": 76976
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "18",
+    "name": "Hamilton County, Indiana",
+    "population": 357176,
+    "medianAge": 38,
+    "race": {
+      "white": 81.6,
+      "black": 4.2,
+      "asian": 6.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 6,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 2.7,
+      "highSchool": 14.2,
+      "someCollege": 14.4,
+      "associates": 6.9,
+      "bachelors": 38.9,
+      "graduate": 23
+    },
+    "medianIncome": 117957,
+    "meanIncome": 156318
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "18",
+    "name": "Hancock County, Indiana",
+    "population": 82013,
+    "medianAge": 40.2,
+    "race": {
+      "white": 89.9,
+      "black": 3.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 4.9,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 29.3,
+      "someCollege": 21,
+      "associates": 9,
+      "bachelors": 23.1,
+      "graduate": 11.1
+    },
+    "medianIncome": 91326,
+    "meanIncome": 115388
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "18",
+    "name": "Harrison County, Indiana",
+    "population": 39785,
+    "medianAge": 43,
+    "race": {
+      "white": 95.6,
+      "black": 0.9,
+      "asian": 0.6,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 39.7,
+      "someCollege": 21.1,
+      "associates": 8.9,
+      "bachelors": 14.9,
+      "graduate": 7.1
+    },
+    "medianIncome": 72468,
+    "meanIncome": 90148
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "18",
+    "name": "Hendricks County, Indiana",
+    "population": 179379,
+    "medianAge": 38.6,
+    "race": {
+      "white": 80.4,
+      "black": 9.1,
+      "asian": 3.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.3,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 26.5,
+      "someCollege": 19,
+      "associates": 8.4,
+      "bachelors": 25.4,
+      "graduate": 14.2
+    },
+    "medianIncome": 99988,
+    "meanIncome": 120729
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "18",
+    "name": "Henry County, Indiana",
+    "population": 48896,
+    "medianAge": 42.1,
+    "race": {
+      "white": 93,
+      "black": 2.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 42.9,
+      "someCollege": 22.2,
+      "associates": 8.8,
+      "bachelors": 10.8,
+      "graduate": 5.9
+    },
+    "medianIncome": 60144,
+    "meanIncome": 78234
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "18",
+    "name": "Howard County, Indiana",
+    "population": 83610,
+    "medianAge": 41,
+    "race": {
+      "white": 85.3,
+      "black": 7.9,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.7,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 38.2,
+      "someCollege": 24.3,
+      "associates": 9.6,
+      "bachelors": 13.4,
+      "graduate": 6.6
+    },
+    "medianIncome": 62496,
+    "meanIncome": 81280
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "18",
+    "name": "Huntington County, Indiana",
+    "population": 36757,
+    "medianAge": 40.8,
+    "race": {
+      "white": 94.7,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.8,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 42.9,
+      "someCollege": 17.4,
+      "associates": 9.7,
+      "bachelors": 15.1,
+      "graduate": 8
+    },
+    "medianIncome": 62734,
+    "meanIncome": 82491
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "18",
+    "name": "Jackson County, Indiana",
+    "population": 46319,
+    "medianAge": 38.8,
+    "race": {
+      "white": 81.6,
+      "black": 1.1,
+      "asian": 2.2,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 5.5,
+      "twoOrMore": 8.7,
+      "hispanic": 13.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 39.5,
+      "someCollege": 20.5,
+      "associates": 8.9,
+      "bachelors": 14,
+      "graduate": 6.3
+    },
+    "medianIncome": 70208,
+    "meanIncome": 85011
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "18",
+    "name": "Jasper County, Indiana",
+    "population": 33198,
+    "medianAge": 41.4,
+    "race": {
+      "white": 88.9,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 6.9,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 45.1,
+      "someCollege": 21.7,
+      "associates": 8.2,
+      "bachelors": 12.2,
+      "graduate": 5.9
+    },
+    "medianIncome": 79634,
+    "meanIncome": 93064
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "18",
+    "name": "Jay County, Indiana",
+    "population": 20281,
+    "medianAge": 39.6,
+    "race": {
+      "white": 93.8,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 4,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 47,
+      "someCollege": 19,
+      "associates": 8.2,
+      "bachelors": 7.6,
+      "graduate": 5.1
+    },
+    "medianIncome": 54114,
+    "meanIncome": 67984
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "18",
+    "name": "Jefferson County, Indiana",
+    "population": 33074,
+    "medianAge": 41.6,
+    "race": {
+      "white": 93.1,
+      "black": 1.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 3.7,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 38.8,
+      "someCollege": 19.6,
+      "associates": 12.1,
+      "bachelors": 11.3,
+      "graduate": 6.8
+    },
+    "medianIncome": 59987,
+    "meanIncome": 79892
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "18",
+    "name": "Jennings County, Indiana",
+    "population": 27584,
+    "medianAge": 40.1,
+    "race": {
+      "white": 94.6,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 42.9,
+      "someCollege": 23.5,
+      "associates": 7.6,
+      "bachelors": 8.8,
+      "graduate": 4.8
+    },
+    "medianIncome": 68476,
+    "meanIncome": 79540
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "18",
+    "name": "Johnson County, Indiana",
+    "population": 163983,
+    "medianAge": 38.1,
+    "race": {
+      "white": 86.2,
+      "black": 3.1,
+      "asian": 4.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 4.5,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 30.8,
+      "someCollege": 19.9,
+      "associates": 8.7,
+      "bachelors": 20.9,
+      "graduate": 12.4
+    },
+    "medianIncome": 87227,
+    "meanIncome": 111087
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "18",
+    "name": "Knox County, Indiana",
+    "population": 36108,
+    "medianAge": 39.1,
+    "race": {
+      "white": 90.5,
+      "black": 1.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.8,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 36,
+      "someCollege": 20.8,
+      "associates": 15.5,
+      "bachelors": 11.3,
+      "graduate": 6.4
+    },
+    "medianIncome": 58863,
+    "meanIncome": 80327
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "18",
+    "name": "Kosciusko County, Indiana",
+    "population": 80357,
+    "medianAge": 39,
+    "race": {
+      "white": 87.9,
+      "black": 0.7,
+      "asian": 1.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 6.3,
+      "hispanic": 9.5
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 35.9,
+      "someCollege": 20.2,
+      "associates": 7.3,
+      "bachelors": 16,
+      "graduate": 8.6
+    },
+    "medianIncome": 73922,
+    "meanIncome": 90354
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "18",
+    "name": "LaGrange County, Indiana",
+    "population": 40596,
+    "medianAge": 32.5,
+    "race": {
+      "white": 94.5,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.3,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 39.4,
+      "highSchool": 29.4,
+      "someCollege": 14.2,
+      "associates": 5.9,
+      "bachelors": 7,
+      "graduate": 4.1
+    },
+    "medianIncome": 83741,
+    "meanIncome": 101036
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "18",
+    "name": "Lake County, Indiana",
+    "population": 498990,
+    "medianAge": 39.6,
+    "race": {
+      "white": 57.2,
+      "black": 23.2,
+      "asian": 1.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 8.1,
+      "twoOrMore": 9.5,
+      "hispanic": 20.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 34.7,
+      "someCollege": 21.9,
+      "associates": 8.8,
+      "bachelors": 16.7,
+      "graduate": 8.2
+    },
+    "medianIncome": 68985,
+    "meanIncome": 90364
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "18",
+    "name": "LaPorte County, Indiana",
+    "population": 112141,
+    "medianAge": 40.8,
+    "race": {
+      "white": 79.2,
+      "black": 10.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 6.8,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 39.3,
+      "someCollege": 20.3,
+      "associates": 9.2,
+      "bachelors": 14.4,
+      "graduate": 7.3
+    },
+    "medianIncome": 70452,
+    "meanIncome": 88255
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "18",
+    "name": "Lawrence County, Indiana",
+    "population": 45077,
+    "medianAge": 43.5,
+    "race": {
+      "white": 94.8,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 3.3,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 38.4,
+      "someCollege": 20.7,
+      "associates": 10.8,
+      "bachelors": 12,
+      "graduate": 8.5
+    },
+    "medianIncome": 65551,
+    "meanIncome": 78119
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "18",
+    "name": "Madison County, Indiana",
+    "population": 130949,
+    "medianAge": 40.8,
+    "race": {
+      "white": 84.8,
+      "black": 6.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 6.2,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 39.4,
+      "someCollege": 21.3,
+      "associates": 9.7,
+      "bachelors": 13.2,
+      "graduate": 6.9
+    },
+    "medianIncome": 62632,
+    "meanIncome": 79953
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "18",
+    "name": "Marion County, Indiana",
+    "population": 971822,
+    "medianAge": 34.3,
+    "race": {
+      "white": 54.2,
+      "black": 27.6,
+      "asian": 3.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 5.7,
+      "twoOrMore": 8.1,
+      "hispanic": 13.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 27.1,
+      "someCollege": 18.8,
+      "associates": 7.8,
+      "bachelors": 21.7,
+      "graduate": 12.4
+    },
+    "medianIncome": 63450,
+    "meanIncome": 87280
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "18",
+    "name": "Marshall County, Indiana",
+    "population": 46225,
+    "medianAge": 39.6,
+    "race": {
+      "white": 90.1,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.9,
+      "twoOrMore": 4.5,
+      "hispanic": 11.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 38.1,
+      "someCollege": 18.8,
+      "associates": 8.8,
+      "bachelors": 13.2,
+      "graduate": 7.2
+    },
+    "medianIncome": 68041,
+    "meanIncome": 85610
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "18",
+    "name": "Martin County, Indiana",
+    "population": 9854,
+    "medianAge": 41.8,
+    "race": {
+      "white": 95.7,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.6,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 40.7,
+      "someCollege": 19.8,
+      "associates": 15.1,
+      "bachelors": 8.3,
+      "graduate": 4.9
+    },
+    "medianIncome": 65345,
+    "meanIncome": 80001
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "18",
+    "name": "Miami County, Indiana",
+    "population": 35772,
+    "medianAge": 41,
+    "race": {
+      "white": 88.9,
+      "black": 3.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 1.2,
+      "twoOrMore": 5.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 40.9,
+      "someCollege": 20.1,
+      "associates": 10.4,
+      "bachelors": 11.6,
+      "graduate": 4.5
+    },
+    "medianIncome": 61130,
+    "meanIncome": 74702
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "18",
+    "name": "Monroe County, Indiana",
+    "population": 139822,
+    "medianAge": 31.4,
+    "race": {
+      "white": 83.4,
+      "black": 3.6,
+      "asian": 6.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5.2,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.2,
+      "highSchool": 21.4,
+      "someCollege": 17.4,
+      "associates": 6.9,
+      "bachelors": 23.6,
+      "graduate": 25.5
+    },
+    "medianIncome": 63372,
+    "meanIncome": 87694
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "18",
+    "name": "Montgomery County, Indiana",
+    "population": 38155,
+    "medianAge": 40,
+    "race": {
+      "white": 90.5,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 5.9,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 41.1,
+      "someCollege": 20.1,
+      "associates": 8.2,
+      "bachelors": 12.5,
+      "graduate": 7
+    },
+    "medianIncome": 66571,
+    "meanIncome": 83964
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "18",
+    "name": "Morgan County, Indiana",
+    "population": 72202,
+    "medianAge": 41.6,
+    "race": {
+      "white": 94.8,
+      "black": 0.5,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.4,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 39.5,
+      "someCollege": 21,
+      "associates": 9.4,
+      "bachelors": 13.9,
+      "graduate": 6.7
+    },
+    "medianIncome": 79088,
+    "meanIncome": 101705
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "18",
+    "name": "Newton County, Indiana",
+    "population": 13859,
+    "medianAge": 43,
+    "race": {
+      "white": 89.2,
+      "black": 1,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 6.6,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 48.2,
+      "someCollege": 19,
+      "associates": 7.5,
+      "bachelors": 10.1,
+      "graduate": 3.6
+    },
+    "medianIncome": 68596,
+    "meanIncome": 76850
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "18",
+    "name": "Noble County, Indiana",
+    "population": 47417,
+    "medianAge": 39.5,
+    "race": {
+      "white": 88.7,
+      "black": 0.3,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2,
+      "twoOrMore": 8.2,
+      "hispanic": 11.2
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 39.4,
+      "someCollege": 17.5,
+      "associates": 7.9,
+      "bachelors": 11.9,
+      "graduate": 5.9
+    },
+    "medianIncome": 70908,
+    "meanIncome": 85659
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "18",
+    "name": "Ohio County, Indiana",
+    "population": 5993,
+    "medianAge": 46,
+    "race": {
+      "white": 95,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.9,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 42.9,
+      "someCollege": 20.5,
+      "associates": 11.1,
+      "bachelors": 13.4,
+      "graduate": 5.5
+    },
+    "medianIncome": 67942,
+    "meanIncome": 81948
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "18",
+    "name": "Orange County, Indiana",
+    "population": 19746,
+    "medianAge": 43,
+    "race": {
+      "white": 93.3,
+      "black": 1.5,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.6,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 43.1,
+      "someCollege": 19,
+      "associates": 8.5,
+      "bachelors": 10.2,
+      "graduate": 5
+    },
+    "medianIncome": 64758,
+    "meanIncome": 82606
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "18",
+    "name": "Owen County, Indiana",
+    "population": 21434,
+    "medianAge": 45.3,
+    "race": {
+      "white": 95.5,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 43.2,
+      "someCollege": 17.4,
+      "associates": 9.5,
+      "bachelors": 11.9,
+      "graduate": 5.1
+    },
+    "medianIncome": 59586,
+    "meanIncome": 79136
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "18",
+    "name": "Parke County, Indiana",
+    "population": 16346,
+    "medianAge": 42.5,
+    "race": {
+      "white": 95,
+      "black": 2.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.6,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 39.7,
+      "someCollege": 19,
+      "associates": 11.1,
+      "bachelors": 7.8,
+      "graduate": 6.4
+    },
+    "medianIncome": 66776,
+    "meanIncome": 81663
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "18",
+    "name": "Perry County, Indiana",
+    "population": 19218,
+    "medianAge": 41.1,
+    "race": {
+      "white": 93.2,
+      "black": 2.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.4,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 46.3,
+      "someCollege": 19,
+      "associates": 9.4,
+      "bachelors": 11.8,
+      "graduate": 4.7
+    },
+    "medianIncome": 61099,
+    "meanIncome": 73098
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "18",
+    "name": "Pike County, Indiana",
+    "population": 12187,
+    "medianAge": 43.5,
+    "race": {
+      "white": 95.8,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 1.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 48.1,
+      "someCollege": 17.5,
+      "associates": 9,
+      "bachelors": 11.1,
+      "graduate": 4.6
+    },
+    "medianIncome": 66250,
+    "meanIncome": 80952
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "18",
+    "name": "Porter County, Indiana",
+    "population": 174150,
+    "medianAge": 40.6,
+    "race": {
+      "white": 85.1,
+      "black": 4.2,
+      "asian": 1.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 7.1,
+      "hispanic": 11.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.2,
+      "highSchool": 34.2,
+      "someCollege": 20.8,
+      "associates": 8.8,
+      "bachelors": 19,
+      "graduate": 11.1
+    },
+    "medianIncome": 85828,
+    "meanIncome": 107336
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "18",
+    "name": "Posey County, Indiana",
+    "population": 25163,
+    "medianAge": 43.1,
+    "race": {
+      "white": 94.1,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 3.2,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 35.3,
+      "someCollege": 20,
+      "associates": 12.7,
+      "bachelors": 16.3,
+      "graduate": 9
+    },
+    "medianIncome": 79124,
+    "meanIncome": 95179
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "18",
+    "name": "Pulaski County, Indiana",
+    "population": 12441,
+    "medianAge": 42.4,
+    "race": {
+      "white": 92.3,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 2.7,
+      "twoOrMore": 4,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 46.7,
+      "someCollege": 20.6,
+      "associates": 8.6,
+      "bachelors": 9.2,
+      "graduate": 4.4
+    },
+    "medianIncome": 59956,
+    "meanIncome": 76170
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "18",
+    "name": "Putnam County, Indiana",
+    "population": 37091,
+    "medianAge": 38.4,
+    "race": {
+      "white": 91.7,
+      "black": 3.4,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 38.6,
+      "someCollege": 22.9,
+      "associates": 9.5,
+      "bachelors": 13.7,
+      "graduate": 6.2
+    },
+    "medianIncome": 76182,
+    "meanIncome": 89501
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "18",
+    "name": "Randolph County, Indiana",
+    "population": 24425,
+    "medianAge": 42.1,
+    "race": {
+      "white": 91.4,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 3.2,
+      "twoOrMore": 4,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 44,
+      "someCollege": 23.9,
+      "associates": 8.3,
+      "bachelors": 8.7,
+      "graduate": 5.7
+    },
+    "medianIncome": 61121,
+    "meanIncome": 74024
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "18",
+    "name": "Ripley County, Indiana",
+    "population": 29039,
+    "medianAge": 40.9,
+    "race": {
+      "white": 95.3,
+      "black": 0.2,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 2.6,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 42.2,
+      "someCollege": 19,
+      "associates": 10,
+      "bachelors": 11.6,
+      "graduate": 7.7
+    },
+    "medianIncome": 71084,
+    "meanIncome": 87796
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "18",
+    "name": "Rush County, Indiana",
+    "population": 16734,
+    "medianAge": 42.7,
+    "race": {
+      "white": 96,
+      "black": 0.7,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.8,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 44.8,
+      "someCollege": 19.5,
+      "associates": 9.8,
+      "bachelors": 10.9,
+      "graduate": 5.9
+    },
+    "medianIncome": 64393,
+    "meanIncome": 74837
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "18",
+    "name": "St. Joseph County, Indiana",
+    "population": 272574,
+    "medianAge": 36.7,
+    "race": {
+      "white": 72.1,
+      "black": 12.6,
+      "asian": 2.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 3.2,
+      "twoOrMore": 9.2,
+      "hispanic": 10.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 29.7,
+      "someCollege": 20,
+      "associates": 8.9,
+      "bachelors": 19.7,
+      "graduate": 12.9
+    },
+    "medianIncome": 64885,
+    "meanIncome": 89361
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "18",
+    "name": "Scott County, Indiana",
+    "population": 24468,
+    "medianAge": 41.2,
+    "race": {
+      "white": 94.9,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.4,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 42.9,
+      "someCollege": 18.9,
+      "associates": 9.8,
+      "bachelors": 7.4,
+      "graduate": 5
+    },
+    "medianIncome": 54583,
+    "meanIncome": 70950
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "18",
+    "name": "Shelby County, Indiana",
+    "population": 45104,
+    "medianAge": 41.2,
+    "race": {
+      "white": 92.3,
+      "black": 1.2,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 3.5,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 41.3,
+      "someCollege": 19.8,
+      "associates": 9.9,
+      "bachelors": 13.4,
+      "graduate": 6
+    },
+    "medianIncome": 71301,
+    "meanIncome": 88245
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "18",
+    "name": "Spencer County, Indiana",
+    "population": 19871,
+    "medianAge": 44.2,
+    "race": {
+      "white": 94.8,
+      "black": 0.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.2,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 38.4,
+      "someCollege": 19.5,
+      "associates": 14,
+      "bachelors": 13.4,
+      "graduate": 7.8
+    },
+    "medianIncome": 70890,
+    "meanIncome": 87894
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "18",
+    "name": "Starke County, Indiana",
+    "population": 23300,
+    "medianAge": 41.9,
+    "race": {
+      "white": 94.1,
+      "black": 0.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3.6,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 43.6,
+      "someCollege": 21.7,
+      "associates": 8,
+      "bachelors": 8.7,
+      "graduate": 3.8
+    },
+    "medianIncome": 62933,
+    "meanIncome": 73831
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "18",
+    "name": "Steuben County, Indiana",
+    "population": 34648,
+    "medianAge": 43.6,
+    "race": {
+      "white": 93.2,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.3,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 37.3,
+      "someCollege": 20.1,
+      "associates": 10,
+      "bachelors": 16,
+      "graduate": 8.7
+    },
+    "medianIncome": 71483,
+    "meanIncome": 92694
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "18",
+    "name": "Sullivan County, Indiana",
+    "population": 20766,
+    "medianAge": 41.3,
+    "race": {
+      "white": 91.1,
+      "black": 3.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.1,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 42.1,
+      "someCollege": 17.7,
+      "associates": 14,
+      "bachelors": 10.4,
+      "graduate": 3.8
+    },
+    "medianIncome": 54985,
+    "meanIncome": 74197
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "18",
+    "name": "Switzerland County, Indiana",
+    "population": 9914,
+    "medianAge": 42.1,
+    "race": {
+      "white": 95.3,
+      "black": 0.3,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 47,
+      "someCollege": 17.6,
+      "associates": 7.8,
+      "bachelors": 7.2,
+      "graduate": 2.8
+    },
+    "medianIncome": 65148,
+    "meanIncome": 78313
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "18",
+    "name": "Tippecanoe County, Indiana",
+    "population": 187399,
+    "medianAge": 28.8,
+    "race": {
+      "white": 75.8,
+      "black": 6,
+      "asian": 7.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 7,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 27.2,
+      "someCollege": 16.7,
+      "associates": 8,
+      "bachelors": 22.5,
+      "graduate": 17.6
+    },
+    "medianIncome": 58622,
+    "meanIncome": 80668
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "18",
+    "name": "Tipton County, Indiana",
+    "population": 15329,
+    "medianAge": 44.5,
+    "race": {
+      "white": 94.5,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 2.7,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 37.1,
+      "someCollege": 19.6,
+      "associates": 10.1,
+      "bachelors": 17.1,
+      "graduate": 7.7
+    },
+    "medianIncome": 78309,
+    "meanIncome": 92887
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "18",
+    "name": "Union County, Indiana",
+    "population": 7028,
+    "medianAge": 43.7,
+    "race": {
+      "white": 95.9,
+      "black": 0.6,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.3,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 36,
+      "someCollege": 20.3,
+      "associates": 12.9,
+      "bachelors": 14.7,
+      "graduate": 5.9
+    },
+    "medianIncome": 79500,
+    "meanIncome": 93659
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "18",
+    "name": "Vanderburgh County, Indiana",
+    "population": 179908,
+    "medianAge": 38.9,
+    "race": {
+      "white": 82.1,
+      "black": 9.7,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 1.6,
+      "twoOrMore": 4.8,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 32.5,
+      "someCollege": 20.6,
+      "associates": 11.1,
+      "bachelors": 17.8,
+      "graduate": 9.3
+    },
+    "medianIncome": 60938,
+    "meanIncome": 82253
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "18",
+    "name": "Vermillion County, Indiana",
+    "population": 15452,
+    "medianAge": 42.5,
+    "race": {
+      "white": 96.1,
+      "black": 0,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.3,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 43.2,
+      "someCollege": 18.8,
+      "associates": 13.4,
+      "bachelors": 12.6,
+      "graduate": 4.6
+    },
+    "medianIncome": 59363,
+    "meanIncome": 72225
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "18",
+    "name": "Vigo County, Indiana",
+    "population": 106201,
+    "medianAge": 36.4,
+    "race": {
+      "white": 85.3,
+      "black": 6.1,
+      "asian": 2.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 4.9,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 33.6,
+      "someCollege": 21.4,
+      "associates": 9.6,
+      "bachelors": 15.4,
+      "graduate": 10.5
+    },
+    "medianIncome": 52525,
+    "meanIncome": 73599
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "18",
+    "name": "Wabash County, Indiana",
+    "population": 30901,
+    "medianAge": 42.6,
+    "race": {
+      "white": 94.4,
+      "black": 1.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 2.8,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 42,
+      "someCollege": 19.1,
+      "associates": 9.2,
+      "bachelors": 14.3,
+      "graduate": 7.3
+    },
+    "medianIncome": 68414,
+    "meanIncome": 82223
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "18",
+    "name": "Warren County, Indiana",
+    "population": 8469,
+    "medianAge": 43.4,
+    "race": {
+      "white": 94.9,
+      "black": 0.1,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.1,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 42.5,
+      "someCollege": 19.9,
+      "associates": 12.4,
+      "bachelors": 12.6,
+      "graduate": 4.7
+    },
+    "medianIncome": 74635,
+    "meanIncome": 89482
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "18",
+    "name": "Warrick County, Indiana",
+    "population": 64650,
+    "medianAge": 41.3,
+    "race": {
+      "white": 90.9,
+      "black": 2.1,
+      "asian": 1.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.6,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 28.9,
+      "someCollege": 19.4,
+      "associates": 11.7,
+      "bachelors": 21.9,
+      "graduate": 13.6
+    },
+    "medianIncome": 95027,
+    "meanIncome": 121754
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "18",
+    "name": "Washington County, Indiana",
+    "population": 28167,
+    "medianAge": 41.4,
+    "race": {
+      "white": 96,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.9,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.9,
+      "highSchool": 42.9,
+      "someCollege": 20.4,
+      "associates": 10.9,
+      "bachelors": 9.9,
+      "graduate": 3.9
+    },
+    "medianIncome": 61358,
+    "meanIncome": 74773
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "18",
+    "name": "Wayne County, Indiana",
+    "population": 66377,
+    "medianAge": 40.9,
+    "race": {
+      "white": 87,
+      "black": 4.1,
+      "asian": 1.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.6,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 36.7,
+      "someCollege": 22,
+      "associates": 9.4,
+      "bachelors": 12.3,
+      "graduate": 7.9
+    },
+    "medianIncome": 56652,
+    "meanIncome": 76475
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "18",
+    "name": "Wells County, Indiana",
+    "population": 28261,
+    "medianAge": 40.2,
+    "race": {
+      "white": 93.3,
+      "black": 1.1,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 3.2,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 44,
+      "someCollege": 19,
+      "associates": 11.5,
+      "bachelors": 13.5,
+      "graduate": 5.4
+    },
+    "medianIncome": 69741,
+    "meanIncome": 86401
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "18",
+    "name": "White County, Indiana",
+    "population": 24709,
+    "medianAge": 42.5,
+    "race": {
+      "white": 88,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 5.8,
+      "twoOrMore": 5.3,
+      "hispanic": 10.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 41.2,
+      "someCollege": 21.4,
+      "associates": 9.4,
+      "bachelors": 13,
+      "graduate": 5.3
+    },
+    "medianIncome": 66143,
+    "meanIncome": 81327
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "18",
+    "name": "Whitley County, Indiana",
+    "population": 34388,
+    "medianAge": 41.8,
+    "race": {
+      "white": 93.7,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.8,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 36.5,
+      "someCollege": 20.9,
+      "associates": 11.9,
+      "bachelors": 16,
+      "graduate": 6.8
+    },
+    "medianIncome": 75790,
+    "meanIncome": 92181
+  }
+]

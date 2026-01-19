@@ -1,14 +1,27 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useApp } from '@/lib/AppContext';
 import { getPersonaByCounty, getPoliticalColor } from '@/data/mockData';
 import { Persona } from '@/types';
-import { ArrowLeft, Play, TrendingUp, Users, Home, Heart } from 'lucide-react';
+import { ArrowLeft, Play, TrendingUp, Users, Home, Heart, Sparkles, Loader2 } from 'lucide-react';
 
 export default function PersonaScreen() {
-  const { selectedCounty, selectedState, goToCountyMap, setCurrentView, setSelectedPersona } = useApp();
+  const { selectedCounty, selectedState, selectedPersona, goToCountyMap, setCurrentView, setSelectedPersona } = useApp();
   const [activePriority, setActivePriority] = useState<number | null>(null);
+  const [persona, setPersona] = useState<Persona | null>(selectedPersona || getPersonaByCounty(selectedCounty?.id || ''));
+  const [generatingPersona, setGeneratingPersona] = useState(false);
+  const [generationError, setGenerationError] = useState<string | null>(null);
+
+  // Update persona when selectedPersona changes
+  useEffect(() => {
+    if (selectedPersona) {
+      setPersona(selectedPersona);
+    } else {
+      const mockPersona = getPersonaByCounty(selectedCounty?.id || '');
+      setPersona(mockPersona || null);
+    }
+  }, [selectedPersona, selectedCounty]);
 
   if (!selectedCounty) {
     if (selectedState) {
@@ -19,19 +32,93 @@ export default function PersonaScreen() {
     return null;
   }
 
-  const persona = getPersonaByCounty(selectedCounty.id);
+  const handleGeneratePersona = async () => {
+    setGeneratingPersona(true);
+    setGenerationError(null);
+    
+    try {
+      const response = await fetch('/api/persona/generate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ countyId: selectedCounty.id }),
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.error || 'Failed to generate persona');
+      }
+
+      const generatedPersona = await response.json();
+      setPersona(generatedPersona);
+      setSelectedPersona(generatedPersona); // Update context
+    } catch (error) {
+      console.error('Failed to generate persona:', error);
+      setGenerationError(error instanceof Error ? error.message : 'Failed to generate persona. Please try again.');
+    } finally {
+      setGeneratingPersona(false);
+    }
+  };
 
   if (!persona) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
-        <div className="bg-white rounded-lg shadow-lg p-8 text-center">
-          <p className="text-gray-600 mb-4">No persona data available for {selectedCounty.name} yet.</p>
-          <button
-            onClick={() => selectedState && goToCountyMap(selectedState)}
-            className="px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors"
-          >
-            Return to Counties
-          </button>
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
+        <div className="absolute top-0 left-0 right-0 bg-white/90 backdrop-blur-sm border-b border-gray-200 shadow-sm z-10">
+          <div className="max-w-7xl mx-auto px-6 py-4">
+            <button
+              onClick={() => selectedState && goToCountyMap(selectedState)}
+              className="flex items-center gap-2 text-gray-600 hover:text-gray-900 mb-2 transition-colors"
+            >
+              <ArrowLeft className="w-4 h-4" />
+              <span className="text-sm font-medium">Back to Counties</span>
+            </button>
+          </div>
+        </div>
+
+        <div className="pt-24 px-6 pb-12">
+          <div className="max-w-2xl mx-auto">
+            <div className="bg-white rounded-lg shadow-lg p-8 text-center">
+              <div className="mb-6">
+                <Sparkles className="w-16 h-16 text-indigo-600 mx-auto mb-4" />
+                <h2 className="text-2xl font-bold text-gray-900 mb-2">Create a Persona</h2>
+                <p className="text-gray-600 mb-4">
+                  Generate a realistic persona for {selectedCounty.name}, {selectedCounty.stateName}
+                </p>
+                <p className="text-sm text-gray-500 mb-6">
+                  Our AI will create a persona based on the county's demographics, politics, and local context.
+                </p>
+              </div>
+
+              {generationError && (
+                <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-lg">
+                  <p className="text-sm text-red-800">{generationError}</p>
+                </div>
+              )}
+
+              {generatingPersona ? (
+                <div className="flex flex-col items-center gap-4">
+                  <Loader2 className="w-8 h-8 text-indigo-600 animate-spin" />
+                  <p className="text-gray-600">Generating persona based on county data...</p>
+                  <p className="text-sm text-gray-500">This may take a few seconds</p>
+                </div>
+              ) : (
+                <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                  <button
+                    onClick={handleGeneratePersona}
+                    className="inline-flex items-center gap-3 px-8 py-4 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors text-lg font-semibold shadow-lg hover:shadow-xl"
+                  >
+                    <Sparkles className="w-5 h-5" />
+                    Generate Persona with AI
+                  </button>
+                  <button
+                    onClick={() => selectedState && goToCountyMap(selectedState)}
+                    className="inline-flex items-center gap-2 px-6 py-4 bg-white border-2 border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors text-lg font-semibold"
+                  >
+                    Return to Counties
+                  </button>
+                </div>
+              )}
+            </div>
+          </div>
         </div>
       </div>
     );

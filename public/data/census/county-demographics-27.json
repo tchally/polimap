@@ -1,0 +1,2351 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "27",
+    "name": "Aitkin County, Minnesota",
+    "population": 15930,
+    "medianAge": 56.5,
+    "race": {
+      "white": 93.5,
+      "black": 0.7,
+      "asian": 0.1,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 37.6,
+      "someCollege": 24.5,
+      "associates": 12.5,
+      "bachelors": 12.9,
+      "graduate": 6.1
+    },
+    "medianIncome": 59498,
+    "meanIncome": 75979
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "27",
+    "name": "Anoka County, Minnesota",
+    "population": 367095,
+    "medianAge": 38.8,
+    "race": {
+      "white": 77.2,
+      "black": 8.3,
+      "asian": 5.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 5.9,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.8,
+      "highSchool": 27.5,
+      "someCollege": 22.4,
+      "associates": 12.6,
+      "bachelors": 22.8,
+      "graduate": 8.9
+    },
+    "medianIncome": 98764,
+    "meanIncome": 116995
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "27",
+    "name": "Becker County, Minnesota",
+    "population": 35260,
+    "medianAge": 43.2,
+    "race": {
+      "white": 86.2,
+      "black": 0.8,
+      "asian": 0.7,
+      "nativeAmerican": 4.9,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.8,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 28.9,
+      "someCollege": 22.7,
+      "associates": 14.1,
+      "bachelors": 18.8,
+      "graduate": 8.7
+    },
+    "medianIncome": 71117,
+    "meanIncome": 97828
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "27",
+    "name": "Beltrami County, Minnesota",
+    "population": 46421,
+    "medianAge": 35.1,
+    "race": {
+      "white": 70.9,
+      "black": 1.4,
+      "asian": 0.6,
+      "nativeAmerican": 19.4,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 6.9,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 26.3,
+      "someCollege": 21.5,
+      "associates": 12.7,
+      "bachelors": 20.3,
+      "graduate": 12
+    },
+    "medianIncome": 67257,
+    "meanIncome": 87814
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "27",
+    "name": "Benton County, Minnesota",
+    "population": 41458,
+    "medianAge": 36.7,
+    "race": {
+      "white": 87.3,
+      "black": 3.9,
+      "asian": 1.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.2,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 29.6,
+      "someCollege": 23.6,
+      "associates": 14.6,
+      "bachelors": 17.3,
+      "graduate": 7.2
+    },
+    "medianIncome": 71480,
+    "meanIncome": 89846
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "27",
+    "name": "Big Stone County, Minnesota",
+    "population": 5152,
+    "medianAge": 47.4,
+    "race": {
+      "white": 94.9,
+      "black": 0.2,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.5,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 38,
+      "someCollege": 17.3,
+      "associates": 16.7,
+      "bachelors": 13,
+      "graduate": 8.3
+    },
+    "medianIncome": 65475,
+    "meanIncome": 84183
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "27",
+    "name": "Blue Earth County, Minnesota",
+    "population": 69386,
+    "medianAge": 31.5,
+    "race": {
+      "white": 86.8,
+      "black": 4.6,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 4.6,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 24.8,
+      "someCollege": 21.4,
+      "associates": 14.3,
+      "bachelors": 23.1,
+      "graduate": 11.4
+    },
+    "medianIncome": 72623,
+    "meanIncome": 91392
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "27",
+    "name": "Brown County, Minnesota",
+    "population": 25826,
+    "medianAge": 42.4,
+    "race": {
+      "white": 94.2,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 2.8,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 35.1,
+      "someCollege": 21.2,
+      "associates": 12.4,
+      "bachelors": 16.6,
+      "graduate": 7.6
+    },
+    "medianIncome": 68690,
+    "meanIncome": 84690
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "27",
+    "name": "Carlton County, Minnesota",
+    "population": 36457,
+    "medianAge": 41.7,
+    "race": {
+      "white": 88,
+      "black": 2.1,
+      "asian": 0.5,
+      "nativeAmerican": 3.5,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 5.4,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 30.7,
+      "someCollege": 23.2,
+      "associates": 14.1,
+      "bachelors": 17.1,
+      "graduate": 8.4
+    },
+    "medianIncome": 80042,
+    "meanIncome": 95960
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "27",
+    "name": "Carver County, Minnesota",
+    "population": 108622,
+    "medianAge": 38.9,
+    "race": {
+      "white": 87.8,
+      "black": 1.5,
+      "asian": 3.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 5.5,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 3.7,
+      "highSchool": 17.7,
+      "someCollege": 17.3,
+      "associates": 10.8,
+      "bachelors": 34,
+      "graduate": 16.5
+    },
+    "medianIncome": 123144,
+    "meanIncome": 154466
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "27",
+    "name": "Cass County, Minnesota",
+    "population": 30688,
+    "medianAge": 49.7,
+    "race": {
+      "white": 81.7,
+      "black": 0.4,
+      "asian": 0.5,
+      "nativeAmerican": 8.9,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 7.6,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 31.9,
+      "someCollege": 24.8,
+      "associates": 12.3,
+      "bachelors": 18,
+      "graduate": 7.4
+    },
+    "medianIncome": 64937,
+    "meanIncome": 86129
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "27",
+    "name": "Chippewa County, Minnesota",
+    "population": 12388,
+    "medianAge": 41.8,
+    "race": {
+      "white": 85.2,
+      "black": 0.9,
+      "asian": 1.3,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 1.7,
+      "other": 5.4,
+      "twoOrMore": 3.7,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 33.4,
+      "someCollege": 20.2,
+      "associates": 16.8,
+      "bachelors": 13.3,
+      "graduate": 6.3
+    },
+    "medianIncome": 69192,
+    "meanIncome": 83510
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "27",
+    "name": "Chisago County, Minnesota",
+    "population": 57434,
+    "medianAge": 40.8,
+    "race": {
+      "white": 91.7,
+      "black": 1.2,
+      "asian": 1.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.3,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.4,
+      "highSchool": 32.3,
+      "someCollege": 23.8,
+      "associates": 15.5,
+      "bachelors": 16.7,
+      "graduate": 7.2
+    },
+    "medianIncome": 98260,
+    "meanIncome": 113914
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "27",
+    "name": "Clay County, Minnesota",
+    "population": 65628,
+    "medianAge": 33.5,
+    "race": {
+      "white": 86.3,
+      "black": 4.8,
+      "asian": 1.7,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.3,
+      "other": 0.6,
+      "twoOrMore": 5.4,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 22.2,
+      "someCollege": 20.1,
+      "associates": 13.6,
+      "bachelors": 26,
+      "graduate": 13
+    },
+    "medianIncome": 77664,
+    "meanIncome": 96841
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "27",
+    "name": "Clearwater County, Minnesota",
+    "population": 8579,
+    "medianAge": 41.8,
+    "race": {
+      "white": 84.5,
+      "black": 0.2,
+      "asian": 0.7,
+      "nativeAmerican": 7.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 7,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 37.6,
+      "someCollege": 21.5,
+      "associates": 11.2,
+      "bachelors": 12.9,
+      "graduate": 5.3
+    },
+    "medianIncome": 64934,
+    "meanIncome": 82595
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "27",
+    "name": "Cook County, Minnesota",
+    "population": 5633,
+    "medianAge": 52.3,
+    "race": {
+      "white": 85.1,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 6.3,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 5.8,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 2.7,
+      "highSchool": 23.8,
+      "someCollege": 16.8,
+      "associates": 11,
+      "bachelors": 27.8,
+      "graduate": 17.8
+    },
+    "medianIncome": 71643,
+    "meanIncome": 93449
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "27",
+    "name": "Cottonwood County, Minnesota",
+    "population": 11458,
+    "medianAge": 41.3,
+    "race": {
+      "white": 82.8,
+      "black": 1.8,
+      "asian": 3.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.8,
+      "other": 5.5,
+      "twoOrMore": 5,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 35.2,
+      "someCollege": 22.2,
+      "associates": 12.2,
+      "bachelors": 16.9,
+      "graduate": 6
+    },
+    "medianIncome": 68239,
+    "meanIncome": 83505
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "27",
+    "name": "Crow Wing County, Minnesota",
+    "population": 67113,
+    "medianAge": 45.4,
+    "race": {
+      "white": 94.2,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.3,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 28.3,
+      "someCollege": 23.5,
+      "associates": 14.3,
+      "bachelors": 19.1,
+      "graduate": 9.5
+    },
+    "medianIncome": 71343,
+    "meanIncome": 92518
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "27",
+    "name": "Dakota County, Minnesota",
+    "population": 442204,
+    "medianAge": 38.4,
+    "race": {
+      "white": 76,
+      "black": 7.3,
+      "asian": 5.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 7.2,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 19.7,
+      "someCollege": 19.5,
+      "associates": 11.7,
+      "bachelors": 29.9,
+      "graduate": 14.7
+    },
+    "medianIncome": 105212,
+    "meanIncome": 129420
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "27",
+    "name": "Dodge County, Minnesota",
+    "population": 20962,
+    "medianAge": 38.5,
+    "race": {
+      "white": 91.3,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 4,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 28.7,
+      "someCollege": 22.2,
+      "associates": 14.3,
+      "bachelors": 21.5,
+      "graduate": 8.3
+    },
+    "medianIncome": 92943,
+    "meanIncome": 113969
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "27",
+    "name": "Douglas County, Minnesota",
+    "population": 39354,
+    "medianAge": 44.3,
+    "race": {
+      "white": 95.2,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 1.2,
+      "twoOrMore": 2.3,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 4,
+      "highSchool": 30,
+      "someCollege": 19.7,
+      "associates": 17.4,
+      "bachelors": 20,
+      "graduate": 9.1
+    },
+    "medianIncome": 77264,
+    "meanIncome": 99168
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "27",
+    "name": "Faribault County, Minnesota",
+    "population": 13909,
+    "medianAge": 44.6,
+    "race": {
+      "white": 89.8,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 33.4,
+      "someCollege": 23.6,
+      "associates": 13.5,
+      "bachelors": 16.4,
+      "graduate": 5.2
+    },
+    "medianIncome": 64391,
+    "meanIncome": 83306
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "27",
+    "name": "Fillmore County, Minnesota",
+    "population": 21346,
+    "medianAge": 42.3,
+    "race": {
+      "white": 95.3,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.6,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 31.8,
+      "someCollege": 21.5,
+      "associates": 15.8,
+      "bachelors": 16,
+      "graduate": 7.7
+    },
+    "medianIncome": 75225,
+    "meanIncome": 91634
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "27",
+    "name": "Freeborn County, Minnesota",
+    "population": 30752,
+    "medianAge": 43.9,
+    "race": {
+      "white": 84.9,
+      "black": 1.3,
+      "asian": 3.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 3.1,
+      "twoOrMore": 7.1,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 33.1,
+      "someCollege": 23.9,
+      "associates": 14.8,
+      "bachelors": 12.3,
+      "graduate": 5.8
+    },
+    "medianIncome": 69012,
+    "meanIncome": 90460
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "27",
+    "name": "Goodhue County, Minnesota",
+    "population": 47844,
+    "medianAge": 42.3,
+    "race": {
+      "white": 90.3,
+      "black": 1.6,
+      "asian": 0.8,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 2.5,
+      "twoOrMore": 3.8,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 33,
+      "someCollege": 20,
+      "associates": 12.8,
+      "bachelors": 18.9,
+      "graduate": 9
+    },
+    "medianIncome": 82749,
+    "meanIncome": 100638
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "27",
+    "name": "Grant County, Minnesota",
+    "population": 6108,
+    "medianAge": 43.7,
+    "race": {
+      "white": 94.1,
+      "black": 0.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.7,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 30.8,
+      "someCollege": 24.5,
+      "associates": 20,
+      "bachelors": 13.8,
+      "graduate": 5.2
+    },
+    "medianIncome": 72957,
+    "meanIncome": 92164
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "27",
+    "name": "Hennepin County, Minnesota",
+    "population": 1268903,
+    "medianAge": 37.4,
+    "race": {
+      "white": 67.6,
+      "black": 13.3,
+      "asian": 7.1,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 7.7,
+      "hispanic": 7.7
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 15.2,
+      "someCollege": 16.8,
+      "associates": 8.7,
+      "bachelors": 33.4,
+      "graduate": 20
+    },
+    "medianIncome": 96339,
+    "meanIncome": 135302
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "27",
+    "name": "Houston County, Minnesota",
+    "population": 18768,
+    "medianAge": 45,
+    "race": {
+      "white": 94,
+      "black": 0.4,
+      "asian": 1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.8,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 30.8,
+      "someCollege": 17.5,
+      "associates": 18.2,
+      "bachelors": 20.6,
+      "graduate": 7.4
+    },
+    "medianIncome": 77087,
+    "meanIncome": 95566
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "27",
+    "name": "Hubbard County, Minnesota",
+    "population": 21700,
+    "medianAge": 48.3,
+    "race": {
+      "white": 91.1,
+      "black": 0.5,
+      "asian": 0.4,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 4.7,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 28.1,
+      "someCollege": 21.8,
+      "associates": 14.2,
+      "bachelors": 20.2,
+      "graduate": 10.2
+    },
+    "medianIncome": 70622,
+    "meanIncome": 91194
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "27",
+    "name": "Isanti County, Minnesota",
+    "population": 41934,
+    "medianAge": 40.1,
+    "race": {
+      "white": 92.5,
+      "black": 1,
+      "asian": 2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.3,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 35.3,
+      "someCollege": 24.5,
+      "associates": 12.9,
+      "bachelors": 14.1,
+      "graduate": 5.5
+    },
+    "medianIncome": 86573,
+    "meanIncome": 101811
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "27",
+    "name": "Itasca County, Minnesota",
+    "population": 45141,
+    "medianAge": 46.9,
+    "race": {
+      "white": 89.4,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 2.6,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 6.4,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 30.6,
+      "someCollege": 24.3,
+      "associates": 14.6,
+      "bachelors": 16.3,
+      "graduate": 8.8
+    },
+    "medianIncome": 66380,
+    "meanIncome": 85747
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "27",
+    "name": "Jackson County, Minnesota",
+    "population": 9964,
+    "medianAge": 44.5,
+    "race": {
+      "white": 92,
+      "black": 0.6,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 4,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 31.7,
+      "someCollege": 23,
+      "associates": 14.2,
+      "bachelors": 17.9,
+      "graduate": 7
+    },
+    "medianIncome": 69955,
+    "meanIncome": 87597
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "27",
+    "name": "Kanabec County, Minnesota",
+    "population": 16261,
+    "medianAge": 44.5,
+    "race": {
+      "white": 94.5,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.8,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.8,
+      "highSchool": 37.8,
+      "someCollege": 26.6,
+      "associates": 11,
+      "bachelors": 10,
+      "graduate": 5.7
+    },
+    "medianIncome": 71915,
+    "meanIncome": 87243
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "27",
+    "name": "Kandiyohi County, Minnesota",
+    "population": 43757,
+    "medianAge": 39.8,
+    "race": {
+      "white": 81.1,
+      "black": 5.6,
+      "asian": 1.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 6.1,
+      "twoOrMore": 5.2,
+      "hispanic": 14
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 27.7,
+      "someCollege": 21.7,
+      "associates": 14.3,
+      "bachelors": 19.1,
+      "graduate": 8
+    },
+    "medianIncome": 75097,
+    "meanIncome": 93123
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "27",
+    "name": "Kittson County, Minnesota",
+    "population": 4163,
+    "medianAge": 48.4,
+    "race": {
+      "white": 93.8,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.4,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 32.8,
+      "someCollege": 21.5,
+      "associates": 13.6,
+      "bachelors": 20.6,
+      "graduate": 7.4
+    },
+    "medianIncome": 69615,
+    "meanIncome": 87046
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "27",
+    "name": "Koochiching County, Minnesota",
+    "population": 11950,
+    "medianAge": 50.5,
+    "race": {
+      "white": 90.2,
+      "black": 0.6,
+      "asian": 0.9,
+      "nativeAmerican": 2.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5.8,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 31.3,
+      "someCollege": 28.3,
+      "associates": 13.6,
+      "bachelors": 14.7,
+      "graduate": 5.6
+    },
+    "medianIncome": 69115,
+    "meanIncome": 85803
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "27",
+    "name": "Lac qui Parle County, Minnesota",
+    "population": 6694,
+    "medianAge": 47.7,
+    "race": {
+      "white": 93.9,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 2.8,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 36,
+      "someCollege": 20.5,
+      "associates": 16.6,
+      "bachelors": 17.2,
+      "graduate": 4.9
+    },
+    "medianIncome": 71639,
+    "meanIncome": 91856
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "27",
+    "name": "Lake County, Minnesota",
+    "population": 10911,
+    "medianAge": 49.6,
+    "race": {
+      "white": 95.5,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.4,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 30.8,
+      "someCollege": 22.4,
+      "associates": 14.1,
+      "bachelors": 16.1,
+      "graduate": 9.6
+    },
+    "medianIncome": 75621,
+    "meanIncome": 87480
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "27",
+    "name": "Lake of the Woods County, Minnesota",
+    "population": 3800,
+    "medianAge": 50.8,
+    "race": {
+      "white": 90.7,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 2.1,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 6.5,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 35,
+      "someCollege": 26.2,
+      "associates": 13.5,
+      "bachelors": 15.2,
+      "graduate": 6.3
+    },
+    "medianIncome": 70091,
+    "meanIncome": 85860
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "27",
+    "name": "Le Sueur County, Minnesota",
+    "population": 28936,
+    "medianAge": 41.4,
+    "race": {
+      "white": 91.6,
+      "black": 0.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.9,
+      "twoOrMore": 3.8,
+      "hispanic": 6.6
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 32.4,
+      "someCollege": 22.4,
+      "associates": 14.9,
+      "bachelors": 18.2,
+      "graduate": 7.2
+    },
+    "medianIncome": 90218,
+    "meanIncome": 107148
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "27",
+    "name": "Lincoln County, Minnesota",
+    "population": 5594,
+    "medianAge": 45,
+    "race": {
+      "white": 95.5,
+      "black": 0.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 3.1,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 34.5,
+      "someCollege": 21.5,
+      "associates": 13.9,
+      "bachelors": 17,
+      "graduate": 7.4
+    },
+    "medianIncome": 67715,
+    "meanIncome": 89386
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "27",
+    "name": "Lyon County, Minnesota",
+    "population": 25498,
+    "medianAge": 37.3,
+    "race": {
+      "white": 83.5,
+      "black": 2.5,
+      "asian": 4.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.4,
+      "twoOrMore": 4.5,
+      "hispanic": 7.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 27.1,
+      "someCollege": 22.2,
+      "associates": 13.9,
+      "bachelors": 20.4,
+      "graduate": 8.3
+    },
+    "medianIncome": 72761,
+    "meanIncome": 92902
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "27",
+    "name": "McLeod County, Minnesota",
+    "population": 36771,
+    "medianAge": 41.5,
+    "race": {
+      "white": 91.3,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 4.6,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 34.9,
+      "someCollege": 22.5,
+      "associates": 16.5,
+      "bachelors": 13,
+      "graduate": 6.6
+    },
+    "medianIncome": 78468,
+    "meanIncome": 98060
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "27",
+    "name": "Mahnomen County, Minnesota",
+    "population": 5371,
+    "medianAge": 35.2,
+    "race": {
+      "white": 45.3,
+      "black": 0.2,
+      "asian": 0.4,
+      "nativeAmerican": 35.7,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 18.1,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 34.8,
+      "someCollege": 24.3,
+      "associates": 13.4,
+      "bachelors": 10.3,
+      "graduate": 4
+    },
+    "medianIncome": 53925,
+    "meanIncome": 70590
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "27",
+    "name": "Marshall County, Minnesota",
+    "population": 8961,
+    "medianAge": 43.2,
+    "race": {
+      "white": 93.2,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.5,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 38,
+      "someCollege": 20.8,
+      "associates": 15.1,
+      "bachelors": 15,
+      "graduate": 3.8
+    },
+    "medianIncome": 71701,
+    "meanIncome": 85400
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "27",
+    "name": "Martin County, Minnesota",
+    "population": 19864,
+    "medianAge": 44.5,
+    "race": {
+      "white": 93.1,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 3.5,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 34.1,
+      "someCollege": 23,
+      "associates": 13.8,
+      "bachelors": 15.5,
+      "graduate": 8.3
+    },
+    "medianIncome": 62969,
+    "meanIncome": 84513
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "27",
+    "name": "Meeker County, Minnesota",
+    "population": 23422,
+    "medianAge": 42.3,
+    "race": {
+      "white": 94.4,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 2.7,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 34.7,
+      "someCollege": 22.1,
+      "associates": 16.5,
+      "bachelors": 14,
+      "graduate": 6.4
+    },
+    "medianIncome": 75037,
+    "meanIncome": 92101
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "27",
+    "name": "Mille Lacs County, Minnesota",
+    "population": 26912,
+    "medianAge": 41.2,
+    "race": {
+      "white": 89.3,
+      "black": 0.3,
+      "asian": 0.6,
+      "nativeAmerican": 4.1,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 4.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 37,
+      "someCollege": 23,
+      "associates": 13.7,
+      "bachelors": 11.9,
+      "graduate": 5.6
+    },
+    "medianIncome": 71455,
+    "meanIncome": 87091
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "27",
+    "name": "Morrison County, Minnesota",
+    "population": 34131,
+    "medianAge": 42.2,
+    "race": {
+      "white": 95.3,
+      "black": 0.3,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.9,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 37.7,
+      "someCollege": 22,
+      "associates": 14.1,
+      "bachelors": 13.1,
+      "graduate": 5.8
+    },
+    "medianIncome": 68640,
+    "meanIncome": 87320
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "27",
+    "name": "Mower County, Minnesota",
+    "population": 40069,
+    "medianAge": 38.9,
+    "race": {
+      "white": 78.9,
+      "black": 3.5,
+      "asian": 5.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.4,
+      "other": 4.9,
+      "twoOrMore": 6.3,
+      "hispanic": 13
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 32.8,
+      "someCollege": 19.7,
+      "associates": 13.7,
+      "bachelors": 15.4,
+      "graduate": 8.1
+    },
+    "medianIncome": 71495,
+    "meanIncome": 91617
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "27",
+    "name": "Murray County, Minnesota",
+    "population": 8119,
+    "medianAge": 46.6,
+    "race": {
+      "white": 91.2,
+      "black": 0.6,
+      "asian": 1.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 3.7,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 32.7,
+      "someCollege": 20.9,
+      "associates": 13.4,
+      "bachelors": 17.8,
+      "graduate": 6.1
+    },
+    "medianIncome": 74475,
+    "meanIncome": 90524
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "27",
+    "name": "Nicollet County, Minnesota",
+    "population": 34350,
+    "medianAge": 37.8,
+    "race": {
+      "white": 87.5,
+      "black": 3.5,
+      "asian": 1.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.4,
+      "hispanic": 5.3
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 25.4,
+      "someCollege": 19.3,
+      "associates": 14.6,
+      "bachelors": 23.3,
+      "graduate": 12.4
+    },
+    "medianIncome": 80362,
+    "meanIncome": 109919
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "27",
+    "name": "Nobles County, Minnesota",
+    "population": 22067,
+    "medianAge": 36.3,
+    "race": {
+      "white": 61,
+      "black": 5.2,
+      "asian": 5.1,
+      "nativeAmerican": 2.8,
+      "pacificIslander": 0,
+      "other": 13.9,
+      "twoOrMore": 12.1,
+      "hispanic": 33.1
+    },
+    "education": {
+      "lessThanHighSchool": 22.2,
+      "highSchool": 30,
+      "someCollege": 18.6,
+      "associates": 11.5,
+      "bachelors": 13.3,
+      "graduate": 4.4
+    },
+    "medianIncome": 65509,
+    "meanIncome": 83658
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "27",
+    "name": "Norman County, Minnesota",
+    "population": 6411,
+    "medianAge": 43.9,
+    "race": {
+      "white": 89.8,
+      "black": 1.1,
+      "asian": 0.9,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.2,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 33.6,
+      "someCollege": 21.8,
+      "associates": 17,
+      "bachelors": 17,
+      "graduate": 3.9
+    },
+    "medianIncome": 69833,
+    "meanIncome": 87596
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "27",
+    "name": "Olmsted County, Minnesota",
+    "population": 163425,
+    "medianAge": 37.8,
+    "race": {
+      "white": 78.7,
+      "black": 7.2,
+      "asian": 6.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 5.6,
+      "hispanic": 5.8
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 19.8,
+      "someCollege": 15.3,
+      "associates": 11.5,
+      "bachelors": 27.2,
+      "graduate": 21.3
+    },
+    "medianIncome": 93494,
+    "meanIncome": 128162
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "27",
+    "name": "Otter Tail County, Minnesota",
+    "population": 60281,
+    "medianAge": 46.3,
+    "race": {
+      "white": 91.8,
+      "black": 1,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 4.4,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 28.1,
+      "someCollege": 22.2,
+      "associates": 16.3,
+      "bachelors": 18.6,
+      "graduate": 8.8
+    },
+    "medianIncome": 70912,
+    "meanIncome": 90657
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "27",
+    "name": "Pennington County, Minnesota",
+    "population": 13877,
+    "medianAge": 40.2,
+    "race": {
+      "white": 91,
+      "black": 1.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 4.5,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 30.2,
+      "someCollege": 23.1,
+      "associates": 22,
+      "bachelors": 14.3,
+      "graduate": 5
+    },
+    "medianIncome": 72561,
+    "meanIncome": 90522
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "27",
+    "name": "Pine County, Minnesota",
+    "population": 29411,
+    "medianAge": 45.8,
+    "race": {
+      "white": 89.6,
+      "black": 2.3,
+      "asian": 1.1,
+      "nativeAmerican": 2.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4.4,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 39.7,
+      "someCollege": 22.5,
+      "associates": 12.9,
+      "bachelors": 11.5,
+      "graduate": 4.9
+    },
+    "medianIncome": 69666,
+    "meanIncome": 82355
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "27",
+    "name": "Pipestone County, Minnesota",
+    "population": 9352,
+    "medianAge": 39.8,
+    "race": {
+      "white": 87.1,
+      "black": 1.9,
+      "asian": 1,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.4,
+      "other": 2.9,
+      "twoOrMore": 6,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 34.7,
+      "someCollege": 23.5,
+      "associates": 12.8,
+      "bachelors": 14.9,
+      "graduate": 6.7
+    },
+    "medianIncome": 66073,
+    "meanIncome": 87296
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "27",
+    "name": "Polk County, Minnesota",
+    "population": 30905,
+    "medianAge": 39.5,
+    "race": {
+      "white": 87,
+      "black": 2.2,
+      "asian": 0.8,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 6.8,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 28.1,
+      "someCollege": 23.3,
+      "associates": 13.7,
+      "bachelors": 20.4,
+      "graduate": 7.7
+    },
+    "medianIncome": 69136,
+    "meanIncome": 87199
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "27",
+    "name": "Pope County, Minnesota",
+    "population": 11363,
+    "medianAge": 45.6,
+    "race": {
+      "white": 94.6,
+      "black": 0.6,
+      "asian": 0.8,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.8,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 29.5,
+      "someCollege": 22.7,
+      "associates": 18.9,
+      "bachelors": 16.8,
+      "graduate": 7
+    },
+    "medianIncome": 72205,
+    "meanIncome": 90462
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "27",
+    "name": "Ramsey County, Minnesota",
+    "population": 544438,
+    "medianAge": 35.9,
+    "race": {
+      "white": 60.7,
+      "black": 12.2,
+      "asian": 15,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 8.1,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 20.1,
+      "someCollege": 17.2,
+      "associates": 8.6,
+      "bachelors": 27.5,
+      "graduate": 18.1
+    },
+    "medianIncome": 81004,
+    "meanIncome": 110836
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "27",
+    "name": "Red Lake County, Minnesota",
+    "population": 3922,
+    "medianAge": 42.8,
+    "race": {
+      "white": 92.5,
+      "black": 0.6,
+      "asian": 0.3,
+      "nativeAmerican": 2,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 4.3,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 35.9,
+      "someCollege": 23.6,
+      "associates": 18.2,
+      "bachelors": 14.3,
+      "graduate": 3.3
+    },
+    "medianIncome": 77500,
+    "meanIncome": 88135
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "27",
+    "name": "Redwood County, Minnesota",
+    "population": 15383,
+    "medianAge": 41.1,
+    "race": {
+      "white": 86.4,
+      "black": 0.6,
+      "asian": 2.6,
+      "nativeAmerican": 4.2,
+      "pacificIslander": 0.1,
+      "other": 1.7,
+      "twoOrMore": 4.6,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 35.5,
+      "someCollege": 24.7,
+      "associates": 11.6,
+      "bachelors": 15.2,
+      "graduate": 5.6
+    },
+    "medianIncome": 67024,
+    "meanIncome": 82811
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "27",
+    "name": "Renville County, Minnesota",
+    "population": 14587,
+    "medianAge": 42.1,
+    "race": {
+      "white": 87.5,
+      "black": 0.9,
+      "asian": 0.7,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 5.7,
+      "hispanic": 9.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 34.4,
+      "someCollege": 24,
+      "associates": 14.7,
+      "bachelors": 14.7,
+      "graduate": 3.7
+    },
+    "medianIncome": 69086,
+    "meanIncome": 86499
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "27",
+    "name": "Rice County, Minnesota",
+    "population": 67389,
+    "medianAge": 37.1,
+    "race": {
+      "white": 80.3,
+      "black": 6.5,
+      "asian": 2.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 3.8,
+      "twoOrMore": 6.8,
+      "hispanic": 10.2
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 33,
+      "someCollege": 19.1,
+      "associates": 11.2,
+      "bachelors": 18.1,
+      "graduate": 11.6
+    },
+    "medianIncome": 82792,
+    "meanIncome": 104482
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "27",
+    "name": "Rock County, Minnesota",
+    "population": 9628,
+    "medianAge": 41.1,
+    "race": {
+      "white": 94.2,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.9,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 34.5,
+      "someCollege": 20.9,
+      "associates": 11.7,
+      "bachelors": 19,
+      "graduate": 7.3
+    },
+    "medianIncome": 70698,
+    "meanIncome": 91836
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "27",
+    "name": "Roseau County, Minnesota",
+    "population": 15301,
+    "medianAge": 42.3,
+    "race": {
+      "white": 89.5,
+      "black": 1,
+      "asian": 2.8,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 7,
+      "highSchool": 36.5,
+      "someCollege": 23.8,
+      "associates": 12.1,
+      "bachelors": 16.1,
+      "graduate": 4.4
+    },
+    "medianIncome": 73611,
+    "meanIncome": 88644
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "27",
+    "name": "St. Louis County, Minnesota",
+    "population": 200056,
+    "medianAge": 41.3,
+    "race": {
+      "white": 90.5,
+      "black": 1.6,
+      "asian": 1,
+      "nativeAmerican": 1.7,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.5,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 25.3,
+      "someCollege": 23.8,
+      "associates": 13.5,
+      "bachelors": 20.7,
+      "graduate": 11.8
+    },
+    "medianIncome": 69455,
+    "meanIncome": 90610
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "27",
+    "name": "Scott County, Minnesota",
+    "population": 152957,
+    "medianAge": 37.3,
+    "race": {
+      "white": 78.6,
+      "black": 5.2,
+      "asian": 6.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.6,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 20.2,
+      "someCollege": 18.3,
+      "associates": 13.4,
+      "bachelors": 30.2,
+      "graduate": 12.8
+    },
+    "medianIncome": 120247,
+    "meanIncome": 150088
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "27",
+    "name": "Sherburne County, Minnesota",
+    "population": 99178,
+    "medianAge": 36.9,
+    "race": {
+      "white": 87.8,
+      "black": 3.7,
+      "asian": 1.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 5.1,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 27.9,
+      "someCollege": 23.7,
+      "associates": 14.7,
+      "bachelors": 19.9,
+      "graduate": 8.2
+    },
+    "medianIncome": 102965,
+    "meanIncome": 121697
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "27",
+    "name": "Sibley County, Minnesota",
+    "population": 14933,
+    "medianAge": 42.2,
+    "race": {
+      "white": 89.4,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.6,
+      "twoOrMore": 6.3,
+      "hispanic": 9
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 36.4,
+      "someCollege": 25.3,
+      "associates": 12.3,
+      "bachelors": 15.2,
+      "graduate": 3.3
+    },
+    "medianIncome": 76082,
+    "meanIncome": 95336
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "27",
+    "name": "Stearns County, Minnesota",
+    "population": 159358,
+    "medianAge": 35,
+    "race": {
+      "white": 82.9,
+      "black": 8.4,
+      "asian": 1.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 4.7,
+      "hispanic": 4.5
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 27.9,
+      "someCollege": 22.5,
+      "associates": 13.8,
+      "bachelors": 18.7,
+      "graduate": 9.9
+    },
+    "medianIncome": 76447,
+    "meanIncome": 97399
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "27",
+    "name": "Steele County, Minnesota",
+    "population": 37413,
+    "medianAge": 40.2,
+    "race": {
+      "white": 86.9,
+      "black": 3.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 5.6,
+      "hispanic": 8.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 30.2,
+      "someCollege": 21.5,
+      "associates": 12.3,
+      "bachelors": 20.4,
+      "graduate": 9.2
+    },
+    "medianIncome": 83448,
+    "meanIncome": 101912
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "27",
+    "name": "Stevens County, Minnesota",
+    "population": 9686,
+    "medianAge": 33.6,
+    "race": {
+      "white": 83.1,
+      "black": 1.8,
+      "asian": 1.4,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.8,
+      "other": 5.8,
+      "twoOrMore": 5.6,
+      "hispanic": 10.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 28.2,
+      "someCollege": 21.3,
+      "associates": 13,
+      "bachelors": 22.9,
+      "graduate": 7.9
+    },
+    "medianIncome": 71060,
+    "meanIncome": 103377
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "27",
+    "name": "Swift County, Minnesota",
+    "population": 9787,
+    "medianAge": 43.4,
+    "race": {
+      "white": 90,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.7,
+      "other": 1.9,
+      "twoOrMore": 6.3,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 32.9,
+      "someCollege": 24.2,
+      "associates": 14.5,
+      "bachelors": 19.2,
+      "graduate": 3.8
+    },
+    "medianIncome": 62601,
+    "meanIncome": 84897
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "27",
+    "name": "Todd County, Minnesota",
+    "population": 25402,
+    "medianAge": 42.8,
+    "race": {
+      "white": 87.9,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 1.5,
+      "twoOrMore": 9,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 41.3,
+      "someCollege": 20.6,
+      "associates": 11.8,
+      "bachelors": 10.7,
+      "graduate": 4.5
+    },
+    "medianIncome": 63039,
+    "meanIncome": 79344
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "27",
+    "name": "Traverse County, Minnesota",
+    "population": 3279,
+    "medianAge": 45.5,
+    "race": {
+      "white": 87,
+      "black": 0.5,
+      "asian": 0.2,
+      "nativeAmerican": 6.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 4.7,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 36.9,
+      "someCollege": 21.1,
+      "associates": 19.3,
+      "bachelors": 13.1,
+      "graduate": 4.3
+    },
+    "medianIncome": 65931,
+    "meanIncome": 85746
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "27",
+    "name": "Wabasha County, Minnesota",
+    "population": 21519,
+    "medianAge": 44.8,
+    "race": {
+      "white": 95.4,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 2.7,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 32.3,
+      "someCollege": 20.9,
+      "associates": 15.1,
+      "bachelors": 18.1,
+      "graduate": 8.5
+    },
+    "medianIncome": 80133,
+    "meanIncome": 98579
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "27",
+    "name": "Wadena County, Minnesota",
+    "population": 14135,
+    "medianAge": 40.1,
+    "race": {
+      "white": 91.3,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 7.1,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 34.8,
+      "someCollege": 22.3,
+      "associates": 16.8,
+      "bachelors": 13.2,
+      "graduate": 4.3
+    },
+    "medianIncome": 56882,
+    "meanIncome": 72882
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "27",
+    "name": "Waseca County, Minnesota",
+    "population": 18958,
+    "medianAge": 40.4,
+    "race": {
+      "white": 89.5,
+      "black": 1.1,
+      "asian": 0.9,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 4.1,
+      "twoOrMore": 3.6,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 35.5,
+      "someCollege": 21.7,
+      "associates": 14.7,
+      "bachelors": 16,
+      "graduate": 4.9
+    },
+    "medianIncome": 75052,
+    "meanIncome": 93960
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "27",
+    "name": "Washington County, Minnesota",
+    "population": 272298,
+    "medianAge": 39.9,
+    "race": {
+      "white": 79.7,
+      "black": 4.9,
+      "asian": 7.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 5.6,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 3.7,
+      "highSchool": 18.7,
+      "someCollege": 17.9,
+      "associates": 10.8,
+      "bachelors": 31.4,
+      "graduate": 17.5
+    },
+    "medianIncome": 114457,
+    "meanIncome": 148315
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "27",
+    "name": "Watonwan County, Minnesota",
+    "population": 11169,
+    "medianAge": 40.6,
+    "race": {
+      "white": 78.9,
+      "black": 0,
+      "asian": 0.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 10.3,
+      "twoOrMore": 10,
+      "hispanic": 29.1
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 33.3,
+      "someCollege": 25.5,
+      "associates": 11.4,
+      "bachelors": 13.4,
+      "graduate": 4.8
+    },
+    "medianIncome": 70593,
+    "meanIncome": 89633
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "27",
+    "name": "Wilkin County, Minnesota",
+    "population": 6413,
+    "medianAge": 42,
+    "race": {
+      "white": 92.6,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 3.6,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 31.4,
+      "someCollege": 23.1,
+      "associates": 17.4,
+      "bachelors": 17,
+      "graduate": 4.5
+    },
+    "medianIncome": 69635,
+    "meanIncome": 84280
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "27",
+    "name": "Winona County, Minnesota",
+    "population": 49705,
+    "medianAge": 36.1,
+    "race": {
+      "white": 90.8,
+      "black": 1.7,
+      "asian": 2.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 26.4,
+      "someCollege": 20.5,
+      "associates": 14.9,
+      "bachelors": 20.9,
+      "graduate": 11.1
+    },
+    "medianIncome": 70198,
+    "meanIncome": 89289
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "27",
+    "name": "Wright County, Minnesota",
+    "population": 145270,
+    "medianAge": 37.4,
+    "race": {
+      "white": 89.4,
+      "black": 1.9,
+      "asian": 1.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 4.9,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 26.8,
+      "someCollege": 21.3,
+      "associates": 12.9,
+      "bachelors": 24.4,
+      "graduate": 9.6
+    },
+    "medianIncome": 106666,
+    "meanIncome": 123045
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "27",
+    "name": "Yellow Medicine County, Minnesota",
+    "population": 9509,
+    "medianAge": 42,
+    "race": {
+      "white": 88.8,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 2.9,
+      "pacificIslander": 0.1,
+      "other": 3.1,
+      "twoOrMore": 4.2,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 32.4,
+      "someCollege": 24,
+      "associates": 17.2,
+      "bachelors": 13.9,
+      "graduate": 5.1
+    },
+    "medianIncome": 71573,
+    "meanIncome": 92166
+  }
+]

@@ -1,0 +1,3242 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "21",
+    "name": "Adair County, Kentucky",
+    "population": 19016,
+    "medianAge": 40.1,
+    "race": {
+      "white": 91.3,
+      "black": 1.8,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.3,
+      "other": 1.1,
+      "twoOrMore": 5.3,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 38.5,
+      "someCollege": 17.5,
+      "associates": 11,
+      "bachelors": 9.8,
+      "graduate": 8.9
+    },
+    "medianIncome": 50316,
+    "meanIncome": 67347
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "21",
+    "name": "Allen County, Kentucky",
+    "population": 21029,
+    "medianAge": 40.7,
+    "race": {
+      "white": 95.4,
+      "black": 0.5,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.4,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 40.9,
+      "someCollege": 18.2,
+      "associates": 8.5,
+      "bachelors": 10.3,
+      "graduate": 7.1
+    },
+    "medianIncome": 59029,
+    "meanIncome": 77190
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "21",
+    "name": "Anderson County, Kentucky",
+    "population": 24098,
+    "medianAge": 42.1,
+    "race": {
+      "white": 93.2,
+      "black": 2.8,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.2,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 33.7,
+      "someCollege": 23.6,
+      "associates": 8.7,
+      "bachelors": 17.4,
+      "graduate": 8.3
+    },
+    "medianIncome": 71747,
+    "meanIncome": 88199
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "21",
+    "name": "Ballard County, Kentucky",
+    "population": 7678,
+    "medianAge": 44.2,
+    "race": {
+      "white": 92,
+      "black": 3.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 3.8,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 39.9,
+      "someCollege": 21.5,
+      "associates": 13.6,
+      "bachelors": 12.9,
+      "graduate": 5.7
+    },
+    "medianIncome": 64740,
+    "meanIncome": 83257
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "21",
+    "name": "Barren County, Kentucky",
+    "population": 44670,
+    "medianAge": 40.1,
+    "race": {
+      "white": 88.8,
+      "black": 3.7,
+      "asian": 0.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 13.5,
+      "highSchool": 42.9,
+      "someCollege": 17.5,
+      "associates": 8.4,
+      "bachelors": 11.1,
+      "graduate": 6.8
+    },
+    "medianIncome": 49171,
+    "meanIncome": 69614
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "21",
+    "name": "Bath County, Kentucky",
+    "population": 12812,
+    "medianAge": 39,
+    "race": {
+      "white": 95.5,
+      "black": 1.8,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 1.6,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 43.5,
+      "someCollege": 17.4,
+      "associates": 6,
+      "bachelors": 8.6,
+      "graduate": 5.8
+    },
+    "medianIncome": 54128,
+    "meanIncome": 80031
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "21",
+    "name": "Bell County, Kentucky",
+    "population": 23878,
+    "medianAge": 41.2,
+    "race": {
+      "white": 93.4,
+      "black": 2.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.8,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 20.6,
+      "highSchool": 38.2,
+      "someCollege": 18.1,
+      "associates": 9.1,
+      "bachelors": 8.9,
+      "graduate": 5.1
+    },
+    "medianIncome": 32403,
+    "meanIncome": 48307
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "21",
+    "name": "Boone County, Kentucky",
+    "population": 137676,
+    "medianAge": 37.7,
+    "race": {
+      "white": 85.3,
+      "black": 3.8,
+      "asian": 2.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 2.5,
+      "twoOrMore": 5.5,
+      "hispanic": 5.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 28.2,
+      "someCollege": 20.6,
+      "associates": 9.4,
+      "bachelors": 22.5,
+      "graduate": 12.9
+    },
+    "medianIncome": 94752,
+    "meanIncome": 116044
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "21",
+    "name": "Bourbon County, Kentucky",
+    "population": 20174,
+    "medianAge": 42,
+    "race": {
+      "white": 86.1,
+      "black": 4.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 6.2,
+      "hispanic": 7.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 33.5,
+      "someCollege": 19.6,
+      "associates": 7.9,
+      "bachelors": 15,
+      "graduate": 10.4
+    },
+    "medianIncome": 56322,
+    "meanIncome": 79370
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "21",
+    "name": "Boyd County, Kentucky",
+    "population": 48043,
+    "medianAge": 42.4,
+    "race": {
+      "white": 93,
+      "black": 2.1,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 3.4,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 34,
+      "someCollege": 23.4,
+      "associates": 12.3,
+      "bachelors": 10.4,
+      "graduate": 9
+    },
+    "medianIncome": 60659,
+    "meanIncome": 75673
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "21",
+    "name": "Boyle County, Kentucky",
+    "population": 30708,
+    "medianAge": 39.5,
+    "race": {
+      "white": 84.1,
+      "black": 7.6,
+      "asian": 0.9,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 1.8,
+      "twoOrMore": 5.4,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 35.7,
+      "someCollege": 20.2,
+      "associates": 8.1,
+      "bachelors": 15.7,
+      "graduate": 11.7
+    },
+    "medianIncome": 61635,
+    "meanIncome": 81976
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "21",
+    "name": "Bracken County, Kentucky",
+    "population": 8427,
+    "medianAge": 42,
+    "race": {
+      "white": 95.4,
+      "black": 1.2,
+      "asian": 0,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.2,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 42.5,
+      "someCollege": 17.8,
+      "associates": 10.9,
+      "bachelors": 9.3,
+      "graduate": 7.7
+    },
+    "medianIncome": 59521,
+    "meanIncome": 79534
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "21",
+    "name": "Breathitt County, Kentucky",
+    "population": 13438,
+    "medianAge": 43,
+    "race": {
+      "white": 96.5,
+      "black": 0.5,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 19.4,
+      "highSchool": 40.9,
+      "someCollege": 15.1,
+      "associates": 8.1,
+      "bachelors": 8.3,
+      "graduate": 8.2
+    },
+    "medianIncome": 41101,
+    "meanIncome": 54263
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "21",
+    "name": "Breckinridge County, Kentucky",
+    "population": 20722,
+    "medianAge": 42.2,
+    "race": {
+      "white": 94.4,
+      "black": 1.6,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.3,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 42.6,
+      "someCollege": 20.3,
+      "associates": 8.5,
+      "bachelors": 9.5,
+      "graduate": 5.4
+    },
+    "medianIncome": 53673,
+    "meanIncome": 74513
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "21",
+    "name": "Bullitt County, Kentucky",
+    "population": 83209,
+    "medianAge": 41.3,
+    "race": {
+      "white": 92.3,
+      "black": 1.2,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.9,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 39.5,
+      "someCollege": 21,
+      "associates": 10.2,
+      "bachelors": 12.3,
+      "graduate": 6.6
+    },
+    "medianIncome": 77640,
+    "meanIncome": 94063
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "21",
+    "name": "Butler County, Kentucky",
+    "population": 12373,
+    "medianAge": 41.1,
+    "race": {
+      "white": 94,
+      "black": 0.2,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.7,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 49.7,
+      "someCollege": 15.7,
+      "associates": 7.1,
+      "bachelors": 5.1,
+      "graduate": 4.4
+    },
+    "medianIncome": 52003,
+    "meanIncome": 61584
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "21",
+    "name": "Caldwell County, Kentucky",
+    "population": 12631,
+    "medianAge": 42.3,
+    "race": {
+      "white": 91,
+      "black": 5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 2.3,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 43.2,
+      "someCollege": 20,
+      "associates": 8.6,
+      "bachelors": 10.7,
+      "graduate": 7.3
+    },
+    "medianIncome": 57618,
+    "meanIncome": 74415
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "21",
+    "name": "Calloway County, Kentucky",
+    "population": 37882,
+    "medianAge": 35.4,
+    "race": {
+      "white": 89.5,
+      "black": 3.8,
+      "asian": 1.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.4,
+      "other": 1.3,
+      "twoOrMore": 3.2,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 31.4,
+      "someCollege": 20.4,
+      "associates": 7.3,
+      "bachelors": 17.7,
+      "graduate": 14.7
+    },
+    "medianIncome": 51854,
+    "meanIncome": 72773
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "21",
+    "name": "Campbell County, Kentucky",
+    "population": 93193,
+    "medianAge": 39,
+    "race": {
+      "white": 91.5,
+      "black": 2.8,
+      "asian": 1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.9,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 26.9,
+      "someCollege": 18.5,
+      "associates": 8.3,
+      "bachelors": 24.3,
+      "graduate": 15.1
+    },
+    "medianIncome": 77271,
+    "meanIncome": 106500
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "21",
+    "name": "Carlisle County, Kentucky",
+    "population": 4763,
+    "medianAge": 43.6,
+    "race": {
+      "white": 92.4,
+      "black": 1.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 0.7,
+      "twoOrMore": 4.7,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 44.7,
+      "someCollege": 20.8,
+      "associates": 10.8,
+      "bachelors": 8.6,
+      "graduate": 6
+    },
+    "medianIncome": 62019,
+    "meanIncome": 87185
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "21",
+    "name": "Carroll County, Kentucky",
+    "population": 10878,
+    "medianAge": 38.5,
+    "race": {
+      "white": 87,
+      "black": 2.3,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 7.9,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 40.5,
+      "someCollege": 25.2,
+      "associates": 9.4,
+      "bachelors": 5.6,
+      "graduate": 3.2
+    },
+    "medianIncome": 57753,
+    "meanIncome": 76214
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "21",
+    "name": "Carter County, Kentucky",
+    "population": 26515,
+    "medianAge": 41.8,
+    "race": {
+      "white": 95.6,
+      "black": 0.5,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.3,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.2,
+      "highSchool": 39.4,
+      "someCollege": 18.1,
+      "associates": 9.9,
+      "bachelors": 8.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 50389,
+    "meanIncome": 71428
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "21",
+    "name": "Casey County, Kentucky",
+    "population": 15951,
+    "medianAge": 41.5,
+    "race": {
+      "white": 95.7,
+      "black": 0.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2.6,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 22.1,
+      "highSchool": 45.7,
+      "someCollege": 13.4,
+      "associates": 7,
+      "bachelors": 6.7,
+      "graduate": 5.1
+    },
+    "medianIncome": 41689,
+    "meanIncome": 59897
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "21",
+    "name": "Christian County, Kentucky",
+    "population": 72599,
+    "medianAge": 28.6,
+    "race": {
+      "white": 67.7,
+      "black": 19.3,
+      "asian": 1.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.4,
+      "other": 2.4,
+      "twoOrMore": 8.7,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 32.4,
+      "someCollege": 24.5,
+      "associates": 10,
+      "bachelors": 13.8,
+      "graduate": 6.2
+    },
+    "medianIncome": 54190,
+    "meanIncome": 66827
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "21",
+    "name": "Clark County, Kentucky",
+    "population": 37004,
+    "medianAge": 40.8,
+    "race": {
+      "white": 89.7,
+      "black": 4.3,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 3.4,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 37,
+      "someCollege": 22.7,
+      "associates": 8,
+      "bachelors": 13.9,
+      "graduate": 8.3
+    },
+    "medianIncome": 67824,
+    "meanIncome": 94803
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "21",
+    "name": "Clay County, Kentucky",
+    "population": 20105,
+    "medianAge": 40.6,
+    "race": {
+      "white": 92.2,
+      "black": 4.7,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.9,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 25.9,
+      "highSchool": 37.1,
+      "someCollege": 14.7,
+      "associates": 5.7,
+      "bachelors": 7.5,
+      "graduate": 9.1
+    },
+    "medianIncome": 39607,
+    "meanIncome": 56278
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "21",
+    "name": "Clinton County, Kentucky",
+    "population": 9240,
+    "medianAge": 42.5,
+    "race": {
+      "white": 95,
+      "black": 0,
+      "asian": 1.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.4,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 20.8,
+      "highSchool": 38.7,
+      "someCollege": 14.3,
+      "associates": 9.8,
+      "bachelors": 8.9,
+      "graduate": 7.6
+    },
+    "medianIncome": 42168,
+    "meanIncome": 57203
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "21",
+    "name": "Crittenden County, Kentucky",
+    "population": 8972,
+    "medianAge": 42.8,
+    "race": {
+      "white": 96.2,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.4,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 43.5,
+      "someCollege": 19.5,
+      "associates": 8.2,
+      "bachelors": 6.8,
+      "graduate": 5.7
+    },
+    "medianIncome": 47003,
+    "meanIncome": 69537
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "21",
+    "name": "Cumberland County, Kentucky",
+    "population": 5948,
+    "medianAge": 45.1,
+    "race": {
+      "white": 93.1,
+      "black": 1.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.2,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 18,
+      "highSchool": 40.1,
+      "someCollege": 18.8,
+      "associates": 5.6,
+      "bachelors": 9.3,
+      "graduate": 8.1
+    },
+    "medianIncome": 39662,
+    "meanIncome": 52251
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "21",
+    "name": "Daviess County, Kentucky",
+    "population": 103195,
+    "medianAge": 38.7,
+    "race": {
+      "white": 86.7,
+      "black": 4.4,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 4.5,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 34.2,
+      "someCollege": 20.2,
+      "associates": 11.2,
+      "bachelors": 15,
+      "graduate": 10.2
+    },
+    "medianIncome": 65323,
+    "meanIncome": 86574
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "21",
+    "name": "Edmonson County, Kentucky",
+    "population": 12243,
+    "medianAge": 45.3,
+    "race": {
+      "white": 94.9,
+      "black": 0.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 2.7,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 44.6,
+      "someCollege": 20.1,
+      "associates": 9,
+      "bachelors": 5.6,
+      "graduate": 4.7
+    },
+    "medianIncome": 54512,
+    "meanIncome": 66980
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "21",
+    "name": "Elliott County, Kentucky",
+    "population": 7336,
+    "medianAge": 44.4,
+    "race": {
+      "white": 93.7,
+      "black": 3,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.6,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 25.1,
+      "highSchool": 49.1,
+      "someCollege": 14.5,
+      "associates": 5,
+      "bachelors": 3.5,
+      "graduate": 2.7
+    },
+    "medianIncome": 40074,
+    "meanIncome": 54636
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "21",
+    "name": "Estill County, Kentucky",
+    "population": 14079,
+    "medianAge": 44.3,
+    "race": {
+      "white": 96.4,
+      "black": 0.1,
+      "asian": 1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.5,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 21.9,
+      "highSchool": 45.1,
+      "someCollege": 15.5,
+      "associates": 7.7,
+      "bachelors": 6.6,
+      "graduate": 3.3
+    },
+    "medianIncome": 43905,
+    "meanIncome": 57737
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "21",
+    "name": "Fayette County, Kentucky",
+    "population": 321122,
+    "medianAge": 35.2,
+    "race": {
+      "white": 69.9,
+      "black": 14.4,
+      "asian": 4.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.5,
+      "twoOrMore": 7.8,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 19,
+      "someCollege": 18.5,
+      "associates": 7.6,
+      "bachelors": 26.5,
+      "graduate": 20.8
+    },
+    "medianIncome": 67631,
+    "meanIncome": 98429
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "21",
+    "name": "Fleming County, Kentucky",
+    "population": 15221,
+    "medianAge": 41,
+    "race": {
+      "white": 95.1,
+      "black": 1.1,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.7,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 41.1,
+      "someCollege": 15.1,
+      "associates": 10.8,
+      "bachelors": 9.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 49663,
+    "meanIncome": 66222
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "21",
+    "name": "Floyd County, Kentucky",
+    "population": 35342,
+    "medianAge": 43.1,
+    "race": {
+      "white": 96.6,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.2,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.9,
+      "highSchool": 38.3,
+      "someCollege": 19.7,
+      "associates": 7.9,
+      "bachelors": 8.6,
+      "graduate": 6.5
+    },
+    "medianIncome": 41582,
+    "meanIncome": 64123
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "21",
+    "name": "Franklin County, Kentucky",
+    "population": 51563,
+    "medianAge": 40.6,
+    "race": {
+      "white": 81.7,
+      "black": 9.2,
+      "asian": 1.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 1.8,
+      "twoOrMore": 5.1,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 30.5,
+      "someCollege": 22.1,
+      "associates": 8.1,
+      "bachelors": 18.5,
+      "graduate": 13.4
+    },
+    "medianIncome": 66470,
+    "meanIncome": 90766
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "21",
+    "name": "Fulton County, Kentucky",
+    "population": 6440,
+    "medianAge": 41.2,
+    "race": {
+      "white": 69.6,
+      "black": 24.3,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.8,
+      "other": 0.2,
+      "twoOrMore": 4.6,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.8,
+      "highSchool": 39.9,
+      "someCollege": 18.9,
+      "associates": 5.2,
+      "bachelors": 13.9,
+      "graduate": 3.4
+    },
+    "medianIncome": 36834,
+    "meanIncome": 47503
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "21",
+    "name": "Gallatin County, Kentucky",
+    "population": 8749,
+    "medianAge": 39.7,
+    "race": {
+      "white": 89.1,
+      "black": 2.7,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 4.5,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 43.4,
+      "someCollege": 21.3,
+      "associates": 6.5,
+      "bachelors": 9,
+      "graduate": 4.2
+    },
+    "medianIncome": 62247,
+    "meanIncome": 77983
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "21",
+    "name": "Garrard County, Kentucky",
+    "population": 17346,
+    "medianAge": 42.9,
+    "race": {
+      "white": 92.5,
+      "black": 2.2,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 3.5,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 37.7,
+      "someCollege": 20.9,
+      "associates": 8.1,
+      "bachelors": 9.9,
+      "graduate": 9.1
+    },
+    "medianIncome": 62572,
+    "meanIncome": 78139
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "21",
+    "name": "Grant County, Kentucky",
+    "population": 25238,
+    "medianAge": 36.4,
+    "race": {
+      "white": 92.8,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 4.7,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 43.7,
+      "someCollege": 22.5,
+      "associates": 7.5,
+      "bachelors": 9.4,
+      "graduate": 5.7
+    },
+    "medianIncome": 67940,
+    "meanIncome": 80154
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "21",
+    "name": "Graves County, Kentucky",
+    "population": 36612,
+    "medianAge": 40,
+    "race": {
+      "white": 86.5,
+      "black": 4.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 41.6,
+      "someCollege": 18,
+      "associates": 11.6,
+      "bachelors": 10,
+      "graduate": 7.5
+    },
+    "medianIncome": 50576,
+    "meanIncome": 72233
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "21",
+    "name": "Grayson County, Kentucky",
+    "population": 26586,
+    "medianAge": 40.3,
+    "race": {
+      "white": 95.8,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.2,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 44.4,
+      "someCollege": 16.3,
+      "associates": 9.7,
+      "bachelors": 7.5,
+      "graduate": 7.1
+    },
+    "medianIncome": 49893,
+    "meanIncome": 69701
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "21",
+    "name": "Green County, Kentucky",
+    "population": 11278,
+    "medianAge": 45.2,
+    "race": {
+      "white": 95.9,
+      "black": 1.2,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.3,
+      "other": 0,
+      "twoOrMore": 2.5,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 42.2,
+      "someCollege": 18.3,
+      "associates": 7.9,
+      "bachelors": 8.5,
+      "graduate": 8.1
+    },
+    "medianIncome": 41087,
+    "meanIncome": 59759
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "21",
+    "name": "Greenup County, Kentucky",
+    "population": 35639,
+    "medianAge": 43.9,
+    "race": {
+      "white": 95.4,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 3.2,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 38,
+      "someCollege": 21.3,
+      "associates": 12.7,
+      "bachelors": 9.9,
+      "graduate": 8.4
+    },
+    "medianIncome": 59613,
+    "meanIncome": 80703
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "21",
+    "name": "Hancock County, Kentucky",
+    "population": 9032,
+    "medianAge": 41.5,
+    "race": {
+      "white": 94.5,
+      "black": 1.1,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.2,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 39.9,
+      "someCollege": 17.4,
+      "associates": 12.5,
+      "bachelors": 10.9,
+      "graduate": 5.9
+    },
+    "medianIncome": 66836,
+    "meanIncome": 78998
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "21",
+    "name": "Hardin County, Kentucky",
+    "population": 111452,
+    "medianAge": 37.4,
+    "race": {
+      "white": 76.7,
+      "black": 11.6,
+      "asian": 1.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.4,
+      "other": 1.5,
+      "twoOrMore": 7.7,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 30.8,
+      "someCollege": 26.7,
+      "associates": 10.5,
+      "bachelors": 15,
+      "graduate": 9.4
+    },
+    "medianIncome": 67608,
+    "meanIncome": 92718
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "21",
+    "name": "Harlan County, Kentucky",
+    "population": 26185,
+    "medianAge": 41.2,
+    "race": {
+      "white": 94.3,
+      "black": 1.5,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 3.6,
+      "hispanic": 0.2
+    },
+    "education": {
+      "lessThanHighSchool": 20.8,
+      "highSchool": 34.5,
+      "someCollege": 21.3,
+      "associates": 10.8,
+      "bachelors": 6.2,
+      "graduate": 6.5
+    },
+    "medianIncome": 37198,
+    "meanIncome": 53481
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "21",
+    "name": "Harrison County, Kentucky",
+    "population": 18971,
+    "medianAge": 42.4,
+    "race": {
+      "white": 94,
+      "black": 1.9,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.6,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 45.8,
+      "someCollege": 15.9,
+      "associates": 7.3,
+      "bachelors": 12,
+      "graduate": 8.1
+    },
+    "medianIncome": 63205,
+    "meanIncome": 82276
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "21",
+    "name": "Hart County, Kentucky",
+    "population": 19470,
+    "medianAge": 40.6,
+    "race": {
+      "white": 91.3,
+      "black": 4.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.4,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 21.1,
+      "highSchool": 44.2,
+      "someCollege": 16.9,
+      "associates": 7.1,
+      "bachelors": 6,
+      "graduate": 4.7
+    },
+    "medianIncome": 49653,
+    "meanIncome": 65536
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "21",
+    "name": "Henderson County, Kentucky",
+    "population": 44493,
+    "medianAge": 41,
+    "race": {
+      "white": 85.8,
+      "black": 6.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.2,
+      "other": 1.3,
+      "twoOrMore": 5.3,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.9,
+      "highSchool": 38.4,
+      "someCollege": 22,
+      "associates": 9.7,
+      "bachelors": 12.5,
+      "graduate": 6.5
+    },
+    "medianIncome": 58239,
+    "meanIncome": 76611
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "21",
+    "name": "Henry County, Kentucky",
+    "population": 15774,
+    "medianAge": 41.6,
+    "race": {
+      "white": 91,
+      "black": 2.7,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 4.3,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 44.4,
+      "someCollege": 19.9,
+      "associates": 6.9,
+      "bachelors": 10,
+      "graduate": 4.8
+    },
+    "medianIncome": 60736,
+    "meanIncome": 78321
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "21",
+    "name": "Hickman County, Kentucky",
+    "population": 4470,
+    "medianAge": 46.4,
+    "race": {
+      "white": 86.4,
+      "black": 9.2,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 3.4,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 12.8,
+      "highSchool": 42.9,
+      "someCollege": 21.4,
+      "associates": 8.6,
+      "bachelors": 8.9,
+      "graduate": 5.5
+    },
+    "medianIncome": 63750,
+    "meanIncome": 77565
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "21",
+    "name": "Hopkins County, Kentucky",
+    "population": 45143,
+    "medianAge": 41.3,
+    "race": {
+      "white": 88,
+      "black": 6.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.2,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 39.2,
+      "someCollege": 21.8,
+      "associates": 10.1,
+      "bachelors": 9.1,
+      "graduate": 7.5
+    },
+    "medianIncome": 57610,
+    "meanIncome": 71377
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "21",
+    "name": "Jackson County, Kentucky",
+    "population": 13003,
+    "medianAge": 40.6,
+    "race": {
+      "white": 96.9,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.5,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 26.7,
+      "highSchool": 41.8,
+      "someCollege": 14.4,
+      "associates": 6.8,
+      "bachelors": 6.6,
+      "graduate": 3.8
+    },
+    "medianIncome": 41410,
+    "meanIncome": 54146
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "21",
+    "name": "Jefferson County, Kentucky",
+    "population": 777392,
+    "medianAge": 38.4,
+    "race": {
+      "white": 65.3,
+      "black": 22,
+      "asian": 2.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 7.8,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 25.9,
+      "someCollege": 20.8,
+      "associates": 8.2,
+      "bachelors": 21.5,
+      "graduate": 15
+    },
+    "medianIncome": 67849,
+    "meanIncome": 95889
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "21",
+    "name": "Jessamine County, Kentucky",
+    "population": 53792,
+    "medianAge": 38.7,
+    "race": {
+      "white": 88.2,
+      "black": 4,
+      "asian": 1.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.5,
+      "highSchool": 29.3,
+      "someCollege": 18.8,
+      "associates": 10,
+      "bachelors": 17.4,
+      "graduate": 15
+    },
+    "medianIncome": 74886,
+    "meanIncome": 112610
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "21",
+    "name": "Johnson County, Kentucky",
+    "population": 22464,
+    "medianAge": 42,
+    "race": {
+      "white": 95.4,
+      "black": 0.6,
+      "asian": 1.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.7,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 17.7,
+      "highSchool": 39.9,
+      "someCollege": 18.8,
+      "associates": 7.1,
+      "bachelors": 9.1,
+      "graduate": 7.5
+    },
+    "medianIncome": 43014,
+    "meanIncome": 60016
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "21",
+    "name": "Kenton County, Kentucky",
+    "population": 169817,
+    "medianAge": 37.8,
+    "race": {
+      "white": 87.1,
+      "black": 4.2,
+      "asian": 1.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 5.2,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 27.7,
+      "someCollege": 18.3,
+      "associates": 8.8,
+      "bachelors": 24.1,
+      "graduate": 13.5
+    },
+    "medianIncome": 79421,
+    "meanIncome": 104860
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "21",
+    "name": "Knott County, Kentucky",
+    "population": 14046,
+    "medianAge": 44.4,
+    "race": {
+      "white": 96.7,
+      "black": 1,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 1.3,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 27.2,
+      "highSchool": 28.7,
+      "someCollege": 16.7,
+      "associates": 9.5,
+      "bachelors": 8.3,
+      "graduate": 9.6
+    },
+    "medianIncome": 37736,
+    "meanIncome": 54045
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "21",
+    "name": "Knox County, Kentucky",
+    "population": 30034,
+    "medianAge": 39.8,
+    "race": {
+      "white": 95.7,
+      "black": 0.8,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 0.1,
+      "twoOrMore": 3.1,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 24.3,
+      "highSchool": 38.5,
+      "someCollege": 19.4,
+      "associates": 4.3,
+      "bachelors": 7,
+      "graduate": 6.6
+    },
+    "medianIncome": 33153,
+    "meanIncome": 53217
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "21",
+    "name": "Larue County, Kentucky",
+    "population": 15028,
+    "medianAge": 41.3,
+    "race": {
+      "white": 91.3,
+      "black": 2.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.2,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 35.5,
+      "someCollege": 24.5,
+      "associates": 10.4,
+      "bachelors": 7.5,
+      "graduate": 8.1
+    },
+    "medianIncome": 67770,
+    "meanIncome": 77565
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "21",
+    "name": "Laurel County, Kentucky",
+    "population": 62731,
+    "medianAge": 39.9,
+    "race": {
+      "white": 95.8,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 0.5,
+      "twoOrMore": 2.6,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 39.5,
+      "someCollege": 19,
+      "associates": 8.1,
+      "bachelors": 9.1,
+      "graduate": 7.5
+    },
+    "medianIncome": 56999,
+    "meanIncome": 71463
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "21",
+    "name": "Lawrence County, Kentucky",
+    "population": 16171,
+    "medianAge": 42,
+    "race": {
+      "white": 97.3,
+      "black": 0,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.3,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 20.2,
+      "highSchool": 40.7,
+      "someCollege": 18.7,
+      "associates": 6.2,
+      "bachelors": 8.3,
+      "graduate": 5.8
+    },
+    "medianIncome": 45584,
+    "meanIncome": 62255
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "21",
+    "name": "Lee County, Kentucky",
+    "population": 7375,
+    "medianAge": 43.4,
+    "race": {
+      "white": 94.5,
+      "black": 2.1,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 25.8,
+      "highSchool": 44.4,
+      "someCollege": 16.3,
+      "associates": 6,
+      "bachelors": 5.9,
+      "graduate": 1.7
+    },
+    "medianIncome": 34182,
+    "meanIncome": 50023
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "21",
+    "name": "Leslie County, Kentucky",
+    "population": 10261,
+    "medianAge": 42.2,
+    "race": {
+      "white": 96.9,
+      "black": 0.5,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.2,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 40.5,
+      "someCollege": 24.8,
+      "associates": 5.6,
+      "bachelors": 6.6,
+      "graduate": 3.8
+    },
+    "medianIncome": 40176,
+    "meanIncome": 53558
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "21",
+    "name": "Letcher County, Kentucky",
+    "population": 21146,
+    "medianAge": 43.3,
+    "race": {
+      "white": 97.3,
+      "black": 0.7,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 1.4,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 20.2,
+      "highSchool": 34.7,
+      "someCollege": 20.9,
+      "associates": 10.5,
+      "bachelors": 6.9,
+      "graduate": 6.8
+    },
+    "medianIncome": 40501,
+    "meanIncome": 57823
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "21",
+    "name": "Lewis County, Kentucky",
+    "population": 13028,
+    "medianAge": 42.1,
+    "race": {
+      "white": 97,
+      "black": 0,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 0.3,
+      "twoOrMore": 2.3,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 19.4,
+      "highSchool": 47.2,
+      "someCollege": 12.9,
+      "associates": 9.3,
+      "bachelors": 6.3,
+      "graduate": 5
+    },
+    "medianIncome": 41632,
+    "meanIncome": 58763
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "21",
+    "name": "Lincoln County, Kentucky",
+    "population": 24415,
+    "medianAge": 41.9,
+    "race": {
+      "white": 93,
+      "black": 1.7,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 3.2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 16.8,
+      "highSchool": 43.6,
+      "someCollege": 17.5,
+      "associates": 6.9,
+      "bachelors": 9.3,
+      "graduate": 5.9
+    },
+    "medianIncome": 50862,
+    "meanIncome": 69092
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "21",
+    "name": "Livingston County, Kentucky",
+    "population": 8941,
+    "medianAge": 45.7,
+    "race": {
+      "white": 95.6,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.3,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 43.2,
+      "someCollege": 22.4,
+      "associates": 10,
+      "bachelors": 7.7,
+      "graduate": 6.2
+    },
+    "medianIncome": 59713,
+    "meanIncome": 72048
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "21",
+    "name": "Logan County, Kentucky",
+    "population": 27731,
+    "medianAge": 40.6,
+    "race": {
+      "white": 89.4,
+      "black": 4.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 3.8,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 13,
+      "highSchool": 41.2,
+      "someCollege": 21.1,
+      "associates": 8.1,
+      "bachelors": 10.3,
+      "graduate": 6.3
+    },
+    "medianIncome": 61535,
+    "meanIncome": 73133
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "21",
+    "name": "Lyon County, Kentucky",
+    "population": 8831,
+    "medianAge": 47.8,
+    "race": {
+      "white": 88.5,
+      "black": 6.9,
+      "asian": 1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.9,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 44.7,
+      "someCollege": 18.3,
+      "associates": 10.9,
+      "bachelors": 9.2,
+      "graduate": 7.1
+    },
+    "medianIncome": 64464,
+    "meanIncome": 83313
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "21",
+    "name": "McCracken County, Kentucky",
+    "population": 67584,
+    "medianAge": 42.4,
+    "race": {
+      "white": 82.5,
+      "black": 10,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 5.5,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 32.3,
+      "someCollege": 21.6,
+      "associates": 11,
+      "bachelors": 16.8,
+      "graduate": 11.2
+    },
+    "medianIncome": 62385,
+    "meanIncome": 92551
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "21",
+    "name": "McCreary County, Kentucky",
+    "population": 16905,
+    "medianAge": 38.7,
+    "race": {
+      "white": 90.1,
+      "black": 6.9,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.1,
+      "twoOrMore": 2.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 22.5,
+      "highSchool": 40,
+      "someCollege": 19.1,
+      "associates": 9.2,
+      "bachelors": 5.3,
+      "graduate": 3.8
+    },
+    "medianIncome": 37355,
+    "meanIncome": 47136
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "21",
+    "name": "McLean County, Kentucky",
+    "population": 9127,
+    "medianAge": 43.2,
+    "race": {
+      "white": 95.8,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.5,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 40.9,
+      "someCollege": 21.2,
+      "associates": 11.6,
+      "bachelors": 10.6,
+      "graduate": 7.8
+    },
+    "medianIncome": 70549,
+    "meanIncome": 86894
+  },
+  {
+    "countyFips": "151",
+    "stateFips": "21",
+    "name": "Madison County, Kentucky",
+    "population": 94064,
+    "medianAge": 34.7,
+    "race": {
+      "white": 89.4,
+      "black": 3.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 0.8,
+      "twoOrMore": 5,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 28.7,
+      "someCollege": 19.2,
+      "associates": 9.1,
+      "bachelors": 20.3,
+      "graduate": 13.9
+    },
+    "medianIncome": 62407,
+    "meanIncome": 82086
+  },
+  {
+    "countyFips": "153",
+    "stateFips": "21",
+    "name": "Magoffin County, Kentucky",
+    "population": 11495,
+    "medianAge": 41.9,
+    "race": {
+      "white": 98.1,
+      "black": 0.1,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 1.1,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 25.1,
+      "highSchool": 41.6,
+      "someCollege": 15.8,
+      "associates": 4.4,
+      "bachelors": 4.5,
+      "graduate": 8.7
+    },
+    "medianIncome": 33632,
+    "meanIncome": 48749
+  },
+  {
+    "countyFips": "155",
+    "stateFips": "21",
+    "name": "Marion County, Kentucky",
+    "population": 19680,
+    "medianAge": 39.6,
+    "race": {
+      "white": 88.2,
+      "black": 7.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.8,
+      "hispanic": 3.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 45.9,
+      "someCollege": 16,
+      "associates": 11.6,
+      "bachelors": 6.5,
+      "graduate": 6.2
+    },
+    "medianIncome": 55404,
+    "meanIncome": 68294
+  },
+  {
+    "countyFips": "157",
+    "stateFips": "21",
+    "name": "Marshall County, Kentucky",
+    "population": 31728,
+    "medianAge": 44.9,
+    "race": {
+      "white": 96.2,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.1,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 36.9,
+      "someCollege": 25.2,
+      "associates": 9.1,
+      "bachelors": 12.5,
+      "graduate": 8.5
+    },
+    "medianIncome": 63611,
+    "meanIncome": 81091
+  },
+  {
+    "countyFips": "159",
+    "stateFips": "21",
+    "name": "Martin County, Kentucky",
+    "population": 11181,
+    "medianAge": 40.3,
+    "race": {
+      "white": 88,
+      "black": 7.5,
+      "asian": 0.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 3.7,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 26.3,
+      "highSchool": 38,
+      "someCollege": 18,
+      "associates": 7,
+      "bachelors": 6.6,
+      "graduate": 4.1
+    },
+    "medianIncome": 46185,
+    "meanIncome": 70987
+  },
+  {
+    "countyFips": "161",
+    "stateFips": "21",
+    "name": "Mason County, Kentucky",
+    "population": 16995,
+    "medianAge": 42.3,
+    "race": {
+      "white": 87.4,
+      "black": 6.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4.6,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 32.6,
+      "someCollege": 19,
+      "associates": 12.5,
+      "bachelors": 11.4,
+      "graduate": 9.6
+    },
+    "medianIncome": 51473,
+    "meanIncome": 78747
+  },
+  {
+    "countyFips": "163",
+    "stateFips": "21",
+    "name": "Meade County, Kentucky",
+    "population": 30032,
+    "medianAge": 39.3,
+    "race": {
+      "white": 90,
+      "black": 3.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.3,
+      "other": 0.3,
+      "twoOrMore": 5,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 41.1,
+      "someCollege": 22.6,
+      "associates": 8.5,
+      "bachelors": 11.8,
+      "graduate": 6.6
+    },
+    "medianIncome": 70163,
+    "meanIncome": 89853
+  },
+  {
+    "countyFips": "165",
+    "stateFips": "21",
+    "name": "Menifee County, Kentucky",
+    "population": 6203,
+    "medianAge": 45.1,
+    "race": {
+      "white": 97.1,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 2.6,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 21.6,
+      "highSchool": 41.4,
+      "someCollege": 17.3,
+      "associates": 8.7,
+      "bachelors": 7.3,
+      "graduate": 3.6
+    },
+    "medianIncome": 44672,
+    "meanIncome": 64037
+  },
+  {
+    "countyFips": "167",
+    "stateFips": "21",
+    "name": "Mercer County, Kentucky",
+    "population": 22824,
+    "medianAge": 42.8,
+    "race": {
+      "white": 91.1,
+      "black": 3.6,
+      "asian": 0.3,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 3.4,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 34.6,
+      "someCollege": 22.9,
+      "associates": 11.1,
+      "bachelors": 13.6,
+      "graduate": 8.9
+    },
+    "medianIncome": 63115,
+    "meanIncome": 78790
+  },
+  {
+    "countyFips": "169",
+    "stateFips": "21",
+    "name": "Metcalfe County, Kentucky",
+    "population": 10372,
+    "medianAge": 41.9,
+    "race": {
+      "white": 94.1,
+      "black": 2.2,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 2.2,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 42.7,
+      "someCollege": 17.7,
+      "associates": 10.8,
+      "bachelors": 7.1,
+      "graduate": 6
+    },
+    "medianIncome": 48572,
+    "meanIncome": 59577
+  },
+  {
+    "countyFips": "171",
+    "stateFips": "21",
+    "name": "Monroe County, Kentucky",
+    "population": 11318,
+    "medianAge": 41.3,
+    "race": {
+      "white": 93.6,
+      "black": 2.6,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 2.1,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 46.2,
+      "someCollege": 16.3,
+      "associates": 5.1,
+      "bachelors": 5.8,
+      "graduate": 9.1
+    },
+    "medianIncome": 49430,
+    "meanIncome": 64452
+  },
+  {
+    "countyFips": "173",
+    "stateFips": "21",
+    "name": "Montgomery County, Kentucky",
+    "population": 28271,
+    "medianAge": 40.6,
+    "race": {
+      "white": 92.5,
+      "black": 2.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.2,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 15,
+      "highSchool": 39,
+      "someCollege": 17.8,
+      "associates": 7.3,
+      "bachelors": 11.7,
+      "graduate": 9.2
+    },
+    "medianIncome": 57468,
+    "meanIncome": 71993
+  },
+  {
+    "countyFips": "175",
+    "stateFips": "21",
+    "name": "Morgan County, Kentucky",
+    "population": 13938,
+    "medianAge": 41.8,
+    "race": {
+      "white": 90.4,
+      "black": 4.1,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.6,
+      "twoOrMore": 2.2,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 18.9,
+      "highSchool": 39.9,
+      "someCollege": 17.3,
+      "associates": 6.4,
+      "bachelors": 8.9,
+      "graduate": 8.7
+    },
+    "medianIncome": 47493,
+    "meanIncome": 70860
+  },
+  {
+    "countyFips": "177",
+    "stateFips": "21",
+    "name": "Muhlenberg County, Kentucky",
+    "population": 30712,
+    "medianAge": 42.8,
+    "race": {
+      "white": 92.5,
+      "black": 2.1,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 4,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 42.8,
+      "someCollege": 18.6,
+      "associates": 10.2,
+      "bachelors": 7.1,
+      "graduate": 5.9
+    },
+    "medianIncome": 52672,
+    "meanIncome": 77401
+  },
+  {
+    "countyFips": "179",
+    "stateFips": "21",
+    "name": "Nelson County, Kentucky",
+    "population": 47102,
+    "medianAge": 39.7,
+    "race": {
+      "white": 90.8,
+      "black": 5.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.8,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.1,
+      "highSchool": 36.7,
+      "someCollege": 19.8,
+      "associates": 12.5,
+      "bachelors": 14.2,
+      "graduate": 8.6
+    },
+    "medianIncome": 67888,
+    "meanIncome": 85121
+  },
+  {
+    "countyFips": "181",
+    "stateFips": "21",
+    "name": "Nicholas County, Kentucky",
+    "population": 7655,
+    "medianAge": 38.9,
+    "race": {
+      "white": 96.6,
+      "black": 1,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.3,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 16.3,
+      "highSchool": 43.3,
+      "someCollege": 21.2,
+      "associates": 9.8,
+      "bachelors": 5.6,
+      "graduate": 3.9
+    },
+    "medianIncome": 53616,
+    "meanIncome": 62452
+  },
+  {
+    "countyFips": "183",
+    "stateFips": "21",
+    "name": "Ohio County, Kentucky",
+    "population": 23704,
+    "medianAge": 40.9,
+    "race": {
+      "white": 92.7,
+      "black": 1.1,
+      "asian": 0.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 3.7,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 39.6,
+      "someCollege": 19.5,
+      "associates": 10.6,
+      "bachelors": 7.7,
+      "graduate": 6.4
+    },
+    "medianIncome": 54369,
+    "meanIncome": 68954
+  },
+  {
+    "countyFips": "185",
+    "stateFips": "21",
+    "name": "Oldham County, Kentucky",
+    "population": 68600,
+    "medianAge": 39.7,
+    "race": {
+      "white": 87.6,
+      "black": 3.7,
+      "asian": 1.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 5.8,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.9,
+      "highSchool": 20.3,
+      "someCollege": 19.3,
+      "associates": 8.9,
+      "bachelors": 26.2,
+      "graduate": 19.4
+    },
+    "medianIncome": 121491,
+    "meanIncome": 159042
+  },
+  {
+    "countyFips": "187",
+    "stateFips": "21",
+    "name": "Owen County, Kentucky",
+    "population": 11270,
+    "medianAge": 42.5,
+    "race": {
+      "white": 94.3,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 3,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.9,
+      "highSchool": 45.2,
+      "someCollege": 13.1,
+      "associates": 8.5,
+      "bachelors": 12.8,
+      "graduate": 4.5
+    },
+    "medianIncome": 59706,
+    "meanIncome": 75233
+  },
+  {
+    "countyFips": "189",
+    "stateFips": "21",
+    "name": "Owsley County, Kentucky",
+    "population": 4021,
+    "medianAge": 47.9,
+    "race": {
+      "white": 93.3,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.1,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 27,
+      "highSchool": 42.2,
+      "someCollege": 16.4,
+      "associates": 3,
+      "bachelors": 6.8,
+      "graduate": 4.6
+    },
+    "medianIncome": 31064,
+    "meanIncome": 50599
+  },
+  {
+    "countyFips": "191",
+    "stateFips": "21",
+    "name": "Pendleton County, Kentucky",
+    "population": 14683,
+    "medianAge": 41.7,
+    "race": {
+      "white": 93.1,
+      "black": 0.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5.1,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 15.3,
+      "highSchool": 41.7,
+      "someCollege": 16.6,
+      "associates": 9.9,
+      "bachelors": 11.1,
+      "graduate": 5.5
+    },
+    "medianIncome": 66601,
+    "meanIncome": 78596
+  },
+  {
+    "countyFips": "193",
+    "stateFips": "21",
+    "name": "Perry County, Kentucky",
+    "population": 27847,
+    "medianAge": 41.4,
+    "race": {
+      "white": 94.4,
+      "black": 1,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.2,
+      "other": 0,
+      "twoOrMore": 3.3,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 20.5,
+      "highSchool": 35,
+      "someCollege": 21.1,
+      "associates": 9.1,
+      "bachelors": 6.2,
+      "graduate": 8
+    },
+    "medianIncome": 45261,
+    "meanIncome": 74273
+  },
+  {
+    "countyFips": "195",
+    "stateFips": "21",
+    "name": "Pike County, Kentucky",
+    "population": 57466,
+    "medianAge": 42.9,
+    "race": {
+      "white": 95.1,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 3.1,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 19.2,
+      "highSchool": 39,
+      "someCollege": 17.8,
+      "associates": 8,
+      "bachelors": 8.8,
+      "graduate": 7.2
+    },
+    "medianIncome": 42179,
+    "meanIncome": 60376
+  },
+  {
+    "countyFips": "197",
+    "stateFips": "21",
+    "name": "Powell County, Kentucky",
+    "population": 13057,
+    "medianAge": 39.3,
+    "race": {
+      "white": 93.8,
+      "black": 1.7,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.7,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 40.8,
+      "someCollege": 17.9,
+      "associates": 6.6,
+      "bachelors": 10.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 39811,
+    "meanIncome": 61387
+  },
+  {
+    "countyFips": "199",
+    "stateFips": "21",
+    "name": "Pulaski County, Kentucky",
+    "population": 65503,
+    "medianAge": 42.2,
+    "race": {
+      "white": 94.6,
+      "black": 0.9,
+      "asian": 0.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.9,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 15.1,
+      "highSchool": 35.5,
+      "someCollege": 21.5,
+      "associates": 10,
+      "bachelors": 9.8,
+      "graduate": 8.1
+    },
+    "medianIncome": 50943,
+    "meanIncome": 75173
+  },
+  {
+    "countyFips": "201",
+    "stateFips": "21",
+    "name": "Robertson County, Kentucky",
+    "population": 2239,
+    "medianAge": 39.7,
+    "race": {
+      "white": 95,
+      "black": 2.1,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.5,
+      "hispanic": 0.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 42.8,
+      "someCollege": 18.7,
+      "associates": 10.2,
+      "bachelors": 9.5,
+      "graduate": 4
+    },
+    "medianIncome": 52337,
+    "meanIncome": 66923
+  },
+  {
+    "countyFips": "203",
+    "stateFips": "21",
+    "name": "Rockcastle County, Kentucky",
+    "population": 16144,
+    "medianAge": 42.8,
+    "race": {
+      "white": 96.6,
+      "black": 0.6,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 18.6,
+      "highSchool": 44,
+      "someCollege": 19,
+      "associates": 4.7,
+      "bachelors": 5.9,
+      "graduate": 7.8
+    },
+    "medianIncome": 48367,
+    "meanIncome": 67845
+  },
+  {
+    "countyFips": "205",
+    "stateFips": "21",
+    "name": "Rowan County, Kentucky",
+    "population": 24525,
+    "medianAge": 31.2,
+    "race": {
+      "white": 95.3,
+      "black": 1.8,
+      "asian": 1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 1.5,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 33.4,
+      "someCollege": 18.8,
+      "associates": 8.1,
+      "bachelors": 12.5,
+      "graduate": 14.5
+    },
+    "medianIncome": 53657,
+    "meanIncome": 78365
+  },
+  {
+    "countyFips": "207",
+    "stateFips": "21",
+    "name": "Russell County, Kentucky",
+    "population": 18117,
+    "medianAge": 42.2,
+    "race": {
+      "white": 92.8,
+      "black": 1,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 2.1,
+      "twoOrMore": 4,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 18.2,
+      "highSchool": 38.2,
+      "someCollege": 17.3,
+      "associates": 10.5,
+      "bachelors": 8.2,
+      "graduate": 7.6
+    },
+    "medianIncome": 50520,
+    "meanIncome": 68781
+  },
+  {
+    "countyFips": "209",
+    "stateFips": "21",
+    "name": "Scott County, Kentucky",
+    "population": 58269,
+    "medianAge": 36.4,
+    "race": {
+      "white": 85.8,
+      "black": 4.8,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 28.7,
+      "someCollege": 22.6,
+      "associates": 9.7,
+      "bachelors": 21.2,
+      "graduate": 12.1
+    },
+    "medianIncome": 83660,
+    "meanIncome": 103080
+  },
+  {
+    "countyFips": "211",
+    "stateFips": "21",
+    "name": "Shelby County, Kentucky",
+    "population": 48599,
+    "medianAge": 40.9,
+    "race": {
+      "white": 81.3,
+      "black": 4.7,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 9.4,
+      "hispanic": 10.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.8,
+      "highSchool": 28.9,
+      "someCollege": 18.6,
+      "associates": 9.6,
+      "bachelors": 19.7,
+      "graduate": 11.4
+    },
+    "medianIncome": 82671,
+    "meanIncome": 102077
+  },
+  {
+    "countyFips": "213",
+    "stateFips": "21",
+    "name": "Simpson County, Kentucky",
+    "population": 19786,
+    "medianAge": 39,
+    "race": {
+      "white": 84.5,
+      "black": 7,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 7.3,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 40.5,
+      "someCollege": 20.9,
+      "associates": 11,
+      "bachelors": 10.5,
+      "graduate": 6.3
+    },
+    "medianIncome": 57392,
+    "meanIncome": 70729
+  },
+  {
+    "countyFips": "215",
+    "stateFips": "21",
+    "name": "Spencer County, Kentucky",
+    "population": 19875,
+    "medianAge": 43.3,
+    "race": {
+      "white": 94.3,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.7,
+      "highSchool": 38.3,
+      "someCollege": 22,
+      "associates": 10.9,
+      "bachelors": 13.7,
+      "graduate": 8.4
+    },
+    "medianIncome": 98333,
+    "meanIncome": 110220
+  },
+  {
+    "countyFips": "217",
+    "stateFips": "21",
+    "name": "Taylor County, Kentucky",
+    "population": 26205,
+    "medianAge": 37.7,
+    "race": {
+      "white": 90,
+      "black": 4.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 4,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.3,
+      "highSchool": 36.8,
+      "someCollege": 22.8,
+      "associates": 7.1,
+      "bachelors": 13.8,
+      "graduate": 8.2
+    },
+    "medianIncome": 61871,
+    "meanIncome": 72642
+  },
+  {
+    "countyFips": "219",
+    "stateFips": "21",
+    "name": "Todd County, Kentucky",
+    "population": 12330,
+    "medianAge": 36.3,
+    "race": {
+      "white": 85.7,
+      "black": 7.2,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 4.6,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 20.2,
+      "highSchool": 39.5,
+      "someCollege": 17.8,
+      "associates": 6.6,
+      "bachelors": 9.6,
+      "graduate": 6.3
+    },
+    "medianIncome": 57759,
+    "meanIncome": 79635
+  },
+  {
+    "countyFips": "221",
+    "stateFips": "21",
+    "name": "Trigg County, Kentucky",
+    "population": 14211,
+    "medianAge": 46.6,
+    "race": {
+      "white": 87.3,
+      "black": 6.4,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5.6,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 32.1,
+      "someCollege": 24.1,
+      "associates": 11.1,
+      "bachelors": 11.3,
+      "graduate": 9
+    },
+    "medianIncome": 54630,
+    "meanIncome": 73411
+  },
+  {
+    "countyFips": "223",
+    "stateFips": "21",
+    "name": "Trimble County, Kentucky",
+    "population": 8531,
+    "medianAge": 40.9,
+    "race": {
+      "white": 93.5,
+      "black": 0.8,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 1.7,
+      "twoOrMore": 3.7,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 41.2,
+      "someCollege": 17.1,
+      "associates": 12.7,
+      "bachelors": 8.8,
+      "graduate": 5.9
+    },
+    "medianIncome": 67813,
+    "meanIncome": 81427
+  },
+  {
+    "countyFips": "225",
+    "stateFips": "21",
+    "name": "Union County, Kentucky",
+    "population": 13379,
+    "medianAge": 41.3,
+    "race": {
+      "white": 88.9,
+      "black": 8.1,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.3,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 45.3,
+      "someCollege": 21.4,
+      "associates": 13.6,
+      "bachelors": 7.7,
+      "graduate": 4.1
+    },
+    "medianIncome": 60989,
+    "meanIncome": 75274
+  },
+  {
+    "countyFips": "227",
+    "stateFips": "21",
+    "name": "Warren County, Kentucky",
+    "population": 137549,
+    "medianAge": 33.4,
+    "race": {
+      "white": 77.7,
+      "black": 8.6,
+      "asian": 4.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.5,
+      "other": 2.6,
+      "twoOrMore": 5.7,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 26.5,
+      "someCollege": 20.1,
+      "associates": 9,
+      "bachelors": 20.6,
+      "graduate": 12.7
+    },
+    "medianIncome": 64801,
+    "meanIncome": 87897
+  },
+  {
+    "countyFips": "229",
+    "stateFips": "21",
+    "name": "Washington County, Kentucky",
+    "population": 12091,
+    "medianAge": 42.2,
+    "race": {
+      "white": 88.1,
+      "black": 5.2,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 6.1,
+      "hispanic": 0.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.8,
+      "highSchool": 40.4,
+      "someCollege": 20.4,
+      "associates": 9.5,
+      "bachelors": 11.5,
+      "graduate": 7.4
+    },
+    "medianIncome": 59762,
+    "meanIncome": 77873
+  },
+  {
+    "countyFips": "231",
+    "stateFips": "21",
+    "name": "Wayne County, Kentucky",
+    "population": 19592,
+    "medianAge": 43.4,
+    "race": {
+      "white": 92.4,
+      "black": 1.4,
+      "asian": 0,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 3,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 20.6,
+      "highSchool": 40.2,
+      "someCollege": 16.9,
+      "associates": 8.5,
+      "bachelors": 7.7,
+      "graduate": 6
+    },
+    "medianIncome": 41933,
+    "meanIncome": 64290
+  },
+  {
+    "countyFips": "233",
+    "stateFips": "21",
+    "name": "Webster County, Kentucky",
+    "population": 12873,
+    "medianAge": 39.6,
+    "race": {
+      "white": 88.6,
+      "black": 4.3,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 2.9,
+      "twoOrMore": 3.9,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 44.7,
+      "someCollege": 18.8,
+      "associates": 10.5,
+      "bachelors": 8.1,
+      "graduate": 4.5
+    },
+    "medianIncome": 58786,
+    "meanIncome": 70225
+  },
+  {
+    "countyFips": "235",
+    "stateFips": "21",
+    "name": "Whitley County, Kentucky",
+    "population": 36755,
+    "medianAge": 35.4,
+    "race": {
+      "white": 95.8,
+      "black": 1.1,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.1,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 16.9,
+      "highSchool": 39.6,
+      "someCollege": 18.2,
+      "associates": 5.5,
+      "bachelors": 9.5,
+      "graduate": 10.3
+    },
+    "medianIncome": 41719,
+    "meanIncome": 62066
+  },
+  {
+    "countyFips": "237",
+    "stateFips": "21",
+    "name": "Wolfe County, Kentucky",
+    "population": 6484,
+    "medianAge": 41.5,
+    "race": {
+      "white": 96.1,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2,
+      "twoOrMore": 1.6,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 34,
+      "highSchool": 32.1,
+      "someCollege": 18.9,
+      "associates": 7.6,
+      "bachelors": 3,
+      "graduate": 4.4
+    },
+    "medianIncome": 29052,
+    "meanIncome": 38556
+  },
+  {
+    "countyFips": "239",
+    "stateFips": "21",
+    "name": "Woodford County, Kentucky",
+    "population": 27017,
+    "medianAge": 42.3,
+    "race": {
+      "white": 87.8,
+      "black": 4,
+      "asian": 0.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 4,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 25.5,
+      "someCollege": 16.3,
+      "associates": 7.8,
+      "bachelors": 23.7,
+      "graduate": 18
+    },
+    "medianIncome": 80006,
+    "meanIncome": 101773
+  }
+]

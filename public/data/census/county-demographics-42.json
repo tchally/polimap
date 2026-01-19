@@ -1,0 +1,1811 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "42",
+    "name": "Adams County, Pennsylvania",
+    "population": 105183,
+    "medianAge": 43.8,
+    "race": {
+      "white": 90.2,
+      "black": 1.9,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 4,
+      "hispanic": 7.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 40.6,
+      "someCollege": 16.5,
+      "associates": 8.9,
+      "bachelors": 14.4,
+      "graduate": 10.4
+    },
+    "medianIncome": 81071,
+    "meanIncome": 98943
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "42",
+    "name": "Allegheny County, Pennsylvania",
+    "population": 1240476,
+    "medianAge": 40.6,
+    "race": {
+      "white": 76.9,
+      "black": 12.5,
+      "asian": 4.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 5.2,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 25.4,
+      "someCollege": 15.3,
+      "associates": 10,
+      "bachelors": 26,
+      "graduate": 18.8
+    },
+    "medianIncome": 76393,
+    "meanIncome": 107275
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "42",
+    "name": "Armstrong County, Pennsylvania",
+    "population": 65069,
+    "medianAge": 47.2,
+    "race": {
+      "white": 95.8,
+      "black": 1,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.4,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 48.5,
+      "someCollege": 14.9,
+      "associates": 10.7,
+      "bachelors": 12.5,
+      "graduate": 6.3
+    },
+    "medianIncome": 64295,
+    "meanIncome": 82218
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "42",
+    "name": "Beaver County, Pennsylvania",
+    "population": 166993,
+    "medianAge": 44.7,
+    "race": {
+      "white": 87.7,
+      "black": 6.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.8,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 36.3,
+      "someCollege": 18,
+      "associates": 12.4,
+      "bachelors": 19.4,
+      "graduate": 8.9
+    },
+    "medianIncome": 70156,
+    "meanIncome": 90373
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "42",
+    "name": "Bedford County, Pennsylvania",
+    "population": 47503,
+    "medianAge": 47.5,
+    "race": {
+      "white": 96,
+      "black": 0.8,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.3,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 48.4,
+      "someCollege": 15.3,
+      "associates": 9.9,
+      "bachelors": 9.8,
+      "graduate": 6.6
+    },
+    "medianIncome": 60302,
+    "meanIncome": 76732
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "42",
+    "name": "Berks County, Pennsylvania",
+    "population": 429989,
+    "medianAge": 39.9,
+    "race": {
+      "white": 72.3,
+      "black": 4.7,
+      "asian": 1.4,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 9.1,
+      "twoOrMore": 11.9,
+      "hispanic": 24
+    },
+    "education": {
+      "lessThanHighSchool": 11.6,
+      "highSchool": 36.9,
+      "someCollege": 15.1,
+      "associates": 9.3,
+      "bachelors": 17.4,
+      "graduate": 9.8
+    },
+    "medianIncome": 77684,
+    "meanIncome": 101044
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "42",
+    "name": "Blair County, Pennsylvania",
+    "population": 121854,
+    "medianAge": 42.9,
+    "race": {
+      "white": 93.3,
+      "black": 1.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.9,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 45.2,
+      "someCollege": 14.8,
+      "associates": 9.1,
+      "bachelors": 16.4,
+      "graduate": 7.7
+    },
+    "medianIncome": 60594,
+    "meanIncome": 80522
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "42",
+    "name": "Bradford County, Pennsylvania",
+    "population": 59971,
+    "medianAge": 43.7,
+    "race": {
+      "white": 95.1,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 2.5,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 46.5,
+      "someCollege": 14.4,
+      "associates": 9,
+      "bachelors": 12.6,
+      "graduate": 8.6
+    },
+    "medianIncome": 62482,
+    "meanIncome": 84646
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "42",
+    "name": "Bucks County, Pennsylvania",
+    "population": 645993,
+    "medianAge": 44.1,
+    "race": {
+      "white": 82.4,
+      "black": 3.7,
+      "asian": 4.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 6.1,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 27.5,
+      "someCollege": 15.1,
+      "associates": 8.3,
+      "bachelors": 26,
+      "graduate": 17.9
+    },
+    "medianIncome": 111951,
+    "meanIncome": 145806
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "42",
+    "name": "Butler County, Pennsylvania",
+    "population": 195870,
+    "medianAge": 43.3,
+    "race": {
+      "white": 93.8,
+      "black": 1,
+      "asian": 1.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.1,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 31.9,
+      "someCollege": 14.7,
+      "associates": 10.4,
+      "bachelors": 24.3,
+      "graduate": 14.3
+    },
+    "medianIncome": 86775,
+    "meanIncome": 113602
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "42",
+    "name": "Cambria County, Pennsylvania",
+    "population": 132355,
+    "medianAge": 45.7,
+    "race": {
+      "white": 91.6,
+      "black": 3.2,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.1,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 44.2,
+      "someCollege": 14.9,
+      "associates": 10.8,
+      "bachelors": 15.4,
+      "graduate": 7.6
+    },
+    "medianIncome": 56292,
+    "meanIncome": 77930
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "42",
+    "name": "Cameron County, Pennsylvania",
+    "population": 4475,
+    "medianAge": 52.5,
+    "race": {
+      "white": 94.1,
+      "black": 0,
+      "asian": 0.5,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.7,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 50,
+      "someCollege": 19.4,
+      "associates": 10.3,
+      "bachelors": 8.5,
+      "graduate": 2.7
+    },
+    "medianIncome": 47681,
+    "meanIncome": 59531
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "42",
+    "name": "Carbon County, Pennsylvania",
+    "population": 65191,
+    "medianAge": 46.3,
+    "race": {
+      "white": 90,
+      "black": 2.3,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 5.2,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 44.5,
+      "someCollege": 16.9,
+      "associates": 10.5,
+      "bachelors": 12.5,
+      "graduate": 5.9
+    },
+    "medianIncome": 67877,
+    "meanIncome": 85885
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "42",
+    "name": "Centre County, Pennsylvania",
+    "population": 158041,
+    "medianAge": 33.8,
+    "race": {
+      "white": 84.9,
+      "black": 3.3,
+      "asian": 6.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 5,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 28.5,
+      "someCollege": 12.2,
+      "associates": 7.4,
+      "bachelors": 22.4,
+      "graduate": 24.1
+    },
+    "medianIncome": 72748,
+    "meanIncome": 99196
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "42",
+    "name": "Chester County, Pennsylvania",
+    "population": 540896,
+    "medianAge": 40.7,
+    "race": {
+      "white": 78.4,
+      "black": 5.3,
+      "asian": 6.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.8,
+      "twoOrMore": 7,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 19.3,
+      "someCollege": 12.8,
+      "associates": 6.2,
+      "bachelors": 32.9,
+      "graduate": 23.7
+    },
+    "medianIncome": 123041,
+    "meanIncome": 165377
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "42",
+    "name": "Clarion County, Pennsylvania",
+    "population": 37297,
+    "medianAge": 41.6,
+    "race": {
+      "white": 94.8,
+      "black": 1.8,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.5,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 45.9,
+      "someCollege": 12.4,
+      "associates": 9.4,
+      "bachelors": 14.5,
+      "graduate": 8.8
+    },
+    "medianIncome": 60668,
+    "meanIncome": 78579
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "42",
+    "name": "Clearfield County, Pennsylvania",
+    "population": 78902,
+    "medianAge": 45.6,
+    "race": {
+      "white": 93.1,
+      "black": 2.2,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.2,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.6,
+      "highSchool": 46.5,
+      "someCollege": 13.6,
+      "associates": 10.3,
+      "bachelors": 13.4,
+      "graduate": 6.7
+    },
+    "medianIncome": 60181,
+    "meanIncome": 79059
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "42",
+    "name": "Clinton County, Pennsylvania",
+    "population": 37707,
+    "medianAge": 39.8,
+    "race": {
+      "white": 94.5,
+      "black": 1.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 45.8,
+      "someCollege": 13.9,
+      "associates": 8.8,
+      "bachelors": 13.6,
+      "graduate": 7.7
+    },
+    "medianIncome": 58842,
+    "meanIncome": 76816
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "42",
+    "name": "Columbia County, Pennsylvania",
+    "population": 65055,
+    "medianAge": 41.4,
+    "race": {
+      "white": 92.4,
+      "black": 1.9,
+      "asian": 1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 0.8,
+      "twoOrMore": 3.3,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 44.8,
+      "someCollege": 13.9,
+      "associates": 8.2,
+      "bachelors": 15.1,
+      "graduate": 9.8
+    },
+    "medianIncome": 61992,
+    "meanIncome": 79343
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "42",
+    "name": "Crawford County, Pennsylvania",
+    "population": 83189,
+    "medianAge": 43.9,
+    "race": {
+      "white": 93.7,
+      "black": 1.7,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.2,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 46.8,
+      "someCollege": 15,
+      "associates": 8,
+      "bachelors": 13.1,
+      "graduate": 8.1
+    },
+    "medianIncome": 60254,
+    "meanIncome": 77237
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "42",
+    "name": "Cumberland County, Pennsylvania",
+    "population": 264422,
+    "medianAge": 40.3,
+    "race": {
+      "white": 83.4,
+      "black": 4.5,
+      "asian": 5.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 5.3,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 30.6,
+      "someCollege": 14.9,
+      "associates": 8.3,
+      "bachelors": 23.9,
+      "graduate": 15.6
+    },
+    "medianIncome": 85634,
+    "meanIncome": 110385
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "42",
+    "name": "Dauphin County, Pennsylvania",
+    "population": 287484,
+    "medianAge": 39.4,
+    "race": {
+      "white": 64.9,
+      "black": 17.7,
+      "asian": 6.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 3.9,
+      "twoOrMore": 7.1,
+      "hispanic": 11.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 32.1,
+      "someCollege": 15.6,
+      "associates": 9.5,
+      "bachelors": 21.9,
+      "graduate": 12.4
+    },
+    "medianIncome": 74159,
+    "meanIncome": 98206
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "42",
+    "name": "Delaware County, Pennsylvania",
+    "population": 576195,
+    "medianAge": 39,
+    "race": {
+      "white": 64.5,
+      "black": 22,
+      "asian": 6.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2.3,
+      "twoOrMore": 4.9,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 27.2,
+      "someCollege": 16.9,
+      "associates": 7.9,
+      "bachelors": 23.5,
+      "graduate": 18.1
+    },
+    "medianIncome": 88576,
+    "meanIncome": 126081
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "42",
+    "name": "Elk County, Pennsylvania",
+    "population": 30703,
+    "medianAge": 48.5,
+    "race": {
+      "white": 95.1,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3.4,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 48.6,
+      "someCollege": 12.5,
+      "associates": 12.4,
+      "bachelors": 13.4,
+      "graduate": 6.6
+    },
+    "medianIncome": 64103,
+    "meanIncome": 80111
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "42",
+    "name": "Erie County, Pennsylvania",
+    "population": 269544,
+    "medianAge": 40.1,
+    "race": {
+      "white": 83.5,
+      "black": 6.9,
+      "asian": 2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 6.2,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 37.5,
+      "someCollege": 15.4,
+      "associates": 10,
+      "bachelors": 18.6,
+      "graduate": 11.1
+    },
+    "medianIncome": 61476,
+    "meanIncome": 82408
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "42",
+    "name": "Fayette County, Pennsylvania",
+    "population": 126967,
+    "medianAge": 45.4,
+    "race": {
+      "white": 90.1,
+      "black": 4.1,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.6,
+      "twoOrMore": 4.7,
+      "hispanic": 1.3
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 47.5,
+      "someCollege": 14.1,
+      "associates": 9.4,
+      "bachelors": 12.3,
+      "graduate": 6.6
+    },
+    "medianIncome": 56093,
+    "meanIncome": 74330
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "42",
+    "name": "Forest County, Pennsylvania",
+    "population": 6785,
+    "medianAge": 48.6,
+    "race": {
+      "white": 79,
+      "black": 14,
+      "asian": 0.6,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 3.7,
+      "hispanic": 5
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 51.6,
+      "someCollege": 17.4,
+      "associates": 4.6,
+      "bachelors": 8.8,
+      "graduate": 3.3
+    },
+    "medianIncome": 50061,
+    "meanIncome": 61627
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "42",
+    "name": "Franklin County, Pennsylvania",
+    "population": 156626,
+    "medianAge": 42.2,
+    "race": {
+      "white": 87.8,
+      "black": 3.2,
+      "asian": 1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 4.9,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 43.3,
+      "someCollege": 15.4,
+      "associates": 8,
+      "bachelors": 14.3,
+      "graduate": 9.6
+    },
+    "medianIncome": 74946,
+    "meanIncome": 95559
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "42",
+    "name": "Fulton County, Pennsylvania",
+    "population": 14545,
+    "medianAge": 45.9,
+    "race": {
+      "white": 94.1,
+      "black": 1.4,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 2.6,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 48.3,
+      "someCollege": 13.9,
+      "associates": 10,
+      "bachelors": 10.6,
+      "graduate": 6.5
+    },
+    "medianIncome": 64798,
+    "meanIncome": 83930
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "42",
+    "name": "Greene County, Pennsylvania",
+    "population": 35265,
+    "medianAge": 43,
+    "race": {
+      "white": 92.3,
+      "black": 2.7,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4.4,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 44.3,
+      "someCollege": 15.7,
+      "associates": 8.8,
+      "bachelors": 12.8,
+      "graduate": 8.3
+    },
+    "medianIncome": 66870,
+    "meanIncome": 82555
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "42",
+    "name": "Huntingdon County, Pennsylvania",
+    "population": 43844,
+    "medianAge": 43.5,
+    "race": {
+      "white": 90.2,
+      "black": 4.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.5,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 50.1,
+      "someCollege": 13.3,
+      "associates": 9.1,
+      "bachelors": 12,
+      "graduate": 6.2
+    },
+    "medianIncome": 65429,
+    "meanIncome": 81916
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "42",
+    "name": "Indiana County, Pennsylvania",
+    "population": 83213,
+    "medianAge": 39.5,
+    "race": {
+      "white": 92.6,
+      "black": 2.5,
+      "asian": 0.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.7,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 40.1,
+      "someCollege": 15.7,
+      "associates": 9.6,
+      "bachelors": 15.5,
+      "graduate": 11.5
+    },
+    "medianIncome": 58739,
+    "meanIncome": 77466
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "42",
+    "name": "Jefferson County, Pennsylvania",
+    "population": 44099,
+    "medianAge": 43.7,
+    "race": {
+      "white": 96.5,
+      "black": 0.5,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.3,
+      "hispanic": 1
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 51.6,
+      "someCollege": 12.4,
+      "associates": 9.8,
+      "bachelors": 11.8,
+      "graduate": 5.7
+    },
+    "medianIncome": 56898,
+    "meanIncome": 73117
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "42",
+    "name": "Juniata County, Pennsylvania",
+    "population": 23419,
+    "medianAge": 43.1,
+    "race": {
+      "white": 93.2,
+      "black": 1.1,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.8,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 49,
+      "someCollege": 10.7,
+      "associates": 8.5,
+      "bachelors": 10.3,
+      "graduate": 4.7
+    },
+    "medianIncome": 63923,
+    "meanIncome": 80988
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "42",
+    "name": "Lackawanna County, Pennsylvania",
+    "population": 215834,
+    "medianAge": 41.9,
+    "race": {
+      "white": 83.4,
+      "black": 3.1,
+      "asian": 3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.1,
+      "twoOrMore": 7.3,
+      "hispanic": 9.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 35.4,
+      "someCollege": 16,
+      "associates": 10,
+      "bachelors": 18.4,
+      "graduate": 11.8
+    },
+    "medianIncome": 64691,
+    "meanIncome": 87019
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "42",
+    "name": "Lancaster County, Pennsylvania",
+    "population": 555151,
+    "medianAge": 39.1,
+    "race": {
+      "white": 82.9,
+      "black": 4,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 4,
+      "twoOrMore": 6.5,
+      "hispanic": 11.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 34.5,
+      "someCollege": 13.7,
+      "associates": 8,
+      "bachelors": 19.7,
+      "graduate": 11.3
+    },
+    "medianIncome": 83703,
+    "meanIncome": 107934
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "42",
+    "name": "Lawrence County, Pennsylvania",
+    "population": 85423,
+    "medianAge": 44.9,
+    "race": {
+      "white": 90.4,
+      "black": 3.7,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.6,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 43.2,
+      "someCollege": 16.7,
+      "associates": 9.6,
+      "bachelors": 16,
+      "graduate": 6.8
+    },
+    "medianIncome": 60779,
+    "meanIncome": 79865
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "42",
+    "name": "Lebanon County, Pennsylvania",
+    "population": 143592,
+    "medianAge": 41.3,
+    "race": {
+      "white": 82,
+      "black": 2.1,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 7.9,
+      "twoOrMore": 6.4,
+      "hispanic": 14.7
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 41.6,
+      "someCollege": 14.7,
+      "associates": 7.8,
+      "bachelors": 15.2,
+      "graduate": 8.8
+    },
+    "medianIncome": 76350,
+    "meanIncome": 95935
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "42",
+    "name": "Lehigh County, Pennsylvania",
+    "population": 375408,
+    "medianAge": 39.3,
+    "race": {
+      "white": 66.8,
+      "black": 6.9,
+      "asian": 3.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 9.6,
+      "twoOrMore": 12.8,
+      "hispanic": 27
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 32.2,
+      "someCollege": 15.7,
+      "associates": 9,
+      "bachelors": 20.7,
+      "graduate": 12.6
+    },
+    "medianIncome": 77493,
+    "meanIncome": 107564
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "42",
+    "name": "Luzerne County, Pennsylvania",
+    "population": 325978,
+    "medianAge": 42.1,
+    "race": {
+      "white": 78.3,
+      "black": 5.2,
+      "asian": 1.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 7.3,
+      "twoOrMore": 7.8,
+      "hispanic": 15.9
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 37.1,
+      "someCollege": 17.8,
+      "associates": 10.8,
+      "bachelors": 15.3,
+      "graduate": 9.6
+    },
+    "medianIncome": 62321,
+    "meanIncome": 82477
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "42",
+    "name": "Lycoming County, Pennsylvania",
+    "population": 113570,
+    "medianAge": 41.3,
+    "race": {
+      "white": 89.1,
+      "black": 4.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.6,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 38.4,
+      "someCollege": 16.3,
+      "associates": 11.6,
+      "bachelors": 15.8,
+      "graduate": 9
+    },
+    "medianIncome": 64412,
+    "meanIncome": 83918
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "42",
+    "name": "McKean County, Pennsylvania",
+    "population": 40149,
+    "medianAge": 43.8,
+    "race": {
+      "white": 93.7,
+      "black": 2.3,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.8,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 46.8,
+      "someCollege": 14.9,
+      "associates": 10.5,
+      "bachelors": 12.7,
+      "graduate": 7.7
+    },
+    "medianIncome": 61705,
+    "meanIncome": 79327
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "42",
+    "name": "Mercer County, Pennsylvania",
+    "population": 109852,
+    "medianAge": 45.2,
+    "race": {
+      "white": 89,
+      "black": 5.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 40.5,
+      "someCollege": 16,
+      "associates": 9.8,
+      "bachelors": 16.2,
+      "graduate": 8.9
+    },
+    "medianIncome": 60614,
+    "meanIncome": 78316
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "42",
+    "name": "Mifflin County, Pennsylvania",
+    "population": 46074,
+    "medianAge": 43.1,
+    "race": {
+      "white": 93.9,
+      "black": 0.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.7,
+      "twoOrMore": 4.1,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 15.6,
+      "highSchool": 48.6,
+      "someCollege": 14.1,
+      "associates": 8.4,
+      "bachelors": 8.4,
+      "graduate": 4.8
+    },
+    "medianIncome": 61415,
+    "meanIncome": 73879
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "42",
+    "name": "Monroe County, Pennsylvania",
+    "population": 167784,
+    "medianAge": 43.9,
+    "race": {
+      "white": 66.5,
+      "black": 14,
+      "asian": 2.6,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 6.4,
+      "twoOrMore": 10.3,
+      "hispanic": 17.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 35.5,
+      "someCollege": 18.6,
+      "associates": 8.4,
+      "bachelors": 17.4,
+      "graduate": 10.5
+    },
+    "medianIncome": 82374,
+    "meanIncome": 100240
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "42",
+    "name": "Montgomery County, Pennsylvania",
+    "population": 861225,
+    "medianAge": 41.1,
+    "race": {
+      "white": 74.4,
+      "black": 9.3,
+      "asian": 7.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6.2,
+      "hispanic": 6.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 22,
+      "someCollege": 13.4,
+      "associates": 7.2,
+      "bachelors": 29.2,
+      "graduate": 23
+    },
+    "medianIncome": 111521,
+    "meanIncome": 154372
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "42",
+    "name": "Montour County, Pennsylvania",
+    "population": 18079,
+    "medianAge": 43,
+    "race": {
+      "white": 90.5,
+      "black": 2.5,
+      "asian": 3.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.7,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 34,
+      "someCollege": 13.2,
+      "associates": 9,
+      "bachelors": 17,
+      "graduate": 19.6
+    },
+    "medianIncome": 72926,
+    "meanIncome": 106486
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "42",
+    "name": "Northampton County, Pennsylvania",
+    "population": 315927,
+    "medianAge": 42,
+    "race": {
+      "white": 76.7,
+      "black": 5.9,
+      "asian": 3.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 5.4,
+      "twoOrMore": 8.7,
+      "hispanic": 14.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 32.9,
+      "someCollege": 16.2,
+      "associates": 9.8,
+      "bachelors": 20.6,
+      "graduate": 13.2
+    },
+    "medianIncome": 86687,
+    "meanIncome": 113739
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "42",
+    "name": "Northumberland County, Pennsylvania",
+    "population": 90925,
+    "medianAge": 44.4,
+    "race": {
+      "white": 91.1,
+      "black": 2.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 3.9,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 47.7,
+      "someCollege": 14.9,
+      "associates": 8.3,
+      "bachelors": 13.5,
+      "graduate": 5.7
+    },
+    "medianIncome": 57948,
+    "meanIncome": 75909
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "42",
+    "name": "Perry County, Pennsylvania",
+    "population": 45988,
+    "medianAge": 43.8,
+    "race": {
+      "white": 94.5,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.8,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.1,
+      "highSchool": 46.3,
+      "someCollege": 14.3,
+      "associates": 10.6,
+      "bachelors": 12.9,
+      "graduate": 5.7
+    },
+    "medianIncome": 78824,
+    "meanIncome": 95139
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "42",
+    "name": "Philadelphia County, Pennsylvania",
+    "population": 1582432,
+    "medianAge": 35.1,
+    "race": {
+      "white": 36.1,
+      "black": 39.9,
+      "asian": 7.8,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 8.4,
+      "twoOrMore": 7.3,
+      "hispanic": 15.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 29.8,
+      "someCollege": 16.4,
+      "associates": 6.5,
+      "bachelors": 19.4,
+      "graduate": 15.3
+    },
+    "medianIncome": 60698,
+    "meanIncome": 88307
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "42",
+    "name": "Pike County, Pennsylvania",
+    "population": 59691,
+    "medianAge": 49.4,
+    "race": {
+      "white": 80.4,
+      "black": 6.6,
+      "asian": 1.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.7,
+      "twoOrMore": 7.7,
+      "hispanic": 12
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 33.5,
+      "someCollege": 20.3,
+      "associates": 10.5,
+      "bachelors": 16.8,
+      "graduate": 12.1
+    },
+    "medianIncome": 79318,
+    "meanIncome": 101573
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "42",
+    "name": "Potter County, Pennsylvania",
+    "population": 16276,
+    "medianAge": 48.2,
+    "race": {
+      "white": 95.7,
+      "black": 0.4,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.8,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 9.2,
+      "highSchool": 46.8,
+      "someCollege": 16.9,
+      "associates": 10.1,
+      "bachelors": 10.6,
+      "graduate": 6.4
+    },
+    "medianIncome": 59840,
+    "meanIncome": 74947
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "42",
+    "name": "Schuylkill County, Pennsylvania",
+    "population": 143259,
+    "medianAge": 43.9,
+    "race": {
+      "white": 89.7,
+      "black": 2.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 4.9,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 45.1,
+      "someCollege": 14.7,
+      "associates": 11.1,
+      "bachelors": 12.5,
+      "graduate": 6.6
+    },
+    "medianIncome": 66901,
+    "meanIncome": 82922
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "42",
+    "name": "Snyder County, Pennsylvania",
+    "population": 39711,
+    "medianAge": 40.5,
+    "race": {
+      "white": 95,
+      "black": 0.8,
+      "asian": 0.6,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.2,
+      "other": 0.6,
+      "twoOrMore": 2.8,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 15.7,
+      "highSchool": 43,
+      "someCollege": 10.7,
+      "associates": 9.2,
+      "bachelors": 12.8,
+      "graduate": 8.6
+    },
+    "medianIncome": 68435,
+    "meanIncome": 86097
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "42",
+    "name": "Somerset County, Pennsylvania",
+    "population": 73255,
+    "medianAge": 47,
+    "race": {
+      "white": 94.5,
+      "black": 1.9,
+      "asian": 0.5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 49.3,
+      "someCollege": 13.8,
+      "associates": 9.7,
+      "bachelors": 11.1,
+      "graduate": 6.2
+    },
+    "medianIncome": 59378,
+    "meanIncome": 75974
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "42",
+    "name": "Sullivan County, Pennsylvania",
+    "population": 5849,
+    "medianAge": 56.1,
+    "race": {
+      "white": 94.6,
+      "black": 2.3,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.2,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 49,
+      "someCollege": 11.2,
+      "associates": 11.9,
+      "bachelors": 12.4,
+      "graduate": 7.3
+    },
+    "medianIncome": 64758,
+    "meanIncome": 81442
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "42",
+    "name": "Susquehanna County, Pennsylvania",
+    "population": 38349,
+    "medianAge": 48.6,
+    "race": {
+      "white": 95.7,
+      "black": 0.2,
+      "asian": 0.5,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.2,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 46.3,
+      "someCollege": 15.7,
+      "associates": 9.8,
+      "bachelors": 12.7,
+      "graduate": 7.1
+    },
+    "medianIncome": 66930,
+    "meanIncome": 92206
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "42",
+    "name": "Tioga County, Pennsylvania",
+    "population": 41078,
+    "medianAge": 45,
+    "race": {
+      "white": 96,
+      "black": 0.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2.2,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 43.7,
+      "someCollege": 16.5,
+      "associates": 10.3,
+      "bachelors": 12.6,
+      "graduate": 8.9
+    },
+    "medianIncome": 62932,
+    "meanIncome": 78295
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "42",
+    "name": "Union County, Pennsylvania",
+    "population": 42570,
+    "medianAge": 40.5,
+    "race": {
+      "white": 89.1,
+      "black": 6,
+      "asian": 1.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 2,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 41.3,
+      "someCollege": 11.1,
+      "associates": 7.8,
+      "bachelors": 14.5,
+      "graduate": 12
+    },
+    "medianIncome": 72894,
+    "meanIncome": 103373
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "42",
+    "name": "Venango County, Pennsylvania",
+    "population": 50096,
+    "medianAge": 47.6,
+    "race": {
+      "white": 94.2,
+      "black": 1.1,
+      "asian": 0.3,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 3.1,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 46.4,
+      "someCollege": 15.4,
+      "associates": 10.1,
+      "bachelors": 12.7,
+      "graduate": 7
+    },
+    "medianIncome": 61626,
+    "meanIncome": 76779
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "42",
+    "name": "Warren County, Pennsylvania",
+    "population": 38174,
+    "medianAge": 47.4,
+    "race": {
+      "white": 95.2,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 46.4,
+      "someCollege": 16.5,
+      "associates": 11.6,
+      "bachelors": 12.6,
+      "graduate": 6.8
+    },
+    "medianIncome": 59013,
+    "meanIncome": 76006
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "42",
+    "name": "Washington County, Pennsylvania",
+    "population": 209778,
+    "medianAge": 44.2,
+    "race": {
+      "white": 90.8,
+      "black": 3.2,
+      "asian": 1.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.1,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 35.2,
+      "someCollege": 15,
+      "associates": 11,
+      "bachelors": 20.5,
+      "graduate": 12.3
+    },
+    "medianIncome": 77487,
+    "meanIncome": 104399
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "42",
+    "name": "Wayne County, Pennsylvania",
+    "population": 51189,
+    "medianAge": 48.9,
+    "race": {
+      "white": 90.1,
+      "black": 3.2,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.1,
+      "other": 0.9,
+      "twoOrMore": 4.8,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 43.3,
+      "someCollege": 17.5,
+      "associates": 9,
+      "bachelors": 12.6,
+      "graduate": 8.9
+    },
+    "medianIncome": 62182,
+    "meanIncome": 81581
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "42",
+    "name": "Westmoreland County, Pennsylvania",
+    "population": 353345,
+    "medianAge": 47.1,
+    "race": {
+      "white": 92.6,
+      "black": 2.5,
+      "asian": 0.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 3.5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 35.2,
+      "someCollege": 16.2,
+      "associates": 12.1,
+      "bachelors": 20.1,
+      "graduate": 11.7
+    },
+    "medianIncome": 72468,
+    "meanIncome": 95075
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "42",
+    "name": "Wyoming County, Pennsylvania",
+    "population": 26075,
+    "medianAge": 45.2,
+    "race": {
+      "white": 94.5,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 3.7,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 45.6,
+      "someCollege": 16.4,
+      "associates": 8.9,
+      "bachelors": 13.9,
+      "graduate": 7.6
+    },
+    "medianIncome": 70268,
+    "meanIncome": 94177
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "42",
+    "name": "York County, Pennsylvania",
+    "population": 459312,
+    "medianAge": 40.9,
+    "race": {
+      "white": 82.9,
+      "black": 5.9,
+      "asian": 1.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 3.3,
+      "twoOrMore": 6.3,
+      "hispanic": 9.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 38,
+      "someCollege": 16.6,
+      "associates": 9.5,
+      "bachelors": 17.1,
+      "graduate": 10.1
+    },
+    "medianIncome": 82238,
+    "meanIncome": 101502
+  }
+]

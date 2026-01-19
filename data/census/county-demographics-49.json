@@ -1,0 +1,785 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "49",
+    "name": "Beaver County, Utah",
+    "population": 7172,
+    "medianAge": 34.4,
+    "race": {
+      "white": 90.8,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 6.1,
+      "twoOrMore": 2.7,
+      "hispanic": 14.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 32.5,
+      "someCollege": 25.7,
+      "associates": 12.4,
+      "bachelors": 17.8,
+      "graduate": 4.9
+    },
+    "medianIncome": 85603,
+    "meanIncome": 91447
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "49",
+    "name": "Box Elder County, Utah",
+    "population": 59725,
+    "medianAge": 32.9,
+    "race": {
+      "white": 89.3,
+      "black": 0.4,
+      "asian": 0.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 2.5,
+      "twoOrMore": 6.2,
+      "hispanic": 9.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 31.9,
+      "someCollege": 24.9,
+      "associates": 9,
+      "bachelors": 18.9,
+      "graduate": 7.9
+    },
+    "medianIncome": 77865,
+    "meanIncome": 94546
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "49",
+    "name": "Cache County, Utah",
+    "population": 137031,
+    "medianAge": 25.9,
+    "race": {
+      "white": 85.4,
+      "black": 0.8,
+      "asian": 1.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.4,
+      "other": 3.6,
+      "twoOrMore": 7.5,
+      "hispanic": 11.5
+    },
+    "education": {
+      "lessThanHighSchool": 6,
+      "highSchool": 20.1,
+      "someCollege": 26.1,
+      "associates": 7.3,
+      "bachelors": 25.7,
+      "graduate": 14.7
+    },
+    "medianIncome": 78292,
+    "meanIncome": 100825
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "49",
+    "name": "Carbon County, Utah",
+    "population": 20446,
+    "medianAge": 38.8,
+    "race": {
+      "white": 89.1,
+      "black": 0.8,
+      "asian": 0.3,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.3,
+      "other": 1.9,
+      "twoOrMore": 6.9,
+      "hispanic": 13.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 29.6,
+      "someCollege": 29.8,
+      "associates": 14.1,
+      "bachelors": 12.6,
+      "graduate": 5.8
+    },
+    "medianIncome": 53673,
+    "meanIncome": 70471
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "49",
+    "name": "Daggett County, Utah",
+    "population": 747,
+    "medianAge": 45,
+    "race": {
+      "white": 92.6,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 5.8,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 33.8,
+      "someCollege": 31.6,
+      "associates": 14.3,
+      "bachelors": 8.1,
+      "graduate": 3.5
+    },
+    "medianIncome": 58750,
+    "meanIncome": 77359
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "49",
+    "name": "Davis County, Utah",
+    "population": 366742,
+    "medianAge": 32.3,
+    "race": {
+      "white": 85.5,
+      "black": 1.2,
+      "asian": 1.9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.8,
+      "other": 2.4,
+      "twoOrMore": 7.8,
+      "hispanic": 11.3
+    },
+    "education": {
+      "lessThanHighSchool": 4,
+      "highSchool": 21.1,
+      "someCollege": 25.4,
+      "associates": 10.8,
+      "bachelors": 25.6,
+      "graduate": 13.1
+    },
+    "medianIncome": 108058,
+    "meanIncome": 129739
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "49",
+    "name": "Duchesne County, Utah",
+    "population": 19932,
+    "medianAge": 33.8,
+    "race": {
+      "white": 88.2,
+      "black": 0.1,
+      "asian": 0.5,
+      "nativeAmerican": 3.6,
+      "pacificIslander": 0.5,
+      "other": 2,
+      "twoOrMore": 5.2,
+      "hispanic": 7.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 39.2,
+      "someCollege": 25.2,
+      "associates": 9.3,
+      "bachelors": 11.9,
+      "graduate": 5.1
+    },
+    "medianIncome": 74738,
+    "meanIncome": 92726
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "49",
+    "name": "Emery County, Utah",
+    "population": 9968,
+    "medianAge": 39.1,
+    "race": {
+      "white": 94.1,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.5,
+      "other": 0.9,
+      "twoOrMore": 3.6,
+      "hispanic": 7.3
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 31.8,
+      "someCollege": 29.2,
+      "associates": 15.1,
+      "bachelors": 10.8,
+      "graduate": 6.4
+    },
+    "medianIncome": 69956,
+    "meanIncome": 83815
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "49",
+    "name": "Garfield County, Utah",
+    "population": 5170,
+    "medianAge": 41,
+    "race": {
+      "white": 94.7,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 2.1,
+      "pacificIslander": 0.5,
+      "other": 0.9,
+      "twoOrMore": 1.7,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 4.9,
+      "highSchool": 26,
+      "someCollege": 26.3,
+      "associates": 10.7,
+      "bachelors": 22.7,
+      "graduate": 9.4
+    },
+    "medianIncome": 61688,
+    "meanIncome": 81639
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "49",
+    "name": "Grand County, Utah",
+    "population": 9697,
+    "medianAge": 39.6,
+    "race": {
+      "white": 84.1,
+      "black": 0,
+      "asian": 1.1,
+      "nativeAmerican": 3.9,
+      "pacificIslander": 1.4,
+      "other": 3.7,
+      "twoOrMore": 5.7,
+      "hispanic": 12.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 21,
+      "someCollege": 31.5,
+      "associates": 7.1,
+      "bachelors": 22.1,
+      "graduate": 12.7
+    },
+    "medianIncome": 62521,
+    "meanIncome": 85833
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "49",
+    "name": "Iron County, Utah",
+    "population": 60201,
+    "medianAge": 29.9,
+    "race": {
+      "white": 87.8,
+      "black": 0.6,
+      "asian": 1,
+      "nativeAmerican": 1.6,
+      "pacificIslander": 0.3,
+      "other": 2.4,
+      "twoOrMore": 6.2,
+      "hispanic": 10.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 25,
+      "someCollege": 25.9,
+      "associates": 12,
+      "bachelors": 20.5,
+      "graduate": 9.9
+    },
+    "medianIncome": 65527,
+    "meanIncome": 86314
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "49",
+    "name": "Juab County, Utah",
+    "population": 12273,
+    "medianAge": 30.5,
+    "race": {
+      "white": 93.8,
+      "black": 0.7,
+      "asian": 0,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 3.9,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.5,
+      "highSchool": 33.8,
+      "someCollege": 26.4,
+      "associates": 12,
+      "bachelors": 14.5,
+      "graduate": 5.8
+    },
+    "medianIncome": 89803,
+    "meanIncome": 100958
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "49",
+    "name": "Kane County, Utah",
+    "population": 7996,
+    "medianAge": 43.7,
+    "race": {
+      "white": 90.8,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 2.2,
+      "pacificIslander": 0.1,
+      "other": 2.4,
+      "twoOrMore": 4.2,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 25.3,
+      "someCollege": 26.6,
+      "associates": 10.6,
+      "bachelors": 22.6,
+      "graduate": 9.6
+    },
+    "medianIncome": 75000,
+    "meanIncome": 95094
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "49",
+    "name": "Millard County, Utah",
+    "population": 13179,
+    "medianAge": 33.4,
+    "race": {
+      "white": 86.1,
+      "black": 0.4,
+      "asian": 1.7,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0.1,
+      "other": 5.8,
+      "twoOrMore": 4.4,
+      "hispanic": 13.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 35.3,
+      "someCollege": 24.2,
+      "associates": 8.8,
+      "bachelors": 18.2,
+      "graduate": 4.8
+    },
+    "medianIncome": 70877,
+    "meanIncome": 81384
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "49",
+    "name": "Morgan County, Utah",
+    "population": 12585,
+    "medianAge": 32.5,
+    "race": {
+      "white": 94.3,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.5,
+      "other": 1.7,
+      "twoOrMore": 2.8,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 2.4,
+      "highSchool": 24.1,
+      "someCollege": 24.7,
+      "associates": 10,
+      "bachelors": 24.5,
+      "graduate": 14.3
+    },
+    "medianIncome": 126092,
+    "meanIncome": 152810
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "49",
+    "name": "Piute County, Utah",
+    "population": 1705,
+    "medianAge": 47.1,
+    "race": {
+      "white": 95.8,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 2.2,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 25.4,
+      "someCollege": 24,
+      "associates": 17.2,
+      "bachelors": 11.7,
+      "graduate": 7.3
+    },
+    "medianIncome": 44650,
+    "meanIncome": 57584
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "49",
+    "name": "Rich County, Utah",
+    "population": 2588,
+    "medianAge": 37.2,
+    "race": {
+      "white": 89.5,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 4.3,
+      "twoOrMore": 5.7,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 19.8,
+      "someCollege": 34.5,
+      "associates": 16.7,
+      "bachelors": 16.6,
+      "graduate": 7.9
+    },
+    "medianIncome": 76875,
+    "meanIncome": 87420
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "49",
+    "name": "Salt Lake County, Utah",
+    "population": 1184689,
+    "medianAge": 33.8,
+    "race": {
+      "white": 72.8,
+      "black": 1.8,
+      "asian": 4.1,
+      "nativeAmerican": 1,
+      "pacificIslander": 1.6,
+      "other": 9.1,
+      "twoOrMore": 9.7,
+      "hispanic": 20
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 22.2,
+      "someCollege": 21.8,
+      "associates": 9.1,
+      "bachelors": 24.6,
+      "graduate": 14
+    },
+    "medianIncome": 94658,
+    "meanIncome": 121509
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "49",
+    "name": "San Juan County, Utah",
+    "population": 14466,
+    "medianAge": 34.6,
+    "race": {
+      "white": 46.7,
+      "black": 0.1,
+      "asian": 0.5,
+      "nativeAmerican": 45.9,
+      "pacificIslander": 0.4,
+      "other": 3,
+      "twoOrMore": 3.3,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 31,
+      "someCollege": 27,
+      "associates": 9.5,
+      "bachelors": 13.3,
+      "graduate": 6.9
+    },
+    "medianIncome": 54890,
+    "meanIncome": 73598
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "49",
+    "name": "Sanpete County, Utah",
+    "population": 29209,
+    "medianAge": 33.8,
+    "race": {
+      "white": 86.7,
+      "black": 0.9,
+      "asian": 0.9,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.5,
+      "other": 6.4,
+      "twoOrMore": 3.8,
+      "hispanic": 10.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 31.3,
+      "someCollege": 25.3,
+      "associates": 10.9,
+      "bachelors": 13.2,
+      "graduate": 10
+    },
+    "medianIncome": 67459,
+    "meanIncome": 84735
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "49",
+    "name": "Sevier County, Utah",
+    "population": 21854,
+    "medianAge": 36.7,
+    "race": {
+      "white": 92.9,
+      "black": 0.2,
+      "asian": 0.3,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.2,
+      "other": 1.9,
+      "twoOrMore": 3.9,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 31.2,
+      "someCollege": 26.4,
+      "associates": 12,
+      "bachelors": 15.8,
+      "graduate": 7.2
+    },
+    "medianIncome": 73765,
+    "meanIncome": 86316
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "49",
+    "name": "Summit County, Utah",
+    "population": 42709,
+    "medianAge": 41,
+    "race": {
+      "white": 86.7,
+      "black": 0.4,
+      "asian": 1.7,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 6.8,
+      "hispanic": 11.1
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 14.3,
+      "someCollege": 17.3,
+      "associates": 5.4,
+      "bachelors": 35.9,
+      "graduate": 22.2
+    },
+    "medianIncome": 137058,
+    "meanIncome": 208695
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "49",
+    "name": "Tooele County, Utah",
+    "population": 76648,
+    "medianAge": 32,
+    "race": {
+      "white": 86.2,
+      "black": 0.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.9,
+      "other": 2.8,
+      "twoOrMore": 8.2,
+      "hispanic": 14.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 30.9,
+      "someCollege": 27.6,
+      "associates": 11,
+      "bachelors": 15.3,
+      "graduate": 7.9
+    },
+    "medianIncome": 101846,
+    "meanIncome": 120925
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "49",
+    "name": "Uintah County, Utah",
+    "population": 36458,
+    "medianAge": 33,
+    "race": {
+      "white": 84.1,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 5.5,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 7.7,
+      "hispanic": 8.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 36.3,
+      "someCollege": 26.7,
+      "associates": 9.4,
+      "bachelors": 12.2,
+      "graduate": 4.6
+    },
+    "medianIncome": 69861,
+    "meanIncome": 92354
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "49",
+    "name": "Utah County, Utah",
+    "population": 683622,
+    "medianAge": 25.5,
+    "race": {
+      "white": 83.7,
+      "black": 0.7,
+      "asian": 1.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.8,
+      "other": 4,
+      "twoOrMore": 8.7,
+      "hispanic": 13.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 16.8,
+      "someCollege": 24.8,
+      "associates": 10,
+      "bachelors": 30.4,
+      "graduate": 13.4
+    },
+    "medianIncome": 96877,
+    "meanIncome": 121499
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "49",
+    "name": "Wasatch County, Utah",
+    "population": 35808,
+    "medianAge": 36.1,
+    "race": {
+      "white": 85.1,
+      "black": 0.1,
+      "asian": 1.4,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 6.1,
+      "twoOrMore": 6.9,
+      "hispanic": 14.4
+    },
+    "education": {
+      "lessThanHighSchool": 4.4,
+      "highSchool": 18.8,
+      "someCollege": 20.9,
+      "associates": 8.2,
+      "bachelors": 30.8,
+      "graduate": 16.9
+    },
+    "medianIncome": 115146,
+    "meanIncome": 159943
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "49",
+    "name": "Washington County, Utah",
+    "population": 189827,
+    "medianAge": 39,
+    "race": {
+      "white": 85.9,
+      "black": 0.5,
+      "asian": 1.1,
+      "nativeAmerican": 1,
+      "pacificIslander": 0.7,
+      "other": 4.2,
+      "twoOrMore": 6.6,
+      "hispanic": 11.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.7,
+      "highSchool": 21.5,
+      "someCollege": 27.1,
+      "associates": 12.5,
+      "bachelors": 20.6,
+      "graduate": 12.6
+    },
+    "medianIncome": 76411,
+    "meanIncome": 104854
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "49",
+    "name": "Wayne County, Utah",
+    "population": 2557,
+    "medianAge": 43.1,
+    "race": {
+      "white": 94.5,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 5.4,
+      "hispanic": 3.8
+    },
+    "education": {
+      "lessThanHighSchool": 4.3,
+      "highSchool": 23.5,
+      "someCollege": 27.3,
+      "associates": 19.7,
+      "bachelors": 18.7,
+      "graduate": 6.5
+    },
+    "medianIncome": 70074,
+    "meanIncome": 80918
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "49",
+    "name": "Weber County, Utah",
+    "population": 266183,
+    "medianAge": 33.5,
+    "race": {
+      "white": 83.9,
+      "black": 1.1,
+      "asian": 1.5,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0.2,
+      "other": 5.2,
+      "twoOrMore": 7.5,
+      "hispanic": 18.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 28.5,
+      "someCollege": 25.5,
+      "associates": 10.2,
+      "bachelors": 19.5,
+      "graduate": 8.5
+    },
+    "medianIncome": 87083,
+    "meanIncome": 105251
+  }
+]

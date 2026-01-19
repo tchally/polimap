@@ -1,0 +1,1784 @@
+[
+  {
+    "countyFips": "003",
+    "stateFips": "46",
+    "name": "Aurora County, South Dakota",
+    "population": 2573,
+    "medianAge": 42.4,
+    "race": {
+      "white": 91.9,
+      "black": 1,
+      "asian": 0.5,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 5.2,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 36.4,
+      "someCollege": 20.2,
+      "associates": 15.8,
+      "bachelors": 14.8,
+      "graduate": 3.8
+    },
+    "medianIncome": 74130,
+    "meanIncome": 101472
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "46",
+    "name": "Beadle County, South Dakota",
+    "population": 19279,
+    "medianAge": 36.9,
+    "race": {
+      "white": 71.3,
+      "black": 1.1,
+      "asian": 9,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 1.3,
+      "other": 9.6,
+      "twoOrMore": 6.6,
+      "hispanic": 14.4
+    },
+    "education": {
+      "lessThanHighSchool": 14.9,
+      "highSchool": 31.1,
+      "someCollege": 15.9,
+      "associates": 11.7,
+      "bachelors": 18.6,
+      "graduate": 7.8
+    },
+    "medianIncome": 63082,
+    "meanIncome": 79653
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "46",
+    "name": "Bennett County, South Dakota",
+    "population": 3354,
+    "medianAge": 28.8,
+    "race": {
+      "white": 37.3,
+      "black": 0.2,
+      "asian": 1.6,
+      "nativeAmerican": 57.5,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.4,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 34.9,
+      "someCollege": 24.2,
+      "associates": 7.5,
+      "bachelors": 17.2,
+      "graduate": 3
+    },
+    "medianIncome": 44569,
+    "meanIncome": 59699
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "46",
+    "name": "Bon Homme County, South Dakota",
+    "population": 7024,
+    "medianAge": 41.8,
+    "race": {
+      "white": 86.9,
+      "black": 1.9,
+      "asian": 0.1,
+      "nativeAmerican": 6.6,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.7,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 37,
+      "someCollege": 19.7,
+      "associates": 13,
+      "bachelors": 13.4,
+      "graduate": 6.7
+    },
+    "medianIncome": 61275,
+    "meanIncome": 77164
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "46",
+    "name": "Brookings County, South Dakota",
+    "population": 34968,
+    "medianAge": 28,
+    "race": {
+      "white": 88.7,
+      "black": 1.2,
+      "asian": 3.4,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 3.8,
+      "hispanic": 4.3
+    },
+    "education": {
+      "lessThanHighSchool": 3.3,
+      "highSchool": 23.1,
+      "someCollege": 18.9,
+      "associates": 10.8,
+      "bachelors": 29.2,
+      "graduate": 14.8
+    },
+    "medianIncome": 67341,
+    "meanIncome": 87946
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "46",
+    "name": "Brown County, South Dakota",
+    "population": 38079,
+    "medianAge": 37.8,
+    "race": {
+      "white": 85.7,
+      "black": 0.4,
+      "asian": 3,
+      "nativeAmerican": 4.6,
+      "pacificIslander": 0.1,
+      "other": 1.2,
+      "twoOrMore": 5,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 30.4,
+      "someCollege": 18.6,
+      "associates": 11.5,
+      "bachelors": 24.4,
+      "graduate": 8.8
+    },
+    "medianIncome": 70239,
+    "meanIncome": 90537
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "46",
+    "name": "Brule County, South Dakota",
+    "population": 5261,
+    "medianAge": 41.4,
+    "race": {
+      "white": 82,
+      "black": 1.4,
+      "asian": 0,
+      "nativeAmerican": 11.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 5,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 31.9,
+      "someCollege": 16.4,
+      "associates": 11.6,
+      "bachelors": 22.5,
+      "graduate": 7.7
+    },
+    "medianIncome": 74043,
+    "meanIncome": 92236
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "46",
+    "name": "Buffalo County, South Dakota",
+    "population": 1757,
+    "medianAge": 26.2,
+    "race": {
+      "white": 21.7,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 75,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 2.3,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 47.6,
+      "someCollege": 20.6,
+      "associates": 10.4,
+      "bachelors": 4.5,
+      "graduate": 2.5
+    },
+    "medianIncome": 47000,
+    "meanIncome": 54977
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "46",
+    "name": "Butte County, South Dakota",
+    "population": 10538,
+    "medianAge": 39.3,
+    "race": {
+      "white": 89.2,
+      "black": 0,
+      "asian": 0.4,
+      "nativeAmerican": 2.2,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 6.9,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 37.6,
+      "someCollege": 20.3,
+      "associates": 10.9,
+      "bachelors": 13.3,
+      "graduate": 6.1
+    },
+    "medianIncome": 67692,
+    "meanIncome": 87955
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "46",
+    "name": "Campbell County, South Dakota",
+    "population": 1481,
+    "medianAge": 52.4,
+    "race": {
+      "white": 93.7,
+      "black": 0,
+      "asian": 0.1,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 3.7,
+      "hispanic": 5.9
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 33.2,
+      "someCollege": 19.7,
+      "associates": 9.1,
+      "bachelors": 25.1,
+      "graduate": 4.4
+    },
+    "medianIncome": 65000,
+    "meanIncome": 92987
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "46",
+    "name": "Charles Mix County, South Dakota",
+    "population": 9281,
+    "medianAge": 36.1,
+    "race": {
+      "white": 64,
+      "black": 0.1,
+      "asian": 0.5,
+      "nativeAmerican": 28.2,
+      "pacificIslander": 0.1,
+      "other": 0.5,
+      "twoOrMore": 6.7,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.4,
+      "highSchool": 33.6,
+      "someCollege": 16.3,
+      "associates": 14.6,
+      "bachelors": 18.2,
+      "graduate": 6.9
+    },
+    "medianIncome": 64850,
+    "meanIncome": 81581
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "46",
+    "name": "Clark County, South Dakota",
+    "population": 3876,
+    "medianAge": 40.6,
+    "race": {
+      "white": 91.8,
+      "black": 0.5,
+      "asian": 0.7,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 1.6,
+      "twoOrMore": 4.7,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 43.8,
+      "someCollege": 20.1,
+      "associates": 10,
+      "bachelors": 13.9,
+      "graduate": 2.3
+    },
+    "medianIncome": 62885,
+    "meanIncome": 88749
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "46",
+    "name": "Clay County, South Dakota",
+    "population": 15133,
+    "medianAge": 24.5,
+    "race": {
+      "white": 86.7,
+      "black": 2,
+      "asian": 3,
+      "nativeAmerican": 4,
+      "pacificIslander": 0.1,
+      "other": 0.2,
+      "twoOrMore": 3.9,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 25.9,
+      "someCollege": 14.1,
+      "associates": 7.9,
+      "bachelors": 24.7,
+      "graduate": 21.3
+    },
+    "medianIncome": 58794,
+    "meanIncome": 76464
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "46",
+    "name": "Codington County, South Dakota",
+    "population": 28556,
+    "medianAge": 39.9,
+    "race": {
+      "white": 91.3,
+      "black": 1,
+      "asian": 0.6,
+      "nativeAmerican": 1.9,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.4,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 7.6,
+      "highSchool": 38.6,
+      "someCollege": 18.1,
+      "associates": 14.8,
+      "bachelors": 14.9,
+      "graduate": 6
+    },
+    "medianIncome": 65080,
+    "meanIncome": 84357
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "46",
+    "name": "Corson County, South Dakota",
+    "population": 3859,
+    "medianAge": 29.9,
+    "race": {
+      "white": 30.1,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 66.9,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 2.7,
+      "hispanic": 0.4
+    },
+    "education": {
+      "lessThanHighSchool": 13.2,
+      "highSchool": 38.9,
+      "someCollege": 16.8,
+      "associates": 11.9,
+      "bachelors": 15.4,
+      "graduate": 3.8
+    },
+    "medianIncome": 43750,
+    "meanIncome": 67937
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "46",
+    "name": "Custer County, South Dakota",
+    "population": 8686,
+    "medianAge": 57.2,
+    "race": {
+      "white": 90.9,
+      "black": 0.4,
+      "asian": 0.4,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 6.3,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 5,
+      "highSchool": 31,
+      "someCollege": 22.8,
+      "associates": 9.1,
+      "bachelors": 20.3,
+      "graduate": 11.9
+    },
+    "medianIncome": 81958,
+    "meanIncome": 109295
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "46",
+    "name": "Davison County, South Dakota",
+    "population": 19936,
+    "medianAge": 39.8,
+    "race": {
+      "white": 90.1,
+      "black": 0.6,
+      "asian": 0.5,
+      "nativeAmerican": 4.2,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 3.2,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 34.9,
+      "someCollege": 21.7,
+      "associates": 10.2,
+      "bachelors": 18.7,
+      "graduate": 6.3
+    },
+    "medianIncome": 61401,
+    "meanIncome": 82114
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "46",
+    "name": "Day County, South Dakota",
+    "population": 5460,
+    "medianAge": 47.1,
+    "race": {
+      "white": 85.4,
+      "black": 0.1,
+      "asian": 0.2,
+      "nativeAmerican": 9.5,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.4,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.2,
+      "highSchool": 34.3,
+      "someCollege": 19.9,
+      "associates": 16.3,
+      "bachelors": 16.3,
+      "graduate": 5.1
+    },
+    "medianIncome": 62270,
+    "meanIncome": 86182
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "46",
+    "name": "Deuel County, South Dakota",
+    "population": 4318,
+    "medianAge": 42,
+    "race": {
+      "white": 94.7,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3.8,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.4,
+      "highSchool": 36.5,
+      "someCollege": 20.4,
+      "associates": 12.5,
+      "bachelors": 18.6,
+      "graduate": 5.6
+    },
+    "medianIncome": 79556,
+    "meanIncome": 90704
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "46",
+    "name": "Dewey County, South Dakota",
+    "population": 5230,
+    "medianAge": 27.6,
+    "race": {
+      "white": 20.2,
+      "black": 0.4,
+      "asian": 0.1,
+      "nativeAmerican": 75,
+      "pacificIslander": 0.6,
+      "other": 0,
+      "twoOrMore": 3.8,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 39.9,
+      "someCollege": 19.2,
+      "associates": 10.5,
+      "bachelors": 11.7,
+      "graduate": 5.6
+    },
+    "medianIncome": 57928,
+    "meanIncome": 69239
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "46",
+    "name": "Douglas County, South Dakota",
+    "population": 2823,
+    "medianAge": 41.9,
+    "race": {
+      "white": 93.1,
+      "black": 1.5,
+      "asian": 0,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.4,
+      "twoOrMore": 2.7,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 34.2,
+      "someCollege": 21.3,
+      "associates": 13.3,
+      "bachelors": 18.1,
+      "graduate": 4.8
+    },
+    "medianIncome": 78125,
+    "meanIncome": 93588
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "46",
+    "name": "Edmunds County, South Dakota",
+    "population": 4033,
+    "medianAge": 43.6,
+    "race": {
+      "white": 95,
+      "black": 0.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 2.8,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 31.3,
+      "someCollege": 20,
+      "associates": 13.7,
+      "bachelors": 22.7,
+      "graduate": 6.8
+    },
+    "medianIncome": 77266,
+    "meanIncome": 109208
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "46",
+    "name": "Fall River County, South Dakota",
+    "population": 7179,
+    "medianAge": 54.5,
+    "race": {
+      "white": 85,
+      "black": 0.2,
+      "asian": 0.6,
+      "nativeAmerican": 7.4,
+      "pacificIslander": 0.8,
+      "other": 0.8,
+      "twoOrMore": 5.3,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.5,
+      "highSchool": 30.4,
+      "someCollege": 24.6,
+      "associates": 14.2,
+      "bachelors": 14.9,
+      "graduate": 7.3
+    },
+    "medianIncome": 61056,
+    "meanIncome": 74869
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "46",
+    "name": "Faulk County, South Dakota",
+    "population": 2137,
+    "medianAge": 43.2,
+    "race": {
+      "white": 96.8,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.9,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.1,
+      "highSchool": 30.1,
+      "someCollege": 27.9,
+      "associates": 16.6,
+      "bachelors": 11.9,
+      "graduate": 6.4
+    },
+    "medianIncome": 58000,
+    "meanIncome": 89401
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "46",
+    "name": "Grant County, South Dakota",
+    "population": 7544,
+    "medianAge": 43.7,
+    "race": {
+      "white": 91.1,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 2.1,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 2.4,
+      "hispanic": 6.7
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 35,
+      "someCollege": 19.5,
+      "associates": 12.1,
+      "bachelors": 18.1,
+      "graduate": 7.5
+    },
+    "medianIncome": 73818,
+    "meanIncome": 92573
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "46",
+    "name": "Gregory County, South Dakota",
+    "population": 3993,
+    "medianAge": 45.7,
+    "race": {
+      "white": 87.4,
+      "black": 1,
+      "asian": 0.1,
+      "nativeAmerican": 5.6,
+      "pacificIslander": 0.3,
+      "other": 0,
+      "twoOrMore": 5.5,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 8.6,
+      "highSchool": 40.1,
+      "someCollege": 18.3,
+      "associates": 12,
+      "bachelors": 13.6,
+      "graduate": 7.3
+    },
+    "medianIncome": 52432,
+    "meanIncome": 73414
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "46",
+    "name": "Haakon County, South Dakota",
+    "population": 1708,
+    "medianAge": 47.1,
+    "race": {
+      "white": 88.3,
+      "black": 1.4,
+      "asian": 0,
+      "nativeAmerican": 7.2,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.3,
+      "hispanic": 0.1
+    },
+    "education": {
+      "lessThanHighSchool": 3.1,
+      "highSchool": 42.5,
+      "someCollege": 21.4,
+      "associates": 13.5,
+      "bachelors": 16.1,
+      "graduate": 3.4
+    },
+    "medianIncome": 59231,
+    "meanIncome": 85748
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "46",
+    "name": "Hamlin County, South Dakota",
+    "population": 6288,
+    "medianAge": 32.5,
+    "race": {
+      "white": 92.8,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 2.8,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 7.4,
+      "highSchool": 38.9,
+      "someCollege": 17.6,
+      "associates": 11.7,
+      "bachelors": 18.4,
+      "graduate": 6.1
+    },
+    "medianIncome": 83194,
+    "meanIncome": 101165
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "46",
+    "name": "Hand County, South Dakota",
+    "population": 3045,
+    "medianAge": 43.8,
+    "race": {
+      "white": 93.7,
+      "black": 0.4,
+      "asian": 0.5,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 1.4,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 26.6,
+      "someCollege": 21.7,
+      "associates": 20.9,
+      "bachelors": 21.4,
+      "graduate": 4.8
+    },
+    "medianIncome": 72054,
+    "meanIncome": 95268
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "46",
+    "name": "Hanson County, South Dakota",
+    "population": 3473,
+    "medianAge": 37.9,
+    "race": {
+      "white": 93.4,
+      "black": 0.4,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 5.7,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 7.7,
+      "highSchool": 31.3,
+      "someCollege": 18.6,
+      "associates": 20.8,
+      "bachelors": 16.2,
+      "graduate": 5.3
+    },
+    "medianIncome": 86375,
+    "meanIncome": 99652
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "46",
+    "name": "Harding County, South Dakota",
+    "population": 1092,
+    "medianAge": 48.9,
+    "race": {
+      "white": 88.6,
+      "black": 1.6,
+      "asian": 0,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 7.2,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 5.5,
+      "highSchool": 31.8,
+      "someCollege": 26.1,
+      "associates": 6.2,
+      "bachelors": 25.9,
+      "graduate": 4.4
+    },
+    "medianIncome": 74766,
+    "meanIncome": 109939
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "46",
+    "name": "Hughes County, South Dakota",
+    "population": 17732,
+    "medianAge": 39.3,
+    "race": {
+      "white": 81.2,
+      "black": 0,
+      "asian": 0.8,
+      "nativeAmerican": 11.4,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.5,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 3.9,
+      "highSchool": 27.4,
+      "someCollege": 21,
+      "associates": 11.8,
+      "bachelors": 25.2,
+      "graduate": 10.7
+    },
+    "medianIncome": 78981,
+    "meanIncome": 93294
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "46",
+    "name": "Hutchinson County, South Dakota",
+    "population": 7393,
+    "medianAge": 41.6,
+    "race": {
+      "white": 91.6,
+      "black": 0.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 6.3,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 30.2,
+      "someCollege": 23.8,
+      "associates": 13.4,
+      "bachelors": 19.8,
+      "graduate": 5.9
+    },
+    "medianIncome": 74459,
+    "meanIncome": 93830
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "46",
+    "name": "Hyde County, South Dakota",
+    "population": 1305,
+    "medianAge": 50.9,
+    "race": {
+      "white": 87,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 12.4,
+      "hispanic": 1.5
+    },
+    "education": {
+      "lessThanHighSchool": 10.3,
+      "highSchool": 30.2,
+      "someCollege": 19.7,
+      "associates": 18.7,
+      "bachelors": 18.2,
+      "graduate": 2.9
+    },
+    "medianIncome": 74279,
+    "meanIncome": 87286
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "46",
+    "name": "Jackson County, South Dakota",
+    "population": 2826,
+    "medianAge": 33.2,
+    "race": {
+      "white": 36.2,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 62.3,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 1.3,
+      "hispanic": 0.4
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 46,
+      "someCollege": 19.6,
+      "associates": 12.3,
+      "bachelors": 9.9,
+      "graduate": 1.5
+    },
+    "medianIncome": 26686,
+    "meanIncome": 49471
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "46",
+    "name": "Jerauld County, South Dakota",
+    "population": 1845,
+    "medianAge": 46.5,
+    "race": {
+      "white": 88.7,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 4,
+      "twoOrMore": 6.6,
+      "hispanic": 7.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 44.4,
+      "someCollege": 14.8,
+      "associates": 13.6,
+      "bachelors": 16.5,
+      "graduate": 4.7
+    },
+    "medianIncome": 75417,
+    "meanIncome": 106575
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "46",
+    "name": "Jones County, South Dakota",
+    "population": 1030,
+    "medianAge": 33.6,
+    "race": {
+      "white": 82.9,
+      "black": 0.8,
+      "asian": 0,
+      "nativeAmerican": 13.9,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 2.1,
+      "hispanic": 1.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 40.2,
+      "someCollege": 16.2,
+      "associates": 13.8,
+      "bachelors": 18.4,
+      "graduate": 7
+    },
+    "medianIncome": 64688,
+    "meanIncome": 80421
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "46",
+    "name": "Kingsbury County, South Dakota",
+    "population": 5210,
+    "medianAge": 41.9,
+    "race": {
+      "white": 94.7,
+      "black": 0,
+      "asian": 0.1,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 4,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 38.5,
+      "someCollege": 15.8,
+      "associates": 15,
+      "bachelors": 16.6,
+      "graduate": 5.7
+    },
+    "medianIncome": 70221,
+    "meanIncome": 91414
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "46",
+    "name": "Lake County, South Dakota",
+    "population": 11052,
+    "medianAge": 43.7,
+    "race": {
+      "white": 92.1,
+      "black": 0.5,
+      "asian": 0.6,
+      "nativeAmerican": 2.4,
+      "pacificIslander": 0.1,
+      "other": 1.9,
+      "twoOrMore": 2.5,
+      "hispanic": 5.1
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 25.4,
+      "someCollege": 21.7,
+      "associates": 11.8,
+      "bachelors": 25.8,
+      "graduate": 8.9
+    },
+    "medianIncome": 73792,
+    "meanIncome": 100698
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "46",
+    "name": "Lawrence County, South Dakota",
+    "population": 26574,
+    "medianAge": 43.8,
+    "race": {
+      "white": 91.1,
+      "black": 0.5,
+      "asian": 0.5,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0.1,
+      "other": 1.3,
+      "twoOrMore": 4.1,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 27.7,
+      "someCollege": 22.8,
+      "associates": 10.8,
+      "bachelors": 23,
+      "graduate": 11
+    },
+    "medianIncome": 66766,
+    "meanIncome": 90061
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "46",
+    "name": "Lincoln County, South Dakota",
+    "population": 68286,
+    "medianAge": 35.8,
+    "race": {
+      "white": 90.5,
+      "black": 2.3,
+      "asian": 1.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.5,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 4.1,
+      "highSchool": 23.6,
+      "someCollege": 16.9,
+      "associates": 12.9,
+      "bachelors": 27.9,
+      "graduate": 14.6
+    },
+    "medianIncome": 96552,
+    "meanIncome": 129224
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "46",
+    "name": "Lyman County, South Dakota",
+    "population": 3717,
+    "medianAge": 36,
+    "race": {
+      "white": 57.4,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 40.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 1.6,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 41.5,
+      "someCollege": 17.2,
+      "associates": 7.1,
+      "bachelors": 21.1,
+      "graduate": 4.1
+    },
+    "medianIncome": 61169,
+    "meanIncome": 80098
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "46",
+    "name": "McCook County, South Dakota",
+    "population": 5732,
+    "medianAge": 39.9,
+    "race": {
+      "white": 94.9,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 2.7,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.5,
+      "highSchool": 33.1,
+      "someCollege": 19.2,
+      "associates": 12.6,
+      "bachelors": 19.7,
+      "graduate": 9
+    },
+    "medianIncome": 80847,
+    "meanIncome": 97710
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "46",
+    "name": "McPherson County, South Dakota",
+    "population": 2278,
+    "medianAge": 48.8,
+    "race": {
+      "white": 96,
+      "black": 1.7,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0,
+      "twoOrMore": 2.1,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 19,
+      "highSchool": 34.8,
+      "someCollege": 11.8,
+      "associates": 12,
+      "bachelors": 18.2,
+      "graduate": 4.2
+    },
+    "medianIncome": 62024,
+    "meanIncome": 90834
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "46",
+    "name": "Marshall County, South Dakota",
+    "population": 4355,
+    "medianAge": 42.8,
+    "race": {
+      "white": 86.1,
+      "black": 0.3,
+      "asian": 0,
+      "nativeAmerican": 6.5,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.3,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 7.9,
+      "highSchool": 36.1,
+      "someCollege": 15.6,
+      "associates": 18,
+      "bachelors": 18.5,
+      "graduate": 3.9
+    },
+    "medianIncome": 72500,
+    "meanIncome": 101999
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "46",
+    "name": "Meade County, South Dakota",
+    "population": 30297,
+    "medianAge": 37,
+    "race": {
+      "white": 87.4,
+      "black": 2,
+      "asian": 0.8,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 7.1,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 28.2,
+      "someCollege": 26.5,
+      "associates": 13,
+      "bachelors": 20.9,
+      "graduate": 5.9
+    },
+    "medianIncome": 74161,
+    "meanIncome": 89185
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "46",
+    "name": "Mellette County, South Dakota",
+    "population": 2043,
+    "medianAge": 31,
+    "race": {
+      "white": 31.6,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 62.1,
+      "pacificIslander": 0.3,
+      "other": 0.3,
+      "twoOrMore": 5.5,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 41.1,
+      "someCollege": 17.6,
+      "associates": 9.5,
+      "bachelors": 13.2,
+      "graduate": 3.2
+    },
+    "medianIncome": 51364,
+    "meanIncome": 58700
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "46",
+    "name": "Miner County, South Dakota",
+    "population": 2299,
+    "medianAge": 48.9,
+    "race": {
+      "white": 94.6,
+      "black": 1,
+      "asian": 0.2,
+      "nativeAmerican": 1.8,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 1.9,
+      "hispanic": 1.8
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 43.8,
+      "someCollege": 21.5,
+      "associates": 11.9,
+      "bachelors": 13.2,
+      "graduate": 2.9
+    },
+    "medianIncome": 72589,
+    "meanIncome": 84107
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "46",
+    "name": "Minnehaha County, South Dakota",
+    "population": 200689,
+    "medianAge": 35.7,
+    "race": {
+      "white": 80.9,
+      "black": 6.6,
+      "asian": 1.8,
+      "nativeAmerican": 2,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 6.9,
+      "hispanic": 6.4
+    },
+    "education": {
+      "lessThanHighSchool": 6.9,
+      "highSchool": 25.4,
+      "someCollege": 20.6,
+      "associates": 12.4,
+      "bachelors": 24.3,
+      "graduate": 10.2
+    },
+    "medianIncome": 76074,
+    "meanIncome": 100454
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "46",
+    "name": "Moody County, South Dakota",
+    "population": 6371,
+    "medianAge": 40.5,
+    "race": {
+      "white": 75.5,
+      "black": 1.1,
+      "asian": 1.7,
+      "nativeAmerican": 12.1,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 7.7,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.4,
+      "highSchool": 29.4,
+      "someCollege": 20.9,
+      "associates": 13.3,
+      "bachelors": 20,
+      "graduate": 11
+    },
+    "medianIncome": 77500,
+    "meanIncome": 94107
+  },
+  {
+    "countyFips": "102",
+    "stateFips": "46",
+    "name": "Oglala Lakota County, South Dakota",
+    "population": 13587,
+    "medianAge": 27,
+    "race": {
+      "white": 6.6,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 92.1,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 0.8,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 22,
+      "highSchool": 38.2,
+      "someCollege": 22.7,
+      "associates": 7.3,
+      "bachelors": 6.4,
+      "graduate": 3.4
+    },
+    "medianIncome": 34769,
+    "meanIncome": 50403
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "46",
+    "name": "Pennington County, South Dakota",
+    "population": 112081,
+    "medianAge": 39.7,
+    "race": {
+      "white": 80.3,
+      "black": 1.3,
+      "asian": 1.1,
+      "nativeAmerican": 7.1,
+      "pacificIslander": 0,
+      "other": 1.1,
+      "twoOrMore": 9,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.3,
+      "highSchool": 27.1,
+      "someCollege": 21.7,
+      "associates": 11.8,
+      "bachelors": 21.8,
+      "graduate": 12.3
+    },
+    "medianIncome": 70768,
+    "meanIncome": 95438
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "46",
+    "name": "Perkins County, South Dakota",
+    "population": 3058,
+    "medianAge": 43.6,
+    "race": {
+      "white": 94.7,
+      "black": 0,
+      "asian": 0.6,
+      "nativeAmerican": 2.5,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 1.9,
+      "hispanic": 0.9
+    },
+    "education": {
+      "lessThanHighSchool": 7.2,
+      "highSchool": 33.2,
+      "someCollege": 22.6,
+      "associates": 15.3,
+      "bachelors": 16.2,
+      "graduate": 5.6
+    },
+    "medianIncome": 65455,
+    "meanIncome": 98722
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "46",
+    "name": "Potter County, South Dakota",
+    "population": 2430,
+    "medianAge": 44.9,
+    "race": {
+      "white": 90.4,
+      "black": 1.9,
+      "asian": 0.9,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 4.6,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 2.3,
+      "highSchool": 40.7,
+      "someCollege": 19.2,
+      "associates": 11.2,
+      "bachelors": 22.1,
+      "graduate": 4.5
+    },
+    "medianIncome": 71726,
+    "meanIncome": 88564
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "46",
+    "name": "Roberts County, South Dakota",
+    "population": 10219,
+    "medianAge": 37.9,
+    "race": {
+      "white": 57.9,
+      "black": 0.3,
+      "asian": 0.2,
+      "nativeAmerican": 36.5,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 4.2,
+      "hispanic": 2.4
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 37.2,
+      "someCollege": 19.7,
+      "associates": 16.5,
+      "bachelors": 13.1,
+      "graduate": 5.1
+    },
+    "medianIncome": 63691,
+    "meanIncome": 79910
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "46",
+    "name": "Sanborn County, South Dakota",
+    "population": 2370,
+    "medianAge": 38.6,
+    "race": {
+      "white": 94.9,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 4.1,
+      "hispanic": 4.2
+    },
+    "education": {
+      "lessThanHighSchool": 10.2,
+      "highSchool": 39.1,
+      "someCollege": 17.2,
+      "associates": 14.3,
+      "bachelors": 13.4,
+      "graduate": 5.9
+    },
+    "medianIncome": 69870,
+    "meanIncome": 85845
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "46",
+    "name": "Spink County, South Dakota",
+    "population": 6283,
+    "medianAge": 45.1,
+    "race": {
+      "white": 94.6,
+      "black": 0.9,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3.9,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 34.2,
+      "someCollege": 21.1,
+      "associates": 9.6,
+      "bachelors": 22.3,
+      "graduate": 4.9
+    },
+    "medianIncome": 73011,
+    "meanIncome": 92183
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "46",
+    "name": "Stanley County, South Dakota",
+    "population": 3012,
+    "medianAge": 43.7,
+    "race": {
+      "white": 91,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 2.5,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 5.7,
+      "hispanic": 2
+    },
+    "education": {
+      "lessThanHighSchool": 4.6,
+      "highSchool": 37.1,
+      "someCollege": 17.3,
+      "associates": 15.6,
+      "bachelors": 16.2,
+      "graduate": 9.2
+    },
+    "medianIncome": 77000,
+    "meanIncome": 106448
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "46",
+    "name": "Sully County, South Dakota",
+    "population": 1481,
+    "medianAge": 51.4,
+    "race": {
+      "white": 92.5,
+      "black": 5,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 2,
+      "hispanic": 0
+    },
+    "education": {
+      "lessThanHighSchool": 3.8,
+      "highSchool": 39.3,
+      "someCollege": 19.9,
+      "associates": 16,
+      "bachelors": 17.9,
+      "graduate": 3.1
+    },
+    "medianIncome": 70250,
+    "meanIncome": 106129
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "46",
+    "name": "Todd County, South Dakota",
+    "population": 9293,
+    "medianAge": 25.4,
+    "race": {
+      "white": 8.1,
+      "black": 0.3,
+      "asian": 3.2,
+      "nativeAmerican": 85.1,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 3,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 17.5,
+      "highSchool": 29,
+      "someCollege": 29.5,
+      "associates": 7.3,
+      "bachelors": 11.9,
+      "graduate": 4.7
+    },
+    "medianIncome": 39148,
+    "meanIncome": 48924
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "46",
+    "name": "Tripp County, South Dakota",
+    "population": 5607,
+    "medianAge": 45.1,
+    "race": {
+      "white": 80.7,
+      "black": 0.6,
+      "asian": 0.9,
+      "nativeAmerican": 12.4,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.7,
+      "hispanic": 1.6
+    },
+    "education": {
+      "lessThanHighSchool": 10.5,
+      "highSchool": 36.6,
+      "someCollege": 22.4,
+      "associates": 10.6,
+      "bachelors": 15.7,
+      "graduate": 4.3
+    },
+    "medianIncome": 58854,
+    "meanIncome": 75895
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "46",
+    "name": "Turner County, South Dakota",
+    "population": 8772,
+    "medianAge": 41.3,
+    "race": {
+      "white": 94.1,
+      "black": 0.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 0.4,
+      "twoOrMore": 3.5,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 32,
+      "someCollege": 19.3,
+      "associates": 14.2,
+      "bachelors": 19.9,
+      "graduate": 6.3
+    },
+    "medianIncome": 75283,
+    "meanIncome": 89745
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "46",
+    "name": "Union County, South Dakota",
+    "population": 16916,
+    "medianAge": 40.4,
+    "race": {
+      "white": 90.4,
+      "black": 0.8,
+      "asian": 1.4,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.1,
+      "other": 1,
+      "twoOrMore": 5.2,
+      "hispanic": 4.4
+    },
+    "education": {
+      "lessThanHighSchool": 5.1,
+      "highSchool": 28,
+      "someCollege": 18,
+      "associates": 12.4,
+      "bachelors": 22.8,
+      "graduate": 13.7
+    },
+    "medianIncome": 84137,
+    "meanIncome": 116720
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "46",
+    "name": "Walworth County, South Dakota",
+    "population": 5298,
+    "medianAge": 41.6,
+    "race": {
+      "white": 79.7,
+      "black": 0.3,
+      "asian": 0.1,
+      "nativeAmerican": 10.5,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 9.3,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 31.2,
+      "someCollege": 15.6,
+      "associates": 14.2,
+      "bachelors": 21.7,
+      "graduate": 9.4
+    },
+    "medianIncome": 62722,
+    "meanIncome": 85035
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "46",
+    "name": "Yankton County, South Dakota",
+    "population": 23379,
+    "medianAge": 42.2,
+    "race": {
+      "white": 88.7,
+      "black": 1.5,
+      "asian": 0.3,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 6.1,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 33.6,
+      "someCollege": 19.5,
+      "associates": 12,
+      "bachelors": 17.5,
+      "graduate": 10.1
+    },
+    "medianIncome": 73855,
+    "meanIncome": 94056
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "46",
+    "name": "Ziebach County, South Dakota",
+    "population": 2410,
+    "medianAge": 36.6,
+    "race": {
+      "white": 27.3,
+      "black": 0,
+      "asian": 0,
+      "nativeAmerican": 70.6,
+      "pacificIslander": 0.3,
+      "other": 0.1,
+      "twoOrMore": 1.7,
+      "hispanic": 1.2
+    },
+    "education": {
+      "lessThanHighSchool": 11.2,
+      "highSchool": 43.9,
+      "someCollege": 19.2,
+      "associates": 11.5,
+      "bachelors": 10.9,
+      "graduate": 3.2
+    },
+    "medianIncome": 47333,
+    "meanIncome": 76468
+  }
+]

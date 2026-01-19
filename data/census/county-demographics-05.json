@@ -1,0 +1,2027 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "05",
+    "name": "Arkansas County, Arkansas",
+    "population": 16773,
+    "medianAge": 41,
+    "race": {
+      "white": 70.4,
+      "black": 25.7,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 3,
+      "hispanic": 3.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 42.7,
+      "someCollege": 19.1,
+      "associates": 10.4,
+      "bachelors": 9.8,
+      "graduate": 5.5
+    },
+    "medianIncome": 60831,
+    "meanIncome": 73981
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "05",
+    "name": "Ashley County, Arkansas",
+    "population": 18722,
+    "medianAge": 42.7,
+    "race": {
+      "white": 70,
+      "black": 24.6,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 0.5,
+      "twoOrMore": 4.4,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.2,
+      "highSchool": 52.1,
+      "someCollege": 17.4,
+      "associates": 6.2,
+      "bachelors": 8.7,
+      "graduate": 3.5
+    },
+    "medianIncome": 44481,
+    "meanIncome": 60457
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "05",
+    "name": "Baxter County, Arkansas",
+    "population": 42150,
+    "medianAge": 51.9,
+    "race": {
+      "white": 92.9,
+      "black": 0.4,
+      "asian": 0.6,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.2,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 34.6,
+      "someCollege": 24.7,
+      "associates": 11.4,
+      "bachelors": 13.4,
+      "graduate": 5.3
+    },
+    "medianIncome": 48427,
+    "meanIncome": 68034
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "05",
+    "name": "Benton County, Arkansas",
+    "population": 294541,
+    "medianAge": 35.8,
+    "race": {
+      "white": 66,
+      "black": 1.8,
+      "asian": 4.4,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0.7,
+      "other": 3.7,
+      "twoOrMore": 22.3,
+      "hispanic": 18.1
+    },
+    "education": {
+      "lessThanHighSchool": 9.4,
+      "highSchool": 28.1,
+      "someCollege": 18.7,
+      "associates": 7.2,
+      "bachelors": 24,
+      "graduate": 12.7
+    },
+    "medianIncome": 89879,
+    "meanIncome": 121779
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "05",
+    "name": "Boone County, Arkansas",
+    "population": 37896,
+    "medianAge": 41.3,
+    "race": {
+      "white": 94.3,
+      "black": 0.3,
+      "asian": 0.3,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 0.5,
+      "twoOrMore": 4.2,
+      "hispanic": 3
+    },
+    "education": {
+      "lessThanHighSchool": 9.3,
+      "highSchool": 35.6,
+      "someCollege": 27.8,
+      "associates": 10.9,
+      "bachelors": 10.8,
+      "graduate": 5.5
+    },
+    "medianIncome": 54195,
+    "meanIncome": 70513
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "05",
+    "name": "Bradley County, Arkansas",
+    "population": 10354,
+    "medianAge": 38.5,
+    "race": {
+      "white": 58.3,
+      "black": 26.4,
+      "asian": 0.1,
+      "nativeAmerican": 5,
+      "pacificIslander": 0.3,
+      "other": 3.8,
+      "twoOrMore": 6.1,
+      "hispanic": 15.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 45.2,
+      "someCollege": 19.5,
+      "associates": 6.9,
+      "bachelors": 10.4,
+      "graduate": 5.3
+    },
+    "medianIncome": 39565,
+    "meanIncome": 62232
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "05",
+    "name": "Calhoun County, Arkansas",
+    "population": 4717,
+    "medianAge": 44.8,
+    "race": {
+      "white": 79,
+      "black": 12.3,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0,
+      "twoOrMore": 8.3,
+      "hispanic": 11.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 42.6,
+      "someCollege": 17.2,
+      "associates": 8.7,
+      "bachelors": 11,
+      "graduate": 7.1
+    },
+    "medianIncome": 63654,
+    "meanIncome": 73162
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "05",
+    "name": "Carroll County, Arkansas",
+    "population": 28526,
+    "medianAge": 44.7,
+    "race": {
+      "white": 73.2,
+      "black": 0.2,
+      "asian": 1.6,
+      "nativeAmerican": 1,
+      "pacificIslander": 1.2,
+      "other": 2.9,
+      "twoOrMore": 19.9,
+      "hispanic": 15.5
+    },
+    "education": {
+      "lessThanHighSchool": 16,
+      "highSchool": 34.8,
+      "someCollege": 19.4,
+      "associates": 8.7,
+      "bachelors": 14.4,
+      "graduate": 6.7
+    },
+    "medianIncome": 55187,
+    "meanIncome": 72185
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "05",
+    "name": "Chicot County, Arkansas",
+    "population": 9997,
+    "medianAge": 42.9,
+    "race": {
+      "white": 41,
+      "black": 53.4,
+      "asian": 0.3,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.6,
+      "hispanic": 6.3
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 40,
+      "someCollege": 19.8,
+      "associates": 4.5,
+      "bachelors": 12.1,
+      "graduate": 5.1
+    },
+    "medianIncome": 39683,
+    "meanIncome": 59697
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "05",
+    "name": "Clark County, Arkansas",
+    "population": 21378,
+    "medianAge": 31.9,
+    "race": {
+      "white": 69.6,
+      "black": 23.7,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 2.4,
+      "twoOrMore": 3.6,
+      "hispanic": 5.4
+    },
+    "education": {
+      "lessThanHighSchool": 10,
+      "highSchool": 32.7,
+      "someCollege": 25.6,
+      "associates": 6.2,
+      "bachelors": 16.4,
+      "graduate": 9
+    },
+    "medianIncome": 50985,
+    "meanIncome": 67510
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "05",
+    "name": "Clay County, Arkansas",
+    "population": 14399,
+    "medianAge": 42.6,
+    "race": {
+      "white": 94,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.3,
+      "twoOrMore": 5.2,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 44.5,
+      "someCollege": 18.5,
+      "associates": 8,
+      "bachelors": 9.4,
+      "graduate": 6.3
+    },
+    "medianIncome": 48500,
+    "meanIncome": 63441
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "05",
+    "name": "Cleburne County, Arkansas",
+    "population": 25048,
+    "medianAge": 49.5,
+    "race": {
+      "white": 94.4,
+      "black": 0.4,
+      "asian": 0.2,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 11.7,
+      "highSchool": 39.4,
+      "someCollege": 21.8,
+      "associates": 8.8,
+      "bachelors": 12.5,
+      "graduate": 5.8
+    },
+    "medianIncome": 55979,
+    "meanIncome": 74855
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "05",
+    "name": "Cleveland County, Arkansas",
+    "population": 7491,
+    "medianAge": 43.7,
+    "race": {
+      "white": 83.9,
+      "black": 13.1,
+      "asian": 0.2,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 2.7,
+      "hispanic": 0.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.4,
+      "highSchool": 44.8,
+      "someCollege": 23.9,
+      "associates": 6.7,
+      "bachelors": 10.9,
+      "graduate": 5.3
+    },
+    "medianIncome": 50509,
+    "meanIncome": 69803
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "05",
+    "name": "Columbia County, Arkansas",
+    "population": 22527,
+    "medianAge": 34.5,
+    "race": {
+      "white": 61.2,
+      "black": 34.9,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 2.6,
+      "hispanic": 3.4
+    },
+    "education": {
+      "lessThanHighSchool": 11.5,
+      "highSchool": 40.6,
+      "someCollege": 20.4,
+      "associates": 7.1,
+      "bachelors": 13.5,
+      "graduate": 6.9
+    },
+    "medianIncome": 47363,
+    "meanIncome": 66389
+  },
+  {
+    "countyFips": "029",
+    "stateFips": "05",
+    "name": "Conway County, Arkansas",
+    "population": 20872,
+    "medianAge": 42.6,
+    "race": {
+      "white": 82,
+      "black": 11.1,
+      "asian": 0.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 3.4,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 43.5,
+      "someCollege": 19,
+      "associates": 9.5,
+      "bachelors": 12.3,
+      "graduate": 5.8
+    },
+    "medianIncome": 51212,
+    "meanIncome": 69207
+  },
+  {
+    "countyFips": "031",
+    "stateFips": "05",
+    "name": "Craighead County, Arkansas",
+    "population": 112097,
+    "medianAge": 34.5,
+    "race": {
+      "white": 73.2,
+      "black": 16.8,
+      "asian": 1.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 6.2,
+      "hispanic": 6.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.7,
+      "highSchool": 32.4,
+      "someCollege": 21.8,
+      "associates": 8.4,
+      "bachelors": 16.7,
+      "graduate": 11.1
+    },
+    "medianIncome": 57615,
+    "meanIncome": 82653
+  },
+  {
+    "countyFips": "033",
+    "stateFips": "05",
+    "name": "Crawford County, Arkansas",
+    "population": 60792,
+    "medianAge": 39.1,
+    "race": {
+      "white": 82.9,
+      "black": 1.2,
+      "asian": 1.2,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 3.2,
+      "twoOrMore": 10.4,
+      "hispanic": 8.1
+    },
+    "education": {
+      "lessThanHighSchool": 13.4,
+      "highSchool": 36.3,
+      "someCollege": 22,
+      "associates": 9,
+      "bachelors": 13.7,
+      "graduate": 5.6
+    },
+    "medianIncome": 60362,
+    "meanIncome": 75580
+  },
+  {
+    "countyFips": "035",
+    "stateFips": "05",
+    "name": "Crittenden County, Arkansas",
+    "population": 47609,
+    "medianAge": 36,
+    "race": {
+      "white": 40.4,
+      "black": 50.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 7.9,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.7,
+      "highSchool": 37.8,
+      "someCollege": 22.4,
+      "associates": 7.9,
+      "bachelors": 12,
+      "graduate": 5.1
+    },
+    "medianIncome": 54271,
+    "meanIncome": 72770
+  },
+  {
+    "countyFips": "037",
+    "stateFips": "05",
+    "name": "Cross County, Arkansas",
+    "population": 16681,
+    "medianAge": 40.6,
+    "race": {
+      "white": 72,
+      "black": 18.4,
+      "asian": 0.1,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 9.2,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 42.2,
+      "someCollege": 19.2,
+      "associates": 7.2,
+      "bachelors": 10.1,
+      "graduate": 4.8
+    },
+    "medianIncome": 47012,
+    "meanIncome": 69861
+  },
+  {
+    "countyFips": "039",
+    "stateFips": "05",
+    "name": "Dallas County, Arkansas",
+    "population": 6351,
+    "medianAge": 44.5,
+    "race": {
+      "white": 52.9,
+      "black": 43.8,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.9,
+      "hispanic": 1.4
+    },
+    "education": {
+      "lessThanHighSchool": 11,
+      "highSchool": 48.4,
+      "someCollege": 20.6,
+      "associates": 8.9,
+      "bachelors": 8.2,
+      "graduate": 2.9
+    },
+    "medianIncome": 44694,
+    "meanIncome": 60225
+  },
+  {
+    "countyFips": "041",
+    "stateFips": "05",
+    "name": "Desha County, Arkansas",
+    "population": 11041,
+    "medianAge": 41.2,
+    "race": {
+      "white": 44.9,
+      "black": 48.6,
+      "asian": 0,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 2.6,
+      "twoOrMore": 3.6,
+      "hispanic": 6.9
+    },
+    "education": {
+      "lessThanHighSchool": 22.1,
+      "highSchool": 41.1,
+      "someCollege": 19.3,
+      "associates": 4.5,
+      "bachelors": 7.6,
+      "graduate": 5.5
+    },
+    "medianIncome": 36064,
+    "meanIncome": 52920
+  },
+  {
+    "countyFips": "043",
+    "stateFips": "05",
+    "name": "Drew County, Arkansas",
+    "population": 17143,
+    "medianAge": 37.7,
+    "race": {
+      "white": 65.7,
+      "black": 26.7,
+      "asian": 0.7,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 6.2,
+      "hispanic": 4.1
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 38.4,
+      "someCollege": 18.9,
+      "associates": 6.5,
+      "bachelors": 15.7,
+      "graduate": 7.6
+    },
+    "medianIncome": 41071,
+    "meanIncome": 63455
+  },
+  {
+    "countyFips": "045",
+    "stateFips": "05",
+    "name": "Faulkner County, Arkansas",
+    "population": 126001,
+    "medianAge": 34,
+    "race": {
+      "white": 79.9,
+      "black": 11.9,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 4.5,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 30.4,
+      "someCollege": 22,
+      "associates": 8.1,
+      "bachelors": 20.3,
+      "graduate": 12.9
+    },
+    "medianIncome": 65071,
+    "meanIncome": 85913
+  },
+  {
+    "countyFips": "047",
+    "stateFips": "05",
+    "name": "Franklin County, Arkansas",
+    "population": 17220,
+    "medianAge": 42.4,
+    "race": {
+      "white": 86.3,
+      "black": 0.2,
+      "asian": 0.9,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0,
+      "other": 1.2,
+      "twoOrMore": 10.4,
+      "hispanic": 3.2
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 41.8,
+      "someCollege": 20.8,
+      "associates": 11.3,
+      "bachelors": 8.9,
+      "graduate": 4.2
+    },
+    "medianIncome": 51919,
+    "meanIncome": 65796
+  },
+  {
+    "countyFips": "049",
+    "stateFips": "05",
+    "name": "Fulton County, Arkansas",
+    "population": 12239,
+    "medianAge": 48.6,
+    "race": {
+      "white": 92.9,
+      "black": 0.2,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 5.4,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.3,
+      "highSchool": 40.8,
+      "someCollege": 23.4,
+      "associates": 7.7,
+      "bachelors": 9.4,
+      "graduate": 6.4
+    },
+    "medianIncome": 38941,
+    "meanIncome": 54372
+  },
+  {
+    "countyFips": "051",
+    "stateFips": "05",
+    "name": "Garland County, Arkansas",
+    "population": 100062,
+    "medianAge": 45.3,
+    "race": {
+      "white": 83.6,
+      "black": 7.8,
+      "asian": 0.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 1.7,
+      "twoOrMore": 5.5,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.1,
+      "highSchool": 30.9,
+      "someCollege": 23.7,
+      "associates": 10,
+      "bachelors": 16.6,
+      "graduate": 9.7
+    },
+    "medianIncome": 55409,
+    "meanIncome": 74518
+  },
+  {
+    "countyFips": "053",
+    "stateFips": "05",
+    "name": "Grant County, Arkansas",
+    "population": 18111,
+    "medianAge": 40.2,
+    "race": {
+      "white": 91.8,
+      "black": 2.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.2,
+      "other": 1.2,
+      "twoOrMore": 3.8,
+      "hispanic": 2.7
+    },
+    "education": {
+      "lessThanHighSchool": 8.9,
+      "highSchool": 41.8,
+      "someCollege": 21.5,
+      "associates": 6.9,
+      "bachelors": 15.8,
+      "graduate": 5.1
+    },
+    "medianIncome": 72512,
+    "meanIncome": 91164
+  },
+  {
+    "countyFips": "055",
+    "stateFips": "05",
+    "name": "Greene County, Arkansas",
+    "population": 46182,
+    "medianAge": 37.8,
+    "race": {
+      "white": 90.2,
+      "black": 2.2,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.5,
+      "other": 1.5,
+      "twoOrMore": 5.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 42.6,
+      "someCollege": 20.5,
+      "associates": 7.8,
+      "bachelors": 10.4,
+      "graduate": 6.1
+    },
+    "medianIncome": 56793,
+    "meanIncome": 69475
+  },
+  {
+    "countyFips": "057",
+    "stateFips": "05",
+    "name": "Hempstead County, Arkansas",
+    "population": 19778,
+    "medianAge": 41.1,
+    "race": {
+      "white": 55.5,
+      "black": 29.7,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 7.2,
+      "twoOrMore": 6.5,
+      "hispanic": 14.9
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 39.5,
+      "someCollege": 21.9,
+      "associates": 7.4,
+      "bachelors": 9.1,
+      "graduate": 5.5
+    },
+    "medianIncome": 47654,
+    "meanIncome": 66635
+  },
+  {
+    "countyFips": "059",
+    "stateFips": "05",
+    "name": "Hot Spring County, Arkansas",
+    "population": 33142,
+    "medianAge": 43,
+    "race": {
+      "white": 82.8,
+      "black": 11.5,
+      "asian": 0,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 4.6,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 41,
+      "someCollege": 24.4,
+      "associates": 8.2,
+      "bachelors": 10,
+      "graduate": 5.8
+    },
+    "medianIncome": 52644,
+    "meanIncome": 67204
+  },
+  {
+    "countyFips": "061",
+    "stateFips": "05",
+    "name": "Howard County, Arkansas",
+    "population": 12701,
+    "medianAge": 39.4,
+    "race": {
+      "white": 64.4,
+      "black": 20.8,
+      "asian": 0.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 8.4,
+      "twoOrMore": 5.6,
+      "hispanic": 12.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.6,
+      "highSchool": 43.7,
+      "someCollege": 20.1,
+      "associates": 8.9,
+      "bachelors": 11.7,
+      "graduate": 5
+    },
+    "medianIncome": 44492,
+    "meanIncome": 62736
+  },
+  {
+    "countyFips": "063",
+    "stateFips": "05",
+    "name": "Independence County, Arkansas",
+    "population": 38120,
+    "medianAge": 39,
+    "race": {
+      "white": 84.9,
+      "black": 1.6,
+      "asian": 0.9,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.6,
+      "other": 4.3,
+      "twoOrMore": 7.2,
+      "hispanic": 8.7
+    },
+    "education": {
+      "lessThanHighSchool": 12.5,
+      "highSchool": 39.4,
+      "someCollege": 21.9,
+      "associates": 9.3,
+      "bachelors": 11.1,
+      "graduate": 5.7
+    },
+    "medianIncome": 56009,
+    "meanIncome": 77283
+  },
+  {
+    "countyFips": "065",
+    "stateFips": "05",
+    "name": "Izard County, Arkansas",
+    "population": 13866,
+    "medianAge": 47.5,
+    "race": {
+      "white": 87.8,
+      "black": 1.6,
+      "asian": 0.5,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 8.3,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.2,
+      "highSchool": 35.6,
+      "someCollege": 22.2,
+      "associates": 8.3,
+      "bachelors": 12.8,
+      "graduate": 5.9
+    },
+    "medianIncome": 47728,
+    "meanIncome": 61320
+  },
+  {
+    "countyFips": "067",
+    "stateFips": "05",
+    "name": "Jackson County, Arkansas",
+    "population": 16775,
+    "medianAge": 40.4,
+    "race": {
+      "white": 75.7,
+      "black": 14.7,
+      "asian": 0.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 1.5,
+      "twoOrMore": 7.2,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 16.2,
+      "highSchool": 42.9,
+      "someCollege": 19.7,
+      "associates": 7.9,
+      "bachelors": 8.6,
+      "graduate": 4.6
+    },
+    "medianIncome": 41215,
+    "meanIncome": 60764
+  },
+  {
+    "countyFips": "069",
+    "stateFips": "05",
+    "name": "Jefferson County, Arkansas",
+    "population": 65780,
+    "medianAge": 39.5,
+    "race": {
+      "white": 37.6,
+      "black": 56.3,
+      "asian": 0.7,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0.4,
+      "other": 1.4,
+      "twoOrMore": 3.3,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.4,
+      "highSchool": 41.1,
+      "someCollege": 21.2,
+      "associates": 5.6,
+      "bachelors": 14.4,
+      "graduate": 6.3
+    },
+    "medianIncome": 48552,
+    "meanIncome": 66118
+  },
+  {
+    "countyFips": "071",
+    "stateFips": "05",
+    "name": "Johnson County, Arkansas",
+    "population": 25932,
+    "medianAge": 39.4,
+    "race": {
+      "white": 84.3,
+      "black": 1.7,
+      "asian": 3.1,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.2,
+      "other": 2.2,
+      "twoOrMore": 7.9,
+      "hispanic": 13.6
+    },
+    "education": {
+      "lessThanHighSchool": 16.1,
+      "highSchool": 41.2,
+      "someCollege": 18.8,
+      "associates": 5.8,
+      "bachelors": 12.8,
+      "graduate": 5.3
+    },
+    "medianIncome": 44808,
+    "meanIncome": 61307
+  },
+  {
+    "countyFips": "073",
+    "stateFips": "05",
+    "name": "Lafayette County, Arkansas",
+    "population": 6211,
+    "medianAge": 48.5,
+    "race": {
+      "white": 57.7,
+      "black": 35.8,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.7,
+      "twoOrMore": 4.4,
+      "hispanic": 0.8
+    },
+    "education": {
+      "lessThanHighSchool": 18.4,
+      "highSchool": 47.1,
+      "someCollege": 18.4,
+      "associates": 6.9,
+      "bachelors": 6.7,
+      "graduate": 2.5
+    },
+    "medianIncome": 37237,
+    "meanIncome": 51942
+  },
+  {
+    "countyFips": "075",
+    "stateFips": "05",
+    "name": "Lawrence County, Arkansas",
+    "population": 16265,
+    "medianAge": 39.8,
+    "race": {
+      "white": 92.7,
+      "black": 1,
+      "asian": 0.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 0.5,
+      "twoOrMore": 5.6,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 17.6,
+      "highSchool": 36.7,
+      "someCollege": 23.7,
+      "associates": 7.9,
+      "bachelors": 9.5,
+      "graduate": 4.5
+    },
+    "medianIncome": 44164,
+    "meanIncome": 63906
+  },
+  {
+    "countyFips": "077",
+    "stateFips": "05",
+    "name": "Lee County, Arkansas",
+    "population": 8511,
+    "medianAge": 41.9,
+    "race": {
+      "white": 40,
+      "black": 54.7,
+      "asian": 0.1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 4.4,
+      "hispanic": 2.9
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 47.7,
+      "someCollege": 20.8,
+      "associates": 7.2,
+      "bachelors": 5.4,
+      "graduate": 1.5
+    },
+    "medianIncome": 36860,
+    "meanIncome": 60647
+  },
+  {
+    "countyFips": "079",
+    "stateFips": "05",
+    "name": "Lincoln County, Arkansas",
+    "population": 12966,
+    "medianAge": 40.1,
+    "race": {
+      "white": 62.1,
+      "black": 28.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 4.6,
+      "hispanic": 4.9
+    },
+    "education": {
+      "lessThanHighSchool": 16.7,
+      "highSchool": 48.1,
+      "someCollege": 19.3,
+      "associates": 4.9,
+      "bachelors": 7,
+      "graduate": 3.9
+    },
+    "medianIncome": 51667,
+    "meanIncome": 67605
+  },
+  {
+    "countyFips": "081",
+    "stateFips": "05",
+    "name": "Little River County, Arkansas",
+    "population": 11959,
+    "medianAge": 42.2,
+    "race": {
+      "white": 72.9,
+      "black": 19.6,
+      "asian": 0.2,
+      "nativeAmerican": 1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.3,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 9,
+      "highSchool": 43.5,
+      "someCollege": 22.7,
+      "associates": 7.4,
+      "bachelors": 12.2,
+      "graduate": 5.3
+    },
+    "medianIncome": 52241,
+    "meanIncome": 69554
+  },
+  {
+    "countyFips": "083",
+    "stateFips": "05",
+    "name": "Logan County, Arkansas",
+    "population": 21240,
+    "medianAge": 43.8,
+    "race": {
+      "white": 89.3,
+      "black": 1.7,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 6.6,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 10.7,
+      "highSchool": 43.7,
+      "someCollege": 21.8,
+      "associates": 8.2,
+      "bachelors": 10.7,
+      "graduate": 4.8
+    },
+    "medianIncome": 54237,
+    "meanIncome": 72784
+  },
+  {
+    "countyFips": "085",
+    "stateFips": "05",
+    "name": "Lonoke County, Arkansas",
+    "population": 74747,
+    "medianAge": 37.3,
+    "race": {
+      "white": 85.7,
+      "black": 5.5,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.2,
+      "other": 1.6,
+      "twoOrMore": 5.7,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.8,
+      "highSchool": 37,
+      "someCollege": 22,
+      "associates": 10.2,
+      "bachelors": 14.1,
+      "graduate": 6.9
+    },
+    "medianIncome": 71449,
+    "meanIncome": 88961
+  },
+  {
+    "countyFips": "087",
+    "stateFips": "05",
+    "name": "Madison County, Arkansas",
+    "population": 17032,
+    "medianAge": 41.2,
+    "race": {
+      "white": 74.5,
+      "black": 0.2,
+      "asian": 0.5,
+      "nativeAmerican": 1.4,
+      "pacificIslander": 0.9,
+      "other": 0.9,
+      "twoOrMore": 21.7,
+      "hispanic": 6.1
+    },
+    "education": {
+      "lessThanHighSchool": 14.2,
+      "highSchool": 51.7,
+      "someCollege": 17.2,
+      "associates": 4.1,
+      "bachelors": 8.7,
+      "graduate": 4.2
+    },
+    "medianIncome": 53888,
+    "meanIncome": 73885
+  },
+  {
+    "countyFips": "089",
+    "stateFips": "05",
+    "name": "Marion County, Arkansas",
+    "population": 17076,
+    "medianAge": 51.9,
+    "race": {
+      "white": 94,
+      "black": 0.2,
+      "asian": 0.8,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0.1,
+      "other": 0.5,
+      "twoOrMore": 4,
+      "hispanic": 2.6
+    },
+    "education": {
+      "lessThanHighSchool": 13.7,
+      "highSchool": 36.1,
+      "someCollege": 26.3,
+      "associates": 8.4,
+      "bachelors": 9.1,
+      "graduate": 6.4
+    },
+    "medianIncome": 46953,
+    "meanIncome": 61967
+  },
+  {
+    "countyFips": "091",
+    "stateFips": "05",
+    "name": "Miller County, Arkansas",
+    "population": 42588,
+    "medianAge": 39,
+    "race": {
+      "white": 67.5,
+      "black": 25.7,
+      "asian": 0.8,
+      "nativeAmerican": 0.7,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 3.3,
+      "hispanic": 4
+    },
+    "education": {
+      "lessThanHighSchool": 13.1,
+      "highSchool": 40.4,
+      "someCollege": 23.1,
+      "associates": 7.3,
+      "bachelors": 9.4,
+      "graduate": 6.7
+    },
+    "medianIncome": 49983,
+    "meanIncome": 68756
+  },
+  {
+    "countyFips": "093",
+    "stateFips": "05",
+    "name": "Mississippi County, Arkansas",
+    "population": 39749,
+    "medianAge": 36.9,
+    "race": {
+      "white": 57.5,
+      "black": 34.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.3,
+      "twoOrMore": 5.8,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.4,
+      "highSchool": 42.5,
+      "someCollege": 21,
+      "associates": 8,
+      "bachelors": 9.4,
+      "graduate": 4.8
+    },
+    "medianIncome": 53428,
+    "meanIncome": 76088
+  },
+  {
+    "countyFips": "095",
+    "stateFips": "05",
+    "name": "Monroe County, Arkansas",
+    "population": 6681,
+    "medianAge": 45.5,
+    "race": {
+      "white": 53.4,
+      "black": 40.2,
+      "asian": 1,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.1,
+      "twoOrMore": 5.3,
+      "hispanic": 2.8
+    },
+    "education": {
+      "lessThanHighSchool": 16.6,
+      "highSchool": 40.7,
+      "someCollege": 20.3,
+      "associates": 6.8,
+      "bachelors": 12,
+      "graduate": 3.6
+    },
+    "medianIncome": 43955,
+    "meanIncome": 57347
+  },
+  {
+    "countyFips": "097",
+    "stateFips": "05",
+    "name": "Montgomery County, Arkansas",
+    "population": 8571,
+    "medianAge": 50.8,
+    "race": {
+      "white": 91,
+      "black": 0.9,
+      "asian": 1,
+      "nativeAmerican": 1.5,
+      "pacificIslander": 0,
+      "other": 1.9,
+      "twoOrMore": 3.8,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 37,
+      "someCollege": 25.3,
+      "associates": 8.5,
+      "bachelors": 12.7,
+      "graduate": 4.2
+    },
+    "medianIncome": 49015,
+    "meanIncome": 65505
+  },
+  {
+    "countyFips": "099",
+    "stateFips": "05",
+    "name": "Nevada County, Arkansas",
+    "population": 8228,
+    "medianAge": 44.2,
+    "race": {
+      "white": 64.9,
+      "black": 31.9,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.1,
+      "other": 1.1,
+      "twoOrMore": 1.9,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 48.8,
+      "someCollege": 21.6,
+      "associates": 8,
+      "bachelors": 9.1,
+      "graduate": 2.6
+    },
+    "medianIncome": 41761,
+    "meanIncome": 52418
+  },
+  {
+    "countyFips": "101",
+    "stateFips": "05",
+    "name": "Newton County, Arkansas",
+    "population": 7175,
+    "medianAge": 48.9,
+    "race": {
+      "white": 93.6,
+      "black": 0.2,
+      "asian": 0.1,
+      "nativeAmerican": 0.9,
+      "pacificIslander": 0.1,
+      "other": 0.8,
+      "twoOrMore": 4.3,
+      "hispanic": 1.7
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 38.5,
+      "someCollege": 24.7,
+      "associates": 8,
+      "bachelors": 9.3,
+      "graduate": 4.9
+    },
+    "medianIncome": 47395,
+    "meanIncome": 64637
+  },
+  {
+    "countyFips": "103",
+    "stateFips": "05",
+    "name": "Ouachita County, Arkansas",
+    "population": 22317,
+    "medianAge": 44,
+    "race": {
+      "white": 55.2,
+      "black": 41,
+      "asian": 0.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 2.9,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 11.1,
+      "highSchool": 42.3,
+      "someCollege": 23.6,
+      "associates": 7.9,
+      "bachelors": 9.3,
+      "graduate": 5.8
+    },
+    "medianIncome": 49838,
+    "meanIncome": 63323
+  },
+  {
+    "countyFips": "105",
+    "stateFips": "05",
+    "name": "Perry County, Arkansas",
+    "population": 10073,
+    "medianAge": 44.1,
+    "race": {
+      "white": 91.8,
+      "black": 1.8,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 0.6,
+      "twoOrMore": 5.3,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.3,
+      "highSchool": 44.2,
+      "someCollege": 23.9,
+      "associates": 6.5,
+      "bachelors": 12.2,
+      "graduate": 4.9
+    },
+    "medianIncome": 60078,
+    "meanIncome": 75452
+  },
+  {
+    "countyFips": "107",
+    "stateFips": "05",
+    "name": "Phillips County, Arkansas",
+    "population": 15910,
+    "medianAge": 39.9,
+    "race": {
+      "white": 34.4,
+      "black": 61.5,
+      "asian": 0.9,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 0.2,
+      "twoOrMore": 3,
+      "hispanic": 1.9
+    },
+    "education": {
+      "lessThanHighSchool": 17.4,
+      "highSchool": 33.6,
+      "someCollege": 22,
+      "associates": 12.5,
+      "bachelors": 9.7,
+      "graduate": 4.9
+    },
+    "medianIncome": 38874,
+    "meanIncome": 54537
+  },
+  {
+    "countyFips": "109",
+    "stateFips": "05",
+    "name": "Pike County, Arkansas",
+    "population": 10182,
+    "medianAge": 42.8,
+    "race": {
+      "white": 87.8,
+      "black": 3.8,
+      "asian": 0.2,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.7,
+      "twoOrMore": 5.3,
+      "hispanic": 7.9
+    },
+    "education": {
+      "lessThanHighSchool": 12.9,
+      "highSchool": 36.9,
+      "someCollege": 24.1,
+      "associates": 6.6,
+      "bachelors": 13.6,
+      "graduate": 6
+    },
+    "medianIncome": 51000,
+    "meanIncome": 70571
+  },
+  {
+    "countyFips": "111",
+    "stateFips": "05",
+    "name": "Poinsett County, Arkansas",
+    "population": 22740,
+    "medianAge": 39.8,
+    "race": {
+      "white": 84.9,
+      "black": 5.9,
+      "asian": 0,
+      "nativeAmerican": 0.6,
+      "pacificIslander": 0,
+      "other": 0.9,
+      "twoOrMore": 7.7,
+      "hispanic": 3.7
+    },
+    "education": {
+      "lessThanHighSchool": 17.7,
+      "highSchool": 46,
+      "someCollege": 19.6,
+      "associates": 4.8,
+      "bachelors": 8.5,
+      "graduate": 3.5
+    },
+    "medianIncome": 47188,
+    "meanIncome": 62397
+  },
+  {
+    "countyFips": "113",
+    "stateFips": "05",
+    "name": "Polk County, Arkansas",
+    "population": 19348,
+    "medianAge": 44.4,
+    "race": {
+      "white": 89.4,
+      "black": 0.1,
+      "asian": 0,
+      "nativeAmerican": 1.3,
+      "pacificIslander": 0.2,
+      "other": 3.3,
+      "twoOrMore": 5.7,
+      "hispanic": 6.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.6,
+      "highSchool": 35.8,
+      "someCollege": 27.7,
+      "associates": 6.6,
+      "bachelors": 11.8,
+      "graduate": 5.4
+    },
+    "medianIncome": 49252,
+    "meanIncome": 75460
+  },
+  {
+    "countyFips": "115",
+    "stateFips": "05",
+    "name": "Pope County, Arkansas",
+    "population": 63830,
+    "medianAge": 36.7,
+    "race": {
+      "white": 84.6,
+      "black": 2.3,
+      "asian": 1,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0.1,
+      "other": 3.8,
+      "twoOrMore": 7.1,
+      "hispanic": 10.6
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 35,
+      "someCollege": 19.3,
+      "associates": 7,
+      "bachelors": 16.2,
+      "graduate": 8.5
+    },
+    "medianIncome": 54606,
+    "meanIncome": 77373
+  },
+  {
+    "countyFips": "117",
+    "stateFips": "05",
+    "name": "Prairie County, Arkansas",
+    "population": 8162,
+    "medianAge": 45.8,
+    "race": {
+      "white": 84.7,
+      "black": 10.5,
+      "asian": 0,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.8,
+      "twoOrMore": 3.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 14.1,
+      "highSchool": 43.9,
+      "someCollege": 18,
+      "associates": 7.3,
+      "bachelors": 11.2,
+      "graduate": 5.5
+    },
+    "medianIncome": 51094,
+    "meanIncome": 75028
+  },
+  {
+    "countyFips": "119",
+    "stateFips": "05",
+    "name": "Pulaski County, Arkansas",
+    "population": 398949,
+    "medianAge": 37.5,
+    "race": {
+      "white": 50.8,
+      "black": 36.8,
+      "asian": 2.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 3.4,
+      "twoOrMore": 6.4,
+      "hispanic": 8.2
+    },
+    "education": {
+      "lessThanHighSchool": 8,
+      "highSchool": 25.1,
+      "someCollege": 21.5,
+      "associates": 7.9,
+      "bachelors": 22.1,
+      "graduate": 15.3
+    },
+    "medianIncome": 60385,
+    "meanIncome": 91685
+  },
+  {
+    "countyFips": "121",
+    "stateFips": "05",
+    "name": "Randolph County, Arkansas",
+    "population": 18733,
+    "medianAge": 39.3,
+    "race": {
+      "white": 89.8,
+      "black": 1.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 2.5,
+      "other": 0.5,
+      "twoOrMore": 5.5,
+      "hispanic": 2.5
+    },
+    "education": {
+      "lessThanHighSchool": 13.9,
+      "highSchool": 40.6,
+      "someCollege": 21.8,
+      "associates": 9.2,
+      "bachelors": 8.6,
+      "graduate": 5.9
+    },
+    "medianIncome": 52838,
+    "meanIncome": 68091
+  },
+  {
+    "countyFips": "123",
+    "stateFips": "05",
+    "name": "St. Francis County, Arkansas",
+    "population": 22740,
+    "medianAge": 39.7,
+    "race": {
+      "white": 41.1,
+      "black": 55,
+      "asian": 0.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.3,
+      "other": 0.9,
+      "twoOrMore": 2.4,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.3,
+      "highSchool": 44.2,
+      "someCollege": 21.9,
+      "associates": 6.7,
+      "bachelors": 7.3,
+      "graduate": 5.6
+    },
+    "medianIncome": 41784,
+    "meanIncome": 59402
+  },
+  {
+    "countyFips": "125",
+    "stateFips": "05",
+    "name": "Saline County, Arkansas",
+    "population": 125724,
+    "medianAge": 40.4,
+    "race": {
+      "white": 82.1,
+      "black": 8.4,
+      "asian": 1.1,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.4,
+      "twoOrMore": 5.8,
+      "hispanic": 7
+    },
+    "education": {
+      "lessThanHighSchool": 7.3,
+      "highSchool": 32.7,
+      "someCollege": 21.8,
+      "associates": 9.6,
+      "bachelors": 19.3,
+      "graduate": 9.2
+    },
+    "medianIncome": 76534,
+    "meanIncome": 94089
+  },
+  {
+    "countyFips": "127",
+    "stateFips": "05",
+    "name": "Scott County, Arkansas",
+    "population": 9839,
+    "medianAge": 42.4,
+    "race": {
+      "white": 84.9,
+      "black": 1.5,
+      "asian": 1.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0.1,
+      "other": 4.9,
+      "twoOrMore": 7,
+      "hispanic": 7.8
+    },
+    "education": {
+      "lessThanHighSchool": 15.4,
+      "highSchool": 43.2,
+      "someCollege": 22.4,
+      "associates": 8.2,
+      "bachelors": 8.7,
+      "graduate": 2.1
+    },
+    "medianIncome": 45955,
+    "meanIncome": 57192
+  },
+  {
+    "countyFips": "129",
+    "stateFips": "05",
+    "name": "Searcy County, Arkansas",
+    "population": 7861,
+    "medianAge": 48.5,
+    "race": {
+      "white": 88.2,
+      "black": 0.1,
+      "asian": 0.2,
+      "nativeAmerican": 1.2,
+      "pacificIslander": 0,
+      "other": 0.4,
+      "twoOrMore": 9.9,
+      "hispanic": 2.2
+    },
+    "education": {
+      "lessThanHighSchool": 20,
+      "highSchool": 36.5,
+      "someCollege": 21.8,
+      "associates": 8.1,
+      "bachelors": 9.8,
+      "graduate": 3.8
+    },
+    "medianIncome": 41978,
+    "meanIncome": 53052
+  },
+  {
+    "countyFips": "131",
+    "stateFips": "05",
+    "name": "Sebastian County, Arkansas",
+    "population": 128448,
+    "medianAge": 38,
+    "race": {
+      "white": 69.2,
+      "black": 5.7,
+      "asian": 4.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 10,
+      "twoOrMore": 9.8,
+      "hispanic": 15.6
+    },
+    "education": {
+      "lessThanHighSchool": 14.8,
+      "highSchool": 30.3,
+      "someCollege": 23.2,
+      "associates": 7.4,
+      "bachelors": 14.8,
+      "graduate": 9.6
+    },
+    "medianIncome": 56450,
+    "meanIncome": 85707
+  },
+  {
+    "countyFips": "133",
+    "stateFips": "05",
+    "name": "Sevier County, Arkansas",
+    "population": 15797,
+    "medianAge": 34.8,
+    "race": {
+      "white": 58.7,
+      "black": 5,
+      "asian": 0.3,
+      "nativeAmerican": 2.3,
+      "pacificIslander": 1.3,
+      "other": 25.3,
+      "twoOrMore": 7.2,
+      "hispanic": 35.1
+    },
+    "education": {
+      "lessThanHighSchool": 27.5,
+      "highSchool": 32.8,
+      "someCollege": 21.7,
+      "associates": 7,
+      "bachelors": 7.1,
+      "graduate": 3.8
+    },
+    "medianIncome": 51641,
+    "meanIncome": 67677
+  },
+  {
+    "countyFips": "135",
+    "stateFips": "05",
+    "name": "Sharp County, Arkansas",
+    "population": 17597,
+    "medianAge": 47.5,
+    "race": {
+      "white": 92.4,
+      "black": 0.6,
+      "asian": 0.6,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.3,
+      "hispanic": 2.3
+    },
+    "education": {
+      "lessThanHighSchool": 14.6,
+      "highSchool": 40.6,
+      "someCollege": 25.4,
+      "associates": 7.4,
+      "bachelors": 8.4,
+      "graduate": 3.5
+    },
+    "medianIncome": 42950,
+    "meanIncome": 66305
+  },
+  {
+    "countyFips": "137",
+    "stateFips": "05",
+    "name": "Stone County, Arkansas",
+    "population": 12474,
+    "medianAge": 49.2,
+    "race": {
+      "white": 90.6,
+      "black": 0.1,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0,
+      "other": 1.7,
+      "twoOrMore": 6.5,
+      "hispanic": 2.1
+    },
+    "education": {
+      "lessThanHighSchool": 14,
+      "highSchool": 37.3,
+      "someCollege": 21.1,
+      "associates": 12.1,
+      "bachelors": 9.9,
+      "graduate": 5.5
+    },
+    "medianIncome": 38531,
+    "meanIncome": 53444
+  },
+  {
+    "countyFips": "139",
+    "stateFips": "05",
+    "name": "Union County, Arkansas",
+    "population": 38368,
+    "medianAge": 41.5,
+    "race": {
+      "white": 62,
+      "black": 32.4,
+      "asian": 0.8,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 0.5,
+      "twoOrMore": 4.2,
+      "hispanic": 4.6
+    },
+    "education": {
+      "lessThanHighSchool": 12,
+      "highSchool": 40.1,
+      "someCollege": 21.2,
+      "associates": 7.7,
+      "bachelors": 12.5,
+      "graduate": 6.4
+    },
+    "medianIncome": 50221,
+    "meanIncome": 74494
+  },
+  {
+    "countyFips": "141",
+    "stateFips": "05",
+    "name": "Van Buren County, Arkansas",
+    "population": 15936,
+    "medianAge": 49.6,
+    "race": {
+      "white": 92.9,
+      "black": 0.6,
+      "asian": 0.4,
+      "nativeAmerican": 0.8,
+      "pacificIslander": 0.1,
+      "other": 1.6,
+      "twoOrMore": 3.6,
+      "hispanic": 3.3
+    },
+    "education": {
+      "lessThanHighSchool": 13.6,
+      "highSchool": 44.1,
+      "someCollege": 20.3,
+      "associates": 6.3,
+      "bachelors": 10.5,
+      "graduate": 5.3
+    },
+    "medianIncome": 47266,
+    "meanIncome": 60906
+  },
+  {
+    "countyFips": "143",
+    "stateFips": "05",
+    "name": "Washington County, Arkansas",
+    "population": 251863,
+    "medianAge": 32.5,
+    "race": {
+      "white": 67.2,
+      "black": 3.2,
+      "asian": 2.4,
+      "nativeAmerican": 1,
+      "pacificIslander": 2.7,
+      "other": 5.5,
+      "twoOrMore": 18,
+      "hispanic": 18.3
+    },
+    "education": {
+      "lessThanHighSchool": 12.7,
+      "highSchool": 28.3,
+      "someCollege": 17.5,
+      "associates": 6.8,
+      "bachelors": 20.3,
+      "graduate": 14.3
+    },
+    "medianIncome": 66426,
+    "meanIncome": 95012
+  },
+  {
+    "countyFips": "145",
+    "stateFips": "05",
+    "name": "White County, Arkansas",
+    "population": 77395,
+    "medianAge": 38.4,
+    "race": {
+      "white": 87.8,
+      "black": 4.4,
+      "asian": 0.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 1,
+      "twoOrMore": 5.9,
+      "hispanic": 4.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.3,
+      "highSchool": 40.6,
+      "someCollege": 17,
+      "associates": 9.3,
+      "bachelors": 11.2,
+      "graduate": 8.6
+    },
+    "medianIncome": 53435,
+    "meanIncome": 73577
+  },
+  {
+    "countyFips": "147",
+    "stateFips": "05",
+    "name": "Woodruff County, Arkansas",
+    "population": 6157,
+    "medianAge": 44.9,
+    "race": {
+      "white": 69.7,
+      "black": 27.1,
+      "asian": 0,
+      "nativeAmerican": 0,
+      "pacificIslander": 0.4,
+      "other": 0.4,
+      "twoOrMore": 2.5,
+      "hispanic": 0.6
+    },
+    "education": {
+      "lessThanHighSchool": 17.1,
+      "highSchool": 46.2,
+      "someCollege": 12.1,
+      "associates": 8.7,
+      "bachelors": 8.2,
+      "graduate": 7.7
+    },
+    "medianIncome": 49982,
+    "meanIncome": 64984
+  },
+  {
+    "countyFips": "149",
+    "stateFips": "05",
+    "name": "Yell County, Arkansas",
+    "population": 20195,
+    "medianAge": 39.9,
+    "race": {
+      "white": 79.1,
+      "black": 1.7,
+      "asian": 1.3,
+      "nativeAmerican": 0.5,
+      "pacificIslander": 0,
+      "other": 13.1,
+      "twoOrMore": 4.3,
+      "hispanic": 20.9
+    },
+    "education": {
+      "lessThanHighSchool": 18.5,
+      "highSchool": 39.7,
+      "someCollege": 20.3,
+      "associates": 7.1,
+      "bachelors": 10.2,
+      "graduate": 4.2
+    },
+    "medianIncome": 58870,
+    "meanIncome": 66744
+  }
+]

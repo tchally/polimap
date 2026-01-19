@@ -1,0 +1,380 @@
+[
+  {
+    "countyFips": "001",
+    "stateFips": "25",
+    "name": "Barnstable County, Massachusetts",
+    "population": 230073,
+    "medianAge": 55.1,
+    "race": {
+      "white": 87,
+      "black": 2.7,
+      "asian": 1.5,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0,
+      "other": 2.2,
+      "twoOrMore": 6.2,
+      "hispanic": 3.6
+    },
+    "education": {
+      "lessThanHighSchool": 3.6,
+      "highSchool": 21.4,
+      "someCollege": 18.2,
+      "associates": 9.3,
+      "bachelors": 25.8,
+      "graduate": 21.6
+    },
+    "medianIncome": 94452,
+    "meanIncome": 132436
+  },
+  {
+    "countyFips": "003",
+    "stateFips": "25",
+    "name": "Berkshire County, Massachusetts",
+    "population": 128047,
+    "medianAge": 47.8,
+    "race": {
+      "white": 87.3,
+      "black": 2.5,
+      "asian": 1.8,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 2.1,
+      "twoOrMore": 6,
+      "hispanic": 5.6
+    },
+    "education": {
+      "lessThanHighSchool": 6.3,
+      "highSchool": 29.3,
+      "someCollege": 17.8,
+      "associates": 8.3,
+      "bachelors": 20.3,
+      "graduate": 17.9
+    },
+    "medianIncome": 72565,
+    "meanIncome": 105155
+  },
+  {
+    "countyFips": "005",
+    "stateFips": "25",
+    "name": "Bristol County, Massachusetts",
+    "population": 578436,
+    "medianAge": 40.9,
+    "race": {
+      "white": 78.6,
+      "black": 4.4,
+      "asian": 2.4,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 5.6,
+      "twoOrMore": 8.8,
+      "hispanic": 9.8
+    },
+    "education": {
+      "lessThanHighSchool": 13.8,
+      "highSchool": 30.1,
+      "someCollege": 16.4,
+      "associates": 9.1,
+      "bachelors": 19.5,
+      "graduate": 11.1
+    },
+    "medianIncome": 84198,
+    "meanIncome": 108996
+  },
+  {
+    "countyFips": "007",
+    "stateFips": "25",
+    "name": "Dukes County, Massachusetts",
+    "population": 20751,
+    "medianAge": 50.4,
+    "race": {
+      "white": 81.7,
+      "black": 3.3,
+      "asian": 1.4,
+      "nativeAmerican": 1.1,
+      "pacificIslander": 0,
+      "other": 3,
+      "twoOrMore": 9.4,
+      "hispanic": 3.1
+    },
+    "education": {
+      "lessThanHighSchool": 4.8,
+      "highSchool": 22.1,
+      "someCollege": 16.2,
+      "associates": 7.9,
+      "bachelors": 26.2,
+      "graduate": 22.9
+    },
+    "medianIncome": 102348,
+    "meanIncome": 176872
+  },
+  {
+    "countyFips": "009",
+    "stateFips": "25",
+    "name": "Essex County, Massachusetts",
+    "population": 807258,
+    "medianAge": 41.1,
+    "race": {
+      "white": 70.3,
+      "black": 4.1,
+      "asian": 3.5,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 12.1,
+      "twoOrMore": 9.7,
+      "hispanic": 23.2
+    },
+    "education": {
+      "lessThanHighSchool": 9.9,
+      "highSchool": 24.4,
+      "someCollege": 15.2,
+      "associates": 8.2,
+      "bachelors": 24.9,
+      "graduate": 17.5
+    },
+    "medianIncome": 99431,
+    "meanIncome": 136127
+  },
+  {
+    "countyFips": "011",
+    "stateFips": "25",
+    "name": "Franklin County, Massachusetts",
+    "population": 70922,
+    "medianAge": 47.3,
+    "race": {
+      "white": 89.4,
+      "black": 1.4,
+      "asian": 1.9,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 1.8,
+      "twoOrMore": 5.3,
+      "hispanic": 5.2
+    },
+    "education": {
+      "lessThanHighSchool": 6.1,
+      "highSchool": 27.2,
+      "someCollege": 16.2,
+      "associates": 10.2,
+      "bachelors": 21.4,
+      "graduate": 18.9
+    },
+    "medianIncome": 72584,
+    "meanIncome": 91453
+  },
+  {
+    "countyFips": "013",
+    "stateFips": "25",
+    "name": "Hampden County, Massachusetts",
+    "population": 462853,
+    "medianAge": 39.8,
+    "race": {
+      "white": 67.4,
+      "black": 8.7,
+      "asian": 2.6,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 7.3,
+      "twoOrMore": 13.7,
+      "hispanic": 26.6
+    },
+    "education": {
+      "lessThanHighSchool": 12.8,
+      "highSchool": 30.8,
+      "someCollege": 17.9,
+      "associates": 9.5,
+      "bachelors": 17,
+      "graduate": 11.9
+    },
+    "medianIncome": 70535,
+    "meanIncome": 93919
+  },
+  {
+    "countyFips": "015",
+    "stateFips": "25",
+    "name": "Hampshire County, Massachusetts",
+    "population": 156595,
+    "medianAge": 38.7,
+    "race": {
+      "white": 83.3,
+      "black": 2.3,
+      "asian": 5,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0.1,
+      "other": 2.2,
+      "twoOrMore": 7,
+      "hispanic": 7.2
+    },
+    "education": {
+      "lessThanHighSchool": 4.5,
+      "highSchool": 20.4,
+      "someCollege": 15.2,
+      "associates": 8.8,
+      "bachelors": 24.5,
+      "graduate": 26.6
+    },
+    "medianIncome": 86391,
+    "meanIncome": 114325
+  },
+  {
+    "countyFips": "017",
+    "stateFips": "25",
+    "name": "Middlesex County, Massachusetts",
+    "population": 1622896,
+    "medianAge": 38.9,
+    "race": {
+      "white": 69,
+      "black": 5,
+      "asian": 13.2,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 8.4,
+      "hispanic": 9
+    },
+    "education": {
+      "lessThanHighSchool": 6.6,
+      "highSchool": 17.5,
+      "someCollege": 11.2,
+      "associates": 5.7,
+      "bachelors": 28.8,
+      "graduate": 30.2
+    },
+    "medianIncome": 126779,
+    "meanIncome": 172162
+  },
+  {
+    "countyFips": "019",
+    "stateFips": "25",
+    "name": "Nantucket County, Massachusetts",
+    "population": 14299,
+    "medianAge": 40.8,
+    "race": {
+      "white": 70.8,
+      "black": 9.3,
+      "asian": 1.8,
+      "nativeAmerican": 0,
+      "pacificIslander": 0,
+      "other": 5.2,
+      "twoOrMore": 12.9,
+      "hispanic": 16.4
+    },
+    "education": {
+      "lessThanHighSchool": 4,
+      "highSchool": 16,
+      "someCollege": 16.5,
+      "associates": 5.1,
+      "bachelors": 37.1,
+      "graduate": 21.3
+    },
+    "medianIncome": 119750,
+    "meanIncome": 194491
+  },
+  {
+    "countyFips": "021",
+    "stateFips": "25",
+    "name": "Norfolk County, Massachusetts",
+    "population": 724540,
+    "medianAge": 40.9,
+    "race": {
+      "white": 71.4,
+      "black": 7.2,
+      "asian": 12.1,
+      "nativeAmerican": 0.1,
+      "pacificIslander": 0,
+      "other": 2.3,
+      "twoOrMore": 6.8,
+      "hispanic": 5.5
+    },
+    "education": {
+      "lessThanHighSchool": 5.6,
+      "highSchool": 17.4,
+      "someCollege": 12.4,
+      "associates": 7,
+      "bachelors": 30,
+      "graduate": 27.7
+    },
+    "medianIncome": 126497,
+    "meanIncome": 177133
+  },
+  {
+    "countyFips": "023",
+    "stateFips": "25",
+    "name": "Plymouth County, Massachusetts",
+    "population": 531889,
+    "medianAge": 42.9,
+    "race": {
+      "white": 78,
+      "black": 8.8,
+      "asian": 1.7,
+      "nativeAmerican": 0.2,
+      "pacificIslander": 0,
+      "other": 3.9,
+      "twoOrMore": 7.5,
+      "hispanic": 4.7
+    },
+    "education": {
+      "lessThanHighSchool": 6.8,
+      "highSchool": 26.5,
+      "someCollege": 16.6,
+      "associates": 9,
+      "bachelors": 25.6,
+      "graduate": 15.6
+    },
+    "medianIncome": 109698,
+    "meanIncome": 147024
+  },
+  {
+    "countyFips": "025",
+    "stateFips": "25",
+    "name": "Suffolk County, Massachusetts",
+    "population": 782172,
+    "medianAge": 33.8,
+    "race": {
+      "white": 48.1,
+      "black": 19.1,
+      "asian": 9,
+      "nativeAmerican": 0.4,
+      "pacificIslander": 0.1,
+      "other": 7.8,
+      "twoOrMore": 15.5,
+      "hispanic": 22.8
+    },
+    "education": {
+      "lessThanHighSchool": 12.4,
+      "highSchool": 20.5,
+      "someCollege": 12.1,
+      "associates": 5.1,
+      "bachelors": 26.8,
+      "graduate": 23.1
+    },
+    "medianIncome": 92859,
+    "meanIncome": 136155
+  },
+  {
+    "countyFips": "027",
+    "stateFips": "25",
+    "name": "Worcester County, Massachusetts",
+    "population": 861664,
+    "medianAge": 40.3,
+    "race": {
+      "white": 75.5,
+      "black": 5.1,
+      "asian": 5.2,
+      "nativeAmerican": 0.3,
+      "pacificIslander": 0,
+      "other": 4.2,
+      "twoOrMore": 9.7,
+      "hispanic": 13.3
+    },
+    "education": {
+      "lessThanHighSchool": 8.7,
+      "highSchool": 26.5,
+      "someCollege": 16.9,
+      "associates": 8.9,
+      "bachelors": 22.5,
+      "graduate": 16.5
+    },
+    "medianIncome": 93561,
+    "meanIncome": 122104
+  }
+]

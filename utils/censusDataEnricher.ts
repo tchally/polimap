@@ -101,39 +101,13 @@ export function enrichCountiesWithCensusData(
     censusByName.set(fullNormalized, data);
   }
   
-  let matchedCount = 0;
-  let unmatchedCount = 0;
-  
-  console.log(`🔍 Starting enrichment. Census map has ${censusDataMap.size} entries. Counties to enrich: ${counties.length}`);
-  if (counties.length > 0) {
-    console.log(`🔍 Sample county FIPS: ${counties[0].fips || 'MISSING'} for ${counties[0].name}`);
-  }
-  
-  const enriched = counties.map(county => {
+  return counties.map(county => {
     // First, try to match by FIPS code (most reliable)
     let censusData: CensusCountyData | undefined;
     
     if (county.fips) {
       // Use the stored FIPS code directly
       censusData = censusDataMap.get(county.fips);
-      if (censusData) {
-        matchedCount++;
-        if (matchedCount <= 3) {
-          console.log(`✅ Matched ${county.name} (FIPS: ${county.fips}) - Income: $${censusData.medianIncome.toLocaleString()}`);
-        }
-      } else {
-        unmatchedCount++;
-        // Log first 5 mismatches to debug
-        if (unmatchedCount <= 5) {
-          const sampleFips = Array.from(censusDataMap.keys()).slice(0, 3);
-          console.warn(`⚠️ FIPS mismatch for ${county.name}: Looking for "${county.fips}", samples in map: ${sampleFips.join(', ')}`);
-        }
-      }
-    } else {
-      unmatchedCount++;
-      if (unmatchedCount <= 5) {
-        console.warn(`⚠️ County ${county.name} (${county.stateId}) has no FIPS code stored`);
-      }
     }
     
     // If not found by FIPS, try matching by normalized county name
@@ -159,9 +133,6 @@ export function enrichCountiesWithCensusData(
     // If no Census data found, return original county (silently - not all counties may have data)
     return county;
   });
-  
-  console.log(`✅ Census enrichment complete: ${matchedCount} matched, ${unmatchedCount} unmatched`);
-  return enriched;
 }
 
 /**

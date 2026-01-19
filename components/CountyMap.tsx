@@ -26,17 +26,13 @@ const stateFipsToAbbr: Record<string, string> = {
 };
 
 export default function CountyMap() {
-  console.log('🚀 CountyMap component rendered');
   const { selectedState, goToStateMap, goToPersona } = useApp();
   const [hoveredCounty, setHoveredCounty] = useState<County | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
   const [counties, setCounties] = useState<County[]>([]);
   const [loading, setLoading] = useState(true);
 
-  console.log('🚀 CountyMap - selectedState:', selectedState?.name);
-
   if (!selectedState) {
-    console.log('🚀 CountyMap - No selected state, redirecting');
     goToStateMap();
     return null;
   }
@@ -49,18 +45,11 @@ export default function CountyMap() {
     
     async function loadCounties() {
       setLoading(true);
-      console.log(`🗺️ Loading counties for state: ${stateId}`);
       try {
         const enrichedCounties = await getCountiesByStateWithElections(stateId);
-        console.log(`✅ Loaded ${enrichedCounties.length} counties for ${stateId}`);
-        // Check a sample county income
-        const sample = enrichedCounties.find(c => c.name.includes('Alameda'));
-        if (sample) {
-          console.log(`💰 Sample county income check: ${sample.name} = $${sample.medianIncome.toLocaleString()}`);
-        }
         setCounties(enrichedCounties);
       } catch (error) {
-        console.error('❌ Error loading counties:', error);
+        console.error('Error loading counties:', error);
         // Fallback to mock data
         const { getCountiesByState } = await import('@/data/mockData');
         setCounties(getCountiesByState(stateId));
