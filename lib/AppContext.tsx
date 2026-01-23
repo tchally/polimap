@@ -20,7 +20,7 @@ interface AppContextType {
 const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export function AppProvider({ children }: { children: ReactNode }) {
-  const [currentView, setCurrentView] = useState<View>('state-map');
+  const [currentView, setCurrentView] = useState<View>('home');
   const [selectedState, setSelectedState] = useState<State | null>(null);
   const [selectedCounty, setSelectedCounty] = useState<County | null>(null);
   const [selectedPersona, setSelectedPersona] = useState<Persona | null>(null);

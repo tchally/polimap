@@ -26,7 +26,7 @@ const stateAbbreviationMap: Record<string, string> = {
 };
 
 export default function StateMap() {
-  const { goToCountyMap } = useApp();
+  const { goToCountyMap, setCurrentView } = useApp();
   const [hoveredState, setHoveredState] = useState<State | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
   const [states, setStates] = useState<State[]>([]);
@@ -85,9 +85,17 @@ export default function StateMap() {
   return (
     <div className="relative w-full h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       <div className="absolute top-0 left-0 right-0 bg-white/90 backdrop-blur-sm border-b border-gray-200 shadow-sm z-10">
-        <div className="max-w-7xl mx-auto px-6 py-4">
-          <h1 className="text-3xl font-bold text-gray-900">U.S. Political Empathy Map</h1>
-          <p className="text-gray-600 mt-1">Click on a state to explore county-level perspectives</p>
+        <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+          <div>
+            <h1 className="text-3xl font-bold text-gray-900">U.S. Political Empathy Map</h1>
+            <p className="text-gray-600 mt-1">Click on a state to explore county-level perspectives</p>
+          </div>
+          <button
+            onClick={() => setCurrentView('play')}
+            className="px-4 py-2 bg-stone-800 text-white rounded-lg text-sm font-medium hover:bg-stone-900 transition-colors"
+          >
+            Experience a life
+          </button>
         </div>
       </div>
 

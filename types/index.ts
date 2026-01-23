@@ -73,4 +73,9 @@ export interface Scenario {
   }[];
 }
 
-export type View = 'state-map' | 'county-map' | 'persona' | 'exploration' | 'compare';
+export type View = 'home' | 'play' | 'state-map' | 'county-map' | 'persona' | 'exploration' | 'compare';
+
+// Re-export game types
+export * from './game';
+export * from './gameV2';
+export * from './gameV3';

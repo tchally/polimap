@@ -48,14 +48,16 @@ export async function POST(request: Request) {
     // Generate persona using AI
     console.log(`[Persona API] Starting AI generation...`);
     const persona = await generatePersonaWithAI(county);
+    
+    // Note: Policy scenarios will be generated on-demand when user starts playing
+    // This avoids blocking persona generation and allows scenarios to be fresh
 
     // Generate a unique ID for the persona
     const personaId = `persona-${countyId}-${Date.now()}`;
-    persona.id = personaId;
-    persona.countyId = countyId;
+    const fullPersona: Persona = { ...persona, id: personaId, countyId };
 
-    console.log(`[Persona API] Persona generated successfully: ${persona.name}`);
-    return NextResponse.json(persona, {
+    console.log(`[Persona API] Persona generated successfully: ${fullPersona.name}`);
+    return NextResponse.json(fullPersona, {
       headers: {
         'Content-Type': 'application/json',
         'Cache-Control': 'public, max-age=3600', // Cache for 1 hour

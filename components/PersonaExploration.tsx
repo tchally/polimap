@@ -3,7 +3,8 @@
 import React, { useState } from 'react';
 import { useApp } from '@/lib/AppContext';
 import { Persona } from '@/types';
-import { ArrowLeft, Lightbulb, TrendingDown, TrendingUp, Sliders } from 'lucide-react';
+import PersonaGame from './PersonaGame';
+import { ArrowLeft, Lightbulb, TrendingDown, TrendingUp, Sliders, Play } from 'lucide-react';
 
 interface Scenario {
   id: string;
@@ -77,8 +78,20 @@ const mockScenarios: Scenario[] = [
 
 export default function PersonaExploration() {
   const { selectedPersona, selectedCounty, selectedState, goToCountyMap, setCurrentView } = useApp();
+  const [gameMode, setGameMode] = useState(false);
   const [selectedScenario, setSelectedScenario] = useState<string | null>(null);
   const [priorityWeights, setPriorityWeights] = useState<Record<string, number>>({});
+
+  // Initialize priority weights
+  React.useEffect(() => {
+    if (selectedPersona) {
+      const weights: Record<string, number> = {};
+      selectedPersona.topPriorities.forEach((p) => {
+        weights[p.issue] = p.importance;
+      });
+      setPriorityWeights(weights);
+    }
+  }, [selectedPersona]);
 
   if (!selectedPersona || !selectedCounty) {
     if (selectedState) {
@@ -91,14 +104,10 @@ export default function PersonaExploration() {
 
   const persona = selectedPersona;
 
-  // Initialize priority weights
-  React.useEffect(() => {
-    const weights: Record<string, number> = {};
-    persona.topPriorities.forEach((p) => {
-      weights[p.issue] = p.importance;
-    });
-    setPriorityWeights(weights);
-  }, [persona]);
+  // If game mode is enabled, show the game interface
+  if (gameMode) {
+    return <PersonaGame persona={persona} county={selectedCounty} />;
+  }
 
   const handleWeightChange = (issue: string, value: number) => {
     setPriorityWeights((prev) => ({ ...prev, [issue]: value }));
@@ -132,6 +141,23 @@ export default function PersonaExploration() {
 
       <div className="pt-24 px-6 pb-12">
         <div className="max-w-6xl mx-auto">
+          {/* Game Mode Toggle */}
+          <div className="bg-white rounded-lg shadow-lg p-8 mb-6">
+            <div className="text-center">
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">Ready to Play?</h2>
+              <p className="text-gray-600 mb-6">
+                Experience {persona.name}'s life through real policy decisions. Make choices and see how they impact {persona.name}'s finances, priorities, and quality of life.
+              </p>
+              <button
+                onClick={() => setGameMode(true)}
+                className="inline-flex items-center gap-3 px-8 py-4 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors text-lg font-semibold shadow-lg hover:shadow-xl"
+              >
+                <Play className="w-6 h-6" />
+                Start Playing as {persona.name}
+              </button>
+            </div>
+          </div>
+
           {/* Priority Sliders */}
           <div className="bg-white rounded-lg shadow-lg p-8 mb-6">
             <div className="flex items-center gap-2 mb-6">
